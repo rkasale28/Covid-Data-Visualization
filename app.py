@@ -37,7 +37,7 @@ def addChart(data, option, choice):
     fig.update_layout(
         autosize=False,
         width=800,
-        height=500,
+        height=450,
         margin=dict(
             l=0,
             r=0,
@@ -58,7 +58,7 @@ def addBar(data, option, choice):
     fig.update_layout(
         autosize=False,
         width=800,
-        height=500,
+        height=450,
         margin=dict(
             l=0,
             r=0,
@@ -80,7 +80,7 @@ def addPie(data, option, choice):
     fig.update_layout(
         autosize=False,
         width=800,
-        height=500,
+        height=450,
         margin=dict(
             l=0,
             r=0,
@@ -108,7 +108,7 @@ else:
 fig.update_layout(
     autosize=False,
     width=800,
-    height=500,
+    height=450,
     margin=dict(
         l=4,
         r=4,
@@ -125,8 +125,22 @@ if (st.sidebar.checkbox("Show Data",False,key=1)):
 
 states = get_states(data)
 
+st.subheader("State Specific Breakdown")
+st.sidebar.subheader("State Specific Breakdown")
+select = st.sidebar.selectbox('Select State', states, key=4)
+st.markdown("#### "+ select)
+modified_data = data.groupby(['State_Name']).sum()
+modified_data = modified_data.loc[select]
+
+fig = go.Figure()
+fig.add_trace(go.Pie(labels=options, values=modified_data))
+st.plotly_chart(fig)
+
+if (st.sidebar.checkbox("Show Data",False,key=5)):
+    st.write(modified_data)
+
 st.sidebar.subheader("State-wise breakdown")
-select = st.sidebar.selectbox('Visualization type', ['Line Graph', 'Bar Plot', 'Pie Chart'], key='3')
+select = st.sidebar.selectbox('Visualization type', ['Line Graph', 'Bar Plot', 'Pie Chart'], key=2)
 choice = st.sidebar.multiselect('Select States: ',states)
 
 if (len(choice)>0):
@@ -143,7 +157,7 @@ if (len(choice)>0):
             fig = addPie(data, option , choice)
         st.plotly_chart(fig)
 
-    if (st.sidebar.checkbox("Show Data",False,key=2)):
+    if (st.sidebar.checkbox("Show Data",False,key=3)):
         if (select!='Pie Chart'):
             modified_data = pd.DataFrame()
             for ch in choice:
@@ -151,4 +165,5 @@ if (len(choice)>0):
         else:
             modified_data = data.groupby(['State_Name']).sum()
             modified_data = modified_data.loc[choice]
+            modified_data = modified_data.sort_values(by=['State_Name'])
         st.write(modified_data)
