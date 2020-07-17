@@ -95,11 +95,11 @@ def addPie(data, option, choice):
 def get_aggregated_data(data,state):
     modified_data = data.groupby(['State_Name']).sum()
     modified_data = modified_data.loc[state]
+    modified_data['Active'] = modified_data['Confirmed'] - modified_data['Deceased'] - modified_data['Recovered']
     return modified_data
 
 data = load_data()
 modified_data = data.loc[data['State_Name'] == 'Total']
-modified_data = modified_data.drop(columns='State_Name')
 modified_data = modified_data.set_index('Date')
 modified_data = modified_data.sort_index()
 st.subheader("Daily Updates")
@@ -130,17 +130,58 @@ fig.update_layout(
 st.plotly_chart(fig)
 
 if (st.sidebar.checkbox("Show Data",False,key=1)):
+    modified_data = modified_data.drop(columns='State_Name')
+    st.dataframe(modified_data, width=600, height=300)
+
+modified_data = data.loc[data['State_Name'] == 'Total']
+modified_data = modified_data.set_index('Date')
+modified_data = modified_data.sort_index()
+modified_data['CumConfirmed'] = modified_data['Confirmed'].cumsum()
+modified_data['CumRecovered'] = modified_data['Recovered'].cumsum()
+modified_data['CumDeceased'] = modified_data['Deceased'].cumsum()
+modified_data['Active'] = modified_data['CumConfirmed'] - modified_data['CumRecovered'] - modified_data['CumDeceased']
+modified_data = modified_data.drop(columns=['State_Name','Confirmed','Deceased','Recovered'])
+modified_data = modified_data.rename(columns={'CumConfirmed':'Confirmed','CumDeceased':'Deceased','CumRecovered':'Recovered'})
+types = ['Confirmed','Deceased','Recovered','Active']
+st.subheader("Cumulative Updates")
+st.sidebar.subheader("Cumulative Updates")
+choice = st.sidebar.multiselect('',types)
+
+fig = go.Figure()
+if (len(choice)>0):
+    for ch in choice:
+        fig.add_trace(go.Line(x=modified_data.index, y=modified_data[ch],name = ch))
+else:
+    for option in types:
+        fig.add_trace(go.Line(x=modified_data.index, y=modified_data[option],name = option))
+
+fig.update_layout(
+    autosize=False,
+    width=800,
+    height=450,
+    margin=dict(
+        l=4,
+        r=4,
+        b=4,
+        t=4,
+        pad=0
+    ),
+)
+
+st.plotly_chart(fig)
+
+if (st.sidebar.checkbox("Show Data",False,key=8)):
     st.dataframe(modified_data, width=600, height=300)
 
 st.subheader("Overall Breakdown")
 st.sidebar.subheader("Overall Breakdown")
 modified_data = get_aggregated_data(data, 'Total')
 fig = go.Figure()
-fig.add_trace(go.Pie(labels=options, values=modified_data))
+fig.add_trace(go.Pie(labels=types, values=modified_data))
 st.plotly_chart(fig)
 
 if (st.sidebar.checkbox("Show Data",False,key=6)):
-    st.dataframe(modified_data, width=600, height=300)
+    st.dataframe(modified_data.to_frame().T, width=600, height=300)
 
 states = get_states(data)
 st.subheader("State Specific Breakdown")
@@ -150,10 +191,10 @@ st.markdown("#### "+ select)
 modified_data = get_aggregated_data(data,select)
 
 fig = go.Figure()
-fig.add_trace(go.Pie(labels=options, values=modified_data))
+fig.add_trace(go.Pie(labels=types, values=modified_data))
 st.plotly_chart(fig)
 if (st.sidebar.checkbox("Show Data",False,key=5)):
-    st.dataframe(modified_data, width=600, height=300)
+    st.dataframe(modified_data.to_frame().T, width=600, height=300)
 
 st.sidebar.subheader("State-wise breakdown")
 select = st.sidebar.selectbox('Visualization type', ['Line Graph', 'Bar Plot', 'Pie Chart'], key=2)
