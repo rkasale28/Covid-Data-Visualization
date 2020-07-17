@@ -2075,7 +2075,7 @@ Date,Confirmed,Deceased,Recovered,State_Name
 14-Jul-20,114,1,73,Chhattisgarh
 14-Jul-20,0,0,0,Daman and Diu
 14-Jul-20,1606,35,1924,Delhi
-14-Jul-20,16,0,32,Dadra and Nagar Haveli and Daman and Diu
+14-Jul-20,16,0,33,Dadra and Nagar Haveli and Daman and Diu
 14-Jul-20,170,1,67,Goa
 14-Jul-20,915,14,749,Gujarat
 14-Jul-20,66,0,11,Himachal Pradesh
@@ -2100,7 +2100,7 @@ Date,Confirmed,Deceased,Recovered,State_Name
 14-Jul-20,1524,10,1161,Telangana
 14-Jul-20,4526,67,4743,Tamil Nadu
 14-Jul-20,90,0,63,Tripura
-14-Jul-20,29917,587,20976,Total
+14-Jul-20,29917,587,20977,Total
 14-Jul-20,-179,0,0,State Unassigned
 14-Jul-20,1594,28,778,Uttar Pradesh
 14-Jul-20,78,1,11,Uttarakhand
@@ -2261,6 +2261,45 @@ Date,Confirmed,Deceased,Recovered,State_Name
 15-Apr-20,75,3,7,Uttar Pradesh
 15-Apr-20,0,0,0,Uttarakhand
 15-Apr-20,23,0,1,West Bengal
+15-Jul-20,5,0,1,Andaman and Nicobar Islands
+15-Jul-20,2432,44,911,Andhra Pradesh
+15-Jul-20,29,0,0,Arunachal Pradesh
+15-Jul-20,1088,2,715,Assam
+15-Jul-20,1320,14,514,Bihar
+15-Jul-20,19,1,13,Chandigarh
+15-Jul-20,177,0,49,Chhattisgarh
+15-Jul-20,0,0,0,Daman and Diu
+15-Jul-20,1647,41,2463,Delhi
+15-Jul-20,17,1,28,Dadra and Nagar Haveli and Daman and Diu
+15-Jul-20,198,0,67,Goa
+15-Jul-20,925,10,791,Gujarat
+15-Jul-20,32,0,28,Himachal Pradesh
+15-Jul-20,678,7,577,Haryana
+15-Jul-20,337,2,57,Jharkhand
+15-Jul-20,493,11,114,Jammu and Kashmir
+15-Jul-20,3176,87,1076,Karnataka
+15-Jul-20,623,1,196,Kerala
+15-Jul-20,14,0,18,Ladakh
+15-Jul-20,0,0,0,Lakshadweep
+15-Jul-20,7975,233,3606,Maharashtra
+15-Jul-20,19,0,0,Meghalaya
+15-Jul-20,28,0,60,Manipur
+15-Jul-20,638,9,333,Madhya Pradesh
+15-Jul-20,0,0,0,Mizoram
+15-Jul-20,6,0,2,Nagaland
+15-Jul-20,618,5,612,Odisha
+15-Jul-20,288,8,204,Punjab
+15-Jul-20,65,3,60,Puducherry
+15-Jul-20,866,6,333,Rajasthan
+15-Jul-20,11,0,1,Sikkim
+15-Jul-20,1597,11,1159,Telangana
+15-Jul-20,4496,68,5000,Tamil Nadu
+15-Jul-20,98,1,66,Tripura
+15-Jul-20,32607,614,20646,Total
+15-Jul-20,-655,0,0,State Unassigned
+15-Jul-20,1659,29,762,Uttar Pradesh
+15-Jul-20,99,0,81,Uttarakhand
+15-Jul-20,1589,20,749,West Bengal
 15-Jun-20,1,0,0,Andaman and Nicobar Islands
 15-Jun-20,304,2,69,Andhra Pradesh
 15-Jun-20,4,0,0,Arunachal Pradesh
@@ -2417,6 +2456,45 @@ Date,Confirmed,Deceased,Recovered,State_Name
 16-Apr-20,70,2,11,Uttar Pradesh
 16-Apr-20,0,0,0,Uttarakhand
 16-Apr-20,18,3,5,West Bengal
+16-Jul-20,4,0,3,Andaman and Nicobar Islands
+16-Jul-20,2593,40,1015,Andhra Pradesh
+16-Jul-20,52,0,0,Arunachal Pradesh
+16-Jul-20,892,2,666,Assam
+16-Jul-20,1385,10,568,Bihar
+16-Jul-20,16,0,17,Chandigarh
+16-Jul-20,198,1,127,Chhattisgarh
+16-Jul-20,0,0,0,Daman and Diu
+16-Jul-20,1652,58,1994,Delhi
+16-Jul-20,18,0,21,Dadra and Nagar Haveli and Daman and Diu
+16-Jul-20,157,1,143,Goa
+16-Jul-20,919,10,828,Gujarat
+16-Jul-20,36,0,5,Himachal Pradesh
+16-Jul-20,696,3,518,Haryana
+16-Jul-20,221,4,28,Jharkhand
+16-Jul-20,490,16,109,Jammu and Kashmir
+16-Jul-20,4169,104,1263,Karnataka
+16-Jul-20,722,2,228,Kerala
+16-Jul-20,5,0,6,Ladakh
+16-Jul-20,0,0,0,Lakshadweep
+16-Jul-20,8641,266,5527,Maharashtra
+16-Jul-20,40,0,3,Meghalaya
+16-Jul-20,64,0,49,Manipur
+16-Jul-20,735,7,219,Madhya Pradesh
+16-Jul-20,34,0,1,Mizoram
+16-Jul-20,14,0,43,Nagaland
+16-Jul-20,494,2,401,Odisha
+16-Jul-20,295,9,410,Punjab
+16-Jul-20,147,1,58,Puducherry
+16-Jul-20,737,8,468,Rajasthan
+16-Jul-20,13,0,0,Sikkim
+16-Jul-20,1676,10,1296,Telangana
+16-Jul-20,4549,69,5106,Tamil Nadu
+16-Jul-20,98,0,33,Tripura
+16-Jul-20,35468,680,22867,Total
+16-Jul-20,-239,0,0,State Unassigned
+16-Jul-20,2058,34,932,Uttar Pradesh
+16-Jul-20,197,0,47,Uttarakhand
+16-Jul-20,1690,23,735,West Bengal
 16-Jun-20,3,0,0,Andaman and Nicobar Islands
 16-Jun-20,264,2,128,Andhra Pradesh
 16-Jun-20,4,0,0,Arunachal Pradesh
