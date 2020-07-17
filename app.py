@@ -91,6 +91,11 @@ def addPie(data, option, choice):
     )
     return fig
 
+def get_aggregated_data(data,state):
+    modified_data = data.groupby(['State_Name']).sum()
+    modified_data = modified_data.loc[state]
+    return modified_data
+
 data = load_data()
 modified_data = data.loc[data['State_Name'] == 'Total'].sort_values(by = ['Date'])
 st.subheader("Daily Updates")
@@ -123,21 +128,23 @@ st.plotly_chart(fig)
 if (st.sidebar.checkbox("Show Data",False,key=1)):
     st.write(modified_data)
 
+st.subheader("Overall Breakdown")
+modified_data = get_aggregated_data(data, 'Total')
+fig = go.Figure()
+fig.add_trace(go.Pie(labels=options, values=modified_data))
+st.plotly_chart(fig)
+
 states = get_states(data)
 
 st.subheader("State Specific Breakdown")
 st.sidebar.subheader("State Specific Breakdown")
 select = st.sidebar.selectbox('Select State', states, key=4)
 st.markdown("#### "+ select)
-modified_data = data.groupby(['State_Name']).sum()
-modified_data = modified_data.loc[select]
+modified_data = get_aggregated_data(data,select)
 
 fig = go.Figure()
 fig.add_trace(go.Pie(labels=options, values=modified_data))
 st.plotly_chart(fig)
-
-if (st.sidebar.checkbox("Show Data",False,key=5)):
-    st.write(modified_data)
 
 st.sidebar.subheader("State-wise breakdown")
 select = st.sidebar.selectbox('Visualization type', ['Line Graph', 'Bar Plot', 'Pie Chart'], key=2)
