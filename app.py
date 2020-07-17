@@ -25,78 +25,80 @@ def get_states(data):
 
 @st.cache(persist=True)
 def get_state_data(data,state):
-    return data.loc[data['State_Name'] == state].sort_values(by=['Date'])
+    modified_data = data.loc[data['State_Name'] == state]
+    modified_data = modified_data.set_index('Date')
+    modified_data = modified_data.sort_index()
+    modified_data['CumConfirmed'] = modified_data['Confirmed'].cumsum()
+    modified_data['CumRecovered'] = modified_data['Recovered'].cumsum()
+    modified_data['CumDeceased'] = modified_data['Deceased'].cumsum()
+    modified_data['Active'] = modified_data['CumConfirmed'] - modified_data['CumRecovered'] - modified_data['CumDeceased']
+    return modified_data
 
-@st.cache(persist=True, allow_output_mutation=True)
-def addChart(data, option, choice):
-    fig = go.Figure()
-    for ch in choice:
-        modified_data = get_state_data(data, ch)
-        fig.add_trace(go.Line(x=modified_data['Date'], y=modified_data[option],name = ch))
-
-    fig.update_layout(
-        autosize=False,
-        width=800,
-        height=450,
-        margin=dict(
-            l=0,
-            r=0,
-            b=0,
-            t=0,
-            pad=0
-        ),
-    )
-    return fig
-
-@st.cache(persist=True, allow_output_mutation=True)
-def addBar(data, option, choice):
-    fig = go.Figure()
-    for ch in choice:
-        modified_data = get_state_data(data, ch)
-        fig.add_trace(go.Bar(x=modified_data['Date'], y=modified_data[option],name = ch))
-
-    fig.update_layout(
-        autosize=False,
-        width=800,
-        height=450,
-        margin=dict(
-            l=0,
-            r=0,
-            b=0,
-            t=0,
-            pad=0
-        ),
-    )
-    return fig
-
-@st.cache(persist=True, allow_output_mutation=True)
-def addPie(data, option, choice):
-    fig = go.Figure()
-    modified_data = data.groupby(['State_Name']).sum()
-    modified_data = modified_data.loc[choice,option]
-
-    fig.add_trace(go.Pie(labels=choice, values=modified_data))
-
-    fig.update_layout(
-        autosize=False,
-        width=800,
-        height=450,
-        margin=dict(
-            l=0,
-            r=0,
-            b=0,
-            t=0,
-            pad=4,
-        ),
-        plot_bgcolor='#000000'
-    )
-    return fig
-
+@st.cache(persist=True)
 def get_aggregated_data(data,state):
     modified_data = data.groupby(['State_Name']).sum()
     modified_data = modified_data.loc[state]
     modified_data['Active'] = modified_data['Confirmed'] - modified_data['Deceased'] - modified_data['Recovered']
     return modified_data
+
+@st.cache(persist=True, allow_output_mutation=True)
+def addLine(data,option,choice):
+    fig = go.Figure()
+    for ch in choice:
+        modified_data = get_state_data(data,ch)
+        fig.add_trace(go.Line(x=modified_data.index, y=modified_data[option],name = ch))
+    fig.update_layout(
+        autosize=False,
+        width=800,
+        height=450,
+        margin=dict(
+            l=4,
+            r=4,
+            b=4,
+            t=4,
+            pad=0
+        ),
+    )
+    return fig
+
+@st.cache(persist=True, allow_output_mutation=True)
+def addBar(data,option,choice):
+    fig = go.Figure()
+    for ch in choice:
+        modified_data = get_state_data(data,ch)
+        fig.add_trace(go.Bar(x=modified_data.index, y=modified_data[option],name = ch))
+    fig.update_layout(
+        autosize=False,
+        width=800,
+        height=450,
+        margin=dict(
+            l=4,
+            r=4,
+            b=4,
+            t=4,
+            pad=0
+        ),
+    )
+    return fig
+
+@st.cache(persist=True, allow_output_mutation=True)
+def addPie(data,option,choice):
+    fig = go.Figure()
+    modified_data = get_aggregated_data(data,choice)
+    fig.add_trace(go.Pie(labels=choice, values=modified_data[option]))
+    fig.update_layout(
+        autosize=False,
+        width=800,
+        height=450,
+        margin=dict(
+            l=4,
+            r=4,
+            b=4,
+            t=4,
+            pad=0
+        ),
+    )
+    return fig
 
 data = load_data()
 modified_data = data.loc[data['State_Name'] == 'Total']
@@ -133,19 +135,13 @@ if (st.sidebar.checkbox("Show Data",False,key=1)):
     modified_data = modified_data.drop(columns='State_Name')
     st.dataframe(modified_data, width=600, height=300)
 
-modified_data = data.loc[data['State_Name'] == 'Total']
-modified_data = modified_data.set_index('Date')
-modified_data = modified_data.sort_index()
-modified_data['CumConfirmed'] = modified_data['Confirmed'].cumsum()
-modified_data['CumRecovered'] = modified_data['Recovered'].cumsum()
-modified_data['CumDeceased'] = modified_data['Deceased'].cumsum()
-modified_data['Active'] = modified_data['CumConfirmed'] - modified_data['CumRecovered'] - modified_data['CumDeceased']
-modified_data = modified_data.drop(columns=['State_Name','Confirmed','Deceased','Recovered'])
-modified_data = modified_data.rename(columns={'CumConfirmed':'Confirmed','CumDeceased':'Deceased','CumRecovered':'Recovered'})
 types = ['Confirmed','Deceased','Recovered','Active']
 st.subheader("Cumulative Updates")
 st.sidebar.subheader("Cumulative Updates")
 choice = st.sidebar.multiselect('',types)
+modified_data = get_state_data(data,'Total')
+modified_data = modified_data.drop(columns=['State_Name','Confirmed','Deceased','Recovered'])
+modified_data = modified_data.rename(columns={'CumConfirmed':'Confirmed','CumDeceased':'Deceased','CumRecovered':'Recovered'})
 
 fig = go.Figure()
 if (len(choice)>0):
@@ -170,7 +166,7 @@ fig.update_layout(
 
 st.plotly_chart(fig)
 
-if (st.sidebar.checkbox("Show Data",False,key=8)):
+if (st.sidebar.checkbox("Show Data",False,key=2)):
     st.dataframe(modified_data, width=600, height=300)
 
 st.subheader("Overall Breakdown")
@@ -180,7 +176,7 @@ fig = go.Figure()
 fig.add_trace(go.Pie(labels=types, values=modified_data))
 st.plotly_chart(fig)
 
-if (st.sidebar.checkbox("Show Data",False,key=6)):
+if (st.sidebar.checkbox("Show Data",False,key=3)):
     st.dataframe(modified_data.to_frame().T, width=600, height=300)
 
 states = get_states(data)
@@ -197,40 +193,35 @@ if (st.sidebar.checkbox("Show Data",False,key=5)):
     st.dataframe(modified_data.to_frame().T, width=600, height=300)
 
 st.sidebar.subheader("State-wise breakdown")
-select = st.sidebar.selectbox('Visualization type', ['Line Graph', 'Bar Plot', 'Pie Chart'], key=2)
+select = st.sidebar.selectbox('Visualization type', ['Line Graph', 'Bar Plot', 'Pie Chart'], key=6)
 choice = st.sidebar.multiselect('Select States: ',states)
 
 if (len(choice)>0):
-    confirmed = st.sidebar.checkbox('Show Confirmed',True,key=6)
-    deceased = st.sidebar.checkbox('Show Deceased',False,key=7)
-    recovered = st.sidebar.checkbox('Show Recovered',False,key=8)
+    confirmed = st.sidebar.checkbox('Show Confirmed',True,key=7)
+    deceased = st.sidebar.checkbox('Show Deceased',False,key=8)
+    recovered = st.sidebar.checkbox('Show Recovered',False,key=9)
+    active = st.sidebar.checkbox('Show Active',False,key=10)
+    decision = st.sidebar.checkbox('Show Data',False)
 
     st.subheader("State-wise breakdown")
-
-    for option in options:
-        if ((option=='Confirmed') & confirmed) | ((option=='Recovered') & recovered) | ((option=='Deceased') & deceased):
+    for option in types:
+        if ((option=='Confirmed') & confirmed) | ((option=='Deceased') & deceased) | ((option=='Recovered') & recovered) | ((option=='Active') & active):
             st.markdown("#### "+ option)
-            if select == 'Line Graph':
-                fig = addChart(data, option , choice)
-            elif select == 'Bar Plot':
-                fig = addBar(data, option , choice)
-                st.text("Bar Plot")
+            if (select=='Line Graph'):
+                fig=addLine(data,option,choice)
+            elif (select=='Bar Plot'):
+                fig=addBar(data,option,choice)
             else:
-                fig = addPie(data, option , choice)
+                fig =addPie(data,option,choice)
             st.plotly_chart(fig)
 
-    if (st.sidebar.checkbox("Show Data",False,key=3)):
+    if (decision):
         if (select!='Pie Chart'):
             for ch in choice:
                 modified_data = get_state_data(data, ch)
-                modified_data = modified_data.drop(columns='State_Name')
-                modified_data = modified_data.set_index('Date')
-                modified_data = modified_data.sort_index()
-                modified_data = modified_data.loc[(modified_data['Confirmed']>0)| (modified_data['Recovered']>0) | (modified_data['Deceased']>0)]
                 st.markdown("#### "+ ch)
-                st.dataframe(modified_data)
+                modified_data = modified_data.drop(columns=['State_Name','CumConfirmed','CumDeceased','CumRecovered'])
+                modified_data = modified_data[(modified_data['Confirmed']>0) | (modified_data['Recovered']>0) | (modified_data['Deceased']>0)]
         else:
-            modified_data = data.groupby(['State_Name']).sum()
-            modified_data = modified_data.loc[choice]
-            modified_data = modified_data.sort_values(by=['State_Name'])
-            st.write(modified_data)
+            modified_data = get_aggregated_data(data,choice)
+        st.dataframe(modified_data, width=600, height=300)
