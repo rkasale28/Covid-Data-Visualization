@@ -144,26 +144,33 @@ select = st.sidebar.selectbox('Visualization type', ['Line Graph', 'Bar Plot', '
 choice = st.sidebar.multiselect('Select States: ',states)
 
 if (len(choice)>0):
+    confirmed = st.sidebar.checkbox('Show Confirmed',True,key=6)
+    deceased = st.sidebar.checkbox('Show Deceased',False,key=7)
+    recovered = st.sidebar.checkbox('Show Recovered',False,key=8)
+
     st.subheader("State-wise breakdown")
 
     for option in options:
-        st.markdown("#### "+ option)
-        if select == 'Line Graph':
-            fig = addChart(data, option , choice)
-        elif select == 'Bar Plot':
-            fig = addBar(data, option , choice)
-            st.text("Bar Plot")
-        else:
-            fig = addPie(data, option , choice)
-        st.plotly_chart(fig)
+        if ((option=='Confirmed') & confirmed) | ((option=='Recovered') & recovered) | ((option=='Deceased') & deceased):
+            st.markdown("#### "+ option)
+            if select == 'Line Graph':
+                fig = addChart(data, option , choice)
+            elif select == 'Bar Plot':
+                fig = addBar(data, option , choice)
+                st.text("Bar Plot")
+            else:
+                fig = addPie(data, option , choice)
+            st.plotly_chart(fig)
 
     if (st.sidebar.checkbox("Show Data",False,key=3)):
         if (select!='Pie Chart'):
             modified_data = pd.DataFrame()
             for ch in choice:
                 modified_data = get_state_data(data, ch)
+                st.markdown("#### "+ ch)
+                st.write(modified_data)
         else:
             modified_data = data.groupby(['State_Name']).sum()
             modified_data = modified_data.loc[choice]
             modified_data = modified_data.sort_values(by=['State_Name'])
-        st.write(modified_data)
+            st.write(modified_data)
