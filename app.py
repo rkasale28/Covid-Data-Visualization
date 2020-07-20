@@ -222,6 +222,7 @@ if (len(choice)>0):
                 st.markdown("#### "+ ch)
                 modified_data = modified_data.drop(columns=['State_Name','CumConfirmed','CumDeceased','CumRecovered'])
                 modified_data = modified_data[(modified_data['Confirmed']>0) | (modified_data['Recovered']>0) | (modified_data['Deceased']>0)]
+                st.dataframe(modified_data, width=600, height=300)
         else:
             modified_data = get_aggregated_data(data,choice)
-        st.dataframe(modified_data, width=600, height=300)
+            st.dataframe(modified_data, width=600, height=300)
