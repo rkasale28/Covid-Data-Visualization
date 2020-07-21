@@ -273,8 +273,6 @@ if (st.sidebar.checkbox("Show Data",False,key=6)):
     st.dataframe(modified_data, width=600, height=300)
 
 #Part 5
-types = ['Confirmed','Deceased','Recovered','Active']
-
 st.subheader("Cumulative Updates")
 st.sidebar.subheader("Cumulative Updates")
 choice = st.sidebar.multiselect('',types,key=7)
