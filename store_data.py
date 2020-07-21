@@ -42,6 +42,8 @@ states = {'an':'Andaman and Nicobar Islands',
 'ut':'Uttarakhand',
 'wb':'West Bengal'
 }
+
+# State Level Daily
 resp = requests.get("https://api.covid19india.org/states_daily.json")
 resp = resp.json()
 
