@@ -323,11 +323,11 @@ if (st.sidebar.checkbox("Show Data",False,key=9)):
 # Part 7
 st.subheader("District-wise breakdown")
 st.sidebar.subheader("District-wise breakdown")
-active = st.sidebar.checkbox('Show Active',True,key=14)
+active = st.sidebar.checkbox('Show Active',True,key=10)
 confirmed = st.sidebar.checkbox('Show Confirmed',False,key=11)
 deceased = st.sidebar.checkbox('Show Deceased',False,key=12)
 recovered = st.sidebar.checkbox('Show Recovered',False,key=13)
-decision = st.sidebar.checkbox('Show Data',False,key=15)
+decision = st.sidebar.checkbox('Show Data',False,key=14)
 
 modified_data = districtData[districtData['State_Name']==select]
 districts = get_districts(modified_data)
@@ -344,15 +344,15 @@ if (decision):
 
 # Part 8
 st.sidebar.subheader("State-wise breakdown")
-select = st.sidebar.selectbox('Visualization type', ['Line Graph', 'Bar Plot', 'Pie Chart'], key=10)
+select = st.sidebar.selectbox('Visualization type', ['Line Graph', 'Bar Plot', 'Pie Chart'], key=15)
 choice = st.sidebar.multiselect('Select States: ',states)
 
 if (len(choice)>0):
-    active = st.sidebar.checkbox('Show Active',True,key=14)
-    confirmed = st.sidebar.checkbox('Show Confirmed',False,key=11)
-    deceased = st.sidebar.checkbox('Show Deceased',False,key=12)
-    recovered = st.sidebar.checkbox('Show Recovered',False,key=13)
-    decision = st.sidebar.checkbox('Show Data',False,key=15)
+    active = st.sidebar.checkbox('Show Active',True,key=16)
+    confirmed = st.sidebar.checkbox('Show Confirmed',False,key=17)
+    deceased = st.sidebar.checkbox('Show Deceased',False,key=18)
+    recovered = st.sidebar.checkbox('Show Recovered',False,key=19)
+    decision = st.sidebar.checkbox('Show Data',False,key=20)
 
     st.subheader("State-wise breakdown")
     for option in types:
