@@ -66,17 +66,20 @@ df = df.rename(columns=states)
 df = df.set_index(['date','status'])
 df = df.T
 new_json = []
-for (item,row) in df.iterrows():
-    date = datetime.strftime(row.index.get_level_values(0)[0],'%d-%b-%y')
-    new_obj = {
-        'Date' : date,
-        'Confirmed' : row[date]['Confirmed'],
-        'Deceased' :row[date]['Deceased'],
-        'Recovered': row[date]['Recovered'],
-        'State_Name': item
-    }
-    new_json.append(new_obj)
+if not (df.empty):
+    for (item,row) in df.iterrows():
+        date = datetime.strftime(row.index.get_level_values(0)[0],'%d-%b-%y')
+        new_obj = {
+            'Date' : date,
+            'Confirmed' : row[date]['Confirmed'],
+            'Deceased' :row[date]['Deceased'],
+            'Recovered': row[date]['Recovered'],
+            'State_Name': item
+        }
+        new_json.append(new_obj)
 
-df = pd.DataFrame(new_json)
-df.to_csv(DATA_URL, mode='a', header=False, index=False)
-print ('Successful')
+    df = pd.DataFrame(new_json)
+    df.to_csv(DATA_URL, mode='a', header=False, index=False)
+    print ('Successful')
+else:
+    print ('Nothing to add')
