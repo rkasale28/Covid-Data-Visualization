@@ -11,17 +11,28 @@ DATA_URL = (
 "C:/Users/Rohit/Documents/Self Learning/Streamlit/state_level_daily.csv"
 )
 
+DISTRICT_DATA_URL = (
+"C:/Users/Rohit/Documents/Self Learning/Streamlit/district_level.csv"
+)
+
 @st.cache(persist=True)
 def load_data():
     data = pd.read_csv(DATA_URL)
     data['Date'] = pd.to_datetime(data['Date'])
-    return data
+
+    districtData = pd.read_csv(DISTRICT_DATA_URL)
+    return data,districtData
 
 @st.cache(persist=True)
 def get_states(data):
     states = data['State_Name'].unique()
     states = states[(states!='Total') & (states!='State Unassigned')]
     return states
+
+@st.cache(persist=True)
+def get_districts(data):
+    districts = data['District_Name'].unique()
+    return districts
 
 @st.cache(persist=True)
 def get_state_data(data,state):
@@ -100,7 +111,28 @@ def addPie(data,option,choice):
     )
     return fig
 
-data = load_data()
+@st.cache(persist=True, allow_output_mutation=True)
+def addDistrictPie(modified_data,option,districts):
+    fig = go.Figure()
+    fig.add_trace(go.Pie(labels=districts, values=modified_data[option]))
+    fig.update_traces(textposition='inside')
+    fig.update_layout(
+        uniformtext_minsize=12,
+        uniformtext_mode='hide',
+        autosize=True,
+        width=800,
+        height=450,
+        margin=dict(
+            l=4,
+            r=4,
+            b=4,
+            t=4,
+            pad=0
+        ),
+    )
+    return fig
+
+data,districtData = load_data()
 
 modified_data = data.loc[data['State_Name'] == 'Total']
 modified_data = modified_data.set_index('Date')
@@ -108,7 +140,6 @@ modified_data = modified_data.sort_index()
 
 st.markdown("## Country Level: ")
 st.subheader("Daily Updates")
-
 
 options = ['Confirmed','Deceased','Recovered']
 fig = go.Figure()
@@ -286,6 +317,28 @@ if (st.sidebar.checkbox("Show Data",False,key=9)):
     st.dataframe(modified_data.to_frame().T, width=600, height=300)
 
 # Part 7
+st.subheader("District-wise breakdown")
+st.sidebar.subheader("District-wise breakdown")
+confirmed = st.sidebar.checkbox('Show Confirmed',True,key=11)
+deceased = st.sidebar.checkbox('Show Deceased',False,key=12)
+recovered = st.sidebar.checkbox('Show Recovered',False,key=13)
+active = st.sidebar.checkbox('Show Active',False,key=14)
+decision = st.sidebar.checkbox('Show Data',False,key=15)
+
+modified_data = districtData[districtData['State_Name']==select]
+districts = get_districts(modified_data)
+for option in types:
+    if ((option=='Confirmed') & confirmed) | ((option=='Deceased') & deceased) | ((option=='Recovered') & recovered) | ((option=='Active') & active):
+        st.markdown("#### "+ option)
+        fig = addDistrictPie(modified_data,option,districts)
+        st.plotly_chart(fig)
+
+if (decision):
+    modified_data = modified_data.drop(columns=['State_Name'])
+    modified_data = modified_data.set_index('District_Name')
+    st.dataframe(modified_data, width=600, height=300)
+
+# Part 8
 st.sidebar.subheader("State-wise breakdown")
 select = st.sidebar.selectbox('Visualization type', ['Line Graph', 'Bar Plot', 'Pie Chart'], key=10)
 choice = st.sidebar.multiselect('Select States: ',states)

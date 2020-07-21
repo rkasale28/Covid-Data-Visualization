@@ -15,7 +15,7 @@ for i in resp.keys():
     for j in districtData:
         new_obj = {
          'State_Name': i,
-         'DistrictName':j,
+         'District_Name':j,
          'Active': districtData[j]['active'],
          'Confirmed': districtData[j]['confirmed'],
          'Deceased': districtData[j]['deceased'],
