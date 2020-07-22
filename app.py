@@ -3,6 +3,7 @@ import pandas as pd
 import plotly.express as px
 from plotly.subplots import make_subplots
 import plotly.graph_objects as go
+import numpy as np
 
 st.title("Covid Data Visualization")
 st.sidebar.title("Covid Data Visualization")
@@ -32,6 +33,7 @@ def get_states(data):
 @st.cache(persist=True)
 def get_districts(data):
     districts = data['District_Name'].unique()
+    districts = districts[districts!='Other State']
     return districts
 
 @st.cache(persist=True)
@@ -233,13 +235,15 @@ if (st.sidebar.checkbox("Show Data",False,key=3)):
 states = get_states(data)
 
 # Part 4
-st.subheader("State-wise breakdown")
 st.sidebar.subheader("State-wise breakdown")
 active = st.sidebar.checkbox('Show Active',True,key=4)
 confirmed = st.sidebar.checkbox('Show Confirmed',False,key=5)
 deceased = st.sidebar.checkbox('Show Deceased',False,key=6)
 recovered = st.sidebar.checkbox('Show Recovered',False,key=7)
 decision = st.sidebar.checkbox('Show Data',False,key=8)
+
+if (active or confirmed or deceased or recovered or decision):
+    st.subheader("State-wise breakdown")
 
 for option in types:
     if ((option=='Confirmed') & confirmed) | ((option=='Deceased') & deceased) | ((option=='Recovered') & recovered) | ((option=='Active') & active):
@@ -263,7 +267,9 @@ if (len(choice)>0):
     recovered = st.sidebar.checkbox('Show Recovered',False,key=13)
     decision = st.sidebar.checkbox('Show Data',False,key=14)
 
-    st.subheader("Compare States")
+    if (active or confirmed or deceased or recovered or decision):
+        st.subheader("Compare States")
+
     for option in types:
         if ((option=='Confirmed') & confirmed) | ((option=='Deceased') & deceased) | ((option=='Recovered') & recovered) | ((option=='Active') & active):
             st.markdown("#### "+ option)
@@ -375,16 +381,19 @@ if (st.sidebar.checkbox("Show Data",False,key=20)):
     st.dataframe(modified_data.to_frame().T, width=600, height=300)
 
 # Part 9
-st.subheader("District-wise breakdown")
 st.sidebar.subheader("District-wise breakdown")
 active = st.sidebar.checkbox('Show Active',True,key=21)
 confirmed = st.sidebar.checkbox('Show Confirmed',False,key=22)
 deceased = st.sidebar.checkbox('Show Deceased',False,key=23)
 recovered = st.sidebar.checkbox('Show Recovered',False,key=24)
-decision = st.sidebar.checkbox('Show Data',False,key=15)
+decision = st.sidebar.checkbox('Show Data',False,key=25)
+
+if (active or confirmed or deceased or recovered or decision):
+    st.subheader("District-wise breakdown")
 
 modified_data = districtData[districtData['State_Name']==select]
 districts = get_districts(modified_data)
+
 for option in types:
     if ((option=='Confirmed') & confirmed) | ((option=='Deceased') & deceased) | ((option=='Recovered') & recovered) | ((option=='Active') & active):
         st.markdown("#### "+ option)
@@ -395,3 +404,34 @@ if (decision):
     modified_data = modified_data.drop(columns=['State_Name'])
     modified_data = modified_data.set_index('District_Name')
     st.dataframe(modified_data, width=600, height=300)
+
+# Part 10
+st.sidebar.subheader("Compare Districts")
+choice = st.sidebar.multiselect('Select Districts: ',districts)
+
+modified_data = districtData[districtData['State_Name']==select]
+
+if (len(choice)>0):
+    choice.sort()
+    
+    active = st.sidebar.checkbox('Show Active',True,key=26)
+    confirmed = st.sidebar.checkbox('Show Confirmed',False,key=27)
+    deceased = st.sidebar.checkbox('Show Deceased',False,key=28)
+    recovered = st.sidebar.checkbox('Show Recovered',False,key=29)
+    decision = st.sidebar.checkbox('Show Data',False,key=30)
+
+    modified_data = modified_data[modified_data['District_Name'].isin(choice)]
+
+    if (active or confirmed or deceased or recovered or decision):
+        st.subheader("Compare Districts")
+
+    for option in types:
+        if ((option=='Confirmed') & confirmed) | ((option=='Deceased') & deceased) | ((option=='Recovered') & recovered) | ((option=='Active') & active):
+            st.markdown("#### "+ option)
+            fig =addDistrictPie(modified_data,option,choice)
+            st.plotly_chart(fig)
+
+    if (decision):
+        modified_data = modified_data.drop(columns=['State_Name'])
+        modified_data = modified_data.set_index('District_Name')
+        st.dataframe(modified_data, width=600, height=300)
