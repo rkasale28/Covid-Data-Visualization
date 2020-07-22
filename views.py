@@ -11,14 +11,14 @@ modified_data = data.loc[data['State_Name'] == 'Total']
 modified_data = modified_data.set_index('Date')
 modified_data = modified_data.sort_index()
 
-st.markdown("## Country Level: ")
+st.markdown("## National Level: ")
 st.subheader("Daily Updates")
 
 options = ['Confirmed','Deceased','Recovered']
 fig = go.Figure()
 
 # Part 1
-st.sidebar.subheader("Country Level: ")
+st.sidebar.subheader("National Level: ")
 st.sidebar.subheader("Daily Updates")
 choice = st.sidebar.multiselect('',options)
 
