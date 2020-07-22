@@ -232,6 +232,42 @@ if (st.sidebar.checkbox("Show Data",False,key=3)):
 states = get_states(data)
 
 # Part 4
+st.sidebar.subheader("Compare States")
+select = st.sidebar.selectbox('Visualization type', ['Line Graph', 'Bar Plot', 'Pie Chart'], key=15)
+choice = st.sidebar.multiselect('Select States: ',states)
+
+if (len(choice)>0):
+    active = st.sidebar.checkbox('Show Active',True,key=16)
+    confirmed = st.sidebar.checkbox('Show Confirmed',False,key=17)
+    deceased = st.sidebar.checkbox('Show Deceased',False,key=18)
+    recovered = st.sidebar.checkbox('Show Recovered',False,key=19)
+    decision = st.sidebar.checkbox('Show Data',False,key=20)
+
+    st.subheader("Compare States")
+    for option in types:
+        if ((option=='Confirmed') & confirmed) | ((option=='Deceased') & deceased) | ((option=='Recovered') & recovered) | ((option=='Active') & active):
+            st.markdown("#### "+ option)
+            if (select=='Line Graph'):
+                fig=addLine(data,option,choice)
+            elif (select=='Bar Plot'):
+                fig=addBar(data,option,choice)
+            else:
+                fig =addPie(data,option,choice)
+            st.plotly_chart(fig)
+
+    if (decision):
+        if (select!='Pie Chart'):
+            for ch in choice:
+                modified_data = get_state_data(data, ch)
+                st.markdown("#### "+ ch)
+                modified_data = modified_data.drop(columns=['State_Name','CumConfirmed','CumDeceased','CumRecovered'])
+                modified_data = modified_data[(modified_data['Confirmed']>0) | (modified_data['Recovered']>0) | (modified_data['Deceased']>0)]
+                st.dataframe(modified_data, width=600, height=300)
+        else:
+            modified_data = get_aggregated_data(data,choice)
+            st.dataframe(modified_data, width=600, height=300)
+
+# Part 5
 st.markdown("## State Level: ")
 st.sidebar.subheader("State Level: ")
 select = st.sidebar.selectbox('Select State', states, key=4)
@@ -272,7 +308,7 @@ if (st.sidebar.checkbox("Show Data",False,key=6)):
     modified_data = modified_data.drop(columns='State_Name')
     st.dataframe(modified_data, width=600, height=300)
 
-#Part 5
+#Part 6
 st.subheader("Cumulative Updates")
 st.sidebar.subheader("Cumulative Updates")
 choice = st.sidebar.multiselect('',types,key=7)
@@ -307,7 +343,7 @@ st.plotly_chart(fig)
 if (st.sidebar.checkbox("Show Data",False,key=8)):
     st.dataframe(modified_data, width=600, height=300)
 
-# Part 6
+# Part 7
 st.subheader("Breakdown")
 st.sidebar.subheader("Breakdown")
 modified_data = get_aggregated_data(data,select)
@@ -318,7 +354,7 @@ st.plotly_chart(fig)
 if (st.sidebar.checkbox("Show Data",False,key=9)):
     st.dataframe(modified_data.to_frame().T, width=600, height=300)
 
-# Part 7
+# Part 8
 st.subheader("District-wise breakdown")
 st.sidebar.subheader("District-wise breakdown")
 active = st.sidebar.checkbox('Show Active',True,key=10)
@@ -339,39 +375,3 @@ if (decision):
     modified_data = modified_data.drop(columns=['State_Name'])
     modified_data = modified_data.set_index('District_Name')
     st.dataframe(modified_data, width=600, height=300)
-
-# Part 8
-st.sidebar.subheader("State-wise breakdown")
-select = st.sidebar.selectbox('Visualization type', ['Line Graph', 'Bar Plot', 'Pie Chart'], key=15)
-choice = st.sidebar.multiselect('Select States: ',states)
-
-if (len(choice)>0):
-    active = st.sidebar.checkbox('Show Active',True,key=16)
-    confirmed = st.sidebar.checkbox('Show Confirmed',False,key=17)
-    deceased = st.sidebar.checkbox('Show Deceased',False,key=18)
-    recovered = st.sidebar.checkbox('Show Recovered',False,key=19)
-    decision = st.sidebar.checkbox('Show Data',False,key=20)
-
-    st.subheader("State-wise breakdown")
-    for option in types:
-        if ((option=='Confirmed') & confirmed) | ((option=='Deceased') & deceased) | ((option=='Recovered') & recovered) | ((option=='Active') & active):
-            st.markdown("#### "+ option)
-            if (select=='Line Graph'):
-                fig=addLine(data,option,choice)
-            elif (select=='Bar Plot'):
-                fig=addBar(data,option,choice)
-            else:
-                fig =addPie(data,option,choice)
-            st.plotly_chart(fig)
-
-    if (decision):
-        if (select!='Pie Chart'):
-            for ch in choice:
-                modified_data = get_state_data(data, ch)
-                st.markdown("#### "+ ch)
-                modified_data = modified_data.drop(columns=['State_Name','CumConfirmed','CumDeceased','CumRecovered'])
-                modified_data = modified_data[(modified_data['Confirmed']>0) | (modified_data['Recovered']>0) | (modified_data['Deceased']>0)]
-                st.dataframe(modified_data, width=600, height=300)
-        else:
-            modified_data = get_aggregated_data(data,choice)
-            st.dataframe(modified_data, width=600, height=300)
