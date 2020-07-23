@@ -28,7 +28,7 @@ def get_states(data):
 @st.cache(persist=True,allow_output_mutation=True)
 def get_districts(data):
     districts = data['District_Name'].unique()
-    districts = districts[(districts!='Other State') & (districts!='Unassigned')]
+    districts = districts[(districts!='Other State') & (districts!='Unassigned') & (districts!='Unknown') & (districts!='Airport Quarantine')]
     return districts
 
 @st.cache(persist=True)

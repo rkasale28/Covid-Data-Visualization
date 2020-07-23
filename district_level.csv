@@ -1,5 +1,5 @@
 State_Name,District_Name,Active,Confirmed,Deceased,Recovered
-State Unassigned,Unassigned,150,150,0,0
+State Unassigned,Unassigned,0,0,0,0
 Andaman and Nicobar Islands,Nicobars,0,0,0,0
 Andaman and Nicobar Islands,North and Middle Andaman,0,1,0,1
 Andaman and Nicobar Islands,South Andaman,19,51,0,32
@@ -163,11 +163,11 @@ Delhi,Unknown,14167,125535,3718,107650
 Dadra and Nagar Haveli and Daman and Diu,Other State,0,0,0,0
 Dadra and Nagar Haveli and Daman and Diu,Dadra and Nagar Haveli,126,338,1,206
 Dadra and Nagar Haveli and Daman and Diu,Daman,133,397,1,262
-Dadra and Nagar Haveli and Daman and Diu,Diu,14,40,0,22
-Goa,Other State,140,174,0,34
-Goa,North Goa,421,809,6,382
-Goa,South Goa,991,1798,20,787
-Goa,Unknown,55,1395,2,1338
+Dadra and Nagar Haveli and Daman and Diu,Diu,18,44,0,22
+Goa,Other State,129,174,0,45
+Goa,North Goa,438,826,6,382
+Goa,South Goa,1040,1849,22,787
+Goa,Unknown,0,1327,0,1327
 Gujarat,Other State,3,86,1,82
 Gujarat,Ahmedabad,3658,24963,1560,19745
 Gujarat,Amreli,104,262,9,149
@@ -318,19 +318,19 @@ Karnataka,Vijayapura,542,1810,23,1245
 Karnataka,Yadgir,248,1756,1,1507
 Kerala,Other State,0,0,0,0
 Kerala,Alappuzha,735,1208,3,469
-Kerala,Ernakulam,949,1222,4,268
-Kerala,Idukki,320,447,2,125
-Kerala,Kannur,473,1031,7,551
+Kerala,Ernakulam,947,1220,4,268
+Kerala,Idukki,321,448,2,125
+Kerala,Kannur,475,1033,7,551
 Kerala,Kasaragod,495,1073,1,577
 Kerala,Kollam,690,1077,3,384
-Kerala,Kottayam,330,613,1,282
-Kerala,Kozhikode,442,820,2,376
-Kerala,Malappuram,610,1396,5,781
-Kerala,Palakkad,331,1262,1,929
-Kerala,Pathanamthitta,502,926,0,423
+Kerala,Kottayam,330,612,0,282
+Kerala,Kozhikode,441,820,2,377
+Kerala,Malappuram,611,1396,5,780
+Kerala,Palakkad,332,1262,1,928
+Kerala,Pathanamthitta,501,926,1,423
 Kerala,Thiruvananthapuram,2402,2702,9,291
 Kerala,Thrissur,354,941,7,580
-Kerala,Wayanad,188,315,1,126
+Kerala,Wayanad,187,315,1,127
 Ladakh,Kargil,31,739,1,707
 Ladakh,Leh,155,467,1,311
 Lakshadweep,Lakshadweep,0,0,0,0
@@ -453,11 +453,11 @@ Madhya Pradesh,Tikamgarh,113,269,7,149
 Madhya Pradesh,Ujjain,140,1024,71,813
 Madhya Pradesh,Umaria,14,35,1,20
 Madhya Pradesh,Vidisha,99,209,1,109
-Mizoram,Aizawl,97,147,0,50
-Mizoram,Champhai,2,12,0,10
+Mizoram,Aizawl,104,154,0,50
+Mizoram,Champhai,3,13,0,10
 Mizoram,Hnahthial,0,0,0,0
 Mizoram,Khawzawl,0,3,0,3
-Mizoram,Kolasib,0,12,0,12
+Mizoram,Kolasib,1,13,0,12
 Mizoram,Lawngtlai,13,21,0,8
 Mizoram,Lunglei,18,65,0,47
 Mizoram,Mamit,1,21,0,20
@@ -478,36 +478,36 @@ Nagaland,Wokha,11,11,0,0
 Nagaland,Zunheboto,14,14,0,0
 Nagaland,Unknown,-353,0,0,353
 Odisha,Others,0,0,0,0
-Odisha,Angul,70,230,2,158
-Odisha,Balangir,36,297,0,261
-Odisha,Balasore,196,754,2,556
-Odisha,Bargarh,89,299,1,209
-Odisha,Bhadrak,69,393,4,320
-Odisha,Boudh,27,80,0,53
-Odisha,Cuttack,356,1384,12,1016
+Odisha,Angul,77,237,2,158
+Odisha,Balangir,37,298,0,261
+Odisha,Balasore,205,763,2,556
+Odisha,Bargarh,113,323,1,209
+Odisha,Bhadrak,99,423,4,320
+Odisha,Boudh,29,82,0,53
+Odisha,Cuttack,403,1431,12,1016
 Odisha,Deogarh,3,69,0,66
-Odisha,Dhenkanal,53,144,0,91
-Odisha,Gajapati,174,742,6,562
-Odisha,Ganjam,2219,6362,67,4076
-Odisha,Jagatsinghpur,198,610,2,410
-Odisha,Jajpur,156,1043,2,885
-Odisha,Jharsuguda,66,260,0,194
-Odisha,Kalahandi,20,102,0,82
-Odisha,Kandhamal,68,268,1,199
-Odisha,Kendrapara,67,389,3,319
-Odisha,Kendujhar,73,438,1,364
-Odisha,Khordha,867,2219,21,1331
-Odisha,Koraput,199,354,0,155
+Odisha,Dhenkanal,59,150,0,91
+Odisha,Gajapati,248,816,6,562
+Odisha,Ganjam,2754,6902,72,4076
+Odisha,Jagatsinghpur,202,614,2,410
+Odisha,Jajpur,173,1060,2,885
+Odisha,Jharsuguda,69,263,0,194
+Odisha,Kalahandi,27,109,0,82
+Odisha,Kandhamal,97,297,1,199
+Odisha,Kendrapara,75,397,3,319
+Odisha,Kendujhar,98,463,1,364
+Odisha,Khordha,1003,2356,22,1331
+Odisha,Koraput,226,381,0,155
 Odisha,Malkangiri,171,372,0,201
-Odisha,Mayurbhanj,131,484,2,351
-Odisha,Nabarangapur,33,176,1,142
-Odisha,Nayagarh,72,349,1,276
-Odisha,Nuapada,0,100,0,100
-Odisha,Puri,99,444,4,341
-Odisha,Rayagada,197,338,2,139
-Odisha,Sambalpur,97,214,0,117
+Odisha,Mayurbhanj,146,499,2,351
+Odisha,Nabarangapur,37,180,1,142
+Odisha,Nayagarh,133,410,1,276
+Odisha,Nuapada,1,101,0,100
+Odisha,Puri,121,466,4,341
+Odisha,Rayagada,281,422,2,139
+Odisha,Sambalpur,117,234,0,117
 Odisha,Subarnapur,15,64,0,49
-Odisha,Sundargarh,125,857,5,727
+Odisha,Sundargarh,185,917,5,727
 Punjab,Amritsar,275,1362,64,1023
 Punjab,Barnala,17,89,2,70
 Punjab,Bathinda,63,200,4,133
@@ -530,43 +530,43 @@ Punjab,Sangrur,181,844,22,641
 Punjab,Shahid Bhagat Singh Nagar,54,274,2,218
 Punjab,Sri Muktsar Sahib,30,186,1,155
 Punjab,Tarn Taran,25,242,6,211
-Puducherry,Karaikal,53,143,2,88
+Puducherry,Karaikal,52,146,2,92
 Puducherry,Mahe,1,22,0,21
-Puducherry,Puducherry,800,2053,28,1225
-Puducherry,Yanam,46,82,1,35
-Rajasthan,Ajmer,537,1308,28,743
-Rajasthan,Alwar,1046,2094,11,1037
-Rajasthan,Banswara,12,117,2,103
-Rajasthan,Baran,4,81,4,73
+Puducherry,Puducherry,897,2170,31,1242
+Puducherry,Yanam,37,83,1,45
+Rajasthan,Ajmer,539,1338,28,771
+Rajasthan,Alwar,1138,2186,11,1037
+Rajasthan,Banswara,9,120,2,109
+Rajasthan,Baran,13,91,4,74
 Rajasthan,Barmer,484,1077,8,585
-Rajasthan,Bharatpur,274,2245,46,1925
+Rajasthan,Bharatpur,259,2245,46,1940
 Rajasthan,Bhilwara,127,416,6,283
-Rajasthan,Bikaner,754,1566,27,785
+Rajasthan,Bikaner,691,1566,27,848
 Rajasthan,BSF Camp,7,59,0,52
 Rajasthan,Bundi,14,40,0,26
 Rajasthan,Chittorgarh,12,224,6,206
 Rajasthan,Churu,101,535,2,432
-Rajasthan,Dausa,46,270,4,220
+Rajasthan,Dausa,46,271,4,221
 Rajasthan,Dholpur,222,1077,15,840
 Rajasthan,Dungarpur,46,531,1,484
 Rajasthan,Evacuees,0,61,0,61
-Rajasthan,Ganganagar,52,115,3,60
-Rajasthan,Hanumangarh,86,177,1,90
+Rajasthan,Ganganagar,51,116,3,62
+Rajasthan,Hanumangarh,82,177,1,94
 Rajasthan,Italians,0,2,0,2
-Rajasthan,Jaipur,887,4531,179,3465
+Rajasthan,Jaipur,938,4582,179,3465
 Rajasthan,Jaisalmer,42,157,0,115
-Rajasthan,Jalore,265,990,3,722
-Rajasthan,Jhalawar,48,431,0,383
-Rajasthan,Jhunjhunu,34,511,4,473
-Rajasthan,Jodhpur,1422,5155,73,3660
+Rajasthan,Jalore,264,990,4,722
+Rajasthan,Jhalawar,49,432,0,383
+Rajasthan,Jhunjhunu,21,512,4,487
+Rajasthan,Jodhpur,1526,5260,74,3660
 Rajasthan,Karauli,123,245,5,117
-Rajasthan,Kota,253,1120,30,837
-Rajasthan,Nagaur,241,1184,20,923
+Rajasthan,Kota,294,1161,30,837
+Rajasthan,Nagaur,240,1184,21,923
 Rajasthan,Other State,107,182,34,41
-Rajasthan,Pali,586,2150,22,1542
+Rajasthan,Pali,584,2150,24,1542
 Rajasthan,Pratapgarh,22,162,2,138
 Rajasthan,Rajsamand,106,492,5,381
-Rajasthan,Sawai Madhopur,31,162,10,121
+Rajasthan,Sawai Madhopur,34,165,10,121
 Rajasthan,Sikar,76,791,8,707
 Rajasthan,Sirohi,124,786,10,652
 Rajasthan,Tonk,25,245,2,218
