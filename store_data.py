@@ -1,6 +1,7 @@
 import requests
 import pandas as pd
 from datetime import datetime
+import os
 
 states = {'an':'Andaman and Nicobar Islands',
 'ap':'Andhra Pradesh',
@@ -110,3 +111,6 @@ for i in resp.keys():
 df = pd.DataFrame(new_json)
 df.to_csv(DATA_URL, index=False)
 print ('District Level Data: Successful')
+
+print('Running App...')
+os.system('cmd /k streamlit run views.py')

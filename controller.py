@@ -115,7 +115,10 @@ def addPie(data,option,choice):
 @st.cache(persist=True, allow_output_mutation=True)
 def addDistrictPie(modified_data,option,districts):
     fig = go.Figure()
-    fig.add_trace(go.Pie(labels=districts, values=modified_data[option]))
+    temp_data = modified_data[['District_Name',option]]
+    temp_data = temp_data[temp_data['District_Name']!='Other State']
+    temp_data = temp_data[temp_data['District_Name'].isin(districts)]
+    fig.add_trace(go.Pie(labels=temp_data['District_Name'], values=temp_data[option]))
     fig.update_traces(textposition='inside')
     fig.update_layout(
         legend_title_text='Districts',

@@ -263,6 +263,7 @@ districts = get_districts(modified_data)
 for option in types:
     if ((option=='Confirmed') & confirmed) | ((option=='Deceased') & deceased) | ((option=='Recovered') & recovered) | ((option=='Active') & active):
         st.markdown("#### "+ option)
+        districts.sort()
         fig = addDistrictPie(modified_data,option,districts)
         st.plotly_chart(fig)
 
