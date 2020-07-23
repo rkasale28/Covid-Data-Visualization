@@ -25,10 +25,10 @@ def get_states(data):
     states = states[(states!='Total') & (states!='State Unassigned')]
     return states
 
-@st.cache(persist=True)
+@st.cache(persist=True,allow_output_mutation=True)
 def get_districts(data):
     districts = data['District_Name'].unique()
-    districts = districts[districts!='Other State']
+    districts = districts[(districts!='Other State') & (districts!='Unassigned')]
     return districts
 
 @st.cache(persist=True)
@@ -47,6 +47,7 @@ def get_aggregated_data(data,state):
     modified_data = data.groupby(['State_Name']).sum()
     modified_data = modified_data.loc[state]
     modified_data['Active'] = modified_data['Confirmed'] - modified_data['Deceased'] - modified_data['Recovered']
+    modified_data = modified_data[['Active','Confirmed','Deceased','Recovered']]
     return modified_data
 
 @st.cache(persist=True, allow_output_mutation=True)

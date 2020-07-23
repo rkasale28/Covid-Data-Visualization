@@ -302,3 +302,25 @@ if (len(choice)>0):
         modified_data = modified_data.drop(columns=['State_Name'])
         modified_data = modified_data.set_index('District_Name')
         st.dataframe(modified_data, width=600, height=300)
+
+# Part 11
+st.markdown("## District Level: ")
+st.sidebar.subheader("District Level: ")
+districts = get_districts(districtData)
+select = st.sidebar.selectbox('Select District', districts, key=31)
+
+st.subheader("Breakdown")
+st.sidebar.subheader("Breakdown")
+
+modified_data = districtData[districtData['District_Name']==select]
+st.markdown("**State Name: **"+ modified_data['State_Name'].values[0])
+st.markdown("**District Name: **"+ modified_data['District_Name'].values[0])
+modified_data = modified_data.drop(columns=['State_Name'])
+modified_data = modified_data.set_index('District_Name')
+transposed_data = modified_data.T
+fig = go.Figure()
+fig.add_trace(go.Pie(labels=types,values=[transposed_data[select]['Active'],transposed_data[select]['Confirmed'],transposed_data[select]['Deceased'],transposed_data[select]['Recovered']]))
+st.plotly_chart(fig)
+
+if (st.sidebar.checkbox("Show Data",False,key=32)):
+    st.dataframe(modified_data, width=600, height=300)
