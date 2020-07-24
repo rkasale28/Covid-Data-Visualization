@@ -111,6 +111,3 @@ for i in resp.keys():
 df = pd.DataFrame(new_json)
 df.to_csv(DATA_URL, index=False)
 print ('District Level Data: Successful')
-
-print('Running App...')
-os.system('cmd /k streamlit run views.py')
