@@ -92,7 +92,7 @@ st.sidebar.subheader("Breakdown")
 
 modified_data = get_aggregated_data(data, 'Total')
 fig = go.Figure()
-fig.add_trace(go.Pie(labels=types, values=modified_data))
+fig.add_trace(go.Pie(labels=types, values=modified_data, hole=.5))
 st.plotly_chart(fig)
 
 if (st.sidebar.checkbox("Show Data",False,key=3)):
@@ -241,7 +241,7 @@ st.sidebar.subheader("Breakdown")
 modified_data = get_aggregated_data(data,select)
 
 fig = go.Figure()
-fig.add_trace(go.Pie(labels=types, values=modified_data))
+fig.add_trace(go.Pie(labels=types, values=modified_data, hole=.5))
 st.plotly_chart(fig)
 if (st.sidebar.checkbox("Show Data",False,key=20)):
     st.dataframe(modified_data.to_frame().T, width=600, height=300)
@@ -323,7 +323,7 @@ if ((transposed_data[select]['Active']==0) & (transposed_data[select]['Confirmed
     st.markdown("**Total Cases = 0**")
 else:
     fig = go.Figure()
-    fig.add_trace(go.Pie(labels=types,values=[transposed_data[select]['Active'],transposed_data[select]['Confirmed'],transposed_data[select]['Deceased'],transposed_data[select]['Recovered']]))
+    fig.add_trace(go.Pie(labels=types,values=[transposed_data[select]['Active'],transposed_data[select]['Confirmed'],transposed_data[select]['Deceased'],transposed_data[select]['Recovered']], hole=.5))
     st.plotly_chart(fig)
 
 if (st.sidebar.checkbox("Show Data",False,key=32)):
