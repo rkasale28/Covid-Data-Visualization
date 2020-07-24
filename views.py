@@ -239,10 +239,13 @@ if (st.sidebar.checkbox("Show Data",False,key=19)):
 st.subheader("Breakdown")
 st.sidebar.subheader("Breakdown")
 modified_data = get_aggregated_data(data,select)
+if ((modified_data['Active']==0) & (modified_data['Confirmed']==0) & (modified_data['Deceased']==0) & (modified_data['Recovered']==0)):
+    st.markdown("**Total Cases = 0**")
+else:
+    fig = go.Figure()
+    fig.add_trace(go.Pie(labels=types, values=modified_data, hole=.5))
+    st.plotly_chart(fig)
 
-fig = go.Figure()
-fig.add_trace(go.Pie(labels=types, values=modified_data, hole=.5))
-st.plotly_chart(fig)
 if (st.sidebar.checkbox("Show Data",False,key=20)):
     st.dataframe(modified_data.to_frame().T, width=600, height=300)
 
@@ -259,15 +262,18 @@ if (active or confirmed or deceased or recovered or decision):
 
 modified_data = districtData[districtData['State_Name']==select]
 districts = get_districts(modified_data)
-
-for option in types:
-    if ((option=='Confirmed') & confirmed) | ((option=='Deceased') & deceased) | ((option=='Recovered') & recovered) | ((option=='Active') & active):
-        st.markdown("#### "+ option)
-        districts.sort()
-        fig = addDistrictPie(modified_data,option,districts)
-        st.plotly_chart(fig)
+if (districts.size!=0):
+    for option in types:
+        if ((option=='Confirmed') & confirmed) | ((option=='Deceased') & deceased) | ((option=='Recovered') & recovered) | ((option=='Active') & active):
+            st.markdown("#### "+ option)
+            districts.sort()
+            fig = addDistrictPie(modified_data,option,districts)
+            st.plotly_chart(fig)
+else:
+    st.write("No districts to display")
 
 if (decision):
+    modified_data = modified_data[modified_data['District_Name']!='Unknown']
     modified_data = modified_data.drop(columns=['State_Name'])
     modified_data = modified_data.set_index('District_Name')
     st.dataframe(modified_data, width=600, height=300)
