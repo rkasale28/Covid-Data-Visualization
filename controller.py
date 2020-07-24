@@ -2,6 +2,7 @@ import streamlit as st
 import plotly.graph_objects as go
 import pandas as pd
 import numpy as np
+from datetime import datetime
 
 DATA_URL = (
 "C:/Users/Rohit/Documents/Self Learning/Streamlit/state_level_daily.csv"
@@ -51,10 +52,11 @@ def get_aggregated_data(data,state):
     return modified_data
 
 @st.cache(persist=True, allow_output_mutation=True)
-def addLine(data,option,choice):
+def addLine(data,option,choice, start_date, end_date):
     fig = go.Figure()
     for ch in choice:
         modified_data = get_state_data(data,ch)
+        modified_data = modified_data.loc[start_date:end_date]
         fig.add_trace(go.Scatter(x=modified_data.index, y=modified_data[option], mode='lines' ,name = ch))
     fig.update_layout(
         autosize=False,
@@ -71,10 +73,11 @@ def addLine(data,option,choice):
     return fig
 
 @st.cache(persist=True, allow_output_mutation=True)
-def addBar(data,option,choice):
+def addBar(data,option,choice,start_date,end_date):
     fig = go.Figure()
     for ch in choice:
         modified_data = get_state_data(data,ch)
+        modified_data = modified_data.loc[start_date:end_date]
         fig.add_trace(go.Bar(x=modified_data.index, y=modified_data[option],name = ch))
     fig.update_layout(
         autosize=False,
@@ -91,9 +94,13 @@ def addBar(data,option,choice):
     return fig
 
 @st.cache(persist=True, allow_output_mutation=True)
-def addPie(data,option,choice):
+def addPie(data,option,choice, start_date, end_date):
     fig = go.Figure()
-    modified_data = get_aggregated_data(data,choice)
+    modified_data = data.set_index('Date')
+    modified_data = modified_data.sort_index()
+    modified_data = modified_data.loc[start_date:end_date]
+    modified_data = get_aggregated_data(modified_data,choice)
+
     fig.add_trace(go.Pie(labels=choice, values=modified_data[option]))
     fig.update_traces(textposition='inside')
     fig.update_layout(
@@ -137,3 +144,9 @@ def addDistrictPie(modified_data,option,districts):
         ),
     )
     return fig
+
+@st.cache(persist=True)
+def get_dates():
+    dt1 = datetime.strptime('14-03-2020','%d-%m-%Y')
+    dt2 = datetime.today()
+    return dt1,dt2

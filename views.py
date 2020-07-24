@@ -1,26 +1,33 @@
 import streamlit as st
 import plotly.graph_objects as go
-from controller import load_data, get_states, get_districts, get_state_data, get_aggregated_data, addLine, addBar, addPie, addDistrictPie
+from controller import load_data, get_states, get_districts, get_state_data, get_aggregated_data, addLine, addBar, addPie, addDistrictPie, get_dates
 
 st.title("Covid Data Visualization")
 st.sidebar.title("Covid Data Visualization")
 
 data,districtData = load_data()
+options = ['Confirmed','Deceased','Recovered']
+types = ['Active', 'Confirmed','Deceased','Recovered']
+dt1, dt2 = get_dates()
+
+# Part 1
+st.markdown("## National Level: ")
+st.subheader("Daily Updates")
+
+st.sidebar.subheader("National Level: ")
+st.sidebar.subheader("Daily Updates")
+
+start_date = st.sidebar.date_input('Start Date', min_value=dt1, max_value=dt2, value=dt1, key=1)
+end_date = st.sidebar.date_input('End Date', min_value=start_date, max_value=dt2, value=dt2, key=2)
+
+choice = st.sidebar.multiselect('',options)
 
 modified_data = data.loc[data['State_Name'] == 'Total']
 modified_data = modified_data.set_index('Date')
 modified_data = modified_data.sort_index()
+modified_data = modified_data.loc[start_date:end_date]
 
-st.markdown("## National Level: ")
-st.subheader("Daily Updates")
-
-options = ['Confirmed','Deceased','Recovered']
 fig = go.Figure()
-
-# Part 1
-st.sidebar.subheader("National Level: ")
-st.sidebar.subheader("Daily Updates")
-choice = st.sidebar.multiselect('',options)
 
 if (len(choice)>0):
     for ch in choice:
@@ -44,22 +51,24 @@ fig.update_layout(
 
 st.plotly_chart(fig)
 
-if (st.sidebar.checkbox("Show Data",False,key=1)):
+if (st.sidebar.checkbox("Show Data",False,key=3)):
     modified_data = modified_data.drop(columns='State_Name')
     st.dataframe(modified_data, width=600, height=300)
 
 # Part 2
-types = ['Active', 'Confirmed','Deceased','Recovered']
 fig = go.Figure()
 
 st.subheader("Cumulative Updates")
 
 st.sidebar.subheader("Cumulative Updates")
+start_date = st.sidebar.date_input('Start Date', min_value=dt1, max_value=dt2, value=dt1, key=4)
+end_date = st.sidebar.date_input('End Date', min_value=start_date, max_value=dt2, value=dt2, key=5)
 choice = st.sidebar.multiselect('',types)
 
 modified_data = get_state_data(data,'Total')
 modified_data = modified_data.drop(columns=['State_Name','Confirmed','Deceased','Recovered'])
 modified_data = modified_data.rename(columns={'CumConfirmed':'Confirmed','CumDeceased':'Deceased','CumRecovered':'Recovered'})
+modified_data = modified_data.loc[start_date:end_date]
 
 if (len(choice)>0):
     for ch in choice:
@@ -83,7 +92,7 @@ fig.update_layout(
 
 st.plotly_chart(fig)
 
-if (st.sidebar.checkbox("Show Data",False,key=2)):
+if (st.sidebar.checkbox("Show Data",False,key=6)):
     st.dataframe(modified_data, width=600, height=300)
 
 # Part 3
@@ -95,18 +104,19 @@ fig = go.Figure()
 fig.add_trace(go.Pie(labels=types, values=modified_data, hole=.5))
 st.plotly_chart(fig)
 
-if (st.sidebar.checkbox("Show Data",False,key=3)):
+if (st.sidebar.checkbox("Show Data",False,key=7)):
     st.dataframe(modified_data.to_frame().T, width=600, height=300)
 
 states = get_states(data)
 
 # Part 4
 st.sidebar.subheader("State-wise breakdown")
-active = st.sidebar.checkbox('Show Active',True,key=4)
-confirmed = st.sidebar.checkbox('Show Confirmed',False,key=5)
-deceased = st.sidebar.checkbox('Show Deceased',False,key=6)
-recovered = st.sidebar.checkbox('Show Recovered',False,key=7)
-decision = st.sidebar.checkbox('Show Data',False,key=8)
+
+active = st.sidebar.checkbox('Show Active',True,key=8)
+confirmed = st.sidebar.checkbox('Show Confirmed',False,key=9)
+deceased = st.sidebar.checkbox('Show Deceased',False,key=10)
+recovered = st.sidebar.checkbox('Show Recovered',False,key=11)
+decision = st.sidebar.checkbox('Show Data',False,key=12)
 
 if (active or confirmed or deceased or recovered or decision):
     st.subheader("State-wise breakdown")
@@ -114,7 +124,7 @@ if (active or confirmed or deceased or recovered or decision):
 for option in types:
     if ((option=='Confirmed') & confirmed) | ((option=='Deceased') & deceased) | ((option=='Recovered') & recovered) | ((option=='Active') & active):
         st.markdown("#### "+ option)
-        fig = addPie(data,option,states)
+        fig = addPie(data,option,states,dt1,dt2)
         st.plotly_chart(fig)
 
 if (decision):
@@ -123,15 +133,18 @@ if (decision):
 
 # Part 5
 st.sidebar.subheader("Compare States")
-select = st.sidebar.selectbox('Visualization type', ['Line Graph', 'Bar Plot', 'Pie Chart'], key=9)
+select = st.sidebar.selectbox('Visualization type', ['Line Graph', 'Bar Plot', 'Pie Chart'], key=13)
 choice = st.sidebar.multiselect('Select States: ',states)
 
 if (len(choice)>0):
-    active = st.sidebar.checkbox('Show Active',True,key=10)
-    confirmed = st.sidebar.checkbox('Show Confirmed',False,key=11)
-    deceased = st.sidebar.checkbox('Show Deceased',False,key=12)
-    recovered = st.sidebar.checkbox('Show Recovered',False,key=13)
-    decision = st.sidebar.checkbox('Show Data',False,key=14)
+    start_date = st.sidebar.date_input('Start Date', min_value=dt1, max_value=dt2, value=dt1, key=14)
+    end_date = st.sidebar.date_input('End Date', min_value=start_date, max_value=dt2, value=dt2, key=15)
+
+    active = st.sidebar.checkbox('Show Active',True,key=16)
+    confirmed = st.sidebar.checkbox('Show Confirmed',False,key=17)
+    deceased = st.sidebar.checkbox('Show Deceased',False,key=18)
+    recovered = st.sidebar.checkbox('Show Recovered',False,key=19)
+    decision = st.sidebar.checkbox('Show Data',False,key=20)
 
     if (active or confirmed or deceased or recovered or decision):
         st.subheader("Compare States")
@@ -140,38 +153,47 @@ if (len(choice)>0):
         if ((option=='Confirmed') & confirmed) | ((option=='Deceased') & deceased) | ((option=='Recovered') & recovered) | ((option=='Active') & active):
             st.markdown("#### "+ option)
             if (select=='Line Graph'):
-                fig=addLine(data,option,choice)
+                fig=addLine(data,option,choice, start_date, end_date)
             elif (select=='Bar Plot'):
-                fig=addBar(data,option,choice)
+                fig=addBar(data,option,choice, start_date, end_date)
             else:
-                fig =addPie(data,option,choice)
+                fig =addPie(data,option,choice, start_date,end_date)
             st.plotly_chart(fig)
 
     if (decision):
         if (select!='Pie Chart'):
             for ch in choice:
                 modified_data = get_state_data(data, ch)
+                modified_data = modified_data.loc[start_date:end_date]
+
                 st.markdown("#### "+ ch)
                 modified_data = modified_data.drop(columns=['State_Name','CumConfirmed','CumDeceased','CumRecovered'])
                 modified_data = modified_data[(modified_data['Confirmed']>0) | (modified_data['Recovered']>0) | (modified_data['Deceased']>0)]
                 st.dataframe(modified_data, width=600, height=300)
         else:
-            modified_data = get_aggregated_data(data,choice)
+            modified_data = data.set_index('Date')
+            modified_data = modified_data.sort_index()
+            modified_data = modified_data.loc[start_date:end_date]
+            modified_data = get_aggregated_data(modified_data,choice)
+
             st.dataframe(modified_data, width=600, height=300)
 
 # Part 6
 st.markdown("## State Level: ")
 st.sidebar.subheader("State Level: ")
-select = st.sidebar.selectbox('Select State', states, key=15)
+select = st.sidebar.selectbox('Select State', states, key=21)
 
 st.markdown("### "+ select)
 st.subheader("Daily Updates")
 st.sidebar.subheader("Daily Updates")
-choice = st.sidebar.multiselect('',options,key=16)
+start_date = st.sidebar.date_input('Start Date', min_value=dt1, max_value=dt2, value=dt1, key=22)
+end_date = st.sidebar.date_input('End Date', min_value=start_date, max_value=dt2, value=dt2, key=23)
+choice = st.sidebar.multiselect('',options,key=24)
 
 modified_data = data.loc[data['State_Name'] == select]
 modified_data = modified_data.set_index('Date')
 modified_data = modified_data.sort_index()
+modified_data = modified_data.loc[start_date:end_date]
 
 fig = go.Figure()
 if (len(choice)>0):
@@ -196,18 +218,21 @@ fig.update_layout(
 
 st.plotly_chart(fig)
 
-if (st.sidebar.checkbox("Show Data",False,key=17)):
+if (st.sidebar.checkbox("Show Data",False,key=25)):
     modified_data = modified_data.drop(columns='State_Name')
     st.dataframe(modified_data, width=600, height=300)
 
 #Part 7
 st.subheader("Cumulative Updates")
 st.sidebar.subheader("Cumulative Updates")
-choice = st.sidebar.multiselect('',types,key=18)
+start_date = st.sidebar.date_input('Start Date', min_value=dt1, max_value=dt2, value=dt1, key=26)
+end_date = st.sidebar.date_input('End Date', min_value=start_date, max_value=dt2, value=dt2, key=27)
+choice = st.sidebar.multiselect('',types,key=28)
 
 modified_data = get_state_data(data,select)
 modified_data = modified_data.drop(columns=['State_Name','Confirmed','Deceased','Recovered'])
 modified_data = modified_data.rename(columns={'CumConfirmed':'Confirmed','CumDeceased':'Deceased','CumRecovered':'Recovered'})
+modified_data = modified_data.loc[start_date:end_date]
 
 fig = go.Figure()
 if (len(choice)>0):
@@ -232,7 +257,7 @@ fig.update_layout(
 
 st.plotly_chart(fig)
 
-if (st.sidebar.checkbox("Show Data",False,key=19)):
+if (st.sidebar.checkbox("Show Data",False,key=29)):
     st.dataframe(modified_data, width=600, height=300)
 
 # Part 8
@@ -246,16 +271,16 @@ else:
     fig.add_trace(go.Pie(labels=types, values=modified_data, hole=.5))
     st.plotly_chart(fig)
 
-if (st.sidebar.checkbox("Show Data",False,key=20)):
+if (st.sidebar.checkbox("Show Data",False,key=30)):
     st.dataframe(modified_data.to_frame().T, width=600, height=300)
 
 # Part 9
 st.sidebar.subheader("District-wise breakdown")
-active = st.sidebar.checkbox('Show Active',True,key=21)
-confirmed = st.sidebar.checkbox('Show Confirmed',False,key=22)
-deceased = st.sidebar.checkbox('Show Deceased',False,key=23)
-recovered = st.sidebar.checkbox('Show Recovered',False,key=24)
-decision = st.sidebar.checkbox('Show Data',False,key=25)
+active = st.sidebar.checkbox('Show Active',True,key=31)
+confirmed = st.sidebar.checkbox('Show Confirmed',False,key=32)
+deceased = st.sidebar.checkbox('Show Deceased',False,key=33)
+recovered = st.sidebar.checkbox('Show Recovered',False,key=34)
+decision = st.sidebar.checkbox('Show Data',False,key=35)
 
 if (active or confirmed or deceased or recovered or decision):
     st.subheader("District-wise breakdown")
@@ -287,11 +312,11 @@ modified_data = districtData[districtData['State_Name']==select]
 if (len(choice)>0):
     choice.sort()
 
-    active = st.sidebar.checkbox('Show Active',True,key=26)
-    confirmed = st.sidebar.checkbox('Show Confirmed',False,key=27)
-    deceased = st.sidebar.checkbox('Show Deceased',False,key=28)
-    recovered = st.sidebar.checkbox('Show Recovered',False,key=29)
-    decision = st.sidebar.checkbox('Show Data',False,key=30)
+    active = st.sidebar.checkbox('Show Active',True,key=36)
+    confirmed = st.sidebar.checkbox('Show Confirmed',False,key=37)
+    deceased = st.sidebar.checkbox('Show Deceased',False,key=38)
+    recovered = st.sidebar.checkbox('Show Recovered',False,key=39)
+    decision = st.sidebar.checkbox('Show Data',False,key=40)
 
     modified_data = modified_data[modified_data['District_Name'].isin(choice)]
 
@@ -314,7 +339,7 @@ st.markdown("## District Level: ")
 st.sidebar.subheader("District Level: ")
 districts = get_districts(districtData)
 districts.sort()
-select = st.sidebar.selectbox('Select District', districts, key=31)
+select = st.sidebar.selectbox('Select District', districts, key=41)
 
 st.subheader("Breakdown")
 st.sidebar.subheader("Breakdown")
@@ -332,5 +357,5 @@ else:
     fig.add_trace(go.Pie(labels=types,values=[transposed_data[select]['Active'],transposed_data[select]['Confirmed'],transposed_data[select]['Deceased'],transposed_data[select]['Recovered']], hole=.5))
     st.plotly_chart(fig)
 
-if (st.sidebar.checkbox("Show Data",False,key=32)):
+if (st.sidebar.checkbox("Show Data",False,key=42)):
     st.dataframe(modified_data, width=600, height=300)
