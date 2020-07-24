@@ -24,10 +24,10 @@ choice = st.sidebar.multiselect('',options)
 
 if (len(choice)>0):
     for ch in choice:
-        fig.add_trace(go.Line(x=modified_data.index, y=modified_data[ch],name = ch))
+        fig.add_trace(go.Scatter(x=modified_data.index, y=modified_data[ch],mode='lines',  name = ch))
 else:
     for option in options:
-        fig.add_trace(go.Line(x=modified_data.index, y=modified_data[option],name = option))
+        fig.add_trace(go.Scatter(x=modified_data.index, y=modified_data[option],mode='lines',  name = option))
 
 fig.update_layout(
     autosize=False,
@@ -63,10 +63,10 @@ modified_data = modified_data.rename(columns={'CumConfirmed':'Confirmed','CumDec
 
 if (len(choice)>0):
     for ch in choice:
-        fig.add_trace(go.Line(x=modified_data.index, y=modified_data[ch],name = ch))
+        fig.add_trace(go.Scatter(x=modified_data.index, y=modified_data[ch],mode='lines',  name = ch))
 else:
     for option in types:
-        fig.add_trace(go.Line(x=modified_data.index, y=modified_data[option],name = option))
+        fig.add_trace(go.Scatter(x=modified_data.index, y=modified_data[option],mode='lines',  name = option))
 
 fig.update_layout(
     autosize=False,
@@ -176,10 +176,10 @@ modified_data = modified_data.sort_index()
 fig = go.Figure()
 if (len(choice)>0):
     for ch in choice:
-        fig.add_trace(go.Line(x=modified_data.index, y=modified_data[ch],name = ch))
+        fig.add_trace(go.Scatter(x=modified_data.index, y=modified_data[ch],mode='lines',  name = ch))
 else:
     for option in options:
-        fig.add_trace(go.Line(x=modified_data.index, y=modified_data[option],name = option))
+        fig.add_trace(go.Scatter(x=modified_data.index, y=modified_data[option],mode='lines',  name = option))
 
 fig.update_layout(
     autosize=False,
@@ -212,10 +212,10 @@ modified_data = modified_data.rename(columns={'CumConfirmed':'Confirmed','CumDec
 fig = go.Figure()
 if (len(choice)>0):
     for ch in choice:
-        fig.add_trace(go.Line(x=modified_data.index, y=modified_data[ch],name = ch))
+        fig.add_trace(go.Scatter(x=modified_data.index, y=modified_data[ch], mode='lines', name = ch))
 else:
     for option in types:
-        fig.add_trace(go.Line(x=modified_data.index, y=modified_data[option],name = option))
+        fig.add_trace(go.Scatter(x=modified_data.index, y=modified_data[option],mode='lines', name = option))
 
 fig.update_layout(
     autosize=False,

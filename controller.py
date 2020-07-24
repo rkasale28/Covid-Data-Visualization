@@ -55,7 +55,7 @@ def addLine(data,option,choice):
     fig = go.Figure()
     for ch in choice:
         modified_data = get_state_data(data,ch)
-        fig.add_trace(go.Line(x=modified_data.index, y=modified_data[option],name = ch))
+        fig.add_trace(go.Scatter(x=modified_data.index, y=modified_data[option], mode='lines' ,name = ch))
     fig.update_layout(
         autosize=False,
         width=800,
