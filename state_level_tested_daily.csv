@@ -1,0 +1,4178 @@
+Date,state,totaltested
+01-04-2020,Delhi,2621
+01-04-2020,Kerala,7965
+01-04-2020,West Bengal,659
+02-04-2020,Andhra Pradesh,1800
+02-04-2020,Assam,962
+02-04-2020,Chandigarh,124
+02-04-2020,Chhattisgarh,1232
+02-04-2020,Goa,220
+02-04-2020,Kerala,8456
+02-04-2020,Punjab,1434
+02-04-2020,Uttarakhand,678
+03-04-2020,Haryana,1325
+03-04-2020,Karnataka,4587
+03-04-2020,Kerala,9139
+03-04-2020,Odisha,1395
+03-04-2020,Tamil Nadu,3684
+04-04-2020,Kerala,9744
+04-04-2020,West Bengal,1042
+05-04-2020,Bihar,3037
+05-04-2020,Jammu and Kashmir,1551
+05-04-2020,Kerala,10221
+05-04-2020,Madhya Pradesh,2812
+05-04-2020,Maharashtra,16008
+05-04-2020,Rajasthan,12279
+05-04-2020,Uttar Pradesh,5255
+05-04-2020,Uttar Pradesh,5255
+06-04-2020,Kerala,10716
+06-04-2020,Maharashtra,17563
+06-04-2020,Mizoram,58
+06-04-2020,Nagaland,60
+06-04-2020,West Bengal,1301
+07-04-2020,Delhi,9041
+07-04-2020,Haryana,2520
+07-04-2020,Karnataka,6580
+07-04-2020,Kerala,11232
+07-04-2020,Madhya Pradesh,3770
+07-04-2020,Maharashtra,20877
+07-04-2020,Mizoram,58
+07-04-2020,Odisha,2441
+07-04-2020,Rajasthan,17638
+07-04-2020,Uttarakhand,1289
+07-04-2020,West Bengal,1487
+08-04-2020,Bihar,4596
+08-04-2020,Chandigarh,184
+08-04-2020,Gujarat,4224
+08-04-2020,Haryana,2650
+08-04-2020,Karnataka,6967
+08-04-2020,Kerala,11986
+08-04-2020,Madhya Pradesh,4056
+08-04-2020,Mizoram,74
+08-04-2020,Odisha,2441
+08-04-2020,Punjab,2937
+08-04-2020,Rajasthan,17638
+08-04-2020,Tamil Nadu,5305
+09-04-2020,Arunachal Pradesh,206
+09-04-2020,Bihar,4991
+09-04-2020,Dadra and Nagar Haveli and Daman and Diu,80
+09-04-2020,Delhi,9968
+09-04-2020,Goa,344
+09-04-2020,Haryana,2964
+09-04-2020,Karnataka,7613
+09-04-2020,Kerala,12710
+09-04-2020,Madhya Pradesh,5135
+09-04-2020,Maharashtra,20877
+09-04-2020,Mizoram,84
+09-04-2020,Odisha,3249
+09-04-2020,Punjab,3192
+09-04-2020,Rajasthan,19107
+09-04-2020,Tamil Nadu,7267
+09-04-2020,Uttar Pradesh,8402
+09-04-2020,Uttarakhand,1531
+09-04-2020,West Bengal,1889
+10-04-2020,Andhra Pradesh,6374
+10-04-2020,Assam,2863
+10-04-2020,Bihar,5457
+10-04-2020,Chandigarh,223
+10-04-2020,Chhattisgarh,3473
+10-04-2020,Dadra and Nagar Haveli and Daman and Diu,130
+10-04-2020,Delhi,11061
+10-04-2020,Goa,354
+10-04-2020,Gujarat,7718
+10-04-2020,Haryana,3527
+10-04-2020,Himachal Pradesh,900
+10-04-2020,Jammu and Kashmir,2961
+10-04-2020,Jharkhand,1340
+10-04-2020,Karnataka,7975
+10-04-2020,Kerala,13339
+10-04-2020,Madhya Pradesh,7049
+10-04-2020,Maharashtra,30000
+10-04-2020,Nagaland,70
+10-04-2020,Odisha,3547
+10-04-2020,Punjab,3461
+10-04-2020,Rajasthan,22349
+10-04-2020,Tamil Nadu,8410
+10-04-2020,Uttar Pradesh,9332
+10-04-2020,Uttarakhand,1688
+10-04-2020,West Bengal,2095
+11-04-2020,Andhra Pradesh,6958
+11-04-2020,Assam,3011
+11-04-2020,Bihar,6250
+11-04-2020,Chandigarh,264
+11-04-2020,Chhattisgarh,3858
+11-04-2020,Dadra and Nagar Haveli and Daman and Diu,211
+11-04-2020,Delhi,11709
+11-04-2020,Gujarat,9763
+11-04-2020,Haryana,3663
+11-04-2020,Himachal Pradesh,900
+11-04-2020,Jammu and Kashmir,3206
+11-04-2020,Jharkhand,1546
+11-04-2020,Karnataka,8560
+11-04-2020,Kerala,14163
+11-04-2020,Madhya Pradesh,8516
+11-04-2020,Maharashtra,31841
+11-04-2020,Nagaland,70
+11-04-2020,Odisha,3551
+11-04-2020,Punjab,3909
+11-04-2020,Rajasthan,24857
+11-04-2020,Tamil Nadu,9842
+11-04-2020,Tripura,337
+11-04-2020,Uttar Pradesh,10595
+11-04-2020,Uttarakhand,1705
+11-04-2020,West Bengal,2286
+12-04-2020,Andhra Pradesh,6958
+12-04-2020,Assam,3138
+12-04-2020,Bihar,6703
+12-04-2020,Chandigarh,279
+12-04-2020,Chhattisgarh,3945
+12-04-2020,Delhi,14036
+12-04-2020,Goa,406
+12-04-2020,Gujarat,11715
+12-04-2020,Haryana,3903
+12-04-2020,Himachal Pradesh,1113
+12-04-2020,Jammu and Kashmir,3600
+12-04-2020,Jharkhand,1683
+12-04-2020,Karnataka,9251
+12-04-2020,Kerala,14989
+12-04-2020,Madhya Pradesh,10481
+12-04-2020,Maharashtra,35668
+12-04-2020,Mizoram,87
+12-04-2020,Nagaland,74
+12-04-2020,Odisha,3862
+12-04-2020,Punjab,4281
+12-04-2020,Rajasthan,28505
+12-04-2020,Tamil Nadu,10655
+12-04-2020,Uttar Pradesh,11855
+12-04-2020,Uttarakhand,1820
+12-04-2020,West Bengal,2523
+13-04-2020,Andhra Pradesh,8755
+13-04-2020,Bihar,7263
+13-04-2020,Chandigarh,296
+13-04-2020,Chhattisgarh,4377
+13-04-2020,Delhi,15032
+13-04-2020,Goa,440
+13-04-2020,Gujarat,14251
+13-04-2020,Haryana,4489
+13-04-2020,Himachal Pradesh,1210
+13-04-2020,Jammu and Kashmir,4065
+13-04-2020,Jharkhand,1982
+13-04-2020,Karnataka,10017
+13-04-2020,Kerala,15683
+13-04-2020,Ladakh,618
+13-04-2020,Madhya Pradesh,10481
+13-04-2020,Maharashtra,39725
+13-04-2020,Mizoram,89
+13-04-2020,Odisha,4170
+13-04-2020,Punjab,4480
+13-04-2020,Rajasthan,31804
+13-04-2020,Tamil Nadu,12746
+13-04-2020,Uttar Pradesh,13287
+13-04-2020,Uttarakhand,1998
+13-04-2020,West Bengal,2793
+14-04-2020,Andhra Pradesh,10505
+14-04-2020,Arunachal Pradesh,280
+14-04-2020,Assam,3491
+14-04-2020,Bihar,7727
+14-04-2020,Chandigarh,309
+14-04-2020,Chhattisgarh,4812
+14-04-2020,Delhi,16282
+14-04-2020,Goa,479
+14-04-2020,Gujarat,14980
+14-04-2020,Haryana,5210
+14-04-2020,Himachal Pradesh,1311
+14-04-2020,Jammu and Kashmir,4619
+14-04-2020,Jharkhand,2334
+14-04-2020,Karnataka,11107
+14-04-2020,Kerala,16235
+14-04-2020,Ladakh,760
+14-04-2020,Madhya Pradesh,8105
+14-04-2020,Maharashtra,41071
+14-04-2020,Manipur,276
+14-04-2020,Mizoram,91
+14-04-2020,Nagaland,174
+14-04-2020,Odisha,4734
+14-04-2020,Punjab,4844
+14-04-2020,Rajasthan,34928
+14-04-2020,Tamil Nadu,19255
+14-04-2020,Uttar Pradesh,15914
+14-04-2020,Uttarakhand,2174
+14-04-2020,West Bengal,3081
+15-04-2020,Andhra Pradesh,11613
+15-04-2020,Assam,3613
+15-04-2020,Bihar,8263
+15-04-2020,Chandigarh,317
+15-04-2020,Chhattisgarh,5122
+15-04-2020,Dadra and Nagar Haveli and Daman and Diu,356
+15-04-2020,Delhi,16605
+15-04-2020,Goa,556
+15-04-2020,Gujarat,19197
+15-04-2020,Haryana,7388
+15-04-2020,Himachal Pradesh,1426
+15-04-2020,Jammu and Kashmir,5171
+15-04-2020,Karnataka,12483
+15-04-2020,Kerala,16475
+15-04-2020,Ladakh,820
+15-04-2020,Madhya Pradesh,9596
+15-04-2020,Maharashtra,45142
+15-04-2020,Mizoram,94
+15-04-2020,Nagaland,184
+15-04-2020,Odisha,5537
+15-04-2020,Punjab,5193
+15-04-2020,Rajasthan,37860
+15-04-2020,Tamil Nadu,21994
+15-04-2020,Tripura,738
+15-04-2020,Uttar Pradesh,19506
+15-04-2020,Uttarakhand,2413
+15-04-2020,West Bengal,3470
+16-04-2020,Andhra Pradesh,20235
+16-04-2020,Assam,4108
+16-04-2020,Bihar,8846
+16-04-2020,Chandigarh,337
+16-04-2020,Chhattisgarh,5519
+16-04-2020,Dadra and Nagar Haveli and Daman and Diu,382
+16-04-2020,Delhi,18784
+16-04-2020,Goa,611
+16-04-2020,Gujarat,20903
+16-04-2020,Haryana,8064
+16-04-2020,Himachal Pradesh,1604
+16-04-2020,Jammu and Kashmir,5680
+16-04-2020,Karnataka,13724
+16-04-2020,Kerala,17400
+16-04-2020,Ladakh,917
+16-04-2020,Madhya Pradesh,13492
+16-04-2020,Maharashtra,50882
+16-04-2020,Meghalaya,552
+16-04-2020,Mizoram,94
+16-04-2020,Odisha,6734
+16-04-2020,Punjab,5524
+16-04-2020,Rajasthan,40778
+16-04-2020,Tamil Nadu,26005
+16-04-2020,Tripura,762
+16-04-2020,Uttar Pradesh,21384
+16-04-2020,Uttarakhand,2593
+16-04-2020,West Bengal,3811
+17-04-2020,Andaman and Nicobar Islands,1403
+17-04-2020,Andhra Pradesh,20235
+17-04-2020,Arunachal Pradesh,363
+17-04-2020,Assam,4236
+17-04-2020,Bihar,9486
+17-04-2020,Chandigarh,358
+17-04-2020,Chhattisgarh,5776
+17-04-2020,Delhi,21409
+17-04-2020,Goa,673
+17-04-2020,Gujarat,23483
+17-04-2020,Haryana,8884
+17-04-2020,Himachal Pradesh,1992
+17-04-2020,Jammu and Kashmir,6438
+17-04-2020,Jharkhand,3143
+17-04-2020,Karnataka,17594
+17-04-2020,Kerala,18029
+17-04-2020,Madhya Pradesh,15302
+17-04-2020,Maharashtra,55678
+17-04-2020,Manipur,311
+17-04-2020,Meghalaya,617
+17-04-2020,Nagaland,274
+17-04-2020,Odisha,7577
+17-04-2020,Punjab,5988
+17-04-2020,Rajasthan,42847
+17-04-2020,Tamil Nadu,29673
+17-04-2020,Uttar Pradesh,24643
+17-04-2020,Uttarakhand,2831
+17-04-2020,West Bengal,4212
+18-04-2020,Andhra Pradesh,21450
+18-04-2020,Arunachal Pradesh,389
+18-04-2020,Assam,4400
+18-04-2020,Bihar,10130
+18-04-2020,Chandigarh,381
+18-04-2020,Chhattisgarh,5776
+18-04-2020,Delhi,22283
+18-04-2020,Goa,758
+18-04-2020,Gujarat,26102
+18-04-2020,Haryana,10454
+18-04-2020,Himachal Pradesh,2207
+18-04-2020,Jammu and Kashmir,6937
+18-04-2020,Jharkhand,3431
+18-04-2020,Karnataka,19186
+18-04-2020,Kerala,18774
+18-04-2020,Madhya Pradesh,14978
+18-04-2020,Maharashtra,60166
+18-04-2020,Meghalaya,738
+18-04-2020,Mizoram,102
+18-04-2020,Nagaland,392
+18-04-2020,Odisha,8619
+18-04-2020,Puducherry,1207
+18-04-2020,Punjab,6167
+18-04-2020,Rajasthan,47197
+18-04-2020,Tamil Nadu,35036
+18-04-2020,Uttar Pradesh,28484
+18-04-2020,Uttarakhand,3158
+18-04-2020,West Bengal,4630
+19-04-2020,Andhra Pradesh,26958
+19-04-2020,Assam,4865
+19-04-2020,Bihar,10745
+19-04-2020,Chandigarh,430
+19-04-2020,Chhattisgarh,6675
+19-04-2020,Delhi,24387
+19-04-2020,Goa,826
+19-04-2020,Gujarat,29104
+19-04-2020,Haryana,12687
+19-04-2020,Himachal Pradesh,2553
+19-04-2020,Jammu and Kashmir,7895
+19-04-2020,Jharkhand,3646
+19-04-2020,Karnataka,21367
+19-04-2020,Kerala,19351
+19-04-2020,Ladakh,991
+19-04-2020,Madhya Pradesh,17835
+19-04-2020,Maharashtra,66796
+19-04-2020,Meghalaya,766
+19-04-2020,Mizoram,116
+19-04-2020,Nagaland,404
+19-04-2020,Odisha,9690
+19-04-2020,Puducherry,1245
+19-04-2020,Punjab,6607
+19-04-2020,Rajasthan,51614
+19-04-2020,Tamil Nadu,40876
+19-04-2020,Telangana,14962
+19-04-2020,Uttar Pradesh,31767
+19-04-2020,Uttarakhand,3344
+19-04-2020,West Bengal,5045
+20-04-2020,Andhra Pradesh,30733
+20-04-2020,Arunachal Pradesh,439
+20-04-2020,Assam,5112
+20-04-2020,Bihar,11319
+20-04-2020,Chandigarh,453
+20-04-2020,Chhattisgarh,7601
+20-04-2020,Delhi,25900
+20-04-2020,Goa,901
+20-04-2020,Gujarat,33316
+20-04-2020,Haryana,13894
+20-04-2020,Himachal Pradesh,2892
+20-04-2020,Jammu and Kashmir,8612
+20-04-2020,Jharkhand,4235
+20-04-2020,Karnataka,23460
+20-04-2020,Kerala,19756
+20-04-2020,Madhya Pradesh,19142
+20-04-2020,Maharashtra,71321
+20-04-2020,Meghalaya,838
+20-04-2020,Mizoram,132
+20-04-2020,Nagaland,434
+20-04-2020,Odisha,10641
+20-04-2020,Puducherry,1272
+20-04-2020,Punjab,6797
+20-04-2020,Rajasthan,57290
+20-04-2020,Tamil Nadu,46985
+20-04-2020,Uttar Pradesh,34326
+20-04-2020,Uttarakhand,3677
+20-04-2020,West Bengal,5469
+21-04-2020,Andhra Pradesh,35755
+21-04-2020,Arunachal Pradesh,454
+21-04-2020,Assam,5514
+21-04-2020,Bihar,11999
+21-04-2020,Chandigarh,497
+21-04-2020,Chhattisgarh,8272
+21-04-2020,Dadra and Nagar Haveli and Daman and Diu,474
+21-04-2020,Delhi,26627
+21-04-2020,Goa,1004
+21-04-2020,Gujarat,36829
+21-04-2020,Haryana,14562
+21-04-2020,Himachal Pradesh,3341
+21-04-2020,Jammu and Kashmir,9220
+21-04-2020,Karnataka,26233
+21-04-2020,Kerala,20252
+21-04-2020,Ladakh,1137
+21-04-2020,Madhya Pradesh,20905
+21-04-2020,Maharashtra,75838
+21-04-2020,Meghalaya,933
+21-04-2020,Mizoram,135
+21-04-2020,Nagaland,537
+21-04-2020,Odisha,11748
+21-04-2020,Puducherry,1319
+21-04-2020,Punjab,7355
+21-04-2020,Rajasthan,61492
+21-04-2020,Tamil Nadu,53045
+21-04-2020,Tripura,2604
+21-04-2020,Uttar Pradesh,37933
+21-04-2020,Uttarakhand,4061
+21-04-2020,West Bengal,6182
+22-04-2020,Andhra Pradesh,41512
+22-04-2020,Arunachal Pradesh,496
+22-04-2020,Bihar,12978
+22-04-2020,Chandigarh,529
+22-04-2020,Chhattisgarh,9220
+22-04-2020,Dadra and Nagar Haveli and Daman and Diu,674
+22-04-2020,Delhi,28309
+22-04-2020,Goa,1116
+22-04-2020,Gujarat,39421
+22-04-2020,Haryana,15561
+22-04-2020,Himachal Pradesh,3700
+22-04-2020,Jammu and Kashmir,10039
+22-04-2020,Jharkhand,5176
+22-04-2020,Karnataka,29512
+22-04-2020,Kerala,20821
+22-04-2020,Madhya Pradesh,22664
+22-04-2020,Maharashtra,82304
+22-04-2020,Meghalaya,1046
+22-04-2020,Mizoram,135
+22-04-2020,Nagaland,543
+22-04-2020,Odisha,13775
+22-04-2020,Puducherry,1473
+22-04-2020,Punjab,7887
+22-04-2020,Rajasthan,66257
+22-04-2020,Tamil Nadu,59023
+22-04-2020,Tripura,3215
+22-04-2020,Uttar Pradesh,42192
+22-04-2020,Uttarakhand,4275
+22-04-2020,West Bengal,7037
+23-04-2020,Andhra Pradesh,48032
+23-04-2020,Bihar,13785
+23-04-2020,Chandigarh,599
+23-04-2020,Chhattisgarh,10346
+23-04-2020,Dadra and Nagar Haveli and Daman and Diu,913
+23-04-2020,Delhi,30560
+23-04-2020,Goa,1206
+23-04-2020,Gujarat,42384
+23-04-2020,Haryana,17582
+23-04-2020,Himachal Pradesh,4020
+23-04-2020,Jammu and Kashmir,10977
+23-04-2020,Jharkhand,5380
+23-04-2020,Karnataka,32122
+23-04-2020,Kerala,21334
+23-04-2020,Madhya Pradesh,24548
+23-04-2020,Maharashtra,89197
+23-04-2020,Meghalaya,1109
+23-04-2020,Mizoram,137
+23-04-2020,Nagaland,607
+23-04-2020,Odisha,15984
+23-04-2020,Puducherry,1548
+23-04-2020,Punjab,8757
+23-04-2020,Rajasthan,69764
+23-04-2020,Tamil Nadu,65977
+23-04-2020,Uttar Pradesh,45483
+23-04-2020,Uttarakhand,4473
+23-04-2020,West Bengal,7990
+24-04-2020,Andaman and Nicobar Islands,2679
+24-04-2020,Andhra Pradesh,54338
+24-04-2020,Arunachal Pradesh,526
+24-04-2020,Assam,6680
+24-04-2020,Bihar,14924
+24-04-2020,Chandigarh,638
+24-04-2020,Chhattisgarh,11386
+24-04-2020,Delhi,33672
+24-04-2020,Gujarat,46743
+24-04-2020,Haryana,18845
+24-04-2020,Himachal Pradesh,4328
+24-04-2020,Jammu and Kashmir,11764
+24-04-2020,Jharkhand,6162
+24-04-2020,Karnataka,35958
+24-04-2020,Kerala,21940
+24-04-2020,Madhya Pradesh,26233
+24-04-2020,Maharashtra,95210
+24-04-2020,Manipur,402
+24-04-2020,Meghalaya,1130
+24-04-2020,Odisha,18458
+24-04-2020,Puducherry,1704
+24-04-2020,Punjab,10611
+24-04-2020,Rajasthan,74484
+24-04-2020,Tamil Nadu,72403
+24-04-2020,Uttar Pradesh,53166
+24-04-2020,Uttarakhand,4767
+24-04-2020,West Bengal,8933
+25-04-2020,Andhra Pradesh,61266
+25-04-2020,Assam,7159
+25-04-2020,Bihar,15885
+25-04-2020,Chandigarh,734
+25-04-2020,Chhattisgarh,12596
+25-04-2020,Dadra and Nagar Haveli and Daman and Diu,1386
+25-04-2020,Delhi,35519
+25-04-2020,Gujarat,48315
+25-04-2020,Haryana,20270
+25-04-2020,Himachal Pradesh,4623
+25-04-2020,Jammu and Kashmir,12835
+25-04-2020,Jharkhand,6970
+25-04-2020,Karnataka,39083
+25-04-2020,Kerala,22360
+25-04-2020,Madhya Pradesh,27866
+25-04-2020,Maharashtra,100912
+25-04-2020,Manipur,416
+25-04-2020,Meghalaya,1169
+25-04-2020,Nagaland,613
+25-04-2020,Odisha,20599
+25-04-2020,Puducherry,1864
+25-04-2020,Punjab,13270
+25-04-2020,Rajasthan,78993
+25-04-2020,Tamil Nadu,80110
+25-04-2020,Uttar Pradesh,56851
+25-04-2020,Uttarakhand,5194
+25-04-2020,West Bengal,9880
+26-04-2020,Andhra Pradesh,68034
+26-04-2020,Arunachal Pradesh,568
+26-04-2020,Assam,7823
+26-04-2020,Bihar,17041
+26-04-2020,Chandigarh,756
+26-04-2020,Chhattisgarh,13786
+26-04-2020,Dadra and Nagar Haveli and Daman and Diu,1901
+26-04-2020,Delhi,37613
+26-04-2020,Gujarat,51091
+26-04-2020,Haryana,21467
+26-04-2020,Himachal Pradesh,4901
+26-04-2020,Jammu and Kashmir,13959
+26-04-2020,Jharkhand,7806
+26-04-2020,Karnataka,42964
+26-04-2020,Kerala,22954
+26-04-2020,Madhya Pradesh,25232
+26-04-2020,Maharashtra,107979
+26-04-2020,Mizoram,146
+26-04-2020,Nagaland,613
+26-04-2020,Odisha,22816
+26-04-2020,Puducherry,1977
+26-04-2020,Punjab,14317
+26-04-2020,Rajasthan,82942
+26-04-2020,Tamil Nadu,87605
+26-04-2020,Uttar Pradesh,61799
+26-04-2020,Uttarakhand,5277
+26-04-2020,West Bengal,10893
+27-04-2020,Andaman and Nicobar Islands,2848
+27-04-2020,Andhra Pradesh,74551
+27-04-2020,Arunachal Pradesh,584
+27-04-2020,Assam,8117
+27-04-2020,Bihar,18179
+27-04-2020,Chandigarh,843
+27-04-2020,Chhattisgarh,14987
+27-04-2020,Dadra and Nagar Haveli and Daman and Diu,2379
+27-04-2020,Delhi,39911
+27-04-2020,Goa,1541
+27-04-2020,Gujarat,53575
+27-04-2020,Haryana,22993
+27-04-2020,Himachal Pradesh,5106
+27-04-2020,Jammu and Kashmir,14988
+27-04-2020,Jharkhand,8757
+27-04-2020,Karnataka,45685
+27-04-2020,Kerala,24146
+27-04-2020,Madhya Pradesh,27009
+27-04-2020,Maharashtra,115147
+27-04-2020,Meghalaya,1254
+27-04-2020,Mizoram,146
+27-04-2020,Nagaland,629
+27-04-2020,Odisha,25103
+27-04-2020,Puducherry,2014
+27-04-2020,Punjab,15516
+27-04-2020,Rajasthan,87777
+27-04-2020,Tamil Nadu,94781
+27-04-2020,Uttar Pradesh,67145
+27-04-2020,Uttarakhand,5463
+27-04-2020,West Bengal,12043
+28-04-2020,Andhra Pradesh,80334
+28-04-2020,Arunachal Pradesh,610
+28-04-2020,Bihar,19790
+28-04-2020,Chandigarh,924
+28-04-2020,Chhattisgarh,15737
+28-04-2020,Delhi,43370
+28-04-2020,Goa,1776
+28-04-2020,Gujarat,56101
+28-04-2020,Haryana,24826
+28-04-2020,Himachal Pradesh,5391
+28-04-2020,Jammu and Kashmir,16619
+28-04-2020,Jharkhand,9408
+28-04-2020,Karnataka,50512
+28-04-2020,Kerala,24855
+28-04-2020,Madhya Pradesh,31060
+28-04-2020,Maharashtra,120620
+28-04-2020,Meghalaya,1382
+28-04-2020,Mizoram,158
+28-04-2020,Nagaland,639
+28-04-2020,Odisha,26687
+28-04-2020,Puducherry,2156
+28-04-2020,Punjab,17021
+28-04-2020,Rajasthan,92506
+28-04-2020,Tamil Nadu,101874
+28-04-2020,Telangana,19063
+28-04-2020,Uttar Pradesh,70307
+28-04-2020,Uttarakhand,5739
+28-04-2020,West Bengal,13223
+29-04-2020,Andhra Pradesh,88061
+29-04-2020,Arunachal Pradesh,662
+29-04-2020,Assam,9520
+29-04-2020,Bihar,21180
+29-04-2020,Chandigarh,1012
+29-04-2020,Chhattisgarh,16546
+29-04-2020,Dadra and Nagar Haveli and Daman and Diu,2921
+29-04-2020,Delhi,47225
+29-04-2020,Goa,1871
+29-04-2020,Gujarat,59488
+29-04-2020,Haryana,26148
+29-04-2020,Himachal Pradesh,5772
+29-04-2020,Jammu and Kashmir,18450
+29-04-2020,Jharkhand,10268
+29-04-2020,Karnataka,55404
+29-04-2020,Kerala,25827
+29-04-2020,Ladakh,1949
+29-04-2020,Madhya Pradesh,33837
+29-04-2020,Maharashtra,128726
+29-04-2020,Meghalaya,1397
+29-04-2020,Mizoram,179
+29-04-2020,Nagaland,644
+29-04-2020,Odisha,29108
+29-04-2020,Puducherry,2228
+29-04-2020,Punjab,18670
+29-04-2020,Rajasthan,97790
+29-04-2020,Tamil Nadu,109961
+29-04-2020,Telangana,19278
+29-04-2020,Uttar Pradesh,73716
+29-04-2020,Uttarakhand,6046
+29-04-2020,West Bengal,14620
+30-04-2020,Andhra Pradesh,94558
+30-04-2020,Arunachal Pradesh,694
+30-04-2020,Bihar,22672
+30-04-2020,Chandigarh,1147
+30-04-2020,Chhattisgarh,17541
+30-04-2020,Dadra and Nagar Haveli and Daman and Diu,3464
+30-04-2020,Goa,2031
+30-04-2020,Gujarat,64007
+30-04-2020,Haryana,28202
+30-04-2020,Himachal Pradesh,6133
+30-04-2020,Jammu and Kashmir,19746
+30-04-2020,Jharkhand,10987
+30-04-2020,Karnataka,60156
+30-04-2020,Kerala,27481
+30-04-2020,Ladakh,2245
+30-04-2020,Madhya Pradesh,41712
+30-04-2020,Maharashtra,135694
+30-04-2020,Manipur,459
+30-04-2020,Meghalaya,1595
+30-04-2020,Mizoram,180
+30-04-2020,Nagaland,653
+30-04-2020,Odisha,31696
+30-04-2020,Puducherry,2353
+30-04-2020,Punjab,21205
+30-04-2020,Rajasthan,103704
+30-04-2020,Tamil Nadu,119748
+30-04-2020,Uttar Pradesh,78013
+30-04-2020,Uttarakhand,6565
+30-04-2020,West Bengal,16525
+01-05-2020,Andaman and Nicobar Islands,3754
+01-05-2020,Andhra Pradesh,102460
+01-05-2020,Arunachal Pradesh,724
+01-05-2020,Assam,0
+01-05-2020,Bihar,24118
+01-05-2020,Chandigarh,1252
+01-05-2020,Chhattisgarh,18039
+01-05-2020,Dadra and Nagar Haveli and Daman and Diu,4003
+01-05-2020,Delhi,0
+01-05-2020,Goa,2181
+01-05-2020,Gujarat,68774
+01-05-2020,Haryana,30191
+01-05-2020,Himachal Pradesh,6472
+01-05-2020,Jammu and Kashmir,21695
+01-05-2020,Jharkhand,11771
+01-05-2020,Karnataka,64898
+01-05-2020,Kerala,29012
+01-05-2020,Ladakh,2430
+01-05-2020,Madhya Pradesh,44116
+01-05-2020,Maharashtra,144159
+01-05-2020,Manipur,461
+01-05-2020,Mizoram,180
+01-05-2020,Nagaland,664
+01-05-2020,Odisha,34133
+01-05-2020,Puducherry,2698
+01-05-2020,Punjab,23176
+01-05-2020,Rajasthan,108543
+01-05-2020,Tamil Nadu,129363
+01-05-2020,Tripura,4828
+01-05-2020,Uttar Pradesh,82459
+01-05-2020,Uttarakhand,7042
+01-05-2020,West Bengal,18566
+02-05-2020,Andhra Pradesh,108403
+02-05-2020,Assam,11623
+02-05-2020,Bihar,25724
+02-05-2020,Chandigarh,1462
+02-05-2020,Delhi,58210
+02-05-2020,Goa,2372
+02-05-2020,Gujarat,74116
+02-05-2020,Haryana,31200
+02-05-2020,Himachal Pradesh,6836
+02-05-2020,Jammu and Kashmir,23406
+02-05-2020,Jharkhand,12393
+02-05-2020,Karnataka,69730
+02-05-2020,Kerala,33276
+02-05-2020,Ladakh,2434
+02-05-2020,Madhya Pradesh,46578
+02-05-2020,Maharashtra,151085
+02-05-2020,Manipur,468
+02-05-2020,Meghalaya,1707
+02-05-2020,Mizoram,183
+02-05-2020,Nagaland,674
+02-05-2020,Odisha,36593
+02-05-2020,Puducherry,2990
+02-05-2020,Punjab,24868
+02-05-2020,Rajasthan,113934
+02-05-2020,Tamil Nadu,139490
+02-05-2020,Tripura,4955
+02-05-2020,Uttar Pradesh,85729
+02-05-2020,Uttarakhand,7369
+02-05-2020,West Bengal,20976
+03-05-2020,Andhra Pradesh,114937
+03-05-2020,Arunachal Pradesh,810
+03-05-2020,Bihar,26951
+03-05-2020,Chandigarh,1616
+03-05-2020,Chhattisgarh,19902
+03-05-2020,Dadra and Nagar Haveli and Daman and Diu,4328
+03-05-2020,Delhi,60246
+03-05-2020,Goa,2548
+03-05-2020,Gujarat,80060
+03-05-2020,Haryana,35278
+03-05-2020,Himachal Pradesh,7185
+03-05-2020,Jammu and Kashmir,26038
+03-05-2020,Jharkhand,13055
+03-05-2020,Karnataka,74898
+03-05-2020,Kerala,34608
+03-05-2020,Ladakh,2434
+03-05-2020,Madhya Pradesh,49186
+03-05-2020,Maharashtra,159754
+03-05-2020,Mizoram,183
+03-05-2020,Nagaland,684
+03-05-2020,Odisha,38658
+03-05-2020,Puducherry,3155
+03-05-2020,Punjab,26439
+03-05-2020,Rajasthan,120240
+03-05-2020,Tamil Nadu,150107
+03-05-2020,Tripura,5162
+03-05-2020,Uttar Pradesh,95841
+03-05-2020,Uttarakhand,7578
+03-05-2020,West Bengal,22915
+04-05-2020,Andhra Pradesh,125229
+04-05-2020,Arunachal Pradesh,869
+04-05-2020,Assam,12775
+04-05-2020,Bihar,28345
+04-05-2020,Chandigarh,1678
+04-05-2020,Dadra and Nagar Haveli and Daman and Diu,4434
+04-05-2020,Delhi,64108
+04-05-2020,Goa,2899
+04-05-2020,Gujarat,84648
+04-05-2020,Haryana,38183
+04-05-2020,Himachal Pradesh,7430
+04-05-2020,Jammu and Kashmir,28199
+04-05-2020,Jharkhand,13832
+04-05-2020,Karnataka,79193
+04-05-2020,Kerala,35441
+04-05-2020,Ladakh,2639
+04-05-2020,Madhya Pradesh,52095
+04-05-2020,Maharashtra,168374
+04-05-2020,Manipur,571
+04-05-2020,Meghalaya,1884
+04-05-2020,Mizoram,183
+04-05-2020,Nagaland,708
+04-05-2020,Odisha,41128
+04-05-2020,Puducherry,3281
+04-05-2020,Punjab,28545
+04-05-2020,Rajasthan,129258
+04-05-2020,Sikkim,170
+04-05-2020,Tamil Nadu,162970
+04-05-2020,Tripura,5394
+04-05-2020,Uttar Pradesh,98300
+04-05-2020,Uttarakhand,7806
+04-05-2020,West Bengal,25116
+05-05-2020,Andhra Pradesh,133492
+05-05-2020,Arunachal Pradesh,970
+05-05-2020,Assam,13442
+05-05-2020,Bihar,28791
+05-05-2020,Chandigarh,1713
+05-05-2020,Chhattisgarh,21323
+05-05-2020,Dadra and Nagar Haveli and Daman and Diu,4781
+05-05-2020,Delhi,67852
+05-05-2020,Goa,3096
+05-05-2020,Gujarat,89632
+05-05-2020,Haryana,40982
+05-05-2020,Himachal Pradesh,7893
+05-05-2020,Jammu and Kashmir,31312
+05-05-2020,Jharkhand,15064
+05-05-2020,Karnataka,83806
+05-05-2020,Kerala,36312
+05-05-2020,Madhya Pradesh,54595
+05-05-2020,Maharashtra,175323
+05-05-2020,Meghalaya,1944
+05-05-2020,Mizoram,188
+05-05-2020,Nagaland,724
+05-05-2020,Odisha,44663
+05-05-2020,Puducherry,3560
+05-05-2020,Punjab,30199
+05-05-2020,Rajasthan,134987
+05-05-2020,Sikkim,181
+05-05-2020,Tamil Nadu,174828
+05-05-2020,Tripura,5850
+05-05-2020,Uttar Pradesh,105234
+05-05-2020,Uttarakhand,8060
+05-05-2020,West Bengal,27571
+06-05-2020,Andhra Pradesh,141274
+06-05-2020,Arunachal Pradesh,1039
+06-05-2020,Bihar,29328
+06-05-2020,Chandigarh,1785
+06-05-2020,Chhattisgarh,22188
+06-05-2020,Dadra and Nagar Haveli and Daman and Diu,4967
+06-05-2020,Delhi,71934
+06-05-2020,Goa,3411
+06-05-2020,Gujarat,95191
+06-05-2020,Haryana,43279
+06-05-2020,Himachal Pradesh,8491
+06-05-2020,Jammu and Kashmir,34277
+06-05-2020,Jharkhand,15908
+06-05-2020,Karnataka,88777
+06-05-2020,Kerala,37546
+06-05-2020,Madhya Pradesh,54595
+06-05-2020,Maharashtra,181746
+06-05-2020,Mizoram,195
+06-05-2020,Nagaland,763
+06-05-2020,Odisha,47454
+06-05-2020,Puducherry,3641
+06-05-2020,Punjab,32060
+06-05-2020,Rajasthan,139580
+06-05-2020,Sikkim,189
+06-05-2020,Tamil Nadu,188241
+06-05-2020,Tripura,6228
+06-05-2020,Uttar Pradesh,109888
+06-05-2020,Uttarakhand,8346
+06-05-2020,West Bengal,30141
+07-05-2020,Andhra Pradesh,149361
+07-05-2020,Arunachal Pradesh,1144
+07-05-2020,Bihar,29841
+07-05-2020,Chandigarh,1845
+07-05-2020,Dadra and Nagar Haveli and Daman and Diu,5272
+07-05-2020,Delhi,77234
+07-05-2020,Gujarat,100553
+07-05-2020,Haryana,46495
+07-05-2020,Himachal Pradesh,9005
+07-05-2020,Jammu and Kashmir,37706
+07-05-2020,Jharkhand,17101
+07-05-2020,Karnataka,93535
+07-05-2020,Kerala,38206
+07-05-2020,Madhya Pradesh,61020
+07-05-2020,Maharashtra,189220
+07-05-2020,Manipur,684
+07-05-2020,Meghalaya,2054
+07-05-2020,Mizoram,197
+07-05-2020,Nagaland,786
+07-05-2020,Odisha,50514
+07-05-2020,Puducherry,3866
+07-05-2020,Punjab,34701
+07-05-2020,Rajasthan,145510
+07-05-2020,Sikkim,216
+07-05-2020,Tamil Nadu,202436
+07-05-2020,Tripura,6917
+07-05-2020,Uttar Pradesh,113670
+07-05-2020,Uttarakhand,8783
+07-05-2020,West Bengal,32752
+08-05-2020,Andhra Pradesh,156681
+08-05-2020,Arunachal Pradesh,1354
+08-05-2020,Bihar,30320
+08-05-2020,Chandigarh,1913
+08-05-2020,Chhattisgarh,23629
+08-05-2020,Dadra and Nagar Haveli and Daman and Diu,5430
+08-05-2020,Delhi,81367
+08-05-2020,Goa,4140
+08-05-2020,Gujarat,105386
+08-05-2020,Haryana,49746
+08-05-2020,Himachal Pradesh,9522
+08-05-2020,Jammu and Kashmir,42427
+08-05-2020,Jharkhand,17219
+08-05-2020,Karnataka,98081
+08-05-2020,Kerala,39266
+08-05-2020,Madhya Pradesh,63705
+08-05-2020,Maharashtra,200477
+08-05-2020,Manipur,756
+08-05-2020,Mizoram,199
+08-05-2020,Nagaland,805
+08-05-2020,Odisha,52974
+08-05-2020,Puducherry,4111
+08-05-2020,Punjab,37950
+08-05-2020,Rajasthan,152245
+08-05-2020,Sikkim,216
+08-05-2020,Tamil Nadu,216416
+08-05-2020,Tripura,7448
+08-05-2020,Uttar Pradesh,119688
+08-05-2020,Uttarakhand,9116
+08-05-2020,West Bengal,35767
+09-05-2020,Andhra Pradesh,165069
+09-05-2020,Arunachal Pradesh,1597
+09-05-2020,Assam,16167
+09-05-2020,Bihar,31552
+09-05-2020,Chandigarh,2055
+09-05-2020,Chhattisgarh,24506
+09-05-2020,Delhi,84226
+09-05-2020,Goa,4524
+09-05-2020,Gujarat,109650
+09-05-2020,Haryana,53282
+09-05-2020,Himachal Pradesh,10208
+09-05-2020,Jammu and Kashmir,44753
+09-05-2020,Jharkhand,18632
+09-05-2020,Karnataka,103098
+09-05-2020,Kerala,40123
+09-05-2020,Ladakh,3503
+09-05-2020,Madhya Pradesh,68010
+09-05-2020,Maharashtra,210174
+09-05-2020,Manipur,865
+09-05-2020,Meghalaya,2287
+09-05-2020,Mizoram,201
+09-05-2020,Nagaland,848
+09-05-2020,Odisha,56322
+09-05-2020,Puducherry,4266
+09-05-2020,Punjab,39462
+09-05-2020,Rajasthan,159157
+09-05-2020,Sikkim,219
+09-05-2020,Tamil Nadu,229670
+09-05-2020,Tripura,8340
+09-05-2020,Uttar Pradesh,124791
+09-05-2020,Uttarakhand,9386
+09-05-2020,West Bengal,39368
+10-05-2020,Andhra Pradesh,173735
+10-05-2020,Arunachal Pradesh,1823
+10-05-2020,Assam,18002
+10-05-2020,Bihar,32670
+10-05-2020,Chandigarh,2142
+10-05-2020,Chhattisgarh,25282
+10-05-2020,Dadra and Nagar Haveli and Daman and Diu,5581
+10-05-2020,Delhi,93810
+10-05-2020,Goa,4848
+10-05-2020,Gujarat,113493
+10-05-2020,Haryana,56983
+10-05-2020,Himachal Pradesh,10791
+10-05-2020,Jammu and Kashmir,47080
+10-05-2020,Jharkhand,20832
+10-05-2020,Karnataka,107311
+10-05-2020,Kerala,41279
+10-05-2020,Madhya Pradesh,72069
+10-05-2020,Maharashtra,225524
+10-05-2020,Manipur,1096
+10-05-2020,Meghalaya,2287
+10-05-2020,Mizoram,201
+10-05-2020,Nagaland,862
+10-05-2020,Odisha,59780
+10-05-2020,Puducherry,4364
+10-05-2020,Punjab,40962
+10-05-2020,Rajasthan,166424
+10-05-2020,Sikkim,219
+10-05-2020,Tamil Nadu,243037
+10-05-2020,Tripura,9091
+10-05-2020,Uttar Pradesh,129955
+10-05-2020,Uttarakhand,9668
+10-05-2020,West Bengal,43414
+11-05-2020,Andhra Pradesh,181144
+11-05-2020,Arunachal Pradesh,2078
+11-05-2020,Assam,19589
+11-05-2020,Bihar,34662
+11-05-2020,Chandigarh,2177
+11-05-2020,Dadra and Nagar Haveli and Daman and Diu,5763
+11-05-2020,Delhi,97678
+11-05-2020,Goa,5307
+11-05-2020,Gujarat,116470
+11-05-2020,Haryana,59735
+11-05-2020,Himachal Pradesh,11267
+11-05-2020,Jammu and Kashmir,51334
+11-05-2020,Jharkhand,21201
+11-05-2020,Karnataka,111595
+11-05-2020,Kerala,41700
+11-05-2020,Madhya Pradesh,76039
+11-05-2020,Maharashtra,218914
+11-05-2020,Manipur,1337
+11-05-2020,Meghalaya,2480
+11-05-2020,Mizoram,206
+11-05-2020,Nagaland,875
+11-05-2020,Odisha,63478
+11-05-2020,Puducherry,4486
+11-05-2020,Punjab,42306
+11-05-2020,Rajasthan,176130
+11-05-2020,Sikkim,219
+11-05-2020,Tamil Nadu,254899
+11-05-2020,Tripura,9596
+11-05-2020,Uttar Pradesh,135760
+11-05-2020,Uttarakhand,9915
+11-05-2020,West Bengal,47615
+12-05-2020,Andhra Pradesh,191874
+12-05-2020,Arunachal Pradesh,2257
+12-05-2020,Assam,21791
+12-05-2020,Bihar,37430
+12-05-2020,Chandigarh,2276
+12-05-2020,Chhattisgarh,27339
+12-05-2020,Dadra and Nagar Haveli and Daman and Diu,5977
+12-05-2020,Delhi,106109
+12-05-2020,Gujarat,119536
+12-05-2020,Haryana,62377
+12-05-2020,Himachal Pradesh,12224
+12-05-2020,Jammu and Kashmir,53726
+12-05-2020,Jharkhand,22815
+12-05-2020,Karnataka,116533
+12-05-2020,Kerala,42461
+12-05-2020,Madhya Pradesh,80885
+12-05-2020,Maharashtra,222284
+12-05-2020,Mizoram,224
+12-05-2020,Nagaland,882
+12-05-2020,Odisha,68057
+12-05-2020,Punjab,43999
+12-05-2020,Rajasthan,185610
+12-05-2020,Sikkim,348
+12-05-2020,Tamil Nadu,266687
+12-05-2020,Tripura,10344
+12-05-2020,Uttar Pradesh,140166
+12-05-2020,Uttarakhand,10471
+12-05-2020,West Bengal,52622
+13-05-2020,Andhra Pradesh,201196
+13-05-2020,Arunachal Pradesh,2483
+13-05-2020,Bihar,39149
+13-05-2020,Chandigarh,2420
+13-05-2020,Chhattisgarh,28837
+13-05-2020,Dadra and Nagar Haveli and Daman and Diu,6294
+13-05-2020,Delhi,113345
+13-05-2020,Gujarat,122297
+13-05-2020,Haryana,65785
+13-05-2020,Himachal Pradesh,13190
+13-05-2020,Jammu and Kashmir,57111
+13-05-2020,Jharkhand,25769
+13-05-2020,Karnataka,121178
+13-05-2020,Kerala,43648
+13-05-2020,Ladakh,3683
+13-05-2020,Madhya Pradesh,85903
+13-05-2020,Maharashtra,231061
+13-05-2020,Manipur,1706
+13-05-2020,Mizoram,224
+13-05-2020,Nagaland,889
+13-05-2020,Odisha,72756
+13-05-2020,Puducherry,4919
+13-05-2020,Punjab,46026
+13-05-2020,Rajasthan,194683
+13-05-2020,Sikkim,439
+13-05-2020,Tamil Nadu,279467
+13-05-2020,Tripura,11146
+13-05-2020,Uttar Pradesh,145637
+13-05-2020,Uttarakhand,10792
+13-05-2020,West Bengal,57632
+14-05-2020,Andhra Pradesh,210452
+14-05-2020,Arunachal Pradesh,2677
+14-05-2020,Assam,25824
+14-05-2020,Bihar,40782
+14-05-2020,Chandigarh,2505
+14-05-2020,Chhattisgarh,29697
+14-05-2020,Dadra and Nagar Haveli and Daman and Diu,6554
+14-05-2020,Delhi,119736
+14-05-2020,Goa,6736
+14-05-2020,Gujarat,124708
+14-05-2020,Haryana,69191
+14-05-2020,Himachal Pradesh,14256
+14-05-2020,Jammu and Kashmir,63515
+14-05-2020,Jharkhand,27789
+14-05-2020,Karnataka,128373
+14-05-2020,Kerala,45039
+14-05-2020,Madhya Pradesh,89760
+14-05-2020,Maharashtra,240482
+14-05-2020,Mizoram,273
+14-05-2020,Nagaland,891
+14-05-2020,Odisha,77150
+14-05-2020,Puducherry,5112
+14-05-2020,Punjab,47408
+14-05-2020,Rajasthan,204243
+14-05-2020,Sikkim,579
+14-05-2020,Tamil Nadu,291432
+14-05-2020,Tripura,11804
+14-05-2020,Uttar Pradesh,153139
+14-05-2020,Uttarakhand,11294
+14-05-2020,West Bengal,62837
+15-05-2020,Andhra Pradesh,219490
+15-05-2020,Arunachal Pradesh,2942
+15-05-2020,Assam,28178
+15-05-2020,Bihar,42645
+15-05-2020,Chandigarh,2586
+15-05-2020,Chhattisgarh,31341
+15-05-2020,Dadra and Nagar Haveli and Daman and Diu,6916
+15-05-2020,Delhi,125189
+15-05-2020,Goa,7304
+15-05-2020,Gujarat,127859
+15-05-2020,Haryana,72326
+15-05-2020,Himachal Pradesh,15557
+15-05-2020,Jammu and Kashmir,70306
+15-05-2020,Jharkhand,29236
+15-05-2020,Karnataka,133724
+15-05-2020,Kerala,46831
+15-05-2020,Madhya Pradesh,93849
+15-05-2020,Maharashtra,250898
+15-05-2020,Manipur,1799
+15-05-2020,Meghalaya,2712
+15-05-2020,Mizoram,273
+15-05-2020,Nagaland,910
+15-05-2020,Odisha,81919
+15-05-2020,Puducherry,5312
+15-05-2020,Punjab,49301
+15-05-2020,Rajasthan,212317
+15-05-2020,Sikkim,348
+15-05-2020,Tamil Nadu,303104
+15-05-2020,Tripura,12561
+15-05-2020,Uttar Pradesh,159282
+15-05-2020,Uttarakhand,12045
+15-05-2020,West Bengal,69543
+16-05-2020,Andaman and Nicobar Islands,6677
+16-05-2020,Arunachal Pradesh,3163
+16-05-2020,Assam,31276
+16-05-2020,Bihar,44340
+16-05-2020,Chandigarh,2718
+16-05-2020,Chhattisgarh,32678
+16-05-2020,Delhi,130845
+16-05-2020,Goa,8011
+16-05-2020,Gujarat,138407
+16-05-2020,Haryana,75097
+16-05-2020,Himachal Pradesh,16534
+16-05-2020,Jammu and Kashmir,76191
+16-05-2020,Jharkhand,31025
+16-05-2020,Karnataka,140024
+16-05-2020,Kerala,48433
+16-05-2020,Ladakh,4067
+16-05-2020,Madhya Pradesh,99677
+16-05-2020,Maharashtra,261815
+16-05-2020,Manipur,1900
+16-05-2020,Mizoram,282
+16-05-2020,Nagaland,917
+16-05-2020,Odisha,86140
+16-05-2020,Puducherry,5484
+16-05-2020,Punjab,50613
+16-05-2020,Rajasthan,221439
+16-05-2020,Sikkim,840
+16-05-2020,Tamil Nadu,313639
+16-05-2020,Telangana,23388
+16-05-2020,Tripura,13178
+16-05-2020,Uttar Pradesh,163105
+16-05-2020,Uttarakhand,12597
+16-05-2020,West Bengal,77288
+17-05-2020,Andhra Pradesh,238998
+17-05-2020,Arunachal Pradesh,3349
+17-05-2020,Assam,34376
+17-05-2020,Bihar,45729
+17-05-2020,Chandigarh,2812
+17-05-2020,Dadra and Nagar Haveli and Daman and Diu,7157
+17-05-2020,Delhi,135791
+17-05-2020,Goa,8785
+17-05-2020,Gujarat,143600
+17-05-2020,Haryana,78029
+17-05-2020,Himachal Pradesh,17417
+17-05-2020,Jammu and Kashmir,80934
+17-05-2020,Jharkhand,33220
+17-05-2020,Karnataka,145398
+17-05-2020,Kerala,50036
+17-05-2020,Madhya Pradesh,103898
+17-05-2020,Maharashtra,274040
+17-05-2020,Mizoram,282
+17-05-2020,Nagaland,952
+17-05-2020,Odisha,91223
+17-05-2020,Puducherry,5619
+17-05-2020,Punjab,51812
+17-05-2020,Rajasthan,231946
+17-05-2020,Sikkim,947
+17-05-2020,Tamil Nadu,326720
+17-05-2020,Tripura,13750
+17-05-2020,Uttar Pradesh,172219
+17-05-2020,Uttarakhand,13212
+17-05-2020,West Bengal,85956
+18-05-2020,Andhra Pradesh,248771
+18-05-2020,Arunachal Pradesh,3662
+18-05-2020,Assam,37898
+18-05-2020,Bihar,46996
+18-05-2020,Chandigarh,2892
+18-05-2020,Chhattisgarh,36606
+18-05-2020,Dadra and Nagar Haveli and Daman and Diu,7571
+18-05-2020,Delhi,139727
+18-05-2020,Goa,8785
+18-05-2020,Gujarat,148824
+18-05-2020,Haryana,80698
+18-05-2020,Himachal Pradesh,18224
+18-05-2020,Jammu and Kashmir,88601
+18-05-2020,Jharkhand,35359
+18-05-2020,Karnataka,151663
+18-05-2020,Kerala,51059
+18-05-2020,Ladakh,4219
+18-05-2020,Madhya Pradesh,112168
+18-05-2020,Maharashtra,282437
+18-05-2020,Manipur,2483
+18-05-2020,Meghalaya,2896
+18-05-2020,Mizoram,301
+18-05-2020,Nagaland,961
+18-05-2020,Odisha,95766
+18-05-2020,Puducherry,5754
+18-05-2020,Punjab,52955
+18-05-2020,Rajasthan,243476
+18-05-2020,Sikkim,1087
+18-05-2020,Tamil Nadu,337841
+18-05-2020,Tripura,14286
+18-05-2020,Uttar Pradesh,176479
+18-05-2020,Uttarakhand,13870
+18-05-2020,West Bengal,93570
+19-05-2020,Andaman and Nicobar Islands,6965
+19-05-2020,Andhra Pradesh,258450
+19-05-2020,Arunachal Pradesh,3941
+19-05-2020,Assam,41116
+19-05-2020,Bihar,50563
+19-05-2020,Chandigarh,3031
+19-05-2020,Chhattisgarh,39010
+19-05-2020,Dadra and Nagar Haveli and Daman and Diu,7829
+19-05-2020,Delhi,145854
+19-05-2020,Goa,9549
+19-05-2020,Gujarat,154674
+19-05-2020,Haryana,82544
+19-05-2020,Himachal Pradesh,19645
+19-05-2020,Jammu and Kashmir,96826
+19-05-2020,Jharkhand,37589
+19-05-2020,Karnataka,158599
+19-05-2020,Kerala,52588
+19-05-2020,Ladakh,4730
+19-05-2020,Madhya Pradesh,116473
+19-05-2020,Maharashtra,294272
+19-05-2020,Meghalaya,3104
+19-05-2020,Mizoram,313
+19-05-2020,Nagaland,978
+19-05-2020,Odisha,100302
+19-05-2020,Puducherry,5829
+19-05-2020,Punjab,55634
+19-05-2020,Rajasthan,254533
+19-05-2020,Sikkim,1204
+19-05-2020,Tamil Nadu,348174
+19-05-2020,Tripura,15083
+19-05-2020,Uttar Pradesh,182184
+19-05-2020,Uttarakhand,14691
+19-05-2020,West Bengal,102282
+20-05-2020,Andaman and Nicobar Islands,7082
+20-05-2020,Andhra Pradesh,267612
+20-05-2020,Arunachal Pradesh,4157
+20-05-2020,Assam,47084
+20-05-2020,Bihar,53361
+20-05-2020,Dadra and Nagar Haveli and Daman and Diu,8137
+20-05-2020,Delhi,150282
+20-05-2020,Goa,10136
+20-05-2020,Gujarat,160772
+20-05-2020,Haryana,83944
+20-05-2020,Himachal Pradesh,21147
+20-05-2020,Jammu and Kashmir,101950
+20-05-2020,Jharkhand,39402
+20-05-2020,Karnataka,166781
+20-05-2020,Kerala,54633
+20-05-2020,Madhya Pradesh,120737
+20-05-2020,Maharashtra,307535
+20-05-2020,Manipur,3087
+20-05-2020,Meghalaya,3419
+20-05-2020,Mizoram,315
+20-05-2020,Nagaland,985
+20-05-2020,Odisha,105914
+20-05-2020,Puducherry,5960
+20-05-2020,Punjab,57737
+20-05-2020,Rajasthan,265555
+20-05-2020,Sikkim,1342
+20-05-2020,Tamil Nadu,360068
+20-05-2020,Tripura,15822
+20-05-2020,Uttar Pradesh,191164
+20-05-2020,Uttarakhand,15503
+20-05-2020,West Bengal,111002
+21-05-2020,Andaman and Nicobar Islands,7167
+21-05-2020,Andhra Pradesh,275704
+21-05-2020,Arunachal Pradesh,4438
+21-05-2020,Assam,51730
+21-05-2020,Bihar,55692
+21-05-2020,Chandigarh,3369
+21-05-2020,Chhattisgarh,45522
+21-05-2020,Dadra and Nagar Haveli and Daman and Diu,8456
+21-05-2020,Delhi,154385
+21-05-2020,Goa,10859
+21-05-2020,Gujarat,166152
+21-05-2020,Haryana,88138
+21-05-2020,Himachal Pradesh,22641
+21-05-2020,Jammu and Kashmir,107108
+21-05-2020,Jharkhand,41936
+21-05-2020,Karnataka,174297
+21-05-2020,Kerala,56373
+21-05-2020,Ladakh,5291
+21-05-2020,Madhya Pradesh,125608
+21-05-2020,Maharashtra,319921
+21-05-2020,Mizoram,320
+21-05-2020,Nagaland,1001
+21-05-2020,Odisha,108432
+21-05-2020,Puducherry,6106
+21-05-2020,Punjab,59618
+21-05-2020,Rajasthan,275974
+21-05-2020,Tamil Nadu,372532
+21-05-2020,Tripura,16873
+21-05-2020,Uttar Pradesh,206811
+21-05-2020,Uttarakhand,16528
+21-05-2020,West Bengal,115244
+22-05-2020,Andaman and Nicobar Islands,7263
+22-05-2020,Andhra Pradesh,284119
+22-05-2020,Arunachal Pradesh,4844
+22-05-2020,Assam,55791
+22-05-2020,Bihar,58481
+22-05-2020,Chandigarh,3531
+22-05-2020,Chhattisgarh,48116
+22-05-2020,Dadra and Nagar Haveli and Daman and Diu,8979
+22-05-2020,Delhi,160255
+22-05-2020,Goa,11362
+22-05-2020,Gujarat,172562
+22-05-2020,Haryana,91119
+22-05-2020,Himachal Pradesh,24246
+22-05-2020,Jammu and Kashmir,114859
+22-05-2020,Jharkhand,43988
+22-05-2020,Karnataka,186526
+22-05-2020,Kerala,58382
+22-05-2020,Ladakh,5505
+22-05-2020,Madhya Pradesh,129060
+22-05-2020,Maharashtra,333087
+22-05-2020,Manipur,3721
+22-05-2020,Meghalaya,3682
+22-05-2020,Mizoram,324
+22-05-2020,Nagaland,1035
+22-05-2020,Odisha,113437
+22-05-2020,Puducherry,6233
+22-05-2020,Punjab,62399
+22-05-2020,Rajasthan,287164
+22-05-2020,Sikkim,1637
+22-05-2020,Tamil Nadu,385185
+22-05-2020,Tripura,17721
+22-05-2020,Uttar Pradesh,214060
+22-05-2020,Uttarakhand,18008
+22-05-2020,West Bengal,120599
+23-05-2020,Andaman and Nicobar Islands,7327
+23-05-2020,Andhra Pradesh,292969
+23-05-2020,Arunachal Pradesh,5206
+23-05-2020,Assam,60405
+23-05-2020,Bihar,61220
+23-05-2020,Chandigarh,3749
+23-05-2020,Chhattisgarh,49763
+23-05-2020,Dadra and Nagar Haveli and Daman and Diu,9298
+23-05-2020,Delhi,165047
+23-05-2020,Goa,11945
+23-05-2020,Gujarat,178068
+23-05-2020,Haryana,94035
+23-05-2020,Himachal Pradesh,25905
+23-05-2020,Jammu and Kashmir,124074
+23-05-2020,Jharkhand,45785
+23-05-2020,Karnataka,196196
+23-05-2020,Kerala,60443
+23-05-2020,Ladakh,5727
+23-05-2020,Madhya Pradesh,132769
+23-05-2020,Maharashtra,348932
+23-05-2020,Manipur,4094
+23-05-2020,Mizoram,336
+23-05-2020,Nagaland,1065
+23-05-2020,Odisha,118446
+23-05-2020,Puducherry,6349
+23-05-2020,Punjab,63567
+23-05-2020,Rajasthan,303935
+23-05-2020,Sikkim,1707
+23-05-2020,Tamil Nadu,397340
+23-05-2020,Tripura,18737
+23-05-2020,Uttar Pradesh,217867
+23-05-2020,Uttarakhand,19248
+23-05-2020,West Bengal,129608
+24-05-2020,Andaman and Nicobar Islands,7327
+24-05-2020,Andhra Pradesh,304326
+24-05-2020,Arunachal Pradesh,5428
+24-05-2020,Assam,66444
+24-05-2020,Bihar,63741
+24-05-2020,Chandigarh,3904
+24-05-2020,Dadra and Nagar Haveli and Daman and Diu,9678
+24-05-2020,Delhi,169873
+24-05-2020,Goa,12499
+24-05-2020,Gujarat,182868
+24-05-2020,Haryana,97006
+24-05-2020,Himachal Pradesh,27288
+24-05-2020,Jammu and Kashmir,130433
+24-05-2020,Jharkhand,48641
+24-05-2020,Karnataka,206313
+24-05-2020,Kerala,61900
+24-05-2020,Ladakh,5730
+24-05-2020,Madhya Pradesh,135889
+24-05-2020,Maharashtra,363470
+24-05-2020,Mizoram,342
+24-05-2020,Nagaland,1097
+24-05-2020,Odisha,123834
+24-05-2020,Puducherry,6536
+24-05-2020,Punjab,66142
+24-05-2020,Rajasthan,317067
+24-05-2020,Sikkim,1855
+24-05-2020,Tamil Nadu,409615
+24-05-2020,Tripura,19278
+24-05-2020,Uttar Pradesh,229621
+24-05-2020,Uttarakhand,20969
+24-05-2020,West Bengal,138824
+25-05-2020,Andaman and Nicobar Islands,7363
+25-05-2020,Andhra Pradesh,314566
+25-05-2020,Arunachal Pradesh,5997
+25-05-2020,Assam,70029
+25-05-2020,Chandigarh,4089
+25-05-2020,Chhattisgarh,55022
+25-05-2020,Dadra and Nagar Haveli and Daman and Diu,10085
+25-05-2020,Delhi,174469
+25-05-2020,Goa,12860
+25-05-2020,Gujarat,186361
+25-05-2020,Haryana,99987
+25-05-2020,Himachal Pradesh,28346
+25-05-2020,Jammu and Kashmir,134188
+25-05-2020,Jharkhand,50709
+25-05-2020,Karnataka,219894
+25-05-2020,Kerala,63009
+25-05-2020,Ladakh,5896
+25-05-2020,Madhya Pradesh,138584
+25-05-2020,Maharashtra,379185
+25-05-2020,Manipur,5041
+25-05-2020,Mizoram,359
+25-05-2020,Nagaland,1366
+25-05-2020,Odisha,127776
+25-05-2020,Puducherry,6606
+25-05-2020,Punjab,67213
+25-05-2020,Rajasthan,327836
+25-05-2020,Sikkim,2103
+25-05-2020,Tamil Nadu,421450
+25-05-2020,Tripura,20871
+25-05-2020,Uttar Pradesh,235622
+25-05-2020,Uttarakhand,22117
+25-05-2020,West Bengal,148049
+26-05-2020,Andaman and Nicobar Islands,7448
+26-05-2020,Andhra Pradesh,322714
+26-05-2020,Arunachal Pradesh,6319
+26-05-2020,Assam,72654
+26-05-2020,Bihar,0
+26-05-2020,Chandigarh,4207
+26-05-2020,Chhattisgarh,57479
+26-05-2020,Dadra and Nagar Haveli and Daman and Diu,10388
+26-05-2020,Delhi,178579
+26-05-2020,Goa,13303
+26-05-2020,Gujarat,189313
+26-05-2020,Haryana,102018
+26-05-2020,Himachal Pradesh,29379
+26-05-2020,Jammu and Kashmir,140962
+26-05-2020,Jharkhand,53309
+26-05-2020,Karnataka,228914
+26-05-2020,Kerala,65303
+26-05-2020,Madhya Pradesh,141508
+26-05-2020,Maharashtra,390757
+26-05-2020,Manipur,6233
+26-05-2020,Meghalaya,6553
+26-05-2020,Mizoram,438
+26-05-2020,Nagaland,1366
+26-05-2020,Odisha,131595
+26-05-2020,Puducherry,6677
+26-05-2020,Punjab,69818
+26-05-2020,Rajasthan,337159
+26-05-2020,Sikkim,2255
+26-05-2020,Tamil Nadu,431739
+26-05-2020,Tripura,22049
+26-05-2020,Uttar Pradesh,240588
+26-05-2020,Uttarakhand,23076
+26-05-2020,West Bengal,157277
+27-05-2020,Andaman and Nicobar Islands,7499
+27-05-2020,Andhra Pradesh,332378
+27-05-2020,Arunachal Pradesh,6436
+27-05-2020,Bihar,68262
+27-05-2020,Chandigarh,4332
+27-05-2020,Chhattisgarh,59320
+27-05-2020,Dadra and Nagar Haveli and Daman and Diu,10872
+27-05-2020,Delhi,184362
+27-05-2020,Goa,13911
+27-05-2020,Gujarat,193863
+27-05-2020,Haryana,104747
+27-05-2020,Himachal Pradesh,30852
+27-05-2020,Jammu and Kashmir,145162
+27-05-2020,Jharkhand,55427
+27-05-2020,Karnataka,241608
+27-05-2020,Kerala,67961
+27-05-2020,Madhya Pradesh,146144
+27-05-2020,Maharashtra,405020
+27-05-2020,Manipur,6836
+27-05-2020,Meghalaya,6685
+27-05-2020,Nagaland,1554
+27-05-2020,Odisha,136274
+27-05-2020,Puducherry,6808
+27-05-2020,Punjab,72468
+27-05-2020,Rajasthan,350600
+27-05-2020,Sikkim,2417
+27-05-2020,Tamil Nadu,442970
+27-05-2020,Tripura,23264
+27-05-2020,Uttar Pradesh,240588
+27-05-2020,Uttarakhand,23975
+27-05-2020,West Bengal,166513
+28-05-2020,Andaman and Nicobar Islands,7519
+28-05-2020,Andhra Pradesh,342236
+28-05-2020,Arunachal Pradesh,6984
+28-05-2020,Bihar,70275
+28-05-2020,Chandigarh,4467
+28-05-2020,Chhattisgarh,61771
+28-05-2020,Dadra and Nagar Haveli and Daman and Diu,11177
+28-05-2020,Delhi,191977
+28-05-2020,Goa,14782
+28-05-2020,Gujarat,198048
+28-05-2020,Haryana,108031
+28-05-2020,Himachal Pradesh,32449
+28-05-2020,Jammu and Kashmir,153522
+28-05-2020,Jharkhand,57250
+28-05-2020,Karnataka,252078
+28-05-2020,Kerala,70622
+28-05-2020,Madhya Pradesh,151182
+28-05-2020,Maharashtra,420473
+28-05-2020,Manipur,7758
+28-05-2020,Mizoram,516
+28-05-2020,Nagaland,1765
+28-05-2020,Odisha,139311
+28-05-2020,Puducherry,6917
+28-05-2020,Punjab,72468
+28-05-2020,Rajasthan,365556
+28-05-2020,Sikkim,2626
+28-05-2020,Tamil Nadu,455216
+28-05-2020,Tripura,24126
+28-05-2020,Uttar Pradesh,256267
+28-05-2020,Uttarakhand,25380
+28-05-2020,West Bengal,175769
+29-05-2020,Andaman and Nicobar Islands,7567
+29-05-2020,Andhra Pradesh,353874
+29-05-2020,Arunachal Pradesh,7488
+29-05-2020,Assam,92390
+29-05-2020,Bihar,72256
+29-05-2020,Chandigarh,4543
+29-05-2020,Chhattisgarh,63992
+29-05-2020,Dadra and Nagar Haveli and Daman and Diu,11477
+29-05-2020,Delhi,199626
+29-05-2020,Goa,16141
+29-05-2020,Gujarat,201481
+29-05-2020,Haryana,110940
+29-05-2020,Himachal Pradesh,33979
+29-05-2020,Jammu and Kashmir,158729
+29-05-2020,Jharkhand,59452
+29-05-2020,Karnataka,264489
+29-05-2020,Kerala,74214
+29-05-2020,Madhya Pradesh,155436
+29-05-2020,Maharashtra,434565
+29-05-2020,Manipur,8596
+29-05-2020,Mizoram,529
+29-05-2020,Nagaland,1997
+29-05-2020,Odisha,143570
+29-05-2020,Puducherry,7043
+29-05-2020,Punjab,81021
+29-05-2020,Rajasthan,379315
+29-05-2020,Sikkim,2759
+29-05-2020,Tamil Nadu,466550
+29-05-2020,Tripura,25403
+29-05-2020,Uttar Pradesh,270920
+29-05-2020,Uttarakhand,26951
+29-05-2020,West Bengal,185051
+30-05-2020,Andaman and Nicobar Islands,7567
+30-05-2020,Andhra Pradesh,363378
+30-05-2020,Arunachal Pradesh,8017
+30-05-2020,Assam,101257
+30-05-2020,Bihar,73929
+30-05-2020,Chandigarh,4654
+30-05-2020,Chhattisgarh,66417
+30-05-2020,Delhi,206739
+30-05-2020,Goa,17871
+30-05-2020,Gujarat,205780
+30-05-2020,Haryana,114683
+30-05-2020,Himachal Pradesh,35668
+30-05-2020,Jammu and Kashmir,164581
+30-05-2020,Jharkhand,62916
+30-05-2020,Karnataka,280217
+30-05-2020,Kerala,77257
+30-05-2020,Ladakh,7354
+30-05-2020,Madhya Pradesh,161552
+30-05-2020,Maharashtra,448661
+30-05-2020,Mizoram,686
+30-05-2020,Nagaland,2210
+30-05-2020,Odisha,147490
+30-05-2020,Puducherry,7164
+30-05-2020,Punjab,84497
+30-05-2020,Rajasthan,395490
+30-05-2020,Sikkim,2829
+30-05-2020,Tamil Nadu,479155
+30-05-2020,Tripura,26376
+30-05-2020,Uttar Pradesh,279288
+30-05-2020,Uttarakhand,28433
+30-05-2020,West Bengal,194397
+31-05-2020,Andaman and Nicobar Islands,7706
+31-05-2020,Andhra Pradesh,372748
+31-05-2020,Arunachal Pradesh,8283
+31-05-2020,Assam,109097
+31-05-2020,Bihar,75737
+31-05-2020,Chandigarh,4785
+31-05-2020,Chhattisgarh,69152
+31-05-2020,Delhi,212784
+31-05-2020,Goa,19491
+31-05-2020,Gujarat,211930
+31-05-2020,Haryana,118138
+31-05-2020,Himachal Pradesh,37168
+31-05-2020,Jammu and Kashmir,171045
+31-05-2020,Jharkhand,65886
+31-05-2020,Karnataka,293575
+31-05-2020,Kerala,77508
+31-05-2020,Ladakh,7354
+31-05-2020,Madhya Pradesh,167808
+31-05-2020,Maharashtra,463177
+31-05-2020,Meghalaya,7781
+31-05-2020,Mizoram,777
+31-05-2020,Nagaland,2576
+31-05-2020,Odisha,152131
+31-05-2020,Puducherry,7255
+31-05-2020,Punjab,87852
+31-05-2020,Rajasthan,409777
+31-05-2020,Sikkim,2925
+31-05-2020,Tamil Nadu,491962
+31-05-2020,Tripura,27475
+31-05-2020,Uttar Pradesh,289892
+31-05-2020,Uttarakhand,30438
+31-05-2020,West Bengal,203751
+01-06-2020,Andaman and Nicobar Islands,7805
+01-06-2020,Andhra Pradesh,383315
+01-06-2020,Arunachal Pradesh,8768
+01-06-2020,Bihar,78090
+01-06-2020,Chandigarh,4816
+01-06-2020,Chhattisgarh,70726
+01-06-2020,Dadra and Nagar Haveli and Daman and Diu,11693
+01-06-2020,Delhi,217537
+01-06-2020,Goa,20780
+01-06-2020,Gujarat,216258
+01-06-2020,Haryana,121779
+01-06-2020,Himachal Pradesh,37897
+01-06-2020,Jammu and Kashmir,176309
+01-06-2020,Jharkhand,69187
+01-06-2020,Karnataka,304816
+01-06-2020,Kerala,82449
+01-06-2020,Madhya Pradesh,172019
+01-06-2020,Maharashtra,472344
+01-06-2020,Meghalaya,8127
+01-06-2020,Mizoram,896
+01-06-2020,Nagaland,2870
+01-06-2020,Odisha,155690
+01-06-2020,Puducherry,7354
+01-06-2020,Punjab,91113
+01-06-2020,Rajasthan,425184
+01-06-2020,Sikkim,3525
+01-06-2020,Tamil Nadu,503339
+01-06-2020,Tripura,28360
+01-06-2020,Uttar Pradesh,297903
+01-06-2020,Uttarakhand,31703
+01-06-2020,West Bengal,213231
+02-06-2020,Andaman and Nicobar Islands,8086
+02-06-2020,Andhra Pradesh,395681
+02-06-2020,Arunachal Pradesh,9079
+02-06-2020,Assam,120375
+02-06-2020,Bihar,81413
+02-06-2020,Chandigarh,4902
+02-06-2020,Chhattisgarh,73198
+02-06-2020,Delhi,223607
+02-06-2020,Goa,22378
+02-06-2020,Gujarat,221610
+02-06-2020,Haryana,124564
+02-06-2020,Himachal Pradesh,39620
+02-06-2020,Jammu and Kashmir,183067
+02-06-2020,Jharkhand,71296
+02-06-2020,Karnataka,319628
+02-06-2020,Kerala,86169
+02-06-2020,Ladakh,8310
+02-06-2020,Madhya Pradesh,177481
+02-06-2020,Maharashtra,484784
+02-06-2020,Meghalaya,8734
+02-06-2020,Mizoram,1012
+02-06-2020,Nagaland,3257
+02-06-2020,Odisha,159567
+02-06-2020,Puducherry,7444
+02-06-2020,Punjab,96329
+02-06-2020,Rajasthan,440789
+02-06-2020,Sikkim,3788
+02-06-2020,Tamil Nadu,514433
+02-06-2020,Tripura,29066
+02-06-2020,Uttar Pradesh,307621
+02-06-2020,Uttarakhand,33081
+02-06-2020,West Bengal,222726
+03-06-2020,Andaman and Nicobar Islands,8295
+03-06-2020,Andhra Pradesh,403747
+03-06-2020,Arunachal Pradesh,9551
+03-06-2020,Assam,126726
+03-06-2020,Bihar,84729
+03-06-2020,Chandigarh,4977
+03-06-2020,Chhattisgarh,76446
+03-06-2020,Dadra and Nagar Haveli and Daman and Diu,12064
+03-06-2020,Delhi,230145
+03-06-2020,Goa,23816
+03-06-2020,Gujarat,227898
+03-06-2020,Haryana,127895
+03-06-2020,Himachal Pradesh,41351
+03-06-2020,Jammu and Kashmir,189364
+03-06-2020,Jharkhand,74499
+03-06-2020,Karnataka,334825
+03-06-2020,Kerala,95348
+03-06-2020,Madhya Pradesh,183662
+03-06-2020,Maharashtra,498577
+03-06-2020,Manipur,12454
+03-06-2020,Meghalaya,9025
+03-06-2020,Mizoram,1095
+03-06-2020,Nagaland,3414
+03-06-2020,Odisha,162891
+03-06-2020,Puducherry,7576
+03-06-2020,Punjab,101036
+03-06-2020,Rajasthan,454788
+03-06-2020,Sikkim,4102
+03-06-2020,Tamil Nadu,528534
+03-06-2020,Tripura,30481
+03-06-2020,Uttar Pradesh,317780
+03-06-2020,Uttarakhand,34413
+03-06-2020,West Bengal,232225
+04-06-2020,Andaman and Nicobar Islands,8413
+04-06-2020,Andhra Pradesh,413733
+04-06-2020,Arunachal Pradesh,10025
+04-06-2020,Assam,133029
+04-06-2020,Bihar,88313
+04-06-2020,Chandigarh,5059
+04-06-2020,Chhattisgarh,78971
+04-06-2020,Dadra and Nagar Haveli and Daman and Diu,12375
+04-06-2020,Delhi,236506
+04-06-2020,Goa,25300
+04-06-2020,Gujarat,233921
+04-06-2020,Haryana,132575
+04-06-2020,Himachal Pradesh,42703
+04-06-2020,Jammu and Kashmir,195677
+04-06-2020,Jharkhand,77641
+04-06-2020,Karnataka,347093
+04-06-2020,Kerala,99692
+04-06-2020,Madhya Pradesh,189252
+04-06-2020,Maharashtra,511136
+04-06-2020,Meghalaya,9395
+04-06-2020,Mizoram,1346
+04-06-2020,Nagaland,3739
+04-06-2020,Odisha,165824
+04-06-2020,Puducherry,7794
+04-06-2020,Punjab,106933
+04-06-2020,Rajasthan,467129
+04-06-2020,Sikkim,4358
+04-06-2020,Tamil Nadu,544981
+04-06-2020,Tripura,31138
+04-06-2020,Uttar Pradesh,330663
+04-06-2020,Uttarakhand,35117
+04-06-2020,West Bengal,241831
+05-06-2020,Andaman and Nicobar Islands,8694
+05-06-2020,Andhra Pradesh,423564
+05-06-2020,Arunachal Pradesh,10790
+05-06-2020,Bihar,91903
+05-06-2020,Chandigarh,5121
+05-06-2020,Chhattisgarh,81773
+05-06-2020,Dadra and Nagar Haveli and Daman and Diu,13667
+05-06-2020,Delhi,241693
+05-06-2020,Goa,26208
+05-06-2020,Gujarat,239911
+05-06-2020,Haryana,137452
+05-06-2020,Himachal Pradesh,43688
+05-06-2020,Jammu and Kashmir,202257
+05-06-2020,Jharkhand,80097
+05-06-2020,Karnataka,360720
+05-06-2020,Kerala,104045
+05-06-2020,Ladakh,9754
+05-06-2020,Madhya Pradesh,195249
+05-06-2020,Maharashtra,524002
+05-06-2020,Manipur,14629
+05-06-2020,Meghalaya,9592
+05-06-2020,Mizoram,1687
+05-06-2020,Nagaland,3974
+05-06-2020,Odisha,169010
+05-06-2020,Puducherry,7963
+05-06-2020,Punjab,113542
+05-06-2020,Rajasthan,480910
+05-06-2020,Sikkim,4761
+05-06-2020,Tamil Nadu,560673
+05-06-2020,Tripura,32300
+05-06-2020,Uttar Pradesh,344717
+05-06-2020,Uttarakhand,35967
+05-06-2020,West Bengal,251517
+06-06-2020,Andaman and Nicobar Islands,9037
+06-06-2020,Andhra Pradesh,436335
+06-06-2020,Arunachal Pradesh,11261
+06-06-2020,Assam,146605
+06-06-2020,Bihar,95473
+06-06-2020,Chandigarh,5237
+06-06-2020,Chhattisgarh,85346
+06-06-2020,Dadra and Nagar Haveli and Daman and Diu,14780
+06-06-2020,Delhi,246873
+06-06-2020,Goa,27402
+06-06-2020,Gujarat,245606
+06-06-2020,Haryana,141688
+06-06-2020,Himachal Pradesh,44509
+06-06-2020,Jammu and Kashmir,211880
+06-06-2020,Jharkhand,84444
+06-06-2020,Karnataka,372582
+06-06-2020,Kerala,107796
+06-06-2020,Ladakh,10164
+06-06-2020,Madhya Pradesh,200913
+06-06-2020,Maharashtra,538009
+06-06-2020,Meghalaya,10066
+06-06-2020,Mizoram,1991
+06-06-2020,Nagaland,4061
+06-06-2020,Odisha,172598
+06-06-2020,Puducherry,8118
+06-06-2020,Punjab,115974
+06-06-2020,Rajasthan,494480
+06-06-2020,Sikkim,5005
+06-06-2020,Tamil Nadu,576695
+06-06-2020,Tripura,33331
+06-06-2020,Uttar Pradesh,355085
+06-06-2020,Uttarakhand,36638
+06-06-2020,West Bengal,261288
+07-06-2020,Andaman and Nicobar Islands,9242
+07-06-2020,Andhra Pradesh,454030
+07-06-2020,Arunachal Pradesh,11516
+07-06-2020,Assam,153326
+07-06-2020,Bihar,99108
+07-06-2020,Chandigarh,5312
+07-06-2020,Chhattisgarh,88896
+07-06-2020,Dadra and Nagar Haveli and Daman and Diu,15546
+07-06-2020,Delhi,251915
+07-06-2020,Goa,29739
+07-06-2020,Gujarat,251686
+07-06-2020,Haryana,145722
+07-06-2020,Himachal Pradesh,45888
+07-06-2020,Jammu and Kashmir,218481
+07-06-2020,Jharkhand,87721
+07-06-2020,Karnataka,384442
+07-06-2020,Kerala,111930
+07-06-2020,Madhya Pradesh,208514
+07-06-2020,Maharashtra,553063
+07-06-2020,Manipur,17028
+07-06-2020,Meghalaya,10066
+07-06-2020,Mizoram,2252
+07-06-2020,Nagaland,4371
+07-06-2020,Odisha,176098
+07-06-2020,Puducherry,8274
+07-06-2020,Punjab,124266
+07-06-2020,Rajasthan,506784
+07-06-2020,Tamil Nadu,592970
+07-06-2020,Tripura,35263
+07-06-2020,Uttar Pradesh,360258
+07-06-2020,Uttarakhand,37166
+07-06-2020,West Bengal,271074
+08-06-2020,Andaman and Nicobar Islands,9341
+08-06-2020,Andhra Pradesh,468276
+08-06-2020,Arunachal Pradesh,12012
+08-06-2020,Bihar,102318
+08-06-2020,Chandigarh,5385
+08-06-2020,Chhattisgarh,92598
+08-06-2020,Dadra and Nagar Haveli and Daman and Diu,16277
+08-06-2020,Delhi,255615
+08-06-2020,Goa,31455
+08-06-2020,Gujarat,256289
+08-06-2020,Haryana,150220
+08-06-2020,Himachal Pradesh,46416
+08-06-2020,Jammu and Kashmir,227906
+08-06-2020,Jharkhand,92325
+08-06-2020,Karnataka,393221
+08-06-2020,Kerala,113956
+08-06-2020,Madhya Pradesh,215194
+08-06-2020,Maharashtra,565290
+08-06-2020,Meghalaya,10746
+08-06-2020,Mizoram,2496
+08-06-2020,Nagaland,4729
+08-06-2020,Odisha,179415
+08-06-2020,Puducherry,8472
+08-06-2020,Punjab,129821
+08-06-2020,Rajasthan,518350
+08-06-2020,Sikkim,5547
+08-06-2020,Tamil Nadu,607952
+08-06-2020,Tripura,37453
+08-06-2020,Uttar Pradesh,380723
+08-06-2020,Uttarakhand,39133
+08-06-2020,West Bengal,280098
+09-06-2020,Andaman and Nicobar Islands,9859
+09-06-2020,Andhra Pradesh,483361
+09-06-2020,Arunachal Pradesh,12455
+09-06-2020,Assam,169842
+09-06-2020,Bihar,105588
+09-06-2020,Chhattisgarh,93059
+09-06-2020,Delhi,261079
+09-06-2020,Goa,32194
+09-06-2020,Gujarat,261587
+09-06-2020,Haryana,153692
+09-06-2020,Himachal Pradesh,47655
+09-06-2020,Jammu and Kashmir,235816
+09-06-2020,Jharkhand,95099
+09-06-2020,Karnataka,400257
+09-06-2020,Kerala,126088
+09-06-2020,Ladakh,10249
+09-06-2020,Madhya Pradesh,220936
+09-06-2020,Maharashtra,579294
+09-06-2020,Manipur,18612
+09-06-2020,Meghalaya,11247
+09-06-2020,Mizoram,2747
+09-06-2020,Nagaland,4896
+09-06-2020,Odisha,182384
+09-06-2020,Puducherry,8752
+09-06-2020,Punjab,136343
+09-06-2020,Rajasthan,530031
+09-06-2020,Sikkim,5815
+09-06-2020,Tamil Nadu,621171
+09-06-2020,Tripura,38572
+09-06-2020,Uttar Pradesh,391286
+09-06-2020,Uttarakhand,40264
+09-06-2020,West Bengal,287900
+10-06-2020,Andaman and Nicobar Islands,10010
+10-06-2020,Andhra Pradesh,498716
+10-06-2020,Arunachal Pradesh,13035
+10-06-2020,Bihar,109483
+10-06-2020,Chandigarh,5532
+10-06-2020,Chhattisgarh,94576
+10-06-2020,Dadra and Nagar Haveli and Daman and Diu,17179
+10-06-2020,Delhi,266156
+10-06-2020,Goa,35332
+10-06-2020,Gujarat,266404
+10-06-2020,Haryana,158470
+10-06-2020,Himachal Pradesh,48922
+10-06-2020,Jammu and Kashmir,241891
+10-06-2020,Jharkhand,95500
+10-06-2020,Karnataka,408506
+10-06-2020,Kerala,131006
+10-06-2020,Madhya Pradesh,228042
+10-06-2020,Maharashtra,595282
+10-06-2020,Manipur,19756
+10-06-2020,Meghalaya,11505
+10-06-2020,Mizoram,2747
+10-06-2020,Nagaland,5220
+10-06-2020,Odisha,185401
+10-06-2020,Puducherry,8954
+10-06-2020,Punjab,144467
+10-06-2020,Rajasthan,543312
+10-06-2020,Sikkim,6161
+10-06-2020,Tamil Nadu,638846
+10-06-2020,Tripura,40027
+10-06-2020,Uttar Pradesh,404637
+10-06-2020,Uttarakhand,40872
+10-06-2020,West Bengal,297419
+11-06-2020,Andaman and Nicobar Islands,10226
+11-06-2020,Andhra Pradesh,510318
+11-06-2020,Arunachal Pradesh,13479
+11-06-2020,Assam,181108
+11-06-2020,Bihar,113225
+11-06-2020,Chandigarh,5636
+11-06-2020,Chhattisgarh,96230
+11-06-2020,Delhi,271516
+11-06-2020,Goa,37858
+11-06-2020,Gujarat,272924
+11-06-2020,Haryana,162967
+11-06-2020,Himachal Pradesh,50222
+11-06-2020,Jammu and Kashmir,247267
+11-06-2020,Jharkhand,99931
+11-06-2020,Karnataka,416506
+11-06-2020,Kerala,135974
+11-06-2020,Ladakh,10855
+11-06-2020,Madhya Pradesh,233740
+11-06-2020,Maharashtra,610790
+11-06-2020,Manipur,20528
+11-06-2020,Meghalaya,11889
+11-06-2020,Mizoram,3152
+11-06-2020,Nagaland,5667
+11-06-2020,Odisha,188743
+11-06-2020,Puducherry,9250
+11-06-2020,Punjab,154498
+11-06-2020,Rajasthan,558064
+11-06-2020,Sikkim,6692
+11-06-2020,Tamil Nadu,655675
+11-06-2020,Tripura,41389
+11-06-2020,Uttar Pradesh,420669
+11-06-2020,Uttarakhand,41888
+11-06-2020,West Bengal,306941
+12-06-2020,Andaman and Nicobar Islands,10697
+12-06-2020,Andhra Pradesh,522093
+12-06-2020,Arunachal Pradesh,14047
+12-06-2020,Assam,188090
+12-06-2020,Bihar,116671
+12-06-2020,Chandigarh,5708
+12-06-2020,Chhattisgarh,98603
+12-06-2020,Delhi,277463
+12-06-2020,Goa,39298
+12-06-2020,Gujarat,278137
+12-06-2020,Haryana,167501
+12-06-2020,Himachal Pradesh,51420
+12-06-2020,Jammu and Kashmir,254059
+12-06-2020,Jharkhand,102092
+12-06-2020,Karnataka,426341
+12-06-2020,Kerala,140457
+12-06-2020,Ladakh,10986
+12-06-2020,Madhya Pradesh,241461
+12-06-2020,Maharashtra,626521
+12-06-2020,Meghalaya,12219
+12-06-2020,Nagaland,6104
+12-06-2020,Odisha,192576
+12-06-2020,Puducherry,9658
+12-06-2020,Punjab,165548
+12-06-2020,Rajasthan,571543
+12-06-2020,Sikkim,5157
+12-06-2020,Tamil Nadu,673906
+12-06-2020,Tripura,40837
+12-06-2020,Uttar Pradesh,435601
+12-06-2020,Uttarakhand,42783
+12-06-2020,West Bengal,315699
+13-06-2020,Andaman and Nicobar Islands,10955
+13-06-2020,Andhra Pradesh,536570
+13-06-2020,Arunachal Pradesh,14518
+13-06-2020,Bihar,120086
+13-06-2020,Chandigarh,5839
+13-06-2020,Chhattisgarh,101554
+13-06-2020,Dadra and Nagar Haveli and Daman and Diu,17649
+13-06-2020,Delhi,283239
+13-06-2020,Goa,40723
+13-06-2020,Gujarat,283623
+13-06-2020,Haryana,171560
+13-06-2020,Himachal Pradesh,52737
+13-06-2020,Jammu and Kashmir,260098
+13-06-2020,Jharkhand,103905
+13-06-2020,Karnataka,436518
+13-06-2020,Kerala,144842
+13-06-2020,Ladakh,11135
+13-06-2020,Madhya Pradesh,246973
+13-06-2020,Maharashtra,643057
+13-06-2020,Manipur,24046
+13-06-2020,Meghalaya,12560
+13-06-2020,Mizoram,3727
+13-06-2020,Nagaland,6466
+13-06-2020,Odisha,196456
+13-06-2020,Puducherry,10008
+13-06-2020,Punjab,176533
+13-06-2020,Rajasthan,584954
+13-06-2020,Sikkim,5377
+13-06-2020,Tamil Nadu,691817
+13-06-2020,Tripura,43972
+13-06-2020,Uttar Pradesh,449616
+13-06-2020,Uttarakhand,44040
+13-06-2020,West Bengal,324707
+14-06-2020,Andaman and Nicobar Islands,11356
+14-06-2020,Andhra Pradesh,552202
+14-06-2020,Bihar,123629
+14-06-2020,Chandigarh,5937
+14-06-2020,Chhattisgarh,103895
+14-06-2020,Dadra and Nagar Haveli and Daman and Diu,18445
+14-06-2020,Delhi,290592
+14-06-2020,Goa,41835
+14-06-2020,Gujarat,288565
+14-06-2020,Haryana,185722
+14-06-2020,Himachal Pradesh,53946
+14-06-2020,Jammu and Kashmir,266163
+14-06-2020,Jharkhand,106104
+14-06-2020,Karnataka,443969
+14-06-2020,Kerala,149164
+14-06-2020,Ladakh,11135
+14-06-2020,Madhya Pradesh,252762
+14-06-2020,Maharashtra,659481
+14-06-2020,Manipur,25226
+14-06-2020,Mizoram,4327
+14-06-2020,Nagaland,6478
+14-06-2020,Odisha,200014
+14-06-2020,Puducherry,10321
+14-06-2020,Punjab,182225
+14-06-2020,Rajasthan,598920
+14-06-2020,Sikkim,5664
+14-06-2020,Tamil Nadu,710599
+14-06-2020,Tripura,46015
+14-06-2020,Uttar Pradesh,467702
+14-06-2020,Uttarakhand,45344
+14-06-2020,West Bengal,333733
+15-06-2020,Andaman and Nicobar Islands,11518
+15-06-2020,Andhra Pradesh,567375
+15-06-2020,Arunachal Pradesh,15453
+15-06-2020,Assam,217088
+15-06-2020,Bihar,127126
+15-06-2020,Chandigarh,6027
+15-06-2020,Chhattisgarh,107172
+15-06-2020,Dadra and Nagar Haveli and Daman and Diu,23835
+15-06-2020,Delhi,296697
+15-06-2020,Goa,42703
+15-06-2020,Gujarat,292909
+15-06-2020,Haryana,189914
+15-06-2020,Himachal Pradesh,54484
+15-06-2020,Jammu and Kashmir,271416
+15-06-2020,Jharkhand,108576
+15-06-2020,Karnataka,449331
+15-06-2020,Kerala,151686
+15-06-2020,Ladakh,11260
+15-06-2020,Madhya Pradesh,258040
+15-06-2020,Maharashtra,671348
+15-06-2020,Manipur,26458
+15-06-2020,Meghalaya,13353
+15-06-2020,Mizoram,4919
+15-06-2020,Nagaland,7132
+15-06-2020,Odisha,202513
+15-06-2020,Puducherry,10486
+15-06-2020,Punjab,188699
+15-06-2020,Rajasthan,609296
+15-06-2020,Sikkim,5762
+15-06-2020,Tamil Nadu,729002
+15-06-2020,Tripura,47683
+15-06-2020,Uttar Pradesh,466081
+15-06-2020,Uttarakhand,46573
+15-06-2020,West Bengal,343242
+16-06-2020,Andaman and Nicobar Islands,11809
+16-06-2020,Andhra Pradesh,583286
+16-06-2020,Arunachal Pradesh,16158
+16-06-2020,Assam,227109
+16-06-2020,Bihar,130783
+16-06-2020,Chandigarh,6115
+16-06-2020,Chhattisgarh,110062
+16-06-2020,Dadra and Nagar Haveli and Daman and Diu,24492
+16-06-2020,Delhi,304483
+16-06-2020,Goa,44378
+16-06-2020,Gujarat,296335
+16-06-2020,Haryana,193421
+16-06-2020,Himachal Pradesh,56106
+16-06-2020,Jammu and Kashmir,276174
+16-06-2020,Jharkhand,110813
+16-06-2020,Karnataka,457267
+16-06-2020,Kerala,157117
+16-06-2020,Ladakh,11537
+16-06-2020,Madhya Pradesh,263983
+16-06-2020,Maharashtra,686488
+16-06-2020,Meghalaya,13878
+16-06-2020,Mizoram,5524
+16-06-2020,Nagaland,7835
+16-06-2020,Odisha,205501
+16-06-2020,Puducherry,10929
+16-06-2020,Punjab,198211
+16-06-2020,Rajasthan,622334
+16-06-2020,Sikkim,6192
+16-06-2020,Tamil Nadu,748244
+16-06-2020,Telangana,44431
+16-06-2020,Tripura,49208
+16-06-2020,Uttar Pradesh,480047
+16-06-2020,Uttarakhand,47870
+16-06-2020,West Bengal,351754
+17-06-2020,Andaman and Nicobar Islands,12239
+17-06-2020,Andhra Pradesh,598474
+17-06-2020,Arunachal Pradesh,16630
+17-06-2020,Assam,235214
+17-06-2020,Bihar,134402
+17-06-2020,Chandigarh,6233
+17-06-2020,Chhattisgarh,113613
+17-06-2020,Dadra and Nagar Haveli and Daman and Diu,25575
+17-06-2020,Delhi,312576
+17-06-2020,Goa,45685
+17-06-2020,Gujarat,303671
+17-06-2020,Haryana,197703
+17-06-2020,Himachal Pradesh,57479
+17-06-2020,Jammu and Kashmir,282268
+17-06-2020,Jharkhand,113004
+17-06-2020,Karnataka,464798
+17-06-2020,Kerala,161829
+17-06-2020,Ladakh,11626
+17-06-2020,Madhya Pradesh,271205
+17-06-2020,Manipur,29865
+17-06-2020,Meghalaya,14316
+17-06-2020,Mizoram,6035
+17-06-2020,Nagaland,8387
+17-06-2020,Odisha,208472
+17-06-2020,Puducherry,11356
+17-06-2020,Punjab,208408
+17-06-2020,Rajasthan,637937
+17-06-2020,Sikkim,6349
+17-06-2020,Tamil Nadu,773707
+17-06-2020,Telangana,45911
+17-06-2020,Tripura,50268
+17-06-2020,Uttar Pradesh,496206
+17-06-2020,Uttarakhand,49462
+17-06-2020,West Bengal,360976
+18-06-2020,Andaman and Nicobar Islands,12622
+18-06-2020,Andhra Pradesh,612397
+18-06-2020,Arunachal Pradesh,16630
+18-06-2020,Assam,246590
+18-06-2020,Bihar,139584
+18-06-2020,Chandigarh,6315
+18-06-2020,Chhattisgarh,116329
+18-06-2020,Dadra and Nagar Haveli and Daman and Diu,26752
+18-06-2020,Delhi,321302
+18-06-2020,Goa,46996
+18-06-2020,Gujarat,308744
+18-06-2020,Haryana,202808
+18-06-2020,Himachal Pradesh,59214
+18-06-2020,Jammu and Kashmir,289027
+18-06-2020,Jharkhand,115186
+18-06-2020,Karnataka,473507
+18-06-2020,Kerala,169035
+18-06-2020,Ladakh,12082
+18-06-2020,Madhya Pradesh,277451
+18-06-2020,Maharashtra,719637
+18-06-2020,Manipur,30476
+18-06-2020,Meghalaya,14647
+18-06-2020,Mizoram,6661
+18-06-2020,Nagaland,9039
+18-06-2020,Odisha,212224
+18-06-2020,Puducherry,11679
+18-06-2020,Punjab,219528
+18-06-2020,Rajasthan,654816
+18-06-2020,Tamil Nadu,800443
+18-06-2020,Tripura,51495
+18-06-2020,Uttar Pradesh,515280
+18-06-2020,Uttarakhand,50796
+18-06-2020,West Bengal,370291
+19-06-2020,Andaman and Nicobar Islands,12930
+19-06-2020,Andhra Pradesh,630006
+19-06-2020,Arunachal Pradesh,18008
+19-06-2020,Assam,258797
+19-06-2020,Bihar,145562
+19-06-2020,Chandigarh,6438
+19-06-2020,Chhattisgarh,120523
+19-06-2020,Delhi,334376
+19-06-2020,Goa,49718
+19-06-2020,Gujarat,314301
+19-06-2020,Haryana,207675
+19-06-2020,Himachal Pradesh,60814
+19-06-2020,Jammu and Kashmir,295202
+19-06-2020,Jharkhand,117569
+19-06-2020,Karnataka,484060
+19-06-2020,Kerala,173729
+19-06-2020,Ladakh,12516
+19-06-2020,Madhya Pradesh,282674
+19-06-2020,Maharashtra,737597
+19-06-2020,Manipur,32093
+19-06-2020,Meghalaya,15104
+19-06-2020,Mizoram,7496
+19-06-2020,Nagaland,10102
+19-06-2020,Odisha,216607
+19-06-2020,Puducherry,11992
+19-06-2020,Punjab,227012
+19-06-2020,Rajasthan,667643
+19-06-2020,Sikkim,6882
+19-06-2020,Tamil Nadu,827980
+19-06-2020,Telangana,50569
+19-06-2020,Tripura,52752
+19-06-2020,Uttar Pradesh,532505
+19-06-2020,Uttarakhand,53155
+19-06-2020,West Bengal,380612
+20-06-2020,Andaman and Nicobar Islands,13320
+20-06-2020,Andhra Pradesh,652377
+20-06-2020,Arunachal Pradesh,18521
+20-06-2020,Assam,273047
+20-06-2020,Bihar,151148
+20-06-2020,Chandigarh,6578
+20-06-2020,Chhattisgarh,123983
+20-06-2020,Dadra and Nagar Haveli and Daman and Diu,27617
+20-06-2020,Delhi,351909
+20-06-2020,Goa,51404
+20-06-2020,Gujarat,319414
+20-06-2020,Haryana,212430
+20-06-2020,Himachal Pradesh,62580
+20-06-2020,Jammu and Kashmir,301209
+20-06-2020,Jharkhand,120892
+20-06-2020,Karnataka,493893
+20-06-2020,Kerala,178559
+20-06-2020,Ladakh,12838
+20-06-2020,Madhya Pradesh,290831
+20-06-2020,Maharashtra,756809
+20-06-2020,Meghalaya,15346
+20-06-2020,Mizoram,8284
+20-06-2020,Nagaland,9128
+20-06-2020,Odisha,219774
+20-06-2020,Puducherry,12409
+20-06-2020,Punjab,235700
+20-06-2020,Rajasthan,683017
+20-06-2020,Sikkim,7183
+20-06-2020,Tamil Nadu,861211
+20-06-2020,Telangana,53757
+20-06-2020,Tripura,53905
+20-06-2020,Uttar Pradesh,542972
+20-06-2020,Uttarakhand,54512
+20-06-2020,West Bengal,390942
+21-06-2020,Andaman and Nicobar Islands,13434
+21-06-2020,Andhra Pradesh,676828
+21-06-2020,Arunachal Pradesh,19154
+21-06-2020,Assam,288306
+21-06-2020,Bihar,156926
+21-06-2020,Chandigarh,6677
+21-06-2020,Chhattisgarh,126246
+21-06-2020,Dadra and Nagar Haveli and Daman and Diu,27839
+21-06-2020,Delhi,370014
+21-06-2020,Goa,52301
+21-06-2020,Gujarat,324874
+21-06-2020,Haryana,217797
+21-06-2020,Himachal Pradesh,64338
+21-06-2020,Jammu and Kashmir,307638
+21-06-2020,Jharkhand,121770
+21-06-2020,Karnataka,506765
+21-06-2020,Kerala,183201
+21-06-2020,Ladakh,12838
+21-06-2020,Madhya Pradesh,296943
+21-06-2020,Maharashtra,775958
+21-06-2020,Manipur,35943
+21-06-2020,Mizoram,8718
+21-06-2020,Nagaland,9971
+21-06-2020,Odisha,224402
+21-06-2020,Puducherry,12781
+21-06-2020,Punjab,240803
+21-06-2020,Rajasthan,699126
+21-06-2020,Sikkim,9354
+21-06-2020,Tamil Nadu,892612
+21-06-2020,Telangana,57054
+21-06-2020,Tripura,54983
+21-06-2020,Uttar Pradesh,560697
+21-06-2020,Uttarakhand,55819
+21-06-2020,West Bengal,401491
+22-06-2020,Andaman and Nicobar Islands,13511
+22-06-2020,Andhra Pradesh,693548
+22-06-2020,Arunachal Pradesh,19799
+22-06-2020,Assam,301557
+22-06-2020,Bihar,163476
+22-06-2020,Chandigarh,6745
+22-06-2020,Chhattisgarh,129731
+22-06-2020,Dadra and Nagar Haveli and Daman and Diu,28364
+22-06-2020,Delhi,384696
+22-06-2020,Goa,53050
+22-06-2020,Gujarat,329343
+22-06-2020,Haryana,222948
+22-06-2020,Himachal Pradesh,65189
+22-06-2020,Jammu and Kashmir,313687
+22-06-2020,Jharkhand,124008
+22-06-2020,Karnataka,515969
+22-06-2020,Kerala,185903
+22-06-2020,Ladakh,13018
+22-06-2020,Madhya Pradesh,302673
+22-06-2020,Maharashtra,789016
+22-06-2020,Manipur,38286
+22-06-2020,Meghalaya,16296
+22-06-2020,Mizoram,9277
+22-06-2020,Nagaland,10599
+22-06-2020,Odisha,227860
+22-06-2020,Puducherry,13037
+22-06-2020,Punjab,246760
+22-06-2020,Rajasthan,709592
+22-06-2020,Sikkim,9449
+22-06-2020,Tamil Nadu,919204
+22-06-2020,Telangana,60243
+22-06-2020,Tripura,56035
+22-06-2020,Uttar Pradesh,574304
+22-06-2020,Uttarakhand,56724
+22-06-2020,West Bengal,410854
+23-06-2020,Andaman and Nicobar Islands,13723
+23-06-2020,Andhra Pradesh,714187
+23-06-2020,Arunachal Pradesh,20398
+23-06-2020,Assam,323258
+23-06-2020,Bihar,169401
+23-06-2020,Chandigarh,6840
+23-06-2020,Chhattisgarh,133753
+23-06-2020,Dadra and Nagar Haveli and Daman and Diu,29072
+23-06-2020,Delhi,401648
+23-06-2020,Goa,54781
+23-06-2020,Gujarat,334326
+23-06-2020,Haryana,226951
+23-06-2020,Himachal Pradesh,67020
+23-06-2020,Jammu and Kashmir,319664
+23-06-2020,Jharkhand,126007
+23-06-2020,Karnataka,526538
+23-06-2020,Kerala,192059
+23-06-2020,Ladakh,13118
+23-06-2020,Madhya Pradesh,307812
+23-06-2020,Maharashtra,804726
+23-06-2020,Manipur,40829
+23-06-2020,Meghalaya,16637
+23-06-2020,Mizoram,9840
+23-06-2020,Nagaland,11173
+23-06-2020,Odisha,231356
+23-06-2020,Puducherry,13435
+23-06-2020,Punjab,255380
+23-06-2020,Rajasthan,726077
+23-06-2020,Sikkim,9594
+23-06-2020,Tamil Nadu,944352
+23-06-2020,Telangana,63249
+23-06-2020,Tripura,56901
+23-06-2020,Uttar Pradesh,588186
+23-06-2020,Uttarakhand,58338
+23-06-2020,West Bengal,420277
+24-06-2020,Andaman and Nicobar Islands,13994
+24-06-2020,Andhra Pradesh,750234
+24-06-2020,Arunachal Pradesh,20938
+24-06-2020,Assam,336091
+24-06-2020,Bihar,175103
+24-06-2020,Chandigarh,6981
+24-06-2020,Chhattisgarh,137400
+24-06-2020,Dadra and Nagar Haveli and Daman and Diu,29403
+24-06-2020,Delhi,420707
+24-06-2020,Goa,56925
+24-06-2020,Gujarat,340080
+24-06-2020,Haryana,231673
+24-06-2020,Himachal Pradesh,68899
+24-06-2020,Jammu and Kashmir,326430
+24-06-2020,Jharkhand,128214
+24-06-2020,Karnataka,539247
+24-06-2020,Kerala,197567
+24-06-2020,Ladakh,13313
+24-06-2020,Madhya Pradesh,314978
+24-06-2020,Maharashtra,826139
+24-06-2020,Manipur,43477
+24-06-2020,Meghalaya,17115
+24-06-2020,Mizoram,10486
+24-06-2020,Nagaland,11867
+24-06-2020,Odisha,235627
+24-06-2020,Puducherry,13861
+24-06-2020,Punjab,260857
+24-06-2020,Rajasthan,740855
+24-06-2020,Sikkim,9849
+24-06-2020,Tamil Nadu,976431
+24-06-2020,Telangana,67318
+24-06-2020,Tripura,57753
+24-06-2020,Uttar Pradesh,603390
+24-06-2020,Uttarakhand,59616
+24-06-2020,West Bengal,429766
+25-06-2020,Andaman and Nicobar Islands,14277
+25-06-2020,Andhra Pradesh,769319
+25-06-2020,Arunachal Pradesh,21274
+25-06-2020,Assam,351753
+25-06-2020,Bihar,181737
+25-06-2020,Chandigarh,7072
+25-06-2020,Chhattisgarh,142090
+25-06-2020,Dadra and Nagar Haveli and Daman and Diu,30188
+25-06-2020,Delhi,438012
+25-06-2020,Goa,58584
+25-06-2020,Gujarat,345278
+25-06-2020,Haryana,236898
+25-06-2020,Himachal Pradesh,71078
+25-06-2020,Jammu and Kashmir,332445
+25-06-2020,Jharkhand,131169
+25-06-2020,Karnataka,553325
+25-06-2020,Kerala,203574
+25-06-2020,Ladakh,13521
+25-06-2020,Madhya Pradesh,321595
+25-06-2020,Maharashtra,850410
+25-06-2020,Manipur,45253
+25-06-2020,Meghalaya,17591
+25-06-2020,Mizoram,11672
+25-06-2020,Nagaland,12546
+25-06-2020,Odisha,239815
+25-06-2020,Puducherry,14267
+25-06-2020,Punjab,269037
+25-06-2020,Rajasthan,757137
+25-06-2020,Sikkim,10025
+25-06-2020,Tamil Nadu,1008974
+25-06-2020,Telangana,70934
+25-06-2020,Tripura,59025
+25-06-2020,Uttar Pradesh,620954
+25-06-2020,Uttarakhand,61165
+25-06-2020,West Bengal,439258
+26-06-2020,Andaman and Nicobar Islands,14583
+26-06-2020,Andhra Pradesh,791624
+26-06-2020,Arunachal Pradesh,21890
+26-06-2020,Assam,362713
+26-06-2020,Bihar,189643
+26-06-2020,Chandigarh,7201
+26-06-2020,Chhattisgarh,144828
+26-06-2020,Dadra and Nagar Haveli and Daman and Diu,30602
+26-06-2020,Delhi,459156
+26-06-2020,Goa,60350
+26-06-2020,Gujarat,351179
+26-06-2020,Haryana,241941
+26-06-2020,Himachal Pradesh,72688
+26-06-2020,Jammu and Kashmir,338903
+26-06-2020,Jharkhand,133082
+26-06-2020,Karnataka,568058
+26-06-2020,Kerala,209456
+26-06-2020,Ladakh,13636
+26-06-2020,Madhya Pradesh,329079
+26-06-2020,Maharashtra,873570
+26-06-2020,Meghalaya,18103
+26-06-2020,Mizoram,12753
+26-06-2020,Nagaland,13085
+26-06-2020,Odisha,244588
+26-06-2020,Puducherry,14689
+26-06-2020,Punjab,276919
+26-06-2020,Rajasthan,770174
+26-06-2020,Sikkim,10212
+26-06-2020,Tamil Nadu,1042649
+26-06-2020,Telangana,75308
+26-06-2020,Tripura,60199
+26-06-2020,Uttar Pradesh,642833
+26-06-2020,Uttarakhand,62500
+26-06-2020,West Bengal,448795
+27-06-2020,Andaman and Nicobar Islands,14851
+27-06-2020,Andhra Pradesh,816082
+27-06-2020,Arunachal Pradesh,22623
+27-06-2020,Assam,374519
+27-06-2020,Bihar,198385
+27-06-2020,Chandigarh,7342
+27-06-2020,Chhattisgarh,152874
+27-06-2020,Dadra and Nagar Haveli and Daman and Diu,31015
+27-06-2020,Delhi,478336
+27-06-2020,Goa,61687
+27-06-2020,Gujarat,357148
+27-06-2020,Haryana,247139
+27-06-2020,Himachal Pradesh,74764
+27-06-2020,Jammu and Kashmir,345426
+27-06-2020,Jharkhand,135276
+27-06-2020,Karnataka,581635
+27-06-2020,Kerala,215243
+27-06-2020,Ladakh,13717
+27-06-2020,Madhya Pradesh,337041
+27-06-2020,Maharashtra,900423
+27-06-2020,Manipur,48220
+27-06-2020,Meghalaya,18288
+27-06-2020,Mizoram,12846
+27-06-2020,Nagaland,14217
+27-06-2020,Odisha,249902
+27-06-2020,Puducherry,15225
+27-06-2020,Punjab,284431
+27-06-2020,Rajasthan,784803
+27-06-2020,Sikkim,10219
+27-06-2020,Tamil Nadu,1077454
+27-06-2020,Telangana,79231
+27-06-2020,Tripura,61194
+27-06-2020,Uttar Pradesh,663096
+27-06-2020,Uttarakhand,63960
+27-06-2020,West Bengal,458343
+28-06-2020,Andaman and Nicobar Islands,15094
+28-06-2020,Andhra Pradesh,841860
+28-06-2020,Arunachal Pradesh,23011
+28-06-2020,Assam,385299
+28-06-2020,Bihar,205832
+28-06-2020,Chandigarh,7455
+28-06-2020,Chhattisgarh,154526
+28-06-2020,Dadra and Nagar Haveli and Daman and Diu,31321
+28-06-2020,Delhi,498416
+28-06-2020,Goa,62945
+28-06-2020,Gujarat,363306
+28-06-2020,Haryana,252356
+28-06-2020,Himachal Pradesh,76556
+28-06-2020,Jammu and Kashmir,351865
+28-06-2020,Jharkhand,137438
+28-06-2020,Karnataka,595470
+28-06-2020,Kerala,220821
+28-06-2020,Madhya Pradesh,344836
+28-06-2020,Maharashtra,926934
+28-06-2020,Meghalaya,18441
+28-06-2020,Mizoram,13012
+28-06-2020,Nagaland,15240
+28-06-2020,Odisha,255809
+28-06-2020,Puducherry,15892
+28-06-2020,Punjab,289923
+28-06-2020,Rajasthan,800214
+28-06-2020,Sikkim,10364
+28-06-2020,Tamil Nadu,1110402
+28-06-2020,Telangana,82458
+28-06-2020,Tripura,62278
+28-06-2020,Uttar Pradesh,684296
+28-06-2020,Uttarakhand,64984
+28-06-2020,West Bengal,468906
+29-06-2020,Andaman and Nicobar Islands,15410
+29-06-2020,Andhra Pradesh,872076
+29-06-2020,Arunachal Pradesh,23709
+29-06-2020,Assam,399393
+29-06-2020,Bihar,212659
+29-06-2020,Chandigarh,7548
+29-06-2020,Chhattisgarh,156386
+29-06-2020,Dadra and Nagar Haveli and Daman and Diu,31602
+29-06-2020,Delhi,514573
+29-06-2020,Goa,64375
+29-06-2020,Gujarat,367739
+29-06-2020,Haryana,260341
+29-06-2020,Himachal Pradesh,77384
+29-06-2020,Jammu and Kashmir,358530
+29-06-2020,Jharkhand,139907
+29-06-2020,Karnataka,605159
+29-06-2020,Kerala,224737
+29-06-2020,Ladakh,13886
+29-06-2020,Madhya Pradesh,353612
+29-06-2020,Maharashtra,946518
+29-06-2020,Manipur,49882
+29-06-2020,Meghalaya,18707
+29-06-2020,Mizoram,13072
+29-06-2020,Nagaland,15905
+29-06-2020,Odisha,260428
+29-06-2020,Puducherry,16479
+29-06-2020,Punjab,294448
+29-06-2020,Rajasthan,809777
+29-06-2020,Sikkim,10440
+29-06-2020,Tamil Nadu,1140441
+29-06-2020,Telangana,85106
+29-06-2020,Tripura,63364
+29-06-2020,Uttar Pradesh,707839
+29-06-2020,Uttarakhand,66396
+29-06-2020,West Bengal,478419
+30-06-2020,Andaman and Nicobar Islands,15709
+30-06-2020,Andhra Pradesh,890190
+30-06-2020,Arunachal Pradesh,24237
+30-06-2020,Assam,412214
+30-06-2020,Bihar,220890
+30-06-2020,Chandigarh,7689
+30-06-2020,Chhattisgarh,160650
+30-06-2020,Dadra and Nagar Haveli and Daman and Diu,32031
+30-06-2020,Delhi,531752
+30-06-2020,Goa,66491
+30-06-2020,Gujarat,373613
+30-06-2020,Haryana,264203
+30-06-2020,Himachal Pradesh,79499
+30-06-2020,Jammu and Kashmir,365058
+30-06-2020,Jharkhand,142641
+30-06-2020,Karnataka,620747
+30-06-2020,Kerala,231570
+30-06-2020,Madhya Pradesh,365467
+30-06-2020,Maharashtra,970161
+30-06-2020,Meghalaya,19294
+30-06-2020,Mizoram,13746
+30-06-2020,Nagaland,16563
+30-06-2020,Odisha,265431
+30-06-2020,Puducherry,17281
+30-06-2020,Punjab,301830
+30-06-2020,Rajasthan,824213
+30-06-2020,Sikkim,10535
+30-06-2020,Tamil Nadu,1170683
+30-06-2020,Telangana,88563
+30-06-2020,Tripura,64478
+30-06-2020,Uttar Pradesh,727793
+30-06-2020,Uttarakhand,69024
+30-06-2020,West Bengal,488038
+01-07-2020,Andaman and Nicobar Islands,15982
+01-07-2020,Andhra Pradesh,918429
+01-07-2020,Arunachal Pradesh,24856
+01-07-2020,Assam,419878
+01-07-2020,Bihar,228689
+01-07-2020,Chandigarh,7792
+01-07-2020,Chhattisgarh,163662
+01-07-2020,Dadra and Nagar Haveli and Daman and Diu,32435
+01-07-2020,Delhi,551708
+01-07-2020,Goa,67822
+01-07-2020,Gujarat,380640
+01-07-2020,Haryana,269726
+01-07-2020,Himachal Pradesh,81516
+01-07-2020,Jammu and Kashmir,371486
+01-07-2020,Jharkhand,145692
+01-07-2020,Karnataka,637417
+01-07-2020,Kerala,239017
+01-07-2020,Ladakh,14076
+01-07-2020,Madhya Pradesh,372811
+01-07-2020,Maharashtra,995343
+01-07-2020,Meghalaya,19494
+01-07-2020,Mizoram,13886
+01-07-2020,Nagaland,17177
+01-07-2020,Odisha,270678
+01-07-2020,Puducherry,18092
+01-07-2020,Punjab,308998
+01-07-2020,Rajasthan,839370
+01-07-2020,Sikkim,10723
+01-07-2020,Tamil Nadu,1202204
+01-07-2020,Telangana,92797
+01-07-2020,Tripura,65549
+01-07-2020,Uttar Pradesh,758915
+01-07-2020,Uttarakhand,70032
+01-07-2020,West Bengal,497596
+02-07-2020,Andaman and Nicobar Islands,16278
+02-07-2020,Andhra Pradesh,932713
+02-07-2020,Arunachal Pradesh,25440
+02-07-2020,Assam,428866
+02-07-2020,Bihar,235980
+02-07-2020,Chandigarh,7938
+02-07-2020,Chhattisgarh,166656
+02-07-2020,Dadra and Nagar Haveli and Daman and Diu,32834
+02-07-2020,Delhi,572530
+02-07-2020,Goa,70738
+02-07-2020,Gujarat,388065
+02-07-2020,Haryana,277031
+02-07-2020,Himachal Pradesh,83553
+02-07-2020,Jammu and Kashmir,377961
+02-07-2020,Jharkhand,148738
+02-07-2020,Karnataka,653627
+02-07-2020,Kerala,246799
+02-07-2020,Ladakh,14272
+02-07-2020,Madhya Pradesh,380655
+02-07-2020,Maharashtra,1023296
+02-07-2020,Manipur,53030
+02-07-2020,Meghalaya,19732
+02-07-2020,Mizoram,13931
+02-07-2020,Nagaland,17887
+02-07-2020,Odisha,274672
+02-07-2020,Puducherry,18791
+02-07-2020,Punjab,317802
+02-07-2020,Rajasthan,854274
+02-07-2020,Sikkim,10900
+02-07-2020,Tamil Nadu,1235692
+02-07-2020,Telangana,98153
+02-07-2020,Tripura,67255
+02-07-2020,Uttar Pradesh,781584
+02-07-2020,Uttarakhand,72104
+02-07-2020,West Bengal,508001
+03-07-2020,Andaman and Nicobar Islands,16626
+03-07-2020,Andhra Pradesh,971611
+03-07-2020,Arunachal Pradesh,25917
+03-07-2020,Assam,438882
+03-07-2020,Bihar,243167
+03-07-2020,Chandigarh,8074
+03-07-2020,Chhattisgarh,177554
+03-07-2020,Dadra and Nagar Haveli and Daman and Diu,33618
+03-07-2020,Delhi,596695
+03-07-2020,Goa,72691
+03-07-2020,Gujarat,395873
+03-07-2020,Haryana,288478
+03-07-2020,Himachal Pradesh,85116
+03-07-2020,Jammu and Kashmir,385501
+03-07-2020,Jharkhand,151699
+03-07-2020,Karnataka,671934
+03-07-2020,Kerala,253011
+03-07-2020,Ladakh,14361
+03-07-2020,Madhya Pradesh,389180
+03-07-2020,Maharashtra,1052643
+03-07-2020,Manipur,53608
+03-07-2020,Meghalaya,20329
+03-07-2020,Mizoram,14370
+03-07-2020,Nagaland,18635
+03-07-2020,Odisha,281523
+03-07-2020,Puducherry,19560
+03-07-2020,Punjab,324054
+03-07-2020,Rajasthan,869602
+03-07-2020,Sikkim,11072
+03-07-2020,Tamil Nadu,1270720
+03-07-2020,Telangana,104118
+03-07-2020,Tripura,68634
+03-07-2020,Uttar Pradesh,810991
+03-07-2020,Uttarakhand,73738
+03-07-2020,West Bengal,519054
+04-07-2020,Andaman and Nicobar Islands,16832
+04-07-2020,Andhra Pradesh,996573
+04-07-2020,Arunachal Pradesh,26569
+04-07-2020,Assam,449629
+04-07-2020,Bihar,251097
+04-07-2020,Chandigarh,8209
+04-07-2020,Chhattisgarh,179782
+04-07-2020,Dadra and Nagar Haveli and Daman and Diu,33995
+04-07-2020,Delhi,620368
+04-07-2020,Goa,74314
+04-07-2020,Gujarat,404354
+04-07-2020,Haryana,298094
+04-07-2020,Himachal Pradesh,87019
+04-07-2020,Jammu and Kashmir,392919
+04-07-2020,Jharkhand,154618
+04-07-2020,Karnataka,689526
+04-07-2020,Kerala,260011
+04-07-2020,Ladakh,14537
+04-07-2020,Madhya Pradesh,398329
+04-07-2020,Maharashtra,1085160
+04-07-2020,Manipur,54483
+04-07-2020,Meghalaya,20744
+04-07-2020,Mizoram,14509
+04-07-2020,Nagaland,19263
+04-07-2020,Odisha,287090
+04-07-2020,Puducherry,20186
+04-07-2020,Punjab,331585
+04-07-2020,Rajasthan,889355
+04-07-2020,Sikkim,11242
+04-07-2020,Tamil Nadu,1306884
+04-07-2020,Telangana,110545
+04-07-2020,Tripura,69891
+04-07-2020,Uttar Pradesh,834991
+04-07-2020,Uttarakhand,76878
+04-07-2020,West Bengal,530072
+05-07-2020,Andaman and Nicobar Islands,16909
+05-07-2020,Andhra Pradesh,1017140
+05-07-2020,Arunachal Pradesh,26808
+05-07-2020,Assam,459143
+05-07-2020,Bihar,257896
+05-07-2020,Chandigarh,8419
+05-07-2020,Chhattisgarh,182636
+05-07-2020,Dadra and Nagar Haveli and Daman and Diu,34179
+05-07-2020,Delhi,643504
+05-07-2020,Goa,75791
+05-07-2020,Gujarat,412124
+05-07-2020,Haryana,307159
+05-07-2020,Himachal Pradesh,88459
+05-07-2020,Jammu and Kashmir,399385
+05-07-2020,Jharkhand,156778
+05-07-2020,Karnataka,706425
+05-07-2020,Kerala,268218
+05-07-2020,Ladakh,14537
+05-07-2020,Madhya Pradesh,407882
+05-07-2020,Maharashtra,1116112
+05-07-2020,Meghalaya,20950
+05-07-2020,Mizoram,14981
+05-07-2020,Nagaland,19867
+05-07-2020,Odisha,292407
+05-07-2020,Puducherry,20778
+05-07-2020,Punjab,337789
+05-07-2020,Rajasthan,909132
+05-07-2020,Sikkim,11387
+05-07-2020,Tamil Nadu,1341715
+05-07-2020,Telangana,115835
+05-07-2020,Tripura,71338
+05-07-2020,Uttar Pradesh,887997
+05-07-2020,Uttarakhand,78306
+05-07-2020,West Bengal,541088
+06-07-2020,Andaman and Nicobar Islands,17095
+06-07-2020,Andhra Pradesh,1033852
+06-07-2020,Arunachal Pradesh,27645
+06-07-2020,Assam,471221
+06-07-2020,Bihar,264109
+06-07-2020,Chandigarh,8528
+06-07-2020,Chhattisgarh,185399
+06-07-2020,Dadra and Nagar Haveli and Daman and Diu,34444
+06-07-2020,Delhi,657383
+06-07-2020,Goa,77033
+06-07-2020,Gujarat,418464
+06-07-2020,Haryana,315853
+06-07-2020,Himachal Pradesh,89305
+06-07-2020,Jammu and Kashmir,406212
+06-07-2020,Jharkhand,159176
+06-07-2020,Karnataka,722305
+06-07-2020,Kerala,275823
+06-07-2020,Madhya Pradesh,417402
+06-07-2020,Maharashtra,1138706
+06-07-2020,Manipur,56584
+06-07-2020,Meghalaya,21502
+06-07-2020,Mizoram,15006
+06-07-2020,Nagaland,20484
+06-07-2020,Odisha,297234
+06-07-2020,Puducherry,21382
+06-07-2020,Punjab,342524
+06-07-2020,Rajasthan,920600
+06-07-2020,Sikkim,11407
+06-07-2020,Tamil Nadu,1376497
+06-07-2020,Telangana,122218
+06-07-2020,Tripura,73058
+06-07-2020,Uttar Pradesh,917114
+06-07-2020,Uttarakhand,79605
+06-07-2020,West Bengal,552007
+07-07-2020,Andaman and Nicobar Islands,17381
+07-07-2020,Andhra Pradesh,1050090
+07-07-2020,Arunachal Pradesh,28072
+07-07-2020,Assam,485156
+07-07-2020,Bihar,269277
+07-07-2020,Chandigarh,8669
+07-07-2020,Chhattisgarh,189038
+07-07-2020,Dadra and Nagar Haveli and Daman and Diu,34761
+07-07-2020,Delhi,679831
+07-07-2020,Goa,79864
+07-07-2020,Gujarat,425830
+07-07-2020,Haryana,323491
+07-07-2020,Himachal Pradesh,91175
+07-07-2020,Jammu and Kashmir,413358
+07-07-2020,Jharkhand,161564
+07-07-2020,Karnataka,740047
+07-07-2020,Kerala,285968
+07-07-2020,Ladakh,14833
+07-07-2020,Madhya Pradesh,427143
+07-07-2020,Maharashtra,1164860
+07-07-2020,Manipur,57769
+07-07-2020,Meghalaya,21847
+07-07-2020,Mizoram,15058
+07-07-2020,Nagaland,21209
+07-07-2020,Odisha,302780
+07-07-2020,Puducherry,22055
+07-07-2020,Punjab,352363
+07-07-2020,Rajasthan,940758
+07-07-2020,Sikkim,11581
+07-07-2020,Tamil Nadu,1413435
+07-07-2020,Telangana,128438
+07-07-2020,Tripura,74230
+07-07-2020,Uttar Pradesh,947453
+07-07-2020,Uttarakhand,81447
+07-07-2020,West Bengal,562137
+08-07-2020,Andaman and Nicobar Islands,17643
+08-07-2020,Andhra Pradesh,1077733
+08-07-2020,Arunachal Pradesh,28581
+08-07-2020,Bihar,275554
+08-07-2020,Chandigarh,8833
+08-07-2020,Chhattisgarh,191938
+08-07-2020,Dadra and Nagar Haveli and Daman and Diu,35234
+08-07-2020,Delhi,701859
+08-07-2020,Goa,82555
+08-07-2020,Gujarat,433864
+08-07-2020,Haryana,332504
+08-07-2020,Himachal Pradesh,93018
+08-07-2020,Jammu and Kashmir,421571
+08-07-2020,Jharkhand,164504
+08-07-2020,Karnataka,759181
+08-07-2020,Kerala,296183
+08-07-2020,Ladakh,14938
+08-07-2020,Madhya Pradesh,437930
+08-07-2020,Maharashtra,1194565
+08-07-2020,Meghalaya,22000
+08-07-2020,Mizoram,15183
+08-07-2020,Nagaland,21980
+08-07-2020,Odisha,308698
+08-07-2020,Puducherry,22743
+08-07-2020,Punjab,360189
+08-07-2020,Rajasthan,963454
+08-07-2020,Sikkim,11820
+08-07-2020,Tamil Nadu,1449414
+08-07-2020,Telangana,134801
+08-07-2020,Tripura,75641
+08-07-2020,Uttar Pradesh,1003280
+08-07-2020,Uttarakhand,83900
+08-07-2020,West Bengal,572523
+09-07-2020,Andaman and Nicobar Islands,17852
+09-07-2020,Andhra Pradesh,1094615
+09-07-2020,Arunachal Pradesh,29232
+09-07-2020,Assam,508973
+09-07-2020,Bihar,284059
+09-07-2020,Chandigarh,9096
+09-07-2020,Chhattisgarh,196150
+09-07-2020,Dadra and Nagar Haveli and Daman and Diu,35391
+09-07-2020,Delhi,724148
+09-07-2020,Goa,84945
+09-07-2020,Gujarat,441692
+09-07-2020,Haryana,342404
+09-07-2020,Himachal Pradesh,94720
+09-07-2020,Jammu and Kashmir,429787
+09-07-2020,Jharkhand,167650
+09-07-2020,Karnataka,779209
+09-07-2020,Kerala,307219
+09-07-2020,Ladakh,15067
+09-07-2020,Madhya Pradesh,449680
+09-07-2020,Maharashtra,1225831
+09-07-2020,Manipur,59740
+09-07-2020,Meghalaya,22544
+09-07-2020,Mizoram,15523
+09-07-2020,Nagaland,22697
+09-07-2020,Odisha,314987
+09-07-2020,Puducherry,23515
+09-07-2020,Punjab,369425
+09-07-2020,Rajasthan,987272
+09-07-2020,Sikkim,12012
+09-07-2020,Tamil Nadu,1491783
+09-07-2020,Telangana,140755
+09-07-2020,Tripura,77439
+09-07-2020,Uttar Pradesh,1036106
+09-07-2020,Uttarakhand,86458
+09-07-2020,West Bengal,583328
+10-07-2020,Andaman and Nicobar Islands,18046
+10-07-2020,Andhra Pradesh,1115635
+10-07-2020,Arunachal Pradesh,29834
+10-07-2020,Assam,525485
+10-07-2020,Bihar,291654
+10-07-2020,Chandigarh,9253
+10-07-2020,Chhattisgarh,200006
+10-07-2020,Dadra and Nagar Haveli and Daman and Diu,35829
+10-07-2020,Delhi,747109
+10-07-2020,Goa,87865
+10-07-2020,Gujarat,449349
+10-07-2020,Haryana,352343
+10-07-2020,Himachal Pradesh,96268
+10-07-2020,Jammu and Kashmir,437928
+10-07-2020,Jharkhand,172032
+10-07-2020,Karnataka,798437
+10-07-2020,Kerala,320485
+10-07-2020,Ladakh,15186
+10-07-2020,Madhya Pradesh,460941
+10-07-2020,Maharashtra,1257564
+10-07-2020,Manipur,60887
+10-07-2020,Meghalaya,23108
+10-07-2020,Mizoram,15868
+10-07-2020,Nagaland,23402
+10-07-2020,Odisha,321443
+10-07-2020,Puducherry,24485
+10-07-2020,Punjab,378045
+10-07-2020,Rajasthan,1009195
+10-07-2020,Sikkim,12119
+10-07-2020,Tamil Nadu,1529092
+10-07-2020,Telangana,151109
+10-07-2020,Tripura,79429
+10-07-2020,Uttar Pradesh,1074112
+10-07-2020,Uttarakhand,89179
+10-07-2020,West Bengal,593967
+11-07-2020,Andaman and Nicobar Islands,18315
+11-07-2020,Andhra Pradesh,1136225
+11-07-2020,Arunachal Pradesh,30922
+11-07-2020,Assam,537831
+11-07-2020,Bihar,300762
+11-07-2020,Chandigarh,9405
+11-07-2020,Chhattisgarh,204932
+11-07-2020,Dadra and Nagar Haveli and Daman and Diu,36166
+11-07-2020,Delhi,768617
+11-07-2020,Goa,90817
+11-07-2020,Gujarat,457066
+11-07-2020,Haryana,363428
+11-07-2020,Himachal Pradesh,98367
+11-07-2020,Jammu and Kashmir,445169
+11-07-2020,Jharkhand,176858
+11-07-2020,Karnataka,819024
+11-07-2020,Kerala,334849
+11-07-2020,Ladakh,15293
+11-07-2020,Madhya Pradesh,474461
+11-07-2020,Maharashtra,1289325
+11-07-2020,Manipur,61897
+11-07-2020,Meghalaya,23633
+11-07-2020,Mizoram,16396
+11-07-2020,Nagaland,24065
+11-07-2020,Odisha,327288
+11-07-2020,Puducherry,25342
+11-07-2020,Punjab,388494
+11-07-2020,Rajasthan,1032198
+11-07-2020,Sikkim,12246
+11-07-2020,Tamil Nadu,1566917
+11-07-2020,Telangana,162171
+11-07-2020,Tripura,81631
+11-07-2020,Uttar Pradesh,1116466
+11-07-2020,Uttarakhand,92198
+11-07-2020,West Bengal,605370
+12-07-2020,Andaman and Nicobar Islands,18447
+12-07-2020,Andhra Pradesh,1153849
+12-07-2020,Arunachal Pradesh,31520
+12-07-2020,Assam,552376
+12-07-2020,Bihar,310013
+12-07-2020,Chandigarh,9571
+12-07-2020,Chhattisgarh,209864
+12-07-2020,Dadra and Nagar Haveli and Daman and Diu,36310
+12-07-2020,Delhi,789853
+12-07-2020,Goa,92191
+12-07-2020,Gujarat,464646
+12-07-2020,Haryana,372621
+12-07-2020,Himachal Pradesh,100315
+12-07-2020,Jammu and Kashmir,452455
+12-07-2020,Jharkhand,180439
+12-07-2020,Karnataka,839074
+12-07-2020,Kerala,347529
+12-07-2020,Ladakh,15295
+12-07-2020,Madhya Pradesh,486176
+12-07-2020,Maharashtra,1321715
+12-07-2020,Manipur,63534
+12-07-2020,Meghalaya,23876
+12-07-2020,Mizoram,16696
+12-07-2020,Nagaland,24985
+12-07-2020,Odisha,334527
+12-07-2020,Puducherry,26208
+12-07-2020,Punjab,395185
+12-07-2020,Rajasthan,1054080
+12-07-2020,Sikkim,12531
+12-07-2020,Tamil Nadu,1609448
+12-07-2020,Telangana,170324
+12-07-2020,Tripura,83353
+12-07-2020,Uttar Pradesh,1156089
+12-07-2020,Uttarakhand,94121
+12-07-2020,West Bengal,617079
+13-07-2020,Andaman and Nicobar Islands,18609
+13-07-2020,Andhra Pradesh,1173096
+13-07-2020,Arunachal Pradesh,32691
+13-07-2020,Assam,563482
+13-07-2020,Bihar,319142
+13-07-2020,Chandigarh,9722
+13-07-2020,Chhattisgarh,213395
+13-07-2020,Dadra and Nagar Haveli and Daman and Diu,36621
+13-07-2020,Delhi,692845
+13-07-2020,Goa,93968
+13-07-2020,Gujarat,470265
+13-07-2020,Haryana,381420
+13-07-2020,Himachal Pradesh,101200
+13-07-2020,Jammu and Kashmir,459703
+13-07-2020,Jharkhand,184656
+13-07-2020,Karnataka,856148
+13-07-2020,Kerala,416282
+13-07-2020,Ladakh,15393
+13-07-2020,Madhya Pradesh,509223
+13-07-2020,Maharashtra,1345128
+13-07-2020,Meghalaya,24436
+13-07-2020,Mizoram,16914
+13-07-2020,Nagaland,26151
+13-07-2020,Odisha,341537
+13-07-2020,Puducherry,26592
+13-07-2020,Punjab,400944
+13-07-2020,Rajasthan,1068283
+13-07-2020,Sikkim,12636
+13-07-2020,Tamil Nadu,1654008
+13-07-2020,Telangana,181849
+13-07-2020,Tripura,86211
+13-07-2020,Uttar Pradesh,1192089
+13-07-2020,Uttarakhand,96123
+13-07-2020,West Bengal,627438
+14-07-2020,Andaman and Nicobar Islands,18884
+14-07-2020,Andhra Pradesh,1195766
+14-07-2020,Arunachal Pradesh,33807
+14-07-2020,Assam,575867
+14-07-2020,Bihar,329160
+14-07-2020,Chandigarh,9834
+14-07-2020,Chhattisgarh,217433
+14-07-2020,Dadra and Nagar Haveli and Daman and Diu,36905
+14-07-2020,Delhi,713908
+14-07-2020,Goa,96692
+14-07-2020,Gujarat,478367
+14-07-2020,Haryana,388760
+14-07-2020,Himachal Pradesh,103521
+14-07-2020,Jammu and Kashmir,466333
+14-07-2020,Jharkhand,189851
+14-07-2020,Karnataka,879822
+14-07-2020,Kerala,435043
+14-07-2020,Ladakh,15603
+14-07-2020,Madhya Pradesh,521700
+14-07-2020,Maharashtra,1376203
+14-07-2020,Meghalaya,24899
+14-07-2020,Mizoram,16914
+14-07-2020,Nagaland,26927
+14-07-2020,Odisha,347226
+14-07-2020,Puducherry,27229
+14-07-2020,Punjab,409643
+14-07-2020,Rajasthan,1096696
+14-07-2020,Sikkim,12939
+14-07-2020,Tamil Nadu,1695365
+14-07-2020,Telangana,195024
+14-07-2020,Tripura,88677
+14-07-2020,Uttar Pradesh,1231939
+14-07-2020,Uttarakhand,98878
+14-07-2020,West Bengal,638540
+15-07-2020,Andaman and Nicobar Islands,19061
+15-07-2020,Andhra Pradesh,1217963
+15-07-2020,Arunachal Pradesh,34619
+15-07-2020,Assam,589202
+15-07-2020,Bihar,337212
+15-07-2020,Chandigarh,10050
+15-07-2020,Chhattisgarh,222113
+15-07-2020,Dadra and Nagar Haveli and Daman and Diu,37392
+15-07-2020,Delhi,736436
+15-07-2020,Goa,99234
+15-07-2020,Gujarat,487707
+15-07-2020,Haryana,400155
+15-07-2020,Himachal Pradesh,105734
+15-07-2020,Jammu and Kashmir,474149
+15-07-2020,Jharkhand,196070
+15-07-2020,Karnataka,902026
+15-07-2020,Kerala,453716
+15-07-2020,Madhya Pradesh,540483
+15-07-2020,Maharashtra,1413185
+15-07-2020,Manipur,65866
+15-07-2020,Meghalaya,24942
+15-07-2020,Mizoram,17168
+15-07-2020,Nagaland,27421
+15-07-2020,Odisha,353824
+15-07-2020,Puducherry,27916
+15-07-2020,Punjab,421593
+15-07-2020,Rajasthan,1123902
+15-07-2020,Sikkim,13352
+15-07-2020,Tamil Nadu,1736747
+15-07-2020,Telangana,208666
+15-07-2020,Tripura,92313
+15-07-2020,Uttar Pradesh,1277241
+15-07-2020,Uttarakhand,102529
+15-07-2020,West Bengal,649928
+16-07-2020,Andaman and Nicobar Islands,19227
+16-07-2020,Andhra Pradesh,1240267
+16-07-2020,Arunachal Pradesh,35430
+16-07-2020,Assam,601385
+16-07-2020,Bihar,347457
+16-07-2020,Chandigarh,10244
+16-07-2020,Chhattisgarh,225913
+16-07-2020,Dadra and Nagar Haveli and Daman and Diu,37880
+16-07-2020,Delhi,756661
+16-07-2020,Goa,101554
+16-07-2020,Gujarat,499170
+16-07-2020,Haryana,409852
+16-07-2020,Himachal Pradesh,108157
+16-07-2020,Jammu and Kashmir,481452
+16-07-2020,Jharkhand,203279
+16-07-2020,Karnataka,925477
+16-07-2020,Kerala,472271
+16-07-2020,Ladakh,15830
+16-07-2020,Madhya Pradesh,553082
+16-07-2020,Maharashtra,1450129
+16-07-2020,Meghalaya,25263
+16-07-2020,Mizoram,17489
+16-07-2020,Nagaland,28020
+16-07-2020,Odisha,361920
+16-07-2020,Puducherry,28995
+16-07-2020,Punjab,429832
+16-07-2020,Rajasthan,1151952
+16-07-2020,Sikkim,13762
+16-07-2020,Tamil Nadu,1782635
+16-07-2020,Telangana,222693
+16-07-2020,Tripura,95328
+16-07-2020,Uttar Pradesh,1325327
+16-07-2020,Uttarakhand,109784
+16-07-2020,West Bengal,663108
+17-07-2020,Andaman and Nicobar Islands,19421
+17-07-2020,Andhra Pradesh,1260512
+17-07-2020,Arunachal Pradesh,36426
+17-07-2020,Assam,614743
+17-07-2020,Bihar,357730
+17-07-2020,Chandigarh,10457
+17-07-2020,Chhattisgarh,232873
+17-07-2020,Dadra and Nagar Haveli and Daman and Diu,38176
+17-07-2020,Delhi,777125
+17-07-2020,Goa,103527
+17-07-2020,Gujarat,512000
+17-07-2020,Haryana,424692
+17-07-2020,Himachal Pradesh,110585
+17-07-2020,Jammu and Kashmir,489382
+17-07-2020,Jharkhand,208492
+17-07-2020,Karnataka,953417
+17-07-2020,Kerala,489395
+17-07-2020,Madhya Pradesh,567364
+17-07-2020,Maharashtra,1487738
+17-07-2020,Manipur,68554
+17-07-2020,Meghalaya,25981
+17-07-2020,Mizoram,17760
+17-07-2020,Nagaland,28472
+17-07-2020,Odisha,369738
+17-07-2020,Puducherry,29851
+17-07-2020,Punjab,438793
+17-07-2020,Rajasthan,1175379
+17-07-2020,Sikkim,14373
+17-07-2020,Tamil Nadu,1831304
+17-07-2020,Telangana,237817
+17-07-2020,Tripura,97471
+17-07-2020,Uttar Pradesh,1379534
+17-07-2020,Uttarakhand,113846
+17-07-2020,West Bengal,676348
+18-07-2020,Andaman and Nicobar Islands,19671
+18-07-2020,Andhra Pradesh,1284384
+18-07-2020,Arunachal Pradesh,38042
+18-07-2020,Assam,632372
+18-07-2020,Bihar,368232
+18-07-2020,Chandigarh,10773
+18-07-2020,Chhattisgarh,238890
+18-07-2020,Dadra and Nagar Haveli and Daman and Diu,38313
+18-07-2020,Delhi,798783
+18-07-2020,Goa,105731
+18-07-2020,Gujarat,524297
+18-07-2020,Haryana,436535
+18-07-2020,Himachal Pradesh,113129
+18-07-2020,Jammu and Kashmir,498007
+18-07-2020,Jharkhand,212299
+18-07-2020,Karnataka,982701
+18-07-2020,Kerala,514140
+18-07-2020,Ladakh,16192
+18-07-2020,Madhya Pradesh,583655
+18-07-2020,Maharashtra,1526037
+18-07-2020,Manipur,70195
+18-07-2020,Meghalaya,26940
+18-07-2020,Mizoram,17963
+18-07-2020,Nagaland,29092
+18-07-2020,Odisha,377893
+18-07-2020,Puducherry,30652
+18-07-2020,Punjab,450732
+18-07-2020,Rajasthan,1204676
+18-07-2020,Sikkim,15139
+18-07-2020,Tamil Nadu,1879499
+18-07-2020,Telangana,252700
+18-07-2020,Tripura,105058
+18-07-2020,Uttar Pradesh,1426303
+18-07-2020,Uttarakhand,116694
+18-07-2020,West Bengal,689813
+19-07-2020,Andaman and Nicobar Islands,19904
+19-07-2020,Andhra Pradesh,1315532
+19-07-2020,Arunachal Pradesh,39288
+19-07-2020,Assam,651179
+19-07-2020,Bihar,378508
+19-07-2020,Chandigarh,10959
+19-07-2020,Chhattisgarh,244937
+19-07-2020,Dadra and Nagar Haveli and Daman and Diu,38640
+19-07-2020,Delhi,818989
+19-07-2020,Goa,107266
+19-07-2020,Gujarat,536122
+19-07-2020,Haryana,447345
+19-07-2020,Himachal Pradesh,115298
+19-07-2020,Jammu and Kashmir,507678
+19-07-2020,Jharkhand,215661
+19-07-2020,Karnataka,999530
+19-07-2020,Kerala,532505
+19-07-2020,Ladakh,16225
+19-07-2020,Madhya Pradesh,599640
+19-07-2020,Maharashtra,1568229
+19-07-2020,Manipur,71016
+19-07-2020,Meghalaya,26940
+19-07-2020,Mizoram,18147
+19-07-2020,Nagaland,29326
+19-07-2020,Odisha,386102
+19-07-2020,Puducherry,31420
+19-07-2020,Punjab,459900
+19-07-2020,Rajasthan,1231760
+19-07-2020,Sikkim,15957
+19-07-2020,Tamil Nadu,1932492
+19-07-2020,Telangana,265219
+19-07-2020,Tripura,109290
+19-07-2020,Uttar Pradesh,1470426
+19-07-2020,Uttarakhand,119345
+19-07-2020,West Bengal,703284
+20-07-2020,Andaman and Nicobar Islands,20301
+20-07-2020,Andhra Pradesh,1349112
+20-07-2020,Arunachal Pradesh,40477
+20-07-2020,Assam,671191
+20-07-2020,Bihar,388626
+20-07-2020,Chandigarh,11075
+20-07-2020,Chhattisgarh,250016
+20-07-2020,Dadra and Nagar Haveli and Daman and Diu,38880
+20-07-2020,Delhi,830459
+20-07-2020,Goa,108459
+20-07-2020,Gujarat,548989
+20-07-2020,Haryana,457310
+20-07-2020,Himachal Pradesh,116795
+20-07-2020,Jammu and Kashmir,518029
+20-07-2020,Jharkhand,222781
+20-07-2020,Karnataka,1025420
+20-07-2020,Kerala,546000
+20-07-2020,Ladakh,16467
+20-07-2020,Madhya Pradesh,615862
+20-07-2020,Maharashtra,1603802
+20-07-2020,Manipur,71703
+20-07-2020,Meghalaya,28163
+20-07-2020,Mizoram,18147
+20-07-2020,Nagaland,29994
+20-07-2020,Odisha,393602
+20-07-2020,Puducherry,31947
+20-07-2020,Punjab,466057
+20-07-2020,Rajasthan,1244387
+20-07-2020,Sikkim,16906
+20-07-2020,Tamil Nadu,1984579
+20-07-2020,Telangana,276222
+20-07-2020,Tripura,114165
+20-07-2020,Uttar Pradesh,1513827
+20-07-2020,Uttarakhand,123000
+20-07-2020,West Bengal,716365
+21-07-2020,Andaman and Nicobar Islands,20642
+21-07-2020,Andhra Pradesh,1386274
+21-07-2020,Arunachal Pradesh,41772
+21-07-2020,Assam,689343
+21-07-2020,Bihar,398929
+21-07-2020,Chandigarh,11271
+21-07-2020,Chhattisgarh,254185
+21-07-2020,Dadra and Nagar Haveli and Daman and Diu,39199
+21-07-2020,Delhi,851311
+21-07-2020,Goa,111296
+21-07-2020,Gujarat,562682
+21-07-2020,Haryana,467740
+21-07-2020,Himachal Pradesh,119220
+21-07-2020,Jammu and Kashmir,528946
+21-07-2020,Jharkhand,230535
+21-07-2020,Karnataka,1051976
+21-07-2020,Kerala,567278
+21-07-2020,Ladakh,16639
+21-07-2020,Madhya Pradesh,631067
+21-07-2020,Maharashtra,1643981
+21-07-2020,Manipur,73053
+21-07-2020,Meghalaya,29274
+21-07-2020,Mizoram,18297
+21-07-2020,Nagaland,30574
+21-07-2020,Odisha,401644
+21-07-2020,Puducherry,32468
+21-07-2020,Punjab,478421
+21-07-2020,Rajasthan,1270376
+21-07-2020,Sikkim,17564
+21-07-2020,Tamil Nadu,2035645
+21-07-2020,Telangana,293077
+21-07-2020,Tripura,119046
+21-07-2020,Uttar Pradesh,1554116
+21-07-2020,Uttarakhand,127098
+21-07-2020,West Bengal,729429
+22-07-2020,Andaman and Nicobar Islands,21043
+22-07-2020,Andhra Pradesh,1435827
+22-07-2020,Arunachal Pradesh,44986
+22-07-2020,Assam,703374
+22-07-2020,Bihar,409088
+22-07-2020,Chandigarh,11547
+22-07-2020,Chhattisgarh,260227
+22-07-2020,Delhi,871371
+22-07-2020,Goa,114309
+22-07-2020,Gujarat,576706
+22-07-2020,Haryana,477412
+22-07-2020,Himachal Pradesh,121688
+22-07-2020,Jammu and Kashmir,537891
+22-07-2020,Jharkhand,236438
+22-07-2020,Karnataka,1079749
+22-07-2020,Kerala,588930
+22-07-2020,Ladakh,16850
+22-07-2020,Madhya Pradesh,645003
+22-07-2020,Maharashtra,1691546
+22-07-2020,Manipur,73866
+22-07-2020,Meghalaya,30009
+22-07-2020,Mizoram,18603
+22-07-2020,Nagaland,31503
+22-07-2020,Odisha,410921
+22-07-2020,Puducherry,33096
+22-07-2020,Punjab,489836
+22-07-2020,Rajasthan,1298218
+22-07-2020,Sikkim,19484
+22-07-2020,Tamil Nadu,2095757
+22-07-2020,Telangana,308959
+22-07-2020,Tripura,123269
+22-07-2020,Uttar Pradesh,1600000
+22-07-2020,Uttarakhand,129783
+22-07-2020,West Bengal,743469
+23-07-2020,Andaman and Nicobar Islands,21310
+23-07-2020,Andhra Pradesh,1493879
+23-07-2020,Arunachal Pradesh,48880
+23-07-2020,Assam,723287
+23-07-2020,Bihar,419208
+23-07-2020,Chandigarh,11780
+23-07-2020,Chhattisgarh,268285
+23-07-2020,Dadra and Nagar Haveli and Daman and Diu,0
+23-07-2020,Delhi,889597
+23-07-2020,Goa,117321
+23-07-2020,Gujarat,591561
+23-07-2020,Haryana,490414
+23-07-2020,Himachal Pradesh,124683
+23-07-2020,Jammu and Kashmir,548877
+23-07-2020,Jharkhand,243276
+23-07-2020,Karnataka,1109568
+23-07-2020,Kerala,612266
+23-07-2020,Ladakh,16972
+23-07-2020,Madhya Pradesh,658869
+23-07-2020,Maharashtra,1741992
+23-07-2020,Manipur,74614
+23-07-2020,Meghalaya,30796
+23-07-2020,Mizoram,19014
+23-07-2020,Nagaland,32169
+23-07-2020,Odisha,421931
+23-07-2020,Puducherry,33658
+23-07-2020,Punjab,500562
+23-07-2020,Rajasthan,1325580
+23-07-2020,Sikkim,20050
+23-07-2020,Tamil Nadu,2157869
+23-07-2020,Telangana,322326
+23-07-2020,Tripura,127742
+23-07-2020,Uttar Pradesh,1654651
+23-07-2020,Uttarakhand,132840
+23-07-2020,West Bengal,758027
+24-07-2020,Andaman and Nicobar Islands,21743
+24-07-2020,Andhra Pradesh,1541993
+24-07-2020,Arunachal Pradesh,53335
+24-07-2020,Assam,739465
+24-07-2020,Bihar,429664
+24-07-2020,Chandigarh,12030
+24-07-2020,Chhattisgarh,274660
+24-07-2020,Delhi,908735
+24-07-2020,Goa,119455
+24-07-2020,Gujarat,606718
+24-07-2020,Haryana,505220
+24-07-2020,Himachal Pradesh,127555
+24-07-2020,Jammu and Kashmir,559399
+24-07-2020,Jharkhand,248928
+24-07-2020,Kerala,635272
+24-07-2020,Ladakh,17395
+24-07-2020,Madhya Pradesh,670155
+24-07-2020,Maharashtra,1790610
+24-07-2020,Manipur,75932
+24-07-2020,Meghalaya,32401
+24-07-2020,Mizoram,19238
+24-07-2020,Nagaland,32909
+24-07-2020,Odisha,433578
+24-07-2020,Puducherry,34305
+24-07-2020,Punjab,509267
+24-07-2020,Rajasthan,1349544
+24-07-2020,Sikkim,20785
+24-07-2020,Tamil Nadu,2223019
+24-07-2020,Telangana,337771
+24-07-2020,Tripura,131485
+24-07-2020,Uttar Pradesh,1705348
+24-07-2020,Uttarakhand,135447
+24-07-2020,West Bengal,773512
+24-04-2020,Andaman and Nicobar Islands,2679
+27-04-2020,Andaman and Nicobar Islands,2848
+24-05-2020,Andaman and Nicobar Islands,7327
+25-05-2020,Andaman and Nicobar Islands,7363
+26-05-2020,Andaman and Nicobar Islands,7448
+27-05-2020,Andaman and Nicobar Islands,7499
+28-05-2020,Andaman and Nicobar Islands,7519
+29-05-2020,Andaman and Nicobar Islands,7567
+30-05-2020,Andaman and Nicobar Islands,7567
+31-05-2020,Andaman and Nicobar Islands,7706
+24-06-2020,Andaman and Nicobar Islands,13994
+25-06-2020,Andaman and Nicobar Islands,14277
+26-06-2020,Andaman and Nicobar Islands,14583
+27-06-2020,Andaman and Nicobar Islands,14851
+28-06-2020,Andaman and Nicobar Islands,15094
+29-06-2020,Andaman and Nicobar Islands,15410
+30-06-2020,Andaman and Nicobar Islands,15709
+24-07-2020,Andaman and Nicobar Islands,21743
+24-04-2020,Andhra Pradesh,54338
+25-04-2020,Andhra Pradesh,61266
+26-04-2020,Andhra Pradesh,68034
+27-04-2020,Andhra Pradesh,74551
+28-04-2020,Andhra Pradesh,80334
+29-04-2020,Andhra Pradesh,88061
+30-04-2020,Andhra Pradesh,94558
+24-05-2020,Andhra Pradesh,304326
+25-05-2020,Andhra Pradesh,314566
+26-05-2020,Andhra Pradesh,322714
+27-05-2020,Andhra Pradesh,332378
+28-05-2020,Andhra Pradesh,342236
+29-05-2020,Andhra Pradesh,353874
+30-05-2020,Andhra Pradesh,363378
+31-05-2020,Andhra Pradesh,372748
+24-06-2020,Andhra Pradesh,750234
+25-06-2020,Andhra Pradesh,769319
+26-06-2020,Andhra Pradesh,791624
+27-06-2020,Andhra Pradesh,816082
+28-06-2020,Andhra Pradesh,841860
+29-06-2020,Andhra Pradesh,872076
+30-06-2020,Andhra Pradesh,890190
+24-07-2020,Andhra Pradesh,1541993
+25-07-2020,Andhra Pradesh,1595674
+24-04-2020,Arunachal Pradesh,526
+26-04-2020,Arunachal Pradesh,568
+27-04-2020,Arunachal Pradesh,584
+28-04-2020,Arunachal Pradesh,610
+29-04-2020,Arunachal Pradesh,662
+30-04-2020,Arunachal Pradesh,694
+24-05-2020,Arunachal Pradesh,5428
+25-05-2020,Arunachal Pradesh,5997
+26-05-2020,Arunachal Pradesh,6319
+27-05-2020,Arunachal Pradesh,6436
+28-05-2020,Arunachal Pradesh,6984
+29-05-2020,Arunachal Pradesh,7488
+30-05-2020,Arunachal Pradesh,8017
+31-05-2020,Arunachal Pradesh,8283
+24-06-2020,Arunachal Pradesh,20938
+25-06-2020,Arunachal Pradesh,21274
+26-06-2020,Arunachal Pradesh,21890
+27-06-2020,Arunachal Pradesh,22623
+28-06-2020,Arunachal Pradesh,23011
+29-06-2020,Arunachal Pradesh,23709
+30-06-2020,Arunachal Pradesh,24237
+24-07-2020,Arunachal Pradesh,53335
+24-04-2020,Assam,6680
+25-04-2020,Assam,7159
+26-04-2020,Assam,7823
+27-04-2020,Assam,8117
+29-04-2020,Assam,9520
+24-05-2020,Assam,66444
+25-05-2020,Assam,70029
+26-05-2020,Assam,72654
+29-05-2020,Assam,92390
+30-05-2020,Assam,101257
+31-05-2020,Assam,109097
+24-06-2020,Assam,336091
+25-06-2020,Assam,351753
+26-06-2020,Assam,362713
+27-06-2020,Assam,374519
+28-06-2020,Assam,385299
+29-06-2020,Assam,399393
+30-06-2020,Assam,412214
+24-07-2020,Assam,739465
+24-04-2020,Bihar,14924
+25-04-2020,Bihar,15885
+26-04-2020,Bihar,17041
+27-04-2020,Bihar,18179
+28-04-2020,Bihar,19790
+29-04-2020,Bihar,21180
+30-04-2020,Bihar,22672
+24-05-2020,Bihar,63741
+26-05-2020,Bihar,0
+27-05-2020,Bihar,68262
+28-05-2020,Bihar,70275
+29-05-2020,Bihar,72256
+30-05-2020,Bihar,73929
+31-05-2020,Bihar,75737
+24-06-2020,Bihar,175103
+25-06-2020,Bihar,181737
+26-06-2020,Bihar,189643
+27-06-2020,Bihar,198385
+28-06-2020,Bihar,205832
+29-06-2020,Bihar,212659
+30-06-2020,Bihar,220890
+24-07-2020,Bihar,429664
+25-07-2020,Bihar,442125
+24-04-2020,Chandigarh,638
+25-04-2020,Chandigarh,734
+26-04-2020,Chandigarh,756
+27-04-2020,Chandigarh,843
+28-04-2020,Chandigarh,924
+29-04-2020,Chandigarh,1012
+30-04-2020,Chandigarh,1147
+24-05-2020,Chandigarh,3904
+25-05-2020,Chandigarh,4089
+26-05-2020,Chandigarh,4207
+27-05-2020,Chandigarh,4332
+28-05-2020,Chandigarh,4467
+29-05-2020,Chandigarh,4543
+30-05-2020,Chandigarh,4654
+31-05-2020,Chandigarh,4785
+24-06-2020,Chandigarh,6981
+25-06-2020,Chandigarh,7072
+26-06-2020,Chandigarh,7201
+27-06-2020,Chandigarh,7342
+28-06-2020,Chandigarh,7455
+29-06-2020,Chandigarh,7548
+30-06-2020,Chandigarh,7689
+24-07-2020,Chandigarh,12030
+24-04-2020,Chhattisgarh,11386
+25-04-2020,Chhattisgarh,12596
+26-04-2020,Chhattisgarh,13786
+27-04-2020,Chhattisgarh,14987
+28-04-2020,Chhattisgarh,15737
+29-04-2020,Chhattisgarh,16546
+30-04-2020,Chhattisgarh,17541
+25-05-2020,Chhattisgarh,55022
+26-05-2020,Chhattisgarh,57479
+27-05-2020,Chhattisgarh,59320
+28-05-2020,Chhattisgarh,61771
+29-05-2020,Chhattisgarh,63992
+30-05-2020,Chhattisgarh,66417
+31-05-2020,Chhattisgarh,69152
+24-06-2020,Chhattisgarh,137400
+25-06-2020,Chhattisgarh,142090
+26-06-2020,Chhattisgarh,144828
+27-06-2020,Chhattisgarh,152874
+28-06-2020,Chhattisgarh,154526
+29-06-2020,Chhattisgarh,156386
+30-06-2020,Chhattisgarh,160650
+24-07-2020,Chhattisgarh,274660
+25-04-2020,Dadra and Nagar Haveli and Daman and Diu,1386
+26-04-2020,Dadra and Nagar Haveli and Daman and Diu,1901
+27-04-2020,Dadra and Nagar Haveli and Daman and Diu,2379
+29-04-2020,Dadra and Nagar Haveli and Daman and Diu,2921
+30-04-2020,Dadra and Nagar Haveli and Daman and Diu,3464
+24-05-2020,Dadra and Nagar Haveli and Daman and Diu,9678
+25-05-2020,Dadra and Nagar Haveli and Daman and Diu,10085
+26-05-2020,Dadra and Nagar Haveli and Daman and Diu,10388
+27-05-2020,Dadra and Nagar Haveli and Daman and Diu,10872
+28-05-2020,Dadra and Nagar Haveli and Daman and Diu,11177
+29-05-2020,Dadra and Nagar Haveli and Daman and Diu,11477
+24-06-2020,Dadra and Nagar Haveli and Daman and Diu,29403
+25-06-2020,Dadra and Nagar Haveli and Daman and Diu,30188
+26-06-2020,Dadra and Nagar Haveli and Daman and Diu,30602
+27-06-2020,Dadra and Nagar Haveli and Daman and Diu,31015
+28-06-2020,Dadra and Nagar Haveli and Daman and Diu,31321
+29-06-2020,Dadra and Nagar Haveli and Daman and Diu,31602
+30-06-2020,Dadra and Nagar Haveli and Daman and Diu,32031
+25-07-2020,Dadra and Nagar Haveli and Daman and Diu,0
+24-04-2020,Delhi,33672
+25-04-2020,Delhi,35519
+26-04-2020,Delhi,37613
+27-04-2020,Delhi,39911
+28-04-2020,Delhi,43370
+29-04-2020,Delhi,47225
+24-05-2020,Delhi,169873
+25-05-2020,Delhi,174469
+26-05-2020,Delhi,178579
+27-05-2020,Delhi,184362
+28-05-2020,Delhi,191977
+29-05-2020,Delhi,199626
+30-05-2020,Delhi,206739
+31-05-2020,Delhi,212784
+24-06-2020,Delhi,420707
+25-06-2020,Delhi,438012
+26-06-2020,Delhi,459156
+27-06-2020,Delhi,478336
+28-06-2020,Delhi,498416
+29-06-2020,Delhi,514573
+30-06-2020,Delhi,531752
+24-07-2020,Delhi,908735
+25-07-2020,Delhi,929244
+27-04-2020,Goa,1541
+28-04-2020,Goa,1776
+29-04-2020,Goa,1871
+30-04-2020,Goa,2031
+24-05-2020,Goa,12499
+25-05-2020,Goa,12860
+26-05-2020,Goa,13303
+27-05-2020,Goa,13911
+28-05-2020,Goa,14782
+29-05-2020,Goa,16141
+30-05-2020,Goa,17871
+31-05-2020,Goa,19491
+24-06-2020,Goa,56925
+25-06-2020,Goa,58584
+26-06-2020,Goa,60350
+27-06-2020,Goa,61687
+28-06-2020,Goa,62945
+29-06-2020,Goa,64375
+30-06-2020,Goa,66491
+24-07-2020,Goa,119455
+24-04-2020,Gujarat,46743
+25-04-2020,Gujarat,48315
+26-04-2020,Gujarat,51091
+27-04-2020,Gujarat,53575
+28-04-2020,Gujarat,56101
+29-04-2020,Gujarat,59488
+30-04-2020,Gujarat,64007
+24-05-2020,Gujarat,182868
+25-05-2020,Gujarat,186361
+26-05-2020,Gujarat,189313
+27-05-2020,Gujarat,193863
+28-05-2020,Gujarat,198048
+29-05-2020,Gujarat,201481
+30-05-2020,Gujarat,205780
+31-05-2020,Gujarat,211930
+24-06-2020,Gujarat,340080
+25-06-2020,Gujarat,345278
+26-06-2020,Gujarat,351179
+27-06-2020,Gujarat,357148
+28-06-2020,Gujarat,363306
+29-06-2020,Gujarat,367739
+30-06-2020,Gujarat,373613
+24-07-2020,Gujarat,606718
+25-07-2020,Gujarat,620662
+24-04-2020,Haryana,18845
+25-04-2020,Haryana,20270
+26-04-2020,Haryana,21467
+27-04-2020,Haryana,22993
+28-04-2020,Haryana,24826
+29-04-2020,Haryana,26148
+30-04-2020,Haryana,28202
+24-05-2020,Haryana,97006
+25-05-2020,Haryana,99987
+26-05-2020,Haryana,102018
+27-05-2020,Haryana,104747
+28-05-2020,Haryana,108031
+29-05-2020,Haryana,110940
+30-05-2020,Haryana,114683
+31-05-2020,Haryana,118138
+24-06-2020,Haryana,231673
+25-06-2020,Haryana,236898
+26-06-2020,Haryana,241941
+27-06-2020,Haryana,247139
+28-06-2020,Haryana,252356
+29-06-2020,Haryana,260341
+30-06-2020,Haryana,264203
+24-07-2020,Haryana,505220
+24-04-2020,Himachal Pradesh,4328
+25-04-2020,Himachal Pradesh,4623
+26-04-2020,Himachal Pradesh,4901
+27-04-2020,Himachal Pradesh,5106
+28-04-2020,Himachal Pradesh,5391
+29-04-2020,Himachal Pradesh,5772
+30-04-2020,Himachal Pradesh,6133
+24-05-2020,Himachal Pradesh,27288
+25-05-2020,Himachal Pradesh,28346
+26-05-2020,Himachal Pradesh,29379
+27-05-2020,Himachal Pradesh,30852
+28-05-2020,Himachal Pradesh,32449
+29-05-2020,Himachal Pradesh,33979
+30-05-2020,Himachal Pradesh,35668
+31-05-2020,Himachal Pradesh,37168
+24-06-2020,Himachal Pradesh,68899
+25-06-2020,Himachal Pradesh,71078
+26-06-2020,Himachal Pradesh,72688
+27-06-2020,Himachal Pradesh,74764
+28-06-2020,Himachal Pradesh,76556
+29-06-2020,Himachal Pradesh,77384
+30-06-2020,Himachal Pradesh,79499
+24-07-2020,Himachal Pradesh,127555
+24-04-2020,Jammu and Kashmir,11764
+25-04-2020,Jammu and Kashmir,12835
+26-04-2020,Jammu and Kashmir,13959
+27-04-2020,Jammu and Kashmir,14988
+28-04-2020,Jammu and Kashmir,16619
+29-04-2020,Jammu and Kashmir,18450
+30-04-2020,Jammu and Kashmir,19746
+24-05-2020,Jammu and Kashmir,130433
+25-05-2020,Jammu and Kashmir,134188
+26-05-2020,Jammu and Kashmir,140962
+27-05-2020,Jammu and Kashmir,145162
+28-05-2020,Jammu and Kashmir,153522
+29-05-2020,Jammu and Kashmir,158729
+30-05-2020,Jammu and Kashmir,164581
+31-05-2020,Jammu and Kashmir,171045
+24-06-2020,Jammu and Kashmir,326430
+25-06-2020,Jammu and Kashmir,332445
+26-06-2020,Jammu and Kashmir,338903
+27-06-2020,Jammu and Kashmir,345426
+28-06-2020,Jammu and Kashmir,351865
+29-06-2020,Jammu and Kashmir,358530
+30-06-2020,Jammu and Kashmir,365058
+24-07-2020,Jammu and Kashmir,559399
+25-07-2020,Jammu and Kashmir,570508
+24-04-2020,Jharkhand,6162
+25-04-2020,Jharkhand,6970
+26-04-2020,Jharkhand,7806
+27-04-2020,Jharkhand,8757
+28-04-2020,Jharkhand,9408
+29-04-2020,Jharkhand,10268
+30-04-2020,Jharkhand,10987
+24-05-2020,Jharkhand,48641
+25-05-2020,Jharkhand,50709
+26-05-2020,Jharkhand,53309
+27-05-2020,Jharkhand,55427
+28-05-2020,Jharkhand,57250
+29-05-2020,Jharkhand,59452
+30-05-2020,Jharkhand,62916
+31-05-2020,Jharkhand,65886
+24-06-2020,Jharkhand,128214
+25-06-2020,Jharkhand,131169
+26-06-2020,Jharkhand,133082
+27-06-2020,Jharkhand,135276
+28-06-2020,Jharkhand,137438
+29-06-2020,Jharkhand,139907
+30-06-2020,Jharkhand,142641
+24-07-2020,Jharkhand,248928
+24-04-2020,Karnataka,35958
+25-04-2020,Karnataka,39083
+26-04-2020,Karnataka,42964
+27-04-2020,Karnataka,45685
+28-04-2020,Karnataka,50512
+29-04-2020,Karnataka,55404
+30-04-2020,Karnataka,60156
+24-05-2020,Karnataka,206313
+25-05-2020,Karnataka,219894
+26-05-2020,Karnataka,228914
+27-05-2020,Karnataka,241608
+28-05-2020,Karnataka,252078
+29-05-2020,Karnataka,264489
+30-05-2020,Karnataka,280217
+31-05-2020,Karnataka,293575
+24-06-2020,Karnataka,539247
+25-06-2020,Karnataka,553325
+26-06-2020,Karnataka,568058
+27-06-2020,Karnataka,581635
+28-06-2020,Karnataka,595470
+29-06-2020,Karnataka,605159
+30-06-2020,Karnataka,620747
+25-07-2020,Karnataka,0
+24-04-2020,Kerala,21940
+25-04-2020,Kerala,22360
+26-04-2020,Kerala,22954
+27-04-2020,Kerala,24146
+28-04-2020,Kerala,24855
+29-04-2020,Kerala,25827
+30-04-2020,Kerala,27481
+24-05-2020,Kerala,61900
+25-05-2020,Kerala,63009
+26-05-2020,Kerala,65303
+27-05-2020,Kerala,67961
+28-05-2020,Kerala,70622
+29-05-2020,Kerala,74214
+30-05-2020,Kerala,77257
+31-05-2020,Kerala,77508
+24-06-2020,Kerala,197567
+25-06-2020,Kerala,203574
+26-06-2020,Kerala,209456
+27-06-2020,Kerala,215243
+28-06-2020,Kerala,220821
+29-06-2020,Kerala,224737
+30-06-2020,Kerala,231570
+24-07-2020,Kerala,635272
+25-07-2020,Kerala,653982
+29-04-2020,Ladakh,1949
+30-04-2020,Ladakh,2245
+24-05-2020,Ladakh,5730
+25-05-2020,Ladakh,5896
+30-05-2020,Ladakh,7354
+31-05-2020,Ladakh,7354
+24-06-2020,Ladakh,13313
+25-06-2020,Ladakh,13521
+26-06-2020,Ladakh,13636
+27-06-2020,Ladakh,13717
+29-06-2020,Ladakh,13886
+24-07-2020,Ladakh,17395
+24-04-2020,Madhya Pradesh,26233
+25-04-2020,Madhya Pradesh,27866
+26-04-2020,Madhya Pradesh,25232
+27-04-2020,Madhya Pradesh,27009
+28-04-2020,Madhya Pradesh,31060
+29-04-2020,Madhya Pradesh,33837
+30-04-2020,Madhya Pradesh,41712
+24-05-2020,Madhya Pradesh,135889
+25-05-2020,Madhya Pradesh,138584
+26-05-2020,Madhya Pradesh,141508
+27-05-2020,Madhya Pradesh,146144
+28-05-2020,Madhya Pradesh,151182
+29-05-2020,Madhya Pradesh,155436
+30-05-2020,Madhya Pradesh,161552
+31-05-2020,Madhya Pradesh,167808
+24-06-2020,Madhya Pradesh,314978
+25-06-2020,Madhya Pradesh,321595
+26-06-2020,Madhya Pradesh,329079
+27-06-2020,Madhya Pradesh,337041
+28-06-2020,Madhya Pradesh,344836
+29-06-2020,Madhya Pradesh,353612
+30-06-2020,Madhya Pradesh,365467
+24-07-2020,Madhya Pradesh,670155
+25-07-2020,Madhya Pradesh,684419
+24-04-2020,Maharashtra,95210
+25-04-2020,Maharashtra,100912
+26-04-2020,Maharashtra,107979
+27-04-2020,Maharashtra,115147
+28-04-2020,Maharashtra,120620
+29-04-2020,Maharashtra,128726
+30-04-2020,Maharashtra,135694
+24-05-2020,Maharashtra,363470
+25-05-2020,Maharashtra,379185
+26-05-2020,Maharashtra,390757
+27-05-2020,Maharashtra,405020
+28-05-2020,Maharashtra,420473
+29-05-2020,Maharashtra,434565
+30-05-2020,Maharashtra,448661
+31-05-2020,Maharashtra,463177
+24-06-2020,Maharashtra,826139
+25-06-2020,Maharashtra,850410
+26-06-2020,Maharashtra,873570
+27-06-2020,Maharashtra,900423
+28-06-2020,Maharashtra,926934
+29-06-2020,Maharashtra,946518
+30-06-2020,Maharashtra,970161
+24-07-2020,Maharashtra,1790610
+25-07-2020,Maharashtra,1840445
+24-04-2020,Manipur,402
+25-04-2020,Manipur,416
+30-04-2020,Manipur,459
+25-05-2020,Manipur,5041
+26-05-2020,Manipur,6233
+27-05-2020,Manipur,6836
+28-05-2020,Manipur,7758
+29-05-2020,Manipur,8596
+24-06-2020,Manipur,43477
+25-06-2020,Manipur,45253
+27-06-2020,Manipur,48220
+29-06-2020,Manipur,49882
+24-07-2020,Manipur,75932
+24-04-2020,Meghalaya,1130
+25-04-2020,Meghalaya,1169
+27-04-2020,Meghalaya,1254
+28-04-2020,Meghalaya,1382
+29-04-2020,Meghalaya,1397
+30-04-2020,Meghalaya,1595
+26-05-2020,Meghalaya,6553
+27-05-2020,Meghalaya,6685
+31-05-2020,Meghalaya,7781
+24-06-2020,Meghalaya,17115
+25-06-2020,Meghalaya,17591
+26-06-2020,Meghalaya,18103
+27-06-2020,Meghalaya,18288
+28-06-2020,Meghalaya,18441
+29-06-2020,Meghalaya,18707
+30-06-2020,Meghalaya,19294
+24-07-2020,Meghalaya,31367
+25-07-2020,Meghalaya,32401
+26-04-2020,Mizoram,146
+27-04-2020,Mizoram,146
+28-04-2020,Mizoram,158
+29-04-2020,Mizoram,179
+30-04-2020,Mizoram,180
+24-05-2020,Mizoram,342
+25-05-2020,Mizoram,359
+26-05-2020,Mizoram,438
+28-05-2020,Mizoram,516
+29-05-2020,Mizoram,529
+30-05-2020,Mizoram,686
+31-05-2020,Mizoram,777
+24-06-2020,Mizoram,10486
+25-06-2020,Mizoram,11672
+26-06-2020,Mizoram,12753
+27-06-2020,Mizoram,12846
+28-06-2020,Mizoram,13012
+29-06-2020,Mizoram,13072
+30-06-2020,Mizoram,13746
+24-07-2020,Mizoram,19238
+25-07-2020,Mizoram,19781
+25-04-2020,Nagaland,613
+26-04-2020,Nagaland,613
+27-04-2020,Nagaland,629
+28-04-2020,Nagaland,639
+29-04-2020,Nagaland,644
+30-04-2020,Nagaland,653
+24-05-2020,Nagaland,1097
+25-05-2020,Nagaland,1366
+26-05-2020,Nagaland,1366
+27-05-2020,Nagaland,1554
+28-05-2020,Nagaland,1765
+29-05-2020,Nagaland,1997
+30-05-2020,Nagaland,2210
+31-05-2020,Nagaland,2576
+24-06-2020,Nagaland,11867
+25-06-2020,Nagaland,12546
+26-06-2020,Nagaland,13085
+27-06-2020,Nagaland,14217
+28-06-2020,Nagaland,15240
+29-06-2020,Nagaland,15905
+30-06-2020,Nagaland,16563
+24-07-2020,Nagaland,32909
+24-04-2020,Odisha,18458
+25-04-2020,Odisha,20599
+26-04-2020,Odisha,22816
+27-04-2020,Odisha,25103
+28-04-2020,Odisha,26687
+29-04-2020,Odisha,29108
+30-04-2020,Odisha,31696
+24-05-2020,Odisha,123834
+25-05-2020,Odisha,127776
+26-05-2020,Odisha,131595
+27-05-2020,Odisha,136274
+28-05-2020,Odisha,139311
+29-05-2020,Odisha,143570
+30-05-2020,Odisha,147490
+31-05-2020,Odisha,152131
+24-06-2020,Odisha,235627
+25-06-2020,Odisha,239815
+26-06-2020,Odisha,244588
+27-06-2020,Odisha,249902
+28-06-2020,Odisha,255809
+29-06-2020,Odisha,260428
+30-06-2020,Odisha,265431
+24-07-2020,Odisha,433578
+24-04-2020,Puducherry,1704
+25-04-2020,Puducherry,1864
+26-04-2020,Puducherry,1977
+27-04-2020,Puducherry,2014
+28-04-2020,Puducherry,2156
+29-04-2020,Puducherry,2228
+30-04-2020,Puducherry,2353
+24-05-2020,Puducherry,6536
+25-05-2020,Puducherry,6606
+26-05-2020,Puducherry,6677
+27-05-2020,Puducherry,6808
+28-05-2020,Puducherry,6917
+29-05-2020,Puducherry,7043
+30-05-2020,Puducherry,7164
+31-05-2020,Puducherry,7255
+24-06-2020,Puducherry,13861
+25-06-2020,Puducherry,14267
+26-06-2020,Puducherry,14689
+27-06-2020,Puducherry,15225
+28-06-2020,Puducherry,15892
+29-06-2020,Puducherry,16479
+30-06-2020,Puducherry,17281
+24-07-2020,Puducherry,34305
+24-04-2020,Punjab,10611
+25-04-2020,Punjab,13270
+26-04-2020,Punjab,14317
+27-04-2020,Punjab,15516
+28-04-2020,Punjab,17021
+29-04-2020,Punjab,18670
+30-04-2020,Punjab,21205
+24-05-2020,Punjab,66142
+25-05-2020,Punjab,67213
+26-05-2020,Punjab,69818
+27-05-2020,Punjab,72468
+28-05-2020,Punjab,72468
+29-05-2020,Punjab,81021
+30-05-2020,Punjab,84497
+31-05-2020,Punjab,87852
+24-06-2020,Punjab,260857
+25-06-2020,Punjab,269037
+26-06-2020,Punjab,276919
+27-06-2020,Punjab,284431
+28-06-2020,Punjab,289923
+29-06-2020,Punjab,294448
+30-06-2020,Punjab,301830
+24-07-2020,Punjab,509267
+24-04-2020,Rajasthan,74484
+25-04-2020,Rajasthan,78993
+26-04-2020,Rajasthan,82942
+27-04-2020,Rajasthan,87777
+28-04-2020,Rajasthan,92506
+29-04-2020,Rajasthan,97790
+30-04-2020,Rajasthan,103704
+24-05-2020,Rajasthan,317067
+25-05-2020,Rajasthan,327836
+26-05-2020,Rajasthan,337159
+27-05-2020,Rajasthan,350600
+28-05-2020,Rajasthan,365556
+29-05-2020,Rajasthan,379315
+30-05-2020,Rajasthan,395490
+31-05-2020,Rajasthan,409777
+24-06-2020,Rajasthan,740855
+25-06-2020,Rajasthan,757137
+26-06-2020,Rajasthan,770174
+27-06-2020,Rajasthan,784803
+28-06-2020,Rajasthan,800214
+29-06-2020,Rajasthan,809777
+30-06-2020,Rajasthan,824213
+24-07-2020,Rajasthan,1349544
+24-05-2020,Sikkim,1855
+25-05-2020,Sikkim,2103
+26-05-2020,Sikkim,2255
+27-05-2020,Sikkim,2417
+28-05-2020,Sikkim,2626
+29-05-2020,Sikkim,2759
+30-05-2020,Sikkim,2829
+31-05-2020,Sikkim,2925
+24-06-2020,Sikkim,9849
+25-06-2020,Sikkim,10025
+26-06-2020,Sikkim,10212
+27-06-2020,Sikkim,10219
+28-06-2020,Sikkim,10364
+29-06-2020,Sikkim,10440
+30-06-2020,Sikkim,10535
+24-07-2020,Sikkim,20785
+24-04-2020,Tamil Nadu,72403
+25-04-2020,Tamil Nadu,80110
+26-04-2020,Tamil Nadu,87605
+27-04-2020,Tamil Nadu,94781
+28-04-2020,Tamil Nadu,101874
+29-04-2020,Tamil Nadu,109961
+30-04-2020,Tamil Nadu,119748
+24-05-2020,Tamil Nadu,409615
+25-05-2020,Tamil Nadu,421450
+26-05-2020,Tamil Nadu,431739
+27-05-2020,Tamil Nadu,442970
+28-05-2020,Tamil Nadu,455216
+29-05-2020,Tamil Nadu,466550
+30-05-2020,Tamil Nadu,479155
+31-05-2020,Tamil Nadu,491962
+24-06-2020,Tamil Nadu,976431
+25-06-2020,Tamil Nadu,1008974
+26-06-2020,Tamil Nadu,1042649
+27-06-2020,Tamil Nadu,1077454
+28-06-2020,Tamil Nadu,1110402
+29-06-2020,Tamil Nadu,1140441
+30-06-2020,Tamil Nadu,1170683
+24-07-2020,Tamil Nadu,2223019
+28-04-2020,Telangana,19063
+29-04-2020,Telangana,19278
+24-06-2020,Telangana,67318
+25-06-2020,Telangana,70934
+26-06-2020,Telangana,75308
+27-06-2020,Telangana,79231
+28-06-2020,Telangana,82458
+29-06-2020,Telangana,85106
+30-06-2020,Telangana,88563
+24-07-2020,Telangana,337771
+24-05-2020,Tripura,19278
+25-05-2020,Tripura,20871
+26-05-2020,Tripura,22049
+27-05-2020,Tripura,23264
+28-05-2020,Tripura,24126
+29-05-2020,Tripura,25403
+30-05-2020,Tripura,26376
+31-05-2020,Tripura,27475
+24-06-2020,Tripura,57753
+25-06-2020,Tripura,59025
+26-06-2020,Tripura,60199
+27-06-2020,Tripura,61194
+28-06-2020,Tripura,62278
+29-06-2020,Tripura,63364
+30-06-2020,Tripura,64478
+24-07-2020,Tripura,131485
+24-04-2020,Uttar Pradesh,53166
+25-04-2020,Uttar Pradesh,56851
+26-04-2020,Uttar Pradesh,61799
+27-04-2020,Uttar Pradesh,67145
+28-04-2020,Uttar Pradesh,70307
+29-04-2020,Uttar Pradesh,73716
+30-04-2020,Uttar Pradesh,78013
+24-05-2020,Uttar Pradesh,229621
+25-05-2020,Uttar Pradesh,235622
+26-05-2020,Uttar Pradesh,240588
+27-05-2020,Uttar Pradesh,240588
+28-05-2020,Uttar Pradesh,256267
+29-05-2020,Uttar Pradesh,270920
+30-05-2020,Uttar Pradesh,279288
+31-05-2020,Uttar Pradesh,289892
+24-06-2020,Uttar Pradesh,603390
+25-06-2020,Uttar Pradesh,620954
+26-06-2020,Uttar Pradesh,642833
+27-06-2020,Uttar Pradesh,663096
+28-06-2020,Uttar Pradesh,684296
+29-06-2020,Uttar Pradesh,707839
+30-06-2020,Uttar Pradesh,727793
+24-07-2020,Uttar Pradesh,1705348
+25-07-2020,Uttar Pradesh,1762416
+24-04-2020,Uttarakhand,4767
+25-04-2020,Uttarakhand,5194
+26-04-2020,Uttarakhand,5277
+27-04-2020,Uttarakhand,5463
+28-04-2020,Uttarakhand,5739
+29-04-2020,Uttarakhand,6046
+30-04-2020,Uttarakhand,6565
+24-05-2020,Uttarakhand,20969
+25-05-2020,Uttarakhand,22117
+26-05-2020,Uttarakhand,23076
+27-05-2020,Uttarakhand,23975
+28-05-2020,Uttarakhand,25380
+29-05-2020,Uttarakhand,26951
+30-05-2020,Uttarakhand,28433
+31-05-2020,Uttarakhand,30438
+24-06-2020,Uttarakhand,59616
+25-06-2020,Uttarakhand,61165
+26-06-2020,Uttarakhand,62500
+27-06-2020,Uttarakhand,63960
+28-06-2020,Uttarakhand,64984
+29-06-2020,Uttarakhand,66396
+30-06-2020,Uttarakhand,69024
+24-07-2020,Uttarakhand,135447
+24-04-2020,West Bengal,8933
+25-04-2020,West Bengal,9880
+26-04-2020,West Bengal,10893
+27-04-2020,West Bengal,12043
+28-04-2020,West Bengal,13223
+29-04-2020,West Bengal,14620
+30-04-2020,West Bengal,16525
+24-05-2020,West Bengal,138824
+25-05-2020,West Bengal,148049
+26-05-2020,West Bengal,157277
+27-05-2020,West Bengal,166513
+28-05-2020,West Bengal,175769
+29-05-2020,West Bengal,185051
+30-05-2020,West Bengal,194397
+31-05-2020,West Bengal,203751
+24-06-2020,West Bengal,429766
+25-06-2020,West Bengal,439258
+26-06-2020,West Bengal,448795
+27-06-2020,West Bengal,458343
+28-06-2020,West Bengal,468906
+29-06-2020,West Bengal,478419
+30-06-2020,West Bengal,488038
+24-07-2020,West Bengal,773512
