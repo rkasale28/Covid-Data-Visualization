@@ -2,6 +2,7 @@ import requests
 import pandas as pd
 from datetime import datetime
 import os
+import numpy as np
 
 states = {'an':'Andaman and Nicobar Islands',
 'ap':'Andhra Pradesh',
@@ -115,5 +116,34 @@ if (resp.status_code == 200):
     df = pd.DataFrame(new_json)
     df.to_csv(DATA_URL, index=False)
     print ('District Level Data: Successful')
+else:
+    print ('HTTP ERROR')
+
+# Test Data
+resp = requests.get('https://api.covid19india.org/state_test_data.json')
+if (resp.status_code == 200):
+    resp = resp.json()
+
+    DATA_URL = (
+    "C:/Users/Rohit/Documents/Self Learning/Streamlit/state_level_tested_daily.csv"
+    )
+
+    data = pd.read_csv(DATA_URL)
+    data['Date'] = pd.to_datetime(data['Date'])
+    data['Date'] = data['Date'].dt.strftime('%d-%b-%y')
+    data = data.iloc[-1:]
+    dt = data['Date'].values[0]
+
+    df = pd.DataFrame(resp['states_tested_data'])
+    df = df[['updatedon','state','totaltested']]
+    df = df[df['updatedon']>dt]
+    if not (df.empty):
+        df = df.replace(r'^\s*$', np.nan, regex=True)
+        df = df.rename(columns={'updatedon':'Date'})
+        df.fillna(0,inplace=True)
+        df.to_csv(DATA_URL, mode='a', header=False, index=False)
+        print ('Test Data: Successful')
+    else:
+        print ('Test Data: Nothing to add')
 else:
     print ('HTTP ERROR')
