@@ -8,6 +8,7 @@ st.sidebar.title("Covid Data Visualization")
 data,districtData = load_data()
 options = ['Confirmed','Deceased','Recovered']
 types = ['Active', 'Confirmed','Deceased','Recovered']
+required = ['Active', 'Deceased', 'Recovered']
 dt1, dt2 = get_dates()
 
 # Part 1
@@ -101,7 +102,7 @@ st.sidebar.subheader("Breakdown")
 
 modified_data = get_aggregated_data(data, 'Total')
 fig = go.Figure()
-fig.add_trace(go.Pie(labels=types, values=modified_data, hole=.5))
+fig.add_trace(go.Pie(labels=required, values=modified_data.drop(['Confirmed'],axis=0), hole=.5))
 st.plotly_chart(fig)
 
 if (st.sidebar.checkbox("Show Data",False,key=7)):
@@ -268,7 +269,7 @@ if ((modified_data['Active']==0) & (modified_data['Confirmed']==0) & (modified_d
     st.markdown("**Total Cases = 0**")
 else:
     fig = go.Figure()
-    fig.add_trace(go.Pie(labels=types, values=modified_data, hole=.5))
+    fig.add_trace(go.Pie(labels=required, values=modified_data.drop(['Confirmed'],axis=0), hole=.5))
     st.plotly_chart(fig)
 
 if (st.sidebar.checkbox("Show Data",False,key=30)):
@@ -354,7 +355,7 @@ if ((transposed_data[select]['Active']==0) & (transposed_data[select]['Confirmed
     st.markdown("**Total Cases = 0**")
 else:
     fig = go.Figure()
-    fig.add_trace(go.Pie(labels=types,values=[transposed_data[select]['Active'],transposed_data[select]['Confirmed'],transposed_data[select]['Deceased'],transposed_data[select]['Recovered']], hole=.5))
+    fig.add_trace(go.Pie(labels=required,values=[transposed_data[select]['Active'],transposed_data[select]['Deceased'],transposed_data[select]['Recovered']], hole=.5))
     st.plotly_chart(fig)
 
 if (st.sidebar.checkbox("Show Data",False,key=42)):
