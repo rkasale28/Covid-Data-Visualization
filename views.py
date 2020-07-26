@@ -125,13 +125,15 @@ tested = st.sidebar.checkbox('Show Tested',False,key=47)
 decision = st.sidebar.checkbox('Show Data',False,key=12)
 
 if (active or confirmed or deceased or recovered or tested or decision):
-    st.subheader("Compare States")
+    st.subheader("State-wise Breakdown")
 
 for option in types1:
     if ((option=='Confirmed') & confirmed) | ((option=='Deceased') & deceased) | ((option=='Recovered') & recovered) | ((option=='Active') & active) | ((option=='Tested') & tested):
         st.markdown("#### "+ option)
         if (option!='Tested'):
             fig =addPie(data,option,states, dt1,dt2)
+        else:
+            fig = addTestPie(testData, states, dt1, dt2)
         st.plotly_chart(fig)
 
 if (decision):
@@ -194,6 +196,7 @@ if (len(choice)>0):
                 modified_data = modified_data[(modified_data['Confirmed']>0) | (modified_data['Recovered']>0) | (modified_data['Deceased']>0)]
 
                 modified_test_data = getStateTestData(testData,ch)
+                modified_test_data = modified_test_data.loc[start_date:end_date]
 
                 modified_data = pd.merge(modified_data,modified_test_data,how="outer",left_index=True,right_index=True)
                 modified_data.fillna(0,inplace=True)
@@ -204,7 +207,7 @@ if (len(choice)>0):
             modified_test_data=pd.DataFrame()
             for state in choice:
                 modified_test_data = modified_test_data.append(get_aggregated_test_data(sliceData(testData,start_date,end_date),state))
-            
+
             modified_data = pd.merge(modified_data,modified_test_data,how="outer",left_index=True,right_index=True)
             st.dataframe(modified_data, width=600, height=300)
 
@@ -256,15 +259,13 @@ if (st.sidebar.checkbox("Show Data",False,key=25)):
 st.subheader("Test Data")
 st.sidebar.subheader("Test Data")
 
-modified_data = testData[testData['State_Name']==select]
+modified_data = getStateTestData(testData, select)
 dt1,dt2 = get_dates(modified_data)
 
 start_date = st.sidebar.date_input('Start Date', min_value=dt1, max_value=dt2, value=dt1, key=44)
 end_date = st.sidebar.date_input('End Date', min_value=start_date, max_value=dt2, value=dt2, key=45)
 
-modified_data = modified_data.set_index('Date')
 modified_data = modified_data.loc[start_date:end_date]
-modified_data = modified_data.drop(columns=['State_Name'])
 
 fig = go.Figure()
 fig.add_trace(go.Scatter(x=modified_data.index, y=modified_data['Tested'], mode='lines'))

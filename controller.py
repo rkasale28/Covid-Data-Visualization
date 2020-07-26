@@ -154,7 +154,8 @@ def addDistrictPie(modified_data,option,districts):
 
 @st.cache(persist=True)
 def get_dates(data):
-    data = data.set_index('Date')
+    if ('Date' in data.columns):
+        data = data.set_index('Date')
     data = data.sort_index()
     dt1 = data.iloc[1:].index.values[0]
     dt1 = datetime.strptime(np.datetime_as_string(dt1,unit='s'), '%Y-%m-%dT%H:%M:%S')
@@ -167,11 +168,8 @@ def addTestLine(testData,choice,start_date,end_date):
     fig = go.Figure()
 
     for select in choice:
-        modified_data = testData[testData['State_Name']==select]
-
-        modified_data = modified_data.set_index('Date')
+        modified_data = getStateTestData(testData,select)
         modified_data = modified_data.loc[start_date:end_date]
-        modified_data = modified_data.drop(columns=['State_Name'])
 
         fig.add_trace(go.Scatter(x=modified_data.index, y=modified_data['Tested'], mode='lines',name=select))
 
@@ -194,11 +192,8 @@ def addTestBar(testData,choice,start_date,end_date):
     fig = go.Figure()
 
     for select in choice:
-        modified_data = testData[testData['State_Name']==select]
-
-        modified_data = modified_data.set_index('Date')
+        modified_data = getStateTestData(testData,select)
         modified_data = modified_data.loc[start_date:end_date]
-        modified_data = modified_data.drop(columns=['State_Name'])
 
         fig.add_trace(go.Bar(x=modified_data.index, y=modified_data['Tested'],name=select))
 
@@ -219,12 +214,14 @@ def addTestBar(testData,choice,start_date,end_date):
 
 @st.cache(persist=True)
 def get_aggregated_test_data(data,state):
-    modified_data = data.groupby(['State_Name']).sum()
-    if state in modified_data.index:
-        modified_data = modified_data.loc[state]
+    modified_data = data[data['State_Name']==state]
+    modified_data = modified_data.sort_index()
+    modified_data = modified_data.iloc[-1:]
+    if not (modified_data.empty):
+        modified_data = pd.DataFrame([[state,modified_data['Tested'].values[0]]],columns=['State_Name','Tested'])
     else:
         modified_data = pd.DataFrame([[state,0]],columns=['State_Name','Tested'])
-        modified_data = modified_data.set_index('State_Name')
+    modified_data = modified_data.set_index('State_Name')
     return modified_data
 
 @st.cache(persist=True, allow_output_mutation=True)
@@ -232,11 +229,14 @@ def addTestPie(data,choice,start_date,end_date):
     modified_data = data.set_index('Date')
     modified_data = modified_data.sort_index()
     modified_data = modified_data.loc[start_date:end_date]
-    modified_data = get_aggregated_test_data(modified_data,choice)
+
+    temporary_data = pd.DataFrame()
+    for state in choice:
+        temporary_data = temporary_data.append(get_aggregated_test_data(modified_data,state))
 
     fig = go.Figure()
 
-    fig.add_trace(go.Pie(labels=choice, values=modified_data['Tested']))
+    fig.add_trace(go.Pie(labels=choice, values=temporary_data['Tested']))
     fig.update_traces(textposition='inside')
     fig.update_layout(
         legend_title_text='States',
@@ -266,6 +266,8 @@ def sliceData(data,start_date,end_date):
 def getStateTestData(testData, select):
     modified_data = testData[testData['State_Name']==select]
     modified_data = modified_data.set_index('Date')
-    modified_data = modified_data.drop(columns=['State_Name'])
-    st.write(modified_data)
+    modified_data['total_tested'] = modified_data['Tested'].diff()
+    modified_data = modified_data.drop(columns=['State_Name','Tested'])
+    modified_data = modified_data.rename(columns = {'total_tested':'Tested'})
+    modified_data[modified_data['Tested']<0] = 0
     return modified_data
