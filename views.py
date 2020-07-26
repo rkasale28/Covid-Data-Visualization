@@ -205,9 +205,13 @@ if (len(choice)>0):
             modified_data = get_aggregated_data(sliceData(data,start_date,end_date),choice)
 
             modified_test_data=pd.DataFrame()
-            for state in choice:
-                modified_test_data = modified_test_data.append(get_aggregated_test_data(sliceData(testData,start_date,end_date),state))
-
+            for select in choice:
+                temporary_data = getStateTestData(testData,select)
+                temporary_data = temporary_data.loc[start_date:end_date]
+                s = temporary_data['Tested'].sum()
+                modified_test_data = modified_test_data.append(pd.DataFrame([[select,s]],columns=['State_Name','Tested']))
+            modified_test_data = modified_test_data.set_index('State_Name')
+            
             modified_data = pd.merge(modified_data,modified_test_data,how="outer",left_index=True,right_index=True)
             st.dataframe(modified_data, width=600, height=300)
 

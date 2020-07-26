@@ -226,13 +226,12 @@ def get_aggregated_test_data(data,state):
 
 @st.cache(persist=True, allow_output_mutation=True)
 def addTestPie(data,choice,start_date,end_date):
-    modified_data = data.set_index('Date')
-    modified_data = modified_data.sort_index()
-    modified_data = modified_data.loc[start_date:end_date]
-
     temporary_data = pd.DataFrame()
-    for state in choice:
-        temporary_data = temporary_data.append(get_aggregated_test_data(modified_data,state))
+    for select in choice:
+        modified_data = getStateTestData(data,select)
+        modified_data = modified_data.loc[start_date:end_date]
+        s = modified_data['Tested'].sum()
+        temporary_data = temporary_data.append(pd.DataFrame([[select,s]],columns=['State_Name','Tested']))
 
     fig = go.Figure()
 
