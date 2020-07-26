@@ -12,13 +12,20 @@ DISTRICT_DATA_URL = (
 "C:/Users/Rohit/Documents/Self Learning/Streamlit/district_level.csv"
 )
 
+TEST_DATA_URL = (
+"C:/Users/Rohit/Documents/Self Learning/Streamlit/state_level_tested_daily.csv"
+)
+
 @st.cache(persist=True)
 def load_data():
     data = pd.read_csv(DATA_URL)
     data['Date'] = pd.to_datetime(data['Date'])
 
     districtData = pd.read_csv(DISTRICT_DATA_URL)
-    return data,districtData
+
+    testData = pd.read_csv(TEST_DATA_URL)
+    testData['Date'] = pd.to_datetime(testData['Date'])
+    return data,districtData, testData
 
 @st.cache(persist=True)
 def get_states(data):
@@ -146,7 +153,11 @@ def addDistrictPie(modified_data,option,districts):
     return fig
 
 @st.cache(persist=True)
-def get_dates():
-    dt1 = datetime.strptime('14-03-2020','%d-%m-%Y')
-    dt2 = datetime.today()
+def get_dates(data):
+    data = data.set_index('Date')
+    data = data.sort_index()
+    dt1 = data.iloc[1:].index.values[0]
+    dt1 = datetime.strptime(np.datetime_as_string(dt1,unit='s'), '%Y-%m-%dT%H:%M:%S')
+    dt2 = data.iloc[-1:].index.values[0]
+    dt2 = datetime.strptime(np.datetime_as_string(dt2,unit='s'), '%Y-%m-%dT%H:%M:%S')
     return dt1,dt2

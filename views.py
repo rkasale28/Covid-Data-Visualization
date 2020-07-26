@@ -1,15 +1,16 @@
 import streamlit as st
 import plotly.graph_objects as go
+from datetime import datetime
+import numpy as np
 from controller import load_data, get_states, get_districts, get_state_data, get_aggregated_data, addLine, addBar, addPie, addDistrictPie, get_dates
 
 st.title("Covid Data Visualization")
 st.sidebar.title("Covid Data Visualization")
 
-data,districtData = load_data()
+data,districtData,testData = load_data()
 options = ['Confirmed','Deceased','Recovered']
 types = ['Active', 'Confirmed','Deceased','Recovered']
 required = ['Active', 'Deceased', 'Recovered']
-dt1, dt2 = get_dates()
 
 # Part 1
 st.markdown("## National Level: ")
@@ -18,6 +19,7 @@ st.subheader("Daily Updates")
 st.sidebar.subheader("National Level: ")
 st.sidebar.subheader("Daily Updates")
 
+dt1, dt2 = get_dates(data)
 start_date = st.sidebar.date_input('Start Date', min_value=dt1, max_value=dt2, value=dt1, key=1)
 end_date = st.sidebar.date_input('End Date', min_value=start_date, max_value=dt2, value=dt2, key=2)
 
@@ -223,9 +225,45 @@ if (st.sidebar.checkbox("Show Data",False,key=25)):
     modified_data = modified_data.drop(columns='State_Name')
     st.dataframe(modified_data, width=600, height=300)
 
+# Part 8
+st.subheader("Test Data")
+st.sidebar.subheader("Test Data")
+
+modified_data = testData[testData['State_Name']==select]
+dt1,dt2 = get_dates(modified_data)
+
+start_date = st.sidebar.date_input('Start Date', min_value=dt1, max_value=dt2, value=dt1, key=44)
+end_date = st.sidebar.date_input('End Date', min_value=start_date, max_value=dt2, value=dt2, key=45)
+
+modified_data = modified_data.set_index('Date')
+modified_data = modified_data.loc[start_date:end_date]
+modified_data = modified_data.drop(columns=['State_Name'])
+
+fig = go.Figure()
+fig.add_trace(go.Scatter(x=modified_data.index, y=modified_data['Tested'], mode='lines'))
+
+fig.update_layout(
+    autosize=False,
+    width=800,
+    height=450,
+    margin=dict(
+        l=4,
+        r=4,
+        b=4,
+        t=4,
+        pad=0
+    ),
+)
+
+st.plotly_chart(fig)
+
+if (st.sidebar.checkbox("Show Data",False,key=43)):
+    st.dataframe(modified_data, width=600, height=300)
+
 #Part 7
 st.subheader("Cumulative Updates")
 st.sidebar.subheader("Cumulative Updates")
+dt1, dt2 = get_dates(data)
 start_date = st.sidebar.date_input('Start Date', min_value=dt1, max_value=dt2, value=dt1, key=26)
 end_date = st.sidebar.date_input('End Date', min_value=start_date, max_value=dt2, value=dt2, key=27)
 choice = st.sidebar.multiselect('',types,key=28)
