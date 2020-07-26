@@ -2,7 +2,8 @@ import streamlit as st
 import plotly.graph_objects as go
 from datetime import datetime
 import numpy as np
-from controller import load_data, get_states, get_districts, get_state_data, get_aggregated_data, addLine, addBar, addPie, addDistrictPie, get_dates
+import pandas as pd
+from controller import load_data, get_states, get_districts, get_state_data, get_aggregated_data, addLine, addBar, addPie, addDistrictPie, get_dates, addTestLine, addTestBar, addTestPie, get_aggregated_test_data, sliceData, getStateTestData
 
 st.title("Covid Data Visualization")
 st.sidebar.title("Covid Data Visualization")
@@ -10,6 +11,7 @@ st.sidebar.title("Covid Data Visualization")
 data,districtData,testData = load_data()
 options = ['Confirmed','Deceased','Recovered']
 types = ['Active', 'Confirmed','Deceased','Recovered']
+types1 = ['Active', 'Confirmed','Deceased','Recovered','Tested']
 required = ['Active', 'Deceased', 'Recovered']
 
 # Part 1
@@ -147,20 +149,30 @@ if (len(choice)>0):
     confirmed = st.sidebar.checkbox('Show Confirmed',False,key=17)
     deceased = st.sidebar.checkbox('Show Deceased',False,key=18)
     recovered = st.sidebar.checkbox('Show Recovered',False,key=19)
+    tested = st.sidebar.checkbox('Show Tested',False,key=46)
     decision = st.sidebar.checkbox('Show Data',False,key=20)
 
-    if (active or confirmed or deceased or recovered or decision):
+    if (active or confirmed or deceased or recovered or tested or decision):
         st.subheader("Compare States")
 
-    for option in types:
-        if ((option=='Confirmed') & confirmed) | ((option=='Deceased') & deceased) | ((option=='Recovered') & recovered) | ((option=='Active') & active):
+    for option in types1:
+        if ((option=='Confirmed') & confirmed) | ((option=='Deceased') & deceased) | ((option=='Recovered') & recovered) | ((option=='Active') & active) | ((option=='Tested') & tested):
             st.markdown("#### "+ option)
             if (select=='Line Graph'):
-                fig=addLine(data,option,choice, start_date, end_date)
+                if (option!='Tested'):
+                    fig=addLine(data,option,choice, start_date, end_date)
+                else:
+                    fig=addTestLine(testData,choice,start_date,end_date)
             elif (select=='Bar Plot'):
-                fig=addBar(data,option,choice, start_date, end_date)
+                if (option!='Tested'):
+                    fig=addBar(data,option,choice, start_date, end_date)
+                else:
+                    fig = addTestBar(testData,choice,start_date,end_date)
             else:
-                fig =addPie(data,option,choice, start_date,end_date)
+                if (option!='Tested'):
+                    fig =addPie(data,option,choice, start_date,end_date)
+                else:
+                    fig = addTestPie(testData,choice,start_date,end_date)
             st.plotly_chart(fig)
 
     if (decision):
@@ -172,13 +184,17 @@ if (len(choice)>0):
                 st.markdown("#### "+ ch)
                 modified_data = modified_data.drop(columns=['State_Name','CumConfirmed','CumDeceased','CumRecovered'])
                 modified_data = modified_data[(modified_data['Confirmed']>0) | (modified_data['Recovered']>0) | (modified_data['Deceased']>0)]
+
+                modified_test_data = getStateTestData(testData,ch)
+
+                modified_data = pd.merge(modified_data,modified_test_data,how="outer",left_index=True,right_index=True)
+                modified_data.fillna(0,inplace=True)
                 st.dataframe(modified_data, width=600, height=300)
         else:
-            modified_data = data.set_index('Date')
-            modified_data = modified_data.sort_index()
-            modified_data = modified_data.loc[start_date:end_date]
-            modified_data = get_aggregated_data(modified_data,choice)
+            modified_data = get_aggregated_data(sliceData(data,start_date,end_date),choice)
+            modified_test_data = get_aggregated_test_data(sliceData(testData,start_date,end_date),choice)
 
+            modified_data = pd.merge(modified_data,modified_test_data,how="outer",left_index=True,right_index=True)
             st.dataframe(modified_data, width=600, height=300)
 
 # Part 6

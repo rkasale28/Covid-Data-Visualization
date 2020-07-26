@@ -161,3 +161,106 @@ def get_dates(data):
     dt2 = data.iloc[-1:].index.values[0]
     dt2 = datetime.strptime(np.datetime_as_string(dt2,unit='s'), '%Y-%m-%dT%H:%M:%S')
     return dt1,dt2
+
+@st.cache(persist=True, allow_output_mutation=True)
+def addTestLine(testData,choice,start_date,end_date):
+    fig = go.Figure()
+
+    for select in choice:
+        modified_data = testData[testData['State_Name']==select]
+
+        modified_data = modified_data.set_index('Date')
+        modified_data = modified_data.loc[start_date:end_date]
+        modified_data = modified_data.drop(columns=['State_Name'])
+
+        fig.add_trace(go.Scatter(x=modified_data.index, y=modified_data['Tested'], mode='lines',name=select))
+
+    fig.update_layout(
+        autosize=False,
+        width=800,
+        height=450,
+        margin=dict(
+            l=4,
+            r=4,
+            b=4,
+            t=4,
+            pad=0
+        ),
+    )
+    return fig
+
+@st.cache(persist=True, allow_output_mutation=True)
+def addTestBar(testData,choice,start_date,end_date):
+    fig = go.Figure()
+
+    for select in choice:
+        modified_data = testData[testData['State_Name']==select]
+
+        modified_data = modified_data.set_index('Date')
+        modified_data = modified_data.loc[start_date:end_date]
+        modified_data = modified_data.drop(columns=['State_Name'])
+
+        fig.add_trace(go.Bar(x=modified_data.index, y=modified_data['Tested'],name=select))
+
+    fig.update_layout(
+        autosize=False,
+        width=800,
+        height=450,
+        margin=dict(
+            l=4,
+            r=4,
+            b=4,
+            t=4,
+            pad=0
+        ),
+    )
+    return fig
+
+
+@st.cache(persist=True)
+def get_aggregated_test_data(data,state):
+    modified_data = data.groupby(['State_Name']).sum()
+    modified_data = modified_data.loc[state]
+    return modified_data
+
+@st.cache(persist=True, allow_output_mutation=True)
+def addTestPie(data,choice,start_date,end_date):
+    modified_data = data.set_index('Date')
+    modified_data = modified_data.sort_index()
+    modified_data = modified_data.loc[start_date:end_date]
+    modified_data = get_aggregated_test_data(modified_data,choice)
+
+    fig = go.Figure()
+
+    fig.add_trace(go.Pie(labels=choice, values=modified_data['Tested']))
+    fig.update_traces(textposition='inside')
+    fig.update_layout(
+        legend_title_text='States',
+        uniformtext_minsize=12,
+        uniformtext_mode='hide',
+        autosize=False,
+        width=800,
+        height=450,
+        margin=dict(
+            l=4,
+            r=4,
+            b=4,
+            t=4,
+            pad=0
+        ),
+    )
+    return fig
+
+@st.cache(persist=True)
+def sliceData(data,start_date,end_date):
+    modified_data = data.set_index('Date')
+    modified_data = modified_data.sort_index()
+    modified_data = modified_data.loc[start_date:end_date]
+    return modified_data
+
+@st.cache(persist=True)
+def getStateTestData(testData, select):
+    modified_data = testData[testData['State_Name']==select]
+    modified_data = modified_data.set_index('Date')
+    modified_data = modified_data.drop(columns=['State_Name'])
+    return modified_data
