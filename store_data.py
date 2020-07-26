@@ -87,7 +87,7 @@ if (resp.status_code == 200):
     else:
         print ('State Level Data: Nothing to add')
 else:
-    print ('HTTP ERROR')
+    print ('State Level Data: HTTP ERROR')
 
 # District Level data
 resp = requests.get("https://api.covid19india.org/state_district_wise.json")
@@ -117,33 +117,35 @@ if (resp.status_code == 200):
     df.to_csv(DATA_URL, index=False)
     print ('District Level Data: Successful')
 else:
-    print ('HTTP ERROR')
+    print ('District Level Data: HTTP ERROR')
 
 # Test Data
-resp = requests.get('https://api.covid19india.org/state_test_data.json')
-if (resp.status_code == 200):
+DATA_URL = (
+"C:/Users/Rohit/Documents/Self Learning/Streamlit/state_level_tested_daily.csv"
+)
+
+resp = requests.get("https://api.covid19india.org/state_test_data.json")
+new_json = []
+if resp.status_code==200:
     resp = resp.json()
-
-    DATA_URL = (
-    "C:/Users/Rohit/Documents/Self Learning/Streamlit/state_level_tested_daily.csv"
-    )
-
-    data = pd.read_csv(DATA_URL)
-    data['Date'] = pd.to_datetime(data['Date'])
-    data['Date'] = data['Date'].dt.strftime('%d-%b-%y')
-    data = data.iloc[-1:]
-    dt = data['Date'].values[0]
-
     df = pd.DataFrame(resp['states_tested_data'])
-    df = df[['updatedon','state','totaltested']]
-    df = df[df['updatedon']>dt]
-    if not (df.empty):
-        df = df.replace(r'^\s*$', np.nan, regex=True)
-        df = df.rename(columns={'updatedon':'Date'})
-        df.fillna(0,inplace=True)
-        df.to_csv(DATA_URL, mode='a', header=False, index=False)
-        print ('Test Data: Successful')
-    else:
-        print ('Test Data: Nothing to add')
+    df = df[['updatedon','totaltested','state']]
+
+    for (item,row) in df.iterrows():
+        date = datetime.strptime(row['updatedon'],'%d/%m/%Y')
+        date_string = datetime.strftime(date,'%d-%b-%Y')
+        new_obj = {
+            'Date' : date_string,
+            'Tested' : row['totaltested'],
+            'State_Name' : row['state']
+        }
+        new_json.append(new_obj)
+
+    df = pd.DataFrame(new_json)
+    df = df.replace(r'^\s*$', np.nan, regex=True)
+    df.fillna(0, inplace=True)
+
+    df.to_csv(DATA_URL,index=False)
+    print ('Test Data: Successful')
 else:
-    print ('HTTP ERROR')
+    print ('Test Data: HTTP ERROR')
