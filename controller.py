@@ -220,7 +220,11 @@ def addTestBar(testData,choice,start_date,end_date):
 @st.cache(persist=True)
 def get_aggregated_test_data(data,state):
     modified_data = data.groupby(['State_Name']).sum()
-    modified_data = modified_data.loc[state]
+    if state in modified_data.index:
+        modified_data = modified_data.loc[state]
+    else:
+        modified_data = pd.DataFrame([[state,0]],columns=['State_Name','Tested'])
+        modified_data = modified_data.set_index('State_Name')
     return modified_data
 
 @st.cache(persist=True, allow_output_mutation=True)
@@ -263,4 +267,5 @@ def getStateTestData(testData, select):
     modified_data = testData[testData['State_Name']==select]
     modified_data = modified_data.set_index('Date')
     modified_data = modified_data.drop(columns=['State_Name'])
+    st.write(modified_data)
     return modified_data

@@ -121,19 +121,27 @@ active = st.sidebar.checkbox('Show Active',True,key=8)
 confirmed = st.sidebar.checkbox('Show Confirmed',False,key=9)
 deceased = st.sidebar.checkbox('Show Deceased',False,key=10)
 recovered = st.sidebar.checkbox('Show Recovered',False,key=11)
+tested = st.sidebar.checkbox('Show Tested',False,key=47)
 decision = st.sidebar.checkbox('Show Data',False,key=12)
 
-if (active or confirmed or deceased or recovered or decision):
-    st.subheader("State-wise breakdown")
+if (active or confirmed or deceased or recovered or tested or decision):
+    st.subheader("Compare States")
 
-for option in types:
-    if ((option=='Confirmed') & confirmed) | ((option=='Deceased') & deceased) | ((option=='Recovered') & recovered) | ((option=='Active') & active):
+for option in types1:
+    if ((option=='Confirmed') & confirmed) | ((option=='Deceased') & deceased) | ((option=='Recovered') & recovered) | ((option=='Active') & active) | ((option=='Tested') & tested):
         st.markdown("#### "+ option)
-        fig = addPie(data,option,states,dt1,dt2)
+        if (option!='Tested'):
+            fig =addPie(data,option,states, dt1,dt2)
         st.plotly_chart(fig)
 
 if (decision):
-    modified_data = get_aggregated_data(data,states)
+    modified_data = get_aggregated_data(sliceData(data,start_date,end_date),states)
+
+    modified_test_data=pd.DataFrame()
+    for state in states:
+        modified_test_data = modified_test_data.append(get_aggregated_test_data(sliceData(testData,start_date,end_date),state))
+
+    modified_data = pd.merge(modified_data,modified_test_data,how="outer",left_index=True,right_index=True)
     st.dataframe(modified_data, width=600, height=300)
 
 # Part 5
@@ -192,8 +200,11 @@ if (len(choice)>0):
                 st.dataframe(modified_data, width=600, height=300)
         else:
             modified_data = get_aggregated_data(sliceData(data,start_date,end_date),choice)
-            modified_test_data = get_aggregated_test_data(sliceData(testData,start_date,end_date),choice)
 
+            modified_test_data=pd.DataFrame()
+            for state in choice:
+                modified_test_data = modified_test_data.append(get_aggregated_test_data(sliceData(testData,start_date,end_date),state))
+            
             modified_data = pd.merge(modified_data,modified_test_data,how="outer",left_index=True,right_index=True)
             st.dataframe(modified_data, width=600, height=300)
 
