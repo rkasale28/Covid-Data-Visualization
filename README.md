@@ -2,12 +2,14 @@
 Data Sourced Form:
 - https://api.covid19india.org/states_daily.json
 - https://api.covid19india.org/state_district_wise.json
+- https://api.covid19india.org/state_test_data.json
 
 ## Supports:
 - ### On Country Level:
   |  | Type of Chart |
   |:-----:|:------------------:|
   | Daily Updates | Line Chart |
+  | Test Data | Line Chart |
   | Cumulative Updates | Line Chart |
   | Breakdown | Pie Chart |
   | State-wise Breakdown | Pie Chart
