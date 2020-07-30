@@ -9,7 +9,6 @@ Data Sourced Form:
   |  | Type of Chart |
   |:-----:|:------------------:|
   | Daily Updates | Line Chart |
-  | Test Data | Line Chart |
   | Cumulative Updates | Line Chart |
   | Breakdown | Pie Chart |
   | State-wise Breakdown | Pie Chart
@@ -19,6 +18,7 @@ Data Sourced Form:
   |  | Type of Chart |
   |:-----:|:------------------:|
   | Daily Updates | Line Chart |
+  | Test Data | Line Chart |
   | Cumulative Updates | Line Chart |
   | Breakdown | Pie Chart |
   | District-wise Breakdown | Pie Chart
