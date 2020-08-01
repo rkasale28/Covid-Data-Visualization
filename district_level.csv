@@ -20,66 +20,66 @@ Andhra Pradesh,Vizianagaram,2261,4204,56,1887
 Andhra Pradesh,West Godavari,6893,12310,94,5323
 Andhra Pradesh,Y.S.R. Kadapa,3969,7876,43,3864
 Arunachal Pradesh,Anjaw,0,4,0,4
-Arunachal Pradesh,Changlang,82,197,0,115
-Arunachal Pradesh,East Kameng,23,25,0,2
-Arunachal Pradesh,East Siang,25,57,0,32
+Arunachal Pradesh,Changlang,120,235,0,115
+Arunachal Pradesh,East Kameng,35,37,0,2
+Arunachal Pradesh,East Siang,39,71,0,32
 Arunachal Pradesh,Kamle,1,1,0,0
 Arunachal Pradesh,Kra Daadi,0,0,0,0
 Arunachal Pradesh,Kurung Kumey,0,0,0,0
 Arunachal Pradesh,Lepa Rada,1,12,0,11
-Arunachal Pradesh,Lohit,18,22,0,4
-Arunachal Pradesh,Longding,1,8,0,7
-Arunachal Pradesh,Lower Dibang Valley,8,20,0,12
-Arunachal Pradesh,Lower Siang,7,20,0,13
+Arunachal Pradesh,Lohit,19,23,0,4
+Arunachal Pradesh,Longding,4,12,0,8
+Arunachal Pradesh,Lower Dibang Valley,9,21,0,12
+Arunachal Pradesh,Lower Siang,7,21,0,14
 Arunachal Pradesh,Lower Subansiri,11,36,0,25
-Arunachal Pradesh,Namsai,28,76,0,48
+Arunachal Pradesh,Namsai,39,87,0,48
 Arunachal Pradesh,Pakke Kessang,0,1,0,1
-Arunachal Pradesh,Papum Pare,321,810,1,488
+Arunachal Pradesh,Papum Pare,264,833,1,568
 Arunachal Pradesh,Shi Yomi,2,2,0,0
 Arunachal Pradesh,Siang,2,3,0,1
 Arunachal Pradesh,Tawang,29,40,0,11
-Arunachal Pradesh,Tirap,43,49,0,6
+Arunachal Pradesh,Tirap,36,50,0,14
 Arunachal Pradesh,Upper Dibang Valley,0,0,0,0
-Arunachal Pradesh,Upper Siang,16,24,0,8
+Arunachal Pradesh,Upper Siang,15,24,0,9
 Arunachal Pradesh,Upper Subansiri,1,4,0,3
-Arunachal Pradesh,West Kameng,5,41,2,34
+Arunachal Pradesh,West Kameng,6,42,2,34
 Arunachal Pradesh,West Siang,30,32,0,2
 Assam,Airport Quarantine,4,4,0,0
 Assam,Baksa,123,314,1,190
 Assam,Barpeta,95,764,1,668
 Assam,Biswanath,87,203,0,116
 Assam,Bongaigaon,175,479,0,304
-Assam,Cachar,380,1182,2,800
+Assam,Cachar,520,1322,2,800
 Assam,Charaideo,33,72,1,38
 Assam,Chirang,16,87,0,71
 Assam,Darrang,203,986,4,779
 Assam,Dhemaji,50,219,0,169
 Assam,Dhubri,190,797,0,607
-Assam,Dibrugarh,592,1146,4,550
+Assam,Dibrugarh,709,1263,4,550
 Assam,Dima Hasao,13,160,0,147
 Assam,Goalpara,38,276,0,204
 Assam,Golaghat,439,1329,1,889
 Assam,Hailakandi,162,827,2,663
 Assam,Hojai,140,744,1,603
-Assam,Jorhat,709,1408,8,691
-Assam,Kamrup,709,1032,5,318
-Assam,Kamrup Metropolitan,6366,15112,45,8701
+Assam,Jorhat,814,1513,8,691
+Assam,Kamrup,911,1234,5,318
+Assam,Kamrup Metropolitan,6647,15393,45,8701
 Assam,Karbi Anglong,77,319,4,238
 Assam,Karimganj,70,464,3,391
 Assam,Kokrajhar,106,336,2,228
 Assam,Lakhimpur,148,479,0,331
 Assam,Majuli,29,54,0,25
 Assam,Morigaon,300,366,0,66
-Assam,Nagaon,637,1648,2,1009
+Assam,Nagaon,751,1762,2,1009
 Assam,Nalbari,157,422,1,264
 Assam,Other State,0,1,0,1
 Assam,Sivasagar,102,302,1,199
-Assam,Sonitpur,462,961,1,498
+Assam,Sonitpur,591,1090,1,498
 Assam,South Salmara Mankachar,4,46,0,42
 Assam,Tinsukia,263,900,8,629
 Assam,Udalguri,108,370,1,261
 Assam,West Karbi Anglong,11,30,0,19
-Assam,Unknown,-3806,4569,0,8372
+Assam,Unknown,-4309,5343,0,9649
 Bihar,Araria,219,620,6,395
 Bihar,Arwal,213,539,2,324
 Bihar,Aurangabad,338,940,4,598
@@ -119,35 +119,35 @@ Bihar,Supaul,303,925,1,621
 Bihar,Vaishali,528,1301,7,765
 Bihar,West Champaran,413,1393,10,970
 Chandigarh,Chandigarh,369,1051,15,667
-Chhattisgarh,Other State,0,7,2,5
-Chhattisgarh,Balod,11,89,0,78
-Chhattisgarh,Baloda Bazar,69,385,2,314
-Chhattisgarh,Balrampur,21,191,0,170
-Chhattisgarh,Bametara,16,127,0,111
-Chhattisgarh,Bastar,87,192,1,104
-Chhattisgarh,Bijapur,35,75,0,40
-Chhattisgarh,Bilaspur,174,647,3,470
-Chhattisgarh,Dakshin Bastar Dantewada,9,116,0,107
-Chhattisgarh,Dhamtari,8,40,1,31
-Chhattisgarh,Durg,328,690,8,354
-Chhattisgarh,Gariaband,22,95,0,73
-Chhattisgarh,Janjgir Champa,70,446,2,374
-Chhattisgarh,Jashpur,23,224,0,201
-Chhattisgarh,Kabeerdham,62,203,0,141
-Chhattisgarh,Kondagaon,35,78,0,43
-Chhattisgarh,Korba,49,403,0,354
-Chhattisgarh,Koriya,22,115,1,92
-Chhattisgarh,Mahasamund,18,125,1,106
+Chhattisgarh,Other State,1,8,2,5
+Chhattisgarh,Balod,6,91,0,85
+Chhattisgarh,Baloda Bazar,63,389,2,324
+Chhattisgarh,Balrampur,22,195,0,173
+Chhattisgarh,Bametara,11,127,0,116
+Chhattisgarh,Bastar,69,196,1,126
+Chhattisgarh,Bijapur,19,75,0,56
+Chhattisgarh,Bilaspur,179,654,3,472
+Chhattisgarh,Dakshin Bastar Dantewada,20,134,0,114
+Chhattisgarh,Dhamtari,7,40,1,32
+Chhattisgarh,Durg,335,709,8,366
+Chhattisgarh,Gariaband,22,96,1,73
+Chhattisgarh,Janjgir Champa,52,448,2,394
+Chhattisgarh,Jashpur,15,225,0,210
+Chhattisgarh,Kabeerdham,61,203,0,142
+Chhattisgarh,Kondagaon,58,101,0,43
+Chhattisgarh,Korba,45,409,0,364
+Chhattisgarh,Koriya,20,117,1,96
+Chhattisgarh,Mahasamund,27,134,1,106
 Chhattisgarh,Mungeli,10,172,0,162
-Chhattisgarh,Narayanpur,20,170,0,150
-Chhattisgarh,Raigarh,54,219,2,163
-Chhattisgarh,Raipur,1402,2763,23,1338
-Chhattisgarh,Rajnandgaon,192,681,3,486
+Chhattisgarh,Narayanpur,14,170,0,156
+Chhattisgarh,Raigarh,45,219,2,172
+Chhattisgarh,Raipur,1462,2947,25,1460
+Chhattisgarh,Rajnandgaon,206,712,3,503
 Chhattisgarh,Sukma,45,77,0,32
-Chhattisgarh,Surajpur,19,61,1,41
-Chhattisgarh,Surguja,42,226,1,183
-Chhattisgarh,Uttar Bastar Kanker,36,224,0,188
-Chhattisgarh,Gaurela Pendra Marwahi,5,15,0,10
+Chhattisgarh,Surajpur,19,62,1,42
+Chhattisgarh,Surguja,43,227,1,183
+Chhattisgarh,Uttar Bastar Kanker,14,225,0,211
+Chhattisgarh,Gaurela Pendra Marwahi,18,30,0,12
 Delhi,Central Delhi,184,184,0,0
 Delhi,East Delhi,38,38,0,0
 Delhi,New Delhi,37,37,0,0
@@ -164,56 +164,56 @@ Dadra and Nagar Haveli and Daman and Diu,Other State,0,0,0,0
 Dadra and Nagar Haveli and Daman and Diu,Dadra and Nagar Haveli,215,516,1,295
 Dadra and Nagar Haveli and Daman and Diu,Daman,165,553,1,386
 Dadra and Nagar Haveli and Daman and Diu,Diu,32,80,0,44
-Goa,Other State,61,186,0,125
-Goa,North Goa,414,927,11,502
-Goa,South Goa,1182,2026,31,813
-Goa,Unknown,0,2565,0,2565
-Gujarat,Other State,19,103,1,83
-Gujarat,Ahmedabad,3392,26341,1593,21356
-Gujarat,Amreli,190,429,9,230
-Gujarat,Anand,49,461,13,399
-Gujarat,Aravalli,27,306,24,255
-Gujarat,Banaskantha,95,704,17,592
-Gujarat,Bharuch,274,856,11,571
-Gujarat,Bhavnagar,396,1333,24,913
-Gujarat,Botad,66,229,5,158
-Gujarat,Chhota Udaipur,44,153,2,107
-Gujarat,Dahod,412,554,5,137
+Goa,Other State,39,186,0,147
+Goa,North Goa,432,946,12,502
+Goa,South Goa,1186,2032,33,813
+Goa,Unknown,0,2749,0,2749
+Gujarat,Other State,24,108,1,83
+Gujarat,Ahmedabad,3452,26517,1597,21468
+Gujarat,Amreli,212,455,9,234
+Gujarat,Anand,57,472,13,402
+Gujarat,Aravalli,25,308,24,259
+Gujarat,Banaskantha,96,718,17,605
+Gujarat,Bharuch,269,877,11,597
+Gujarat,Bhavnagar,398,1380,24,958
+Gujarat,Botad,70,233,5,158
+Gujarat,Chhota Udaipur,43,153,2,108
+Gujarat,Dahod,417,568,5,146
 Gujarat,Dang,7,18,0,11
-Gujarat,Devbhumi Dwarka,13,47,3,31
-Gujarat,Gandhinagar,338,1443,42,1063
-Gujarat,Gir Somnath,173,354,4,177
-Gujarat,Jamnagar,183,681,12,486
-Gujarat,Junagadh,187,849,10,652
-Gujarat,Kheda,97,571,15,459
-Gujarat,Kutch,200,506,17,289
-Gujarat,Mahisagar,116,328,2,210
-Gujarat,Mehsana,470,814,19,325
-Gujarat,Morbi,93,250,6,151
-Gujarat,Narmada,85,314,0,229
-Gujarat,Navsari,178,535,5,352
-Gujarat,Panchmahal,158,462,16,288
-Gujarat,Patan,214,584,29,341
-Gujarat,Porbandar,29,64,2,33
-Gujarat,Rajkot,821,1725,28,876
-Gujarat,Sabarkantha,124,420,8,288
-Gujarat,Surat,3648,12785,400,8737
-Gujarat,Surendranagar,375,740,10,355
-Gujarat,Tapi,38,150,1,111
-Gujarat,Vadodara,939,4558,76,3543
-Gujarat,Valsad,245,618,5,368
-Himachal Pradesh,Bilaspur,32,88,0,56
-Himachal Pradesh,Chamba,32,104,0,71
-Himachal Pradesh,Hamirpur,22,304,3,279
-Himachal Pradesh,Kangra,122,453,4,325
+Gujarat,Devbhumi Dwarka,11,47,3,33
+Gujarat,Gandhinagar,357,1483,42,1084
+Gujarat,Gir Somnath,145,370,4,221
+Gujarat,Jamnagar,204,723,12,507
+Gujarat,Junagadh,186,869,10,673
+Gujarat,Kheda,95,585,16,474
+Gujarat,Kutch,199,526,17,310
+Gujarat,Mahisagar,128,340,2,210
+Gujarat,Mehsana,446,854,20,388
+Gujarat,Morbi,105,279,6,168
+Gujarat,Narmada,78,323,0,245
+Gujarat,Navsari,171,551,5,375
+Gujarat,Panchmahal,172,483,16,295
+Gujarat,Patan,227,597,29,341
+Gujarat,Porbandar,37,73,2,34
+Gujarat,Rajkot,883,1804,30,891
+Gujarat,Sabarkantha,122,431,8,301
+Gujarat,Surat,3732,13069,411,8926
+Gujarat,Surendranagar,403,776,10,363
+Gujarat,Tapi,34,152,1,117
+Gujarat,Vadodara,945,4652,79,3628
+Gujarat,Valsad,243,644,5,396
+Himachal Pradesh,Bilaspur,25,88,0,63
+Himachal Pradesh,Chamba,30,105,0,74
+Himachal Pradesh,Hamirpur,24,306,3,279
+Himachal Pradesh,Kangra,121,460,4,333
 Himachal Pradesh,Kinnaur,11,45,0,34
 Himachal Pradesh,Kullu,18,35,0,17
 Himachal Pradesh,Lahaul and Spiti,0,4,0,4
-Himachal Pradesh,Mandi,111,157,3,43
-Himachal Pradesh,Shimla,100,165,2,62
-Himachal Pradesh,Sirmaur,204,327,1,115
-Himachal Pradesh,Solan,392,628,0,233
-Himachal Pradesh,Una,53,202,0,149
+Himachal Pradesh,Mandi,119,165,3,43
+Himachal Pradesh,Shimla,87,165,2,75
+Himachal Pradesh,Sirmaur,174,330,1,148
+Himachal Pradesh,Solan,412,654,0,239
+Himachal Pradesh,Una,57,207,0,150
 Haryana,Foreign Evacuees,0,21,0,21
 Haryana,Ambala,312,1543,16,1215
 Haryana,Bhiwani,40,780,5,735
@@ -238,30 +238,30 @@ Haryana,Rohtak,335,1494,23,1136
 Haryana,Sirsa,126,371,2,243
 Haryana,Sonipat,366,2898,32,2500
 Haryana,Yamunanagar,110,265,3,152
-Jharkhand,Bokaro,138,240,2,100
-Jharkhand,Chatra,155,313,0,158
-Jharkhand,Deoghar,107,193,2,84
-Jharkhand,Dhanbad,299,513,13,201
-Jharkhand,Dumka,29,70,0,41
-Jharkhand,East Singhbhum,1261,1847,26,560
-Jharkhand,Garhwa,243,441,1,197
-Jharkhand,Giridih,223,428,4,201
-Jharkhand,Godda,93,114,2,19
-Jharkhand,Gumla,201,305,1,103
-Jharkhand,Hazaribagh,289,608,9,310
-Jharkhand,Jamtara,33,71,0,38
-Jharkhand,Khunti,38,79,1,40
-Jharkhand,Koderma,239,524,5,280
-Jharkhand,Latehar,131,238,0,107
-Jharkhand,Lohardaga,122,247,2,123
-Jharkhand,Pakur,152,231,0,79
-Jharkhand,Palamu,216,417,1,200
-Jharkhand,Ramgarh,211,374,2,161
-Jharkhand,Ranchi,1509,2039,24,506
-Jharkhand,Sahibganj,112,173,2,59
-Jharkhand,Saraikela-Kharsawan,126,218,4,88
-Jharkhand,Simdega,121,496,1,374
-Jharkhand,West Singhbhum,160,309,2,147
+Jharkhand,Bokaro,132,269,2,135
+Jharkhand,Chatra,200,359,1,158
+Jharkhand,Deoghar,238,324,2,84
+Jharkhand,Dhanbad,314,528,13,201
+Jharkhand,Dumka,64,111,0,47
+Jharkhand,East Singhbhum,1310,1917,26,581
+Jharkhand,Garhwa,246,444,1,197
+Jharkhand,Giridih,372,582,4,206
+Jharkhand,Godda,113,134,2,19
+Jharkhand,Gumla,237,341,1,103
+Jharkhand,Hazaribagh,296,615,9,310
+Jharkhand,Jamtara,47,85,0,38
+Jharkhand,Khunti,39,82,1,42
+Jharkhand,Koderma,276,567,5,286
+Jharkhand,Latehar,161,268,0,107
+Jharkhand,Lohardaga,107,250,2,141
+Jharkhand,Pakur,159,238,0,79
+Jharkhand,Palamu,186,425,1,238
+Jharkhand,Ramgarh,230,393,2,161
+Jharkhand,Ranchi,1562,2122,25,535
+Jharkhand,Sahibganj,118,179,2,59
+Jharkhand,Saraikela-Kharsawan,134,233,4,95
+Jharkhand,Simdega,144,519,1,374
+Jharkhand,West Singhbhum,180,329,2,147
 Jammu and Kashmir,Anantnag,256,1299,24,1019
 Jammu and Kashmir,Bandipora,256,733,13,464
 Jammu and Kashmir,Baramulla,514,1901,68,1319
@@ -316,10 +316,10 @@ Karnataka,Uttara Kannada,780,2112,23,1309
 Karnataka,Vijayapura,795,2890,34,2061
 Karnataka,Yadgir,464,2347,4,1879
 Kerala,Other State,0,0,0,0
-Kerala,Alappuzha,706,1703,5,986
+Kerala,Alappuzha,727,1724,5,986
 Kerala,Ernakulam,807,1865,10,1044
 Kerala,Idukki,367,804,2,435
-Kerala,Kannur,490,1406,8,908
+Kerala,Kannur,469,1385,8,908
 Kerala,Kasaragod,640,1643,5,997
 Kerala,Kollam,701,1746,5,1039
 Kerala,Kottayam,554,1197,1,642
@@ -333,43 +333,43 @@ Kerala,Wayanad,314,625,1,310
 Ladakh,Kargil,64,793,3,726
 Ladakh,Leh,238,611,4,369
 Lakshadweep,Lakshadweep,0,0,0,0
-Maharashtra,Ahmednagar,2006,4417,60,2351
-Maharashtra,Akola,511,2535,114,1909
-Maharashtra,Amravati,563,1984,59,1362
-Maharashtra,Aurangabad,5414,13732,478,7840
-Maharashtra,Beed,452,717,19,246
-Maharashtra,Bhandara,46,241,2,193
-Maharashtra,Buldhana,483,1181,33,665
-Maharashtra,Chandrapur,166,412,0,246
-Maharashtra,Dhule,1020,2855,100,1733
-Maharashtra,Gadchiroli,43,264,1,220
-Maharashtra,Gondia,39,271,3,229
-Maharashtra,Hingoli,134,547,12,401
-Maharashtra,Jalgaon,2835,10438,515,7088
-Maharashtra,Jalna,419,1913,73,1421
-Maharashtra,Kolhapur,3083,4571,95,1393
-Maharashtra,Latur,889,1939,86,964
-Maharashtra,Mumbai,20158,113199,6300,86447
+Maharashtra,Ahmednagar,1919,4740,61,2760
+Maharashtra,Akola,526,2593,115,1951
+Maharashtra,Amravati,604,2034,60,1370
+Maharashtra,Aurangabad,5164,13896,482,8250
+Maharashtra,Beed,468,757,20,269
+Maharashtra,Bhandara,49,245,2,194
+Maharashtra,Buldhana,559,1283,39,685
+Maharashtra,Chandrapur,169,430,0,261
+Maharashtra,Dhule,1015,3061,101,1943
+Maharashtra,Gadchiroli,43,269,1,225
+Maharashtra,Gondia,55,288,3,230
+Maharashtra,Hingoli,113,550,12,425
+Maharashtra,Jalgaon,2923,10826,518,7385
+Maharashtra,Jalna,432,1940,74,1434
+Maharashtra,Kolhapur,3365,5060,105,1590
+Maharashtra,Latur,958,2067,89,1020
+Maharashtra,Mumbai,20563,114284,6353,87074
 Maharashtra,Mumbai Suburban,0,0,0,0
-Maharashtra,Nagpur,2495,4494,70,1928
-Maharashtra,Nanded,865,1612,68,679
-Maharashtra,Nandurbar,191,588,31,366
-Maharashtra,Nashik,5356,14295,456,8483
-Maharashtra,Osmanabad,303,858,43,512
-Maharashtra,Other State,329,377,48,0
-Maharashtra,Palghar,5801,15278,322,9155
-Maharashtra,Parbhani,347,588,22,219
-Maharashtra,Pune,48815,86225,2028,35382
-Maharashtra,Raigad,5142,16161,363,10654
-Maharashtra,Ratnagiri,733,1691,61,897
-Maharashtra,Sangli,1149,2092,58,885
-Maharashtra,Satara,1554,3704,138,2011
-Maharashtra,Sindhudurg,80,358,7,271
-Maharashtra,Solapur,4165,8873,496,4211
-Maharashtra,Thane,31923,91784,2525,57335
-Maharashtra,Wardha,81,183,4,97
-Maharashtra,Washim,201,566,12,353
-Maharashtra,Yavatmal,359,855,27,469
+Maharashtra,Nagpur,2831,4835,73,1930
+Maharashtra,Nanded,874,1695,75,746
+Maharashtra,Nandurbar,184,629,31,414
+Maharashtra,Nashik,5357,14750,462,8931
+Maharashtra,Osmanabad,408,971,45,518
+Maharashtra,Other State,350,398,48,0
+Maharashtra,Palghar,5969,15619,327,9323
+Maharashtra,Parbhani,286,643,24,333
+Maharashtra,Pune,49821,89231,2099,37311
+Maharashtra,Raigad,5305,16538,373,10858
+Maharashtra,Ratnagiri,712,1700,62,926
+Maharashtra,Sangli,1342,2345,63,940
+Maharashtra,Satara,1564,3872,138,2169
+Maharashtra,Sindhudurg,90,368,7,271
+Maharashtra,Solapur,4009,9129,504,4615
+Maharashtra,Thane,31920,93342,2585,58836
+Maharashtra,Wardha,89,196,4,102
+Maharashtra,Washim,218,591,12,361
+Maharashtra,Yavatmal,408,943,27,508
 Meghalaya,East Garo Hills,0,1,0,1
 Meghalaya,East Jaintia Hills,15,17,0,2
 Meghalaya,East Khasi Hills,506,648,2,140
@@ -462,19 +462,19 @@ Mizoram,Mamit,0,21,0,21
 Mizoram,Saiha,3,26,0,23
 Mizoram,Saitual,0,3,0,3
 Mizoram,Serchhip,0,7,0,7
+Mizoram,Unknown,5,5,0,0
 Nagaland,Others,0,46,0,46
 Nagaland,Dimapur,531,602,4,65
 Nagaland,Kiphire,0,4,0,4
 Nagaland,Kohima,347,402,0,55
 Nagaland,Longleng,0,5,0,5
-Nagaland,Mokokchung,13,18,0,5
+Nagaland,Mokokchung,11,18,0,7
 Nagaland,Mon,109,173,0,64
-Nagaland,Peren,30,331,0,301
+Nagaland,Peren,22,331,0,309
 Nagaland,Phek,13,29,0,16
 Nagaland,Tuensang,4,51,0,47
 Nagaland,Wokha,7,18,0,11
 Nagaland,Zunheboto,8,14,0,6
-Nagaland,Unknown,-10,0,0,10
 Odisha,Others,0,0,0,0
 Odisha,Angul,97,330,2,231
 Odisha,Balangir,127,425,0,298
@@ -506,74 +506,73 @@ Odisha,Rayagada,286,733,7,440
 Odisha,Sambalpur,204,398,1,193
 Odisha,Subarnapur,35,91,0,56
 Odisha,Sundargarh,536,1373,11,826
-Punjab,Amritsar,467,1799,76,1256
-Punjab,Barnala,110,191,3,78
-Punjab,Bathinda,159,346,5,182
-Punjab,Faridkot,67,294,0,227
-Punjab,Fatehgarh Sahib,96,333,2,235
+Punjab,Amritsar,463,1863,79,1321
+Punjab,Barnala,140,223,5,78
+Punjab,Bathinda,162,349,5,182
+Punjab,Faridkot,54,292,0,238
+Punjab,Fatehgarh Sahib,102,348,2,244
 Punjab,Fazilka,94,266,1,171
-Punjab,Ferozepur,190,408,6,212
-Punjab,Gurdaspur,151,497,18,328
-Punjab,Hoshiarpur,111,521,15,395
-Punjab,Jalandhar,472,2225,52,1701
-Punjab,Kapurthala,92,253,9,152
-Punjab,Ludhiana,960,2962,83,1919
-Punjab,Mansa,34,112,0,78
-Punjab,Moga,121,326,5,200
-Punjab,Pathankot,67,358,11,280
-Punjab,Patiala,629,1583,26,928
-Punjab,Rupnagar,54,245,4,187
-Punjab,S.A.S. Nagar,297,817,14,506
-Punjab,Sangrur,219,1033,26,788
-Punjab,Shahid Bhagat Singh Nagar,45,304,3,256
-Punjab,Sri Muktsar Sahib,36,231,1,194
-Punjab,Tarn Taran,106,352,10,236
+Punjab,Ferozepur,192,410,6,212
+Punjab,Gurdaspur,149,505,18,338
+Punjab,Hoshiarpur,122,532,15,395
+Punjab,Jalandhar,495,2249,53,1701
+Punjab,Kapurthala,91,255,10,154
+Punjab,Ludhiana,1149,3211,89,1973
+Punjab,Mansa,31,112,0,81
+Punjab,Moga,108,327,5,214
+Punjab,Pathankot,109,401,12,280
+Punjab,Patiala,763,1719,28,928
+Punjab,Rupnagar,62,253,4,187
+Punjab,S.A.S. Nagar,296,841,14,531
+Punjab,Sangrur,216,1056,26,814
+Punjab,Shahid Bhagat Singh Nagar,54,313,3,256
+Punjab,Sri Muktsar Sahib,34,235,1,200
+Punjab,Tarn Taran,113,359,10,236
 Puducherry,Karaikal,51,185,2,132
 Puducherry,Mahe,1,23,0,22
 Puducherry,Puducherry,1187,3119,44,1888
 Puducherry,Yanam,84,145,3,58
-Rajasthan,Ajmer,668,1882,43,1171
-Rajasthan,Alwar,2162,3829,16,1651
-Rajasthan,Banswara,72,190,2,116
-Rajasthan,Baran,37,137,5,95
-Rajasthan,Barmer,550,1372,12,810
-Rajasthan,Bharatpur,392,2546,53,2101
-Rajasthan,Bhilwara,295,625,6,324
+Rajasthan,Ajmer,597,1938,44,1297
+Rajasthan,Alwar,2227,3897,16,1654
+Rajasthan,Banswara,75,207,2,130
+Rajasthan,Baran,38,138,5,95
+Rajasthan,Barmer,540,1372,12,820
+Rajasthan,Bharatpur,402,2571,53,2116
+Rajasthan,Bhilwara,283,638,6,349
 Rajasthan,Bikaner,521,1983,42,1420
 Rajasthan,BSF Camp,7,59,0,52
-Rajasthan,Bundi,81,129,0,48
-Rajasthan,Chittorgarh,45,264,6,213
-Rajasthan,Churu,154,665,3,508
+Rajasthan,Bundi,79,136,0,57
+Rajasthan,Chittorgarh,52,273,6,215
+Rajasthan,Churu,159,670,3,508
 Rajasthan,Dausa,37,308,4,267
-Rajasthan,Dholpur,131,1175,15,1029
-Rajasthan,Dungarpur,55,589,1,533
+Rajasthan,Dholpur,171,1227,15,1041
+Rajasthan,Dungarpur,64,598,1,533
 Rajasthan,Evacuees,0,61,0,61
 Rajasthan,Ganganagar,121,229,3,105
 Rajasthan,Hanumangarh,44,207,1,162
 Rajasthan,Italians,0,2,0,2
-Rajasthan,Jaipur,1178,5293,184,3931
+Rajasthan,Jaipur,1227,5418,188,4003
 Rajasthan,Jaisalmer,42,188,0,146
-Rajasthan,Jalore,83,1116,4,1029
-Rajasthan,Jhalawar,109,544,0,435
-Rajasthan,Jhunjhunu,58,608,5,545
-Rajasthan,Jodhpur,2016,6691,83,4592
-Rajasthan,Karauli,145,335,6,184
+Rajasthan,Jalore,67,1116,4,1045
+Rajasthan,Jhalawar,117,553,0,436
+Rajasthan,Jhunjhunu,63,613,5,545
+Rajasthan,Jodhpur,2095,6851,83,4673
+Rajasthan,Karauli,159,351,6,186
 Rajasthan,Kota,706,1686,34,946
-Rajasthan,Nagaur,218,1432,25,1189
-Rajasthan,Other State,94,185,37,54
-Rajasthan,Pali,432,2551,30,2089
+Rajasthan,Nagaur,203,1432,26,1203
+Rajasthan,Other State,97,188,37,54
+Rajasthan,Pali,451,2647,30,2166
 Rajasthan,Pratapgarh,22,176,2,152
-Rajasthan,Rajsamand,127,617,5,485
-Rajasthan,Sawai Madhopur,46,193,12,135
-Rajasthan,Sikar,260,1036,8,768
-Rajasthan,Sirohi,104,869,11,754
-Rajasthan,Tonk,25,272,3,244
-Rajasthan,Udaipur,282,1254,13,959
-Sikkim,East Sikkim,319,453,1,133
+Rajasthan,Rajsamand,138,633,5,490
+Rajasthan,Sawai Madhopur,43,197,12,142
+Rajasthan,Sikar,287,1063,8,768
+Rajasthan,Sirohi,111,879,11,757
+Rajasthan,Tonk,27,274,3,244
+Rajasthan,Udaipur,286,1304,13,1005
+Sikkim,East Sikkim,302,453,1,150
 Sikkim,North Sikkim,0,1,0,1
 Sikkim,South Sikkim,78,143,0,65
 Sikkim,West Sikkim,27,42,0,15
-Sikkim,Unknown,-17,0,0,17
 Telangana,Foreign Evacuees,33,33,0,0
 Telangana,Other State,250,250,0,0
 Telangana,Adilabad,252,267,0,15
@@ -650,14 +649,14 @@ Tamil Nadu,Tiruvannamalai,1922,6052,62,4068
 Tamil Nadu,Vellore,1350,5875,61,4464
 Tamil Nadu,Viluppuram,934,3764,35,2795
 Tamil Nadu,Virudhunagar,2823,7865,85,4957
-Tripura,Dhalai,263,618,2,352
-Tripura,Gomati,287,778,6,484
-Tripura,Khowai,91,366,3,272
-Tripura,North Tripura,210,365,1,148
-Tripura,Sipahijala,285,1097,1,811
-Tripura,South Tripura,101,325,3,218
-Tripura,Unokoti,23,125,0,102
-Tripura,West Tripura,461,1048,5,575
+Tripura,Dhalai,95,622,2,524
+Tripura,Gomati,297,821,6,517
+Tripura,Khowai,109,392,3,280
+Tripura,North Tripura,205,412,1,200
+Tripura,Sipahijala,282,1123,1,840
+Tripura,South Tripura,101,342,3,235
+Tripura,Unokoti,21,131,0,110
+Tripura,West Tripura,520,1153,5,621
 Uttar Pradesh,Agra,270,1793,100,1423
 Uttar Pradesh,Aligarh,724,1391,26,641
 Uttar Pradesh,Ambedkar Nagar,99,250,10,141
@@ -746,27 +745,27 @@ Uttarakhand,Rudraprayag,9,76,1,66
 Uttarakhand,Tehri Garhwal,57,517,2,458
 Uttarakhand,Udham Singh Nagar,779,1252,7,465
 Uttarakhand,Uttarkashi,69,191,1,121
-West Bengal,Alipurduar,100,330,1,229
-West Bengal,Bankura,266,678,0,412
-West Bengal,Birbhum,151,545,6,388
-West Bengal,Cooch Behar,158,638,1,479
-West Bengal,Dakshin Dinajpur,297,1143,7,839
-West Bengal,Darjeeling,578,2044,22,1444
-West Bengal,Hooghly,945,3317,59,2313
-West Bengal,Howrah,1956,7590,197,5437
-West Bengal,Jalpaiguri,350,1262,11,901
+West Bengal,Alipurduar,112,347,2,233
+West Bengal,Bankura,298,732,0,434
+West Bengal,Birbhum,185,585,6,394
+West Bengal,Cooch Behar,215,709,0,494
+West Bengal,Dakshin Dinajpur,240,1155,7,908
+West Bengal,Darjeeling,630,2166,22,1514
+West Bengal,Hooghly,957,3411,61,2393
+West Bengal,Howrah,1887,7750,199,5664
+West Bengal,Jalpaiguri,363,1314,11,940
 West Bengal,Jhargram,0,28,0,28
-West Bengal,Kalimpong,13,85,1,71
-West Bengal,Kolkata,6422,20969,739,13808
-West Bengal,Malda,366,2265,11,1888
-West Bengal,Murshidabad,230,780,9,541
-West Bengal,Nadia,278,952,9,665
-West Bengal,North 24 Parganas,4749,14487,328,9410
+West Bengal,Kalimpong,17,89,1,71
+West Bengal,Kolkata,6373,21639,760,14506
+West Bengal,Malda,328,2287,12,1947
+West Bengal,Murshidabad,238,814,11,565
+West Bengal,Nadia,320,1016,10,686
+West Bengal,North 24 Parganas,4967,15131,341,9823
 West Bengal,Other State,0,66,3,63
-West Bengal,Paschim Bardhaman,282,786,9,495
-West Bengal,Paschim Medinipur,316,1140,15,809
-West Bengal,Purba Bardhaman,299,808,4,505
-West Bengal,Purba Medinipur,388,1433,13,1032
-West Bengal,Purulia,63,218,0,155
-West Bengal,South 24 Parganas,1304,4983,84,3595
-West Bengal,Uttar Dinajpur,389,1145,7,749
+West Bengal,Paschim Bardhaman,276,808,9,523
+West Bengal,Paschim Medinipur,300,1183,15,868
+West Bengal,Purba Bardhaman,334,860,4,522
+West Bengal,Purba Medinipur,406,1518,13,1099
+West Bengal,Purulia,81,241,0,160
+West Bengal,South 24 Parganas,1336,5182,87,3759
+West Bengal,Uttar Dinajpur,370,1157,7,780
