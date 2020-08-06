@@ -20,30 +20,30 @@ Andhra Pradesh,Vizianagaram,4251,6893,69,2573
 Andhra Pradesh,West Godavari,4161,14988,114,10713
 Andhra Pradesh,Y.S.R. Kadapa,5737,10889,51,5101
 Arunachal Pradesh,Anjaw,0,4,0,4
-Arunachal Pradesh,Changlang,132,248,0,116
-Arunachal Pradesh,East Kameng,42,45,0,3
-Arunachal Pradesh,East Siang,49,102,0,53
+Arunachal Pradesh,Changlang,150,267,0,117
+Arunachal Pradesh,East Kameng,40,49,0,9
+Arunachal Pradesh,East Siang,46,114,0,68
 Arunachal Pradesh,Kamle,0,1,0,1
 Arunachal Pradesh,Kra Daadi,0,0,0,0
 Arunachal Pradesh,Kurung Kumey,0,0,0,0
 Arunachal Pradesh,Lepa Rada,2,13,0,11
-Arunachal Pradesh,Lohit,24,37,0,13
+Arunachal Pradesh,Lohit,28,45,0,17
 Arunachal Pradesh,Longding,6,14,0,8
-Arunachal Pradesh,Lower Dibang Valley,7,21,0,14
-Arunachal Pradesh,Lower Siang,23,38,0,15
-Arunachal Pradesh,Lower Subansiri,14,39,0,25
-Arunachal Pradesh,Namsai,47,102,0,55
+Arunachal Pradesh,Lower Dibang Valley,7,22,0,15
+Arunachal Pradesh,Lower Siang,21,38,0,17
+Arunachal Pradesh,Lower Subansiri,13,39,0,26
+Arunachal Pradesh,Namsai,49,105,0,56
 Arunachal Pradesh,Pakke Kessang,0,1,0,1
-Arunachal Pradesh,Papum Pare,216,892,1,675
+Arunachal Pradesh,Papum Pare,173,903,1,729
 Arunachal Pradesh,Shi Yomi,4,4,0,0
-Arunachal Pradesh,Siang,2,3,0,1
-Arunachal Pradesh,Tawang,23,43,0,20
-Arunachal Pradesh,Tirap,35,60,0,25
+Arunachal Pradesh,Siang,0,3,0,3
+Arunachal Pradesh,Tawang,19,44,0,25
+Arunachal Pradesh,Tirap,32,62,0,30
 Arunachal Pradesh,Upper Dibang Valley,0,0,0,0
-Arunachal Pradesh,Upper Siang,13,28,0,15
+Arunachal Pradesh,Upper Siang,5,28,0,23
 Arunachal Pradesh,Upper Subansiri,1,4,0,3
 Arunachal Pradesh,West Kameng,20,56,2,34
-Arunachal Pradesh,West Siang,22,35,0,13
+Arunachal Pradesh,West Siang,26,39,0,13
 Assam,Airport Quarantine,0,13,0,13
 Assam,Baksa,123,314,1,190
 Assam,Barpeta,95,764,1,668
@@ -55,22 +55,22 @@ Assam,Chirang,16,87,0,71
 Assam,Darrang,202,986,5,779
 Assam,Dhemaji,50,219,0,169
 Assam,Dhubri,190,797,0,607
-Assam,Dibrugarh,1324,1882,8,550
+Assam,Dibrugarh,1501,2059,8,550
 Assam,Dima Hasao,13,160,0,147
 Assam,Goalpara,38,276,0,204
 Assam,Golaghat,438,1329,2,889
 Assam,Hailakandi,162,827,2,663
 Assam,Hojai,140,744,1,603
 Assam,Jorhat,812,1513,10,691
-Assam,Kamrup,1397,1720,5,318
-Assam,Kamrup Metropolitan,8150,16900,49,8701
+Assam,Kamrup,1520,1843,5,318
+Assam,Kamrup Metropolitan,8512,17262,49,8701
 Assam,Karbi Anglong,77,319,4,238
 Assam,Karimganj,69,464,4,391
 Assam,Kokrajhar,106,336,2,228
 Assam,Lakhimpur,148,479,0,331
 Assam,Majuli,29,54,0,25
 Assam,Morigaon,300,366,0,66
-Assam,Nagaon,1215,2226,2,1009
+Assam,Nagaon,1372,2383,2,1009
 Assam,Nalbari,157,422,1,264
 Assam,Other State,0,1,0,1
 Assam,Sivasagar,101,302,2,199
@@ -79,7 +79,7 @@ Assam,South Salmara Mankachar,4,46,0,42
 Assam,Tinsukia,258,900,13,629
 Assam,Udalguri,108,370,1,261
 Assam,West Karbi Anglong,11,30,0,19
-Assam,Unknown,-3669,10034,0,13700
+Assam,Unknown,-3675,11499,0,15171
 Bihar,Araria,349,797,7,441
 Bihar,Arwal,212,660,3,445
 Bihar,Aurangabad,446,1191,5,740
@@ -121,7 +121,7 @@ Bihar,West Champaran,439,1631,10,1182
 Chandigarh,Chandigarh,534,1270,20,715
 Chhattisgarh,Other State,1,10,3,6
 Chhattisgarh,Balod,5,96,0,91
-Chhattisgarh,Baloda Bazar,62,418,2,354
+Chhattisgarh,Baloda Bazar,67,423,2,354
 Chhattisgarh,Balrampur,34,223,0,189
 Chhattisgarh,Bametara,2,129,0,127
 Chhattisgarh,Bastar,100,254,1,153
@@ -129,19 +129,19 @@ Chhattisgarh,Bijapur,27,85,0,58
 Chhattisgarh,Bilaspur,96,680,6,578
 Chhattisgarh,Dakshin Bastar Dantewada,8,135,0,127
 Chhattisgarh,Dhamtari,11,44,1,32
-Chhattisgarh,Durg,279,907,9,619
+Chhattisgarh,Durg,296,924,9,619
 Chhattisgarh,Gariaband,14,98,1,83
 Chhattisgarh,Janjgir Champa,54,501,2,445
 Chhattisgarh,Jashpur,37,257,0,220
 Chhattisgarh,Kabeerdham,32,214,0,182
 Chhattisgarh,Kondagaon,62,137,0,75
-Chhattisgarh,Korba,38,416,0,378
-Chhattisgarh,Koriya,22,127,1,104
-Chhattisgarh,Mahasamund,73,181,1,107
+Chhattisgarh,Korba,39,417,0,378
+Chhattisgarh,Koriya,23,128,1,104
+Chhattisgarh,Mahasamund,79,187,1,107
 Chhattisgarh,Mungeli,7,174,0,167
 Chhattisgarh,Narayanpur,5,176,0,171
-Chhattisgarh,Raigarh,64,268,2,202
-Chhattisgarh,Raipur,1171,3421,35,2215
+Chhattisgarh,Raigarh,65,269,2,202
+Chhattisgarh,Raipur,1230,3480,35,2215
 Chhattisgarh,Rajnandgaon,185,786,4,597
 Chhattisgarh,Sukma,6,77,0,71
 Chhattisgarh,Surajpur,34,84,1,49
@@ -238,30 +238,30 @@ Haryana,Rohtak,458,1740,24,1258
 Haryana,Sirsa,199,478,7,272
 Haryana,Sonipat,301,3045,33,2711
 Haryana,Yamunanagar,184,377,3,190
-Jharkhand,Bokaro,156,299,2,141
-Jharkhand,Chatra,212,380,1,167
-Jharkhand,Deoghar,423,509,2,84
-Jharkhand,Dhanbad,526,741,14,201
-Jharkhand,Dumka,101,155,0,54
-Jharkhand,East Singhbhum,1683,2420,44,693
-Jharkhand,Garhwa,310,509,2,197
-Jharkhand,Giridih,201,633,4,428
-Jharkhand,Godda,183,208,2,23
-Jharkhand,Gumla,279,383,1,103
-Jharkhand,Hazaribagh,416,761,11,334
-Jharkhand,Jamtara,72,141,0,69
-Jharkhand,Khunti,191,234,1,42
-Jharkhand,Koderma,359,674,5,310
-Jharkhand,Latehar,228,335,0,107
-Jharkhand,Lohardaga,84,273,2,187
-Jharkhand,Pakur,202,281,0,79
-Jharkhand,Palamu,249,532,1,282
-Jharkhand,Ramgarh,285,493,3,205
-Jharkhand,Ranchi,1803,2583,25,755
-Jharkhand,Sahibganj,177,245,2,66
-Jharkhand,Saraikela-Kharsawan,182,317,4,131
-Jharkhand,Simdega,162,557,1,394
-Jharkhand,West Singhbhum,258,407,2,147
+Jharkhand,Bokaro,213,370,2,155
+Jharkhand,Chatra,216,384,1,167
+Jharkhand,Deoghar,387,544,2,155
+Jharkhand,Dhanbad,532,747,14,201
+Jharkhand,Dumka,125,181,0,56
+Jharkhand,East Singhbhum,1704,2492,45,743
+Jharkhand,Garhwa,325,525,2,198
+Jharkhand,Giridih,116,640,5,519
+Jharkhand,Godda,421,547,2,124
+Jharkhand,Gumla,286,395,1,108
+Jharkhand,Hazaribagh,412,788,11,365
+Jharkhand,Jamtara,76,145,0,69
+Jharkhand,Khunti,207,261,2,52
+Jharkhand,Koderma,359,680,5,316
+Jharkhand,Latehar,242,349,0,107
+Jharkhand,Lohardaga,86,275,2,187
+Jharkhand,Pakur,213,314,0,101
+Jharkhand,Palamu,300,583,1,282
+Jharkhand,Ramgarh,281,493,3,209
+Jharkhand,Ranchi,1813,2724,28,883
+Jharkhand,Sahibganj,202,270,2,66
+Jharkhand,Saraikela-Kharsawan,180,326,4,142
+Jharkhand,Simdega,148,574,1,425
+Jharkhand,West Singhbhum,285,441,3,153
 Jammu and Kashmir,Anantnag,260,1417,28,1129
 Jammu and Kashmir,Bandipora,310,865,16,539
 Jammu and Kashmir,Baramulla,393,1997,73,1531
