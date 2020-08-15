@@ -333,6 +333,7 @@ Date,Tested,State_Name
 11-Aug-2020,112689,Arunachal Pradesh
 12-Aug-2020,115758,Arunachal Pradesh
 13-Aug-2020,118882,Arunachal Pradesh
+14-Aug-2020,121371,Arunachal Pradesh
 02-Apr-2020,962,Assam
 10-Apr-2020,2863,Assam
 11-Apr-2020,3011,Assam
@@ -441,6 +442,7 @@ Date,Tested,State_Name
 11-Aug-2020,1430691,Assam
 12-Aug-2020,1573800,Assam
 13-Aug-2020,1635118,Assam
+14-Aug-2020,1684721,Assam
 05-Apr-2020,3037,Bihar
 08-Apr-2020,4596,Bihar
 09-Apr-2020,4991,Bihar
@@ -569,6 +571,7 @@ Date,Tested,State_Name
 11-Aug-2020,1180566,Bihar
 12-Aug-2020,1272980,Bihar
 13-Aug-2020,1377432,Bihar
+14-Aug-2020,1498752,Bihar
 02-Apr-2020,124,Chandigarh
 08-Apr-2020,184,Chandigarh
 10-Apr-2020,223,Chandigarh
@@ -695,6 +698,7 @@ Date,Tested,State_Name
 11-Aug-2020,18625,Chandigarh
 12-Aug-2020,19141,Chandigarh
 13-Aug-2020,19593,Chandigarh
+14-Aug-2020,20060,Chandigarh
 02-Apr-2020,1232,Chhattisgarh
 10-Apr-2020,3473,Chhattisgarh
 11-Apr-2020,3858,Chhattisgarh
@@ -815,6 +819,7 @@ Date,Tested,State_Name
 11-Aug-2020,388852,Chhattisgarh
 12-Aug-2020,394141,Chhattisgarh
 13-Aug-2020,402390,Chhattisgarh
+14-Aug-2020,409693,Chhattisgarh
 09-Apr-2020,80,Dadra and Nagar Haveli and Daman and Diu
 10-Apr-2020,130,Dadra and Nagar Haveli and Daman and Diu
 11-Apr-2020,211,Dadra and Nagar Haveli and Daman and Diu
@@ -1293,6 +1298,7 @@ Date,Tested,State_Name
 11-Aug-2020,1058881,Gujarat
 12-Aug-2020,1109005,Gujarat
 13-Aug-2020,1159822,Gujarat
+14-Aug-2020,1211047,Gujarat
 03-Apr-2020,1325,Haryana
 07-Apr-2020,2520,Haryana
 08-Apr-2020,2650,Haryana
@@ -1423,6 +1429,7 @@ Date,Tested,State_Name
 11-Aug-2020,771769,Haryana
 12-Aug-2020,786839,Haryana
 13-Aug-2020,801784,Haryana
+14-Aug-2020,817509,Haryana
 10-Apr-2020,900,Himachal Pradesh
 11-Apr-2020,900,Himachal Pradesh
 12-Apr-2020,1113,Himachal Pradesh
@@ -1549,6 +1556,7 @@ Date,Tested,State_Name
 11-Aug-2020,168843,Himachal Pradesh
 12-Aug-2020,171538,Himachal Pradesh
 13-Aug-2020,172985,Himachal Pradesh
+14-Aug-2020,175666,Himachal Pradesh
 05-Apr-2020,1551,Jammu and Kashmir
 10-Apr-2020,2961,Jammu and Kashmir
 11-Apr-2020,3206,Jammu and Kashmir
@@ -1800,6 +1808,7 @@ Date,Tested,State_Name
 11-Aug-2020,394315,Jharkhand
 12-Aug-2020,402072,Jharkhand
 13-Aug-2020,411027,Jharkhand
+14-Aug-2020,442286,Jharkhand
 03-Apr-2020,4587,Karnataka
 07-Apr-2020,6580,Karnataka
 08-Apr-2020,6967,Karnataka
@@ -1929,6 +1938,7 @@ Date,Tested,State_Name
 11-Aug-2020,1772991,Karnataka
 12-Aug-2020,1826317,Karnataka
 13-Aug-2020,1882316,Karnataka
+14-Aug-2020,1938954,Karnataka
 01-Apr-2020,7965,Kerala
 02-Apr-2020,8456,Kerala
 03-Apr-2020,9139,Kerala
@@ -2064,6 +2074,7 @@ Date,Tested,State_Name
 11-Aug-2020,1027433,Kerala
 12-Aug-2020,1056360,Kerala
 13-Aug-2020,1087722,Kerala
+14-Aug-2020,1120935,Kerala
 13-Apr-2020,618,Ladakh
 14-Apr-2020,760,Ladakh
 15-Apr-2020,820,Ladakh
@@ -2151,6 +2162,7 @@ Date,Tested,State_Name
 11-Aug-2020,22709,Ladakh
 12-Aug-2020,23034,Ladakh
 13-Aug-2020,23430,Ladakh
+14-Aug-2020,24197,Ladakh
 05-Apr-2020,2812,Madhya Pradesh
 07-Apr-2020,3770,Madhya Pradesh
 08-Apr-2020,4056,Madhya Pradesh
@@ -2281,6 +2293,7 @@ Date,Tested,State_Name
 11-Aug-2020,931143,Madhya Pradesh
 12-Aug-2020,951822,Madhya Pradesh
 13-Aug-2020,972046,Madhya Pradesh
+14-Aug-2020,992172,Madhya Pradesh
 05-Apr-2020,16008,Maharashtra
 06-Apr-2020,17563,Maharashtra
 07-Apr-2020,20877,Maharashtra
@@ -2489,6 +2502,7 @@ Date,Tested,State_Name
 10-Aug-2020,103268,Manipur
 11-Aug-2020,104263,Manipur
 13-Aug-2020,107469,Manipur
+14-Aug-2020,110026,Manipur
 16-Apr-2020,552,Meghalaya
 17-Apr-2020,617,Meghalaya
 18-Apr-2020,738,Meghalaya
@@ -2711,6 +2725,7 @@ Date,Tested,State_Name
 11-Aug-2020,23848,Mizoram
 12-Aug-2020,24895,Mizoram
 13-Aug-2020,25054,Mizoram
+14-Aug-2020,25472,Mizoram
 06-Apr-2020,60,Nagaland
 10-Apr-2020,70,Nagaland
 11-Apr-2020,70,Nagaland
@@ -2835,6 +2850,7 @@ Date,Tested,State_Name
 11-Aug-2020,47008,Nagaland
 12-Aug-2020,47939,Nagaland
 13-Aug-2020,48445,Nagaland
+14-Aug-2020,49534,Nagaland
 03-Apr-2020,1395,Odisha
 07-Apr-2020,2441,Odisha
 08-Apr-2020,2441,Odisha
@@ -3213,6 +3229,7 @@ Date,Tested,State_Name
 11-Aug-2020,697327,Punjab
 12-Aug-2020,711260,Punjab
 13-Aug-2020,723357,Punjab
+14-Aug-2020,741834,Punjab
 05-Apr-2020,12279,Rajasthan
 07-Apr-2020,17638,Rajasthan
 08-Apr-2020,17638,Rajasthan
@@ -3343,6 +3360,7 @@ Date,Tested,State_Name
 11-Aug-2020,1784992,Rajasthan
 12-Aug-2020,1820131,Rajasthan
 13-Aug-2020,1839445,Rajasthan
+14-Aug-2020,1868534,Rajasthan
 04-May-2020,170,Sikkim
 05-May-2020,181,Sikkim
 06-May-2020,189,Sikkim
@@ -3571,6 +3589,7 @@ Date,Tested,State_Name
 11-Aug-2020,3360450,Tamil Nadu
 12-Aug-2020,3432025,Tamil Nadu
 13-Aug-2020,3499300,Tamil Nadu
+14-Aug-2020,3569453,Tamil Nadu
 19-Apr-2020,14962,Telangana
 28-Apr-2020,19063,Telangana
 29-Apr-2020,19278,Telangana
@@ -4001,6 +4020,7 @@ Date,Tested,State_Name
 11-Aug-2020,225618,Uttarakhand
 12-Aug-2020,232259,Uttarakhand
 13-Aug-2020,242150,Uttarakhand
+14-Aug-2020,251236,Uttarakhand
 01-Apr-2020,659,West Bengal
 04-Apr-2020,1042,West Bengal
 06-Apr-2020,1301,West Bengal
@@ -4132,3 +4152,4 @@ Date,Tested,State_Name
 11-Aug-2020,1159211,West Bengal
 12-Aug-2020,1186923,West Bengal
 13-Aug-2020,1216955,West Bengal
+14-Aug-2020,1248272,West Bengal
