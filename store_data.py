@@ -71,17 +71,21 @@ if (resp.status_code == 200):
     new_json = []
     if not (df.empty):
         for (item,row) in df.iterrows():
-            date = datetime.strftime(row.index.get_level_values(0)[0],'%d-%b-%y')
-            new_obj = {
-                'Date' : date,
-                'Confirmed' : row[date]['Confirmed'],
-                'Deceased' :row[date]['Deceased'],
-                'Recovered': row[date]['Recovered'],
-                'State_Name': item
-            }
-            new_json.append(new_obj)
+            date_list = row.index.get_level_values(0).unique().sort_values()
+            for d in date_list:
+                date = datetime.strftime(d,'%d-%b-%y')
+                new_obj = {
+                    'Date' : date,
+                    'Confirmed' : row[date]['Confirmed'],
+                    'Deceased' :row[date]['Deceased'],
+                    'Recovered': row[date]['Recovered'],
+                    'State_Name': item
+                }
+                new_json.append(new_obj)
 
         df = pd.DataFrame(new_json)
+        df = df.sort_values(by=['Date','State_Name'])
+
         df.to_csv(DATA_URL, mode='a', header=False, index=False)
         print ('State Level Data: Successful')
     else:
