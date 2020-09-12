@@ -6785,3 +6785,315 @@ Date,Confirmed,Deceased,Recovered,State_Name
 03-Sep-20,5662,75,4448,Uttar Pradesh
 03-Sep-20,946,9,508,Uttarakhand
 03-Sep-20,2984,55,3335,West Bengal
+04-Sep-20,34,1,40,Andaman and Nicobar Islands
+04-Sep-20,10776,76,12334,Andhra Pradesh
+04-Sep-20,201,0,113,Arunachal Pradesh
+04-Sep-20,2891,15,2020,Assam
+04-Sep-20,1978,13,1435,Bihar
+04-Sep-20,203,5,222,Chandigarh
+04-Sep-20,2667,22,658,Chhattisgarh
+04-Sep-20,51,0,43,Dadra and Nagar Haveli and Daman and Diu
+04-Sep-20,0,0,0,Daman and Diu
+04-Sep-20,2914,13,1751,Delhi
+04-Sep-20,508,8,386,Goa
+04-Sep-20,1320,14,1218,Gujarat
+04-Sep-20,1884,19,1282,Haryana
+04-Sep-20,215,2,107,Himachal Pradesh
+04-Sep-20,1047,12,676,Jammu and Kashmir
+04-Sep-20,1559,3,1157,Jharkhand
+04-Sep-20,9280,0,6161,Karnataka
+04-Sep-20,2479,11,2716,Kerala
+04-Sep-20,95,0,46,Ladakh
+04-Sep-20,0,0,0,Lakshadweep
+04-Sep-20,1658,30,1042,Madhya Pradesh
+04-Sep-20,19218,378,13289,Maharashtra
+04-Sep-20,90,3,125,Manipur
+04-Sep-20,108,1,75,Meghalaya
+04-Sep-20,6,0,12,Mizoram
+04-Sep-20,41,0,37,Nagaland
+04-Sep-20,3267,9,2980,Odisha
+04-Sep-20,591,20,395,Puducherry
+04-Sep-20,1498,49,1272,Punjab
+04-Sep-20,1570,13,679,Rajasthan
+04-Sep-20,105,0,17,Sikkim
+04-Sep-20,0,0,0,State Unassigned
+04-Sep-20,5976,79,6334,Tamil Nadu
+04-Sep-20,2478,10,2011,Telangana
+04-Sep-20,87115,950,69625,Total
+04-Sep-20,524,3,179,Tripura
+04-Sep-20,6074,71,5006,Uttar Pradesh
+04-Sep-20,831,12,502,Uttarakhand
+04-Sep-20,2978,58,3305,West Bengal
+05-Sep-20,35,1,41,Andaman and Nicobar Islands
+05-Sep-20,10825,71,11941,Andhra Pradesh
+05-Sep-20,139,0,101,Arunachal Pradesh
+05-Sep-20,2698,7,2343,Assam
+05-Sep-20,1727,9,1965,Bihar
+05-Sep-20,234,1,185,Chandigarh
+05-Sep-20,2529,19,879,Chhattisgarh
+05-Sep-20,21,0,28,Dadra and Nagar Haveli and Daman and Diu
+05-Sep-20,0,0,0,Daman and Diu
+05-Sep-20,2973,25,1920,Delhi
+05-Sep-20,592,9,534,Goa
+05-Sep-20,1311,16,1148,Gujarat
+05-Sep-20,2289,22,1409,Haryana
+05-Sep-20,188,4,21,Himachal Pradesh
+05-Sep-20,1251,15,489,Jammu and Kashmir
+05-Sep-20,1758,15,2287,Jharkhand
+05-Sep-20,9746,0,9102,Karnataka
+05-Sep-20,2655,11,2111,Kerala
+05-Sep-20,61,0,42,Ladakh
+05-Sep-20,0,0,0,Lakshadweep
+05-Sep-20,1636,30,1392,Madhya Pradesh
+05-Sep-20,20800,312,10801,Maharashtra
+05-Sep-20,184,1,76,Manipur
+05-Sep-20,182,1,59,Meghalaya
+05-Sep-20,16,0,32,Mizoram
+05-Sep-20,21,0,68,Nagaland
+05-Sep-20,3543,7,3443,Odisha
+05-Sep-20,394,18,433,Puducherry
+05-Sep-20,1514,69,1306,Punjab
+05-Sep-20,1566,14,1346,Rajasthan
+05-Sep-20,58,0,26,Sikkim
+05-Sep-20,0,0,0,State Unassigned
+05-Sep-20,5870,64,5859,Tamil Nadu
+05-Sep-20,2511,11,2579,Telangana
+05-Sep-20,90600,916,73161,Total
+05-Sep-20,691,7,271,Tripura
+05-Sep-20,6590,81,5141,Uttar Pradesh
+05-Sep-20,950,18,535,Uttarakhand
+05-Sep-20,3042,58,3248,West Bengal
+06-Sep-20,40,0,47,Andaman and Nicobar Islands
+06-Sep-20,10794,70,11915,Andhra Pradesh
+06-Sep-20,86,0,91,Arunachal Pradesh
+06-Sep-20,1537,8,1763,Assam
+06-Sep-20,1797,4,1924,Bihar
+06-Sep-20,261,2,149,Chandigarh
+06-Sep-20,2100,24,711,Chhattisgarh
+06-Sep-20,36,0,21,Dadra and Nagar Haveli and Daman and Diu
+06-Sep-20,0,0,0,Daman and Diu
+06-Sep-20,3256,29,2188,Delhi
+06-Sep-20,374,7,558,Goa
+06-Sep-20,1335,14,1212,Gujarat
+06-Sep-20,2277,25,1471,Haryana
+06-Sep-20,397,1,197,Himachal Pradesh
+06-Sep-20,1316,14,403,Jammu and Kashmir
+06-Sep-20,1266,7,1854,Jharkhand
+06-Sep-20,9319,95,9575,Karnataka
+06-Sep-20,3082,10,2196,Kerala
+06-Sep-20,40,0,24,Ladakh
+06-Sep-20,0,0,0,Lakshadweep
+06-Sep-20,1694,29,1238,Madhya Pradesh
+06-Sep-20,23350,328,7826,Maharashtra
+06-Sep-20,139,2,189,Manipur
+06-Sep-20,89,1,29,Meghalaya
+06-Sep-20,31,0,19,Mizoram
+06-Sep-20,50,0,77,Nagaland
+06-Sep-20,3810,8,2590,Odisha
+06-Sep-20,466,16,525,Puducherry
+06-Sep-20,1946,54,1606,Punjab
+06-Sep-20,1593,15,1616,Rajasthan
+06-Sep-20,9,0,24,Sikkim
+06-Sep-20,0,0,0,State Unassigned
+06-Sep-20,5783,85,5820,Tamil Nadu
+06-Sep-20,2574,9,2927,Telangana
+06-Sep-20,91723,1005,69624,Total
+06-Sep-20,603,8,262,Tripura
+06-Sep-20,6518,77,4779,Uttar Pradesh
+06-Sep-20,668,11,591,Uttarakhand
+06-Sep-20,3087,52,3207,West Bengal
+07-Sep-20,27,0,46,Andaman and Nicobar Islands
+07-Sep-20,8368,70,10055,Andhra Pradesh
+07-Sep-20,180,0,124,Arunachal Pradesh
+07-Sep-20,2785,10,2250,Assam
+07-Sep-20,1369,7,1845,Bihar
+07-Sep-20,232,3,295,Chandigarh
+07-Sep-20,2017,15,979,Chhattisgarh
+07-Sep-20,22,0,27,Dadra and Nagar Haveli and Daman and Diu
+07-Sep-20,0,0,0,Daman and Diu
+07-Sep-20,2077,32,2411,Delhi
+07-Sep-20,0,0,0,Goa
+07-Sep-20,1330,15,1276,Gujarat
+07-Sep-20,2224,23,1560,Haryana
+07-Sep-20,245,1,221,Himachal Pradesh
+07-Sep-20,1013,17,433,Jammu and Kashmir
+07-Sep-20,1557,13,1366,Jharkhand
+07-Sep-20,5773,141,7897,Karnataka
+07-Sep-20,1648,12,2246,Kerala
+07-Sep-20,28,0,60,Ladakh
+07-Sep-20,0,0,0,Lakshadweep
+07-Sep-20,1885,17,1022,Madhya Pradesh
+07-Sep-20,16429,423,14922,Maharashtra
+07-Sep-20,84,0,194,Manipur
+07-Sep-20,29,1,4,Meghalaya
+07-Sep-20,21,0,0,Mizoram
+07-Sep-20,42,0,178,Nagaland
+07-Sep-20,3861,10,3034,Odisha
+07-Sep-20,284,11,503,Puducherry
+07-Sep-20,2110,61,1565,Punjab
+07-Sep-20,1580,14,1566,Rajasthan
+07-Sep-20,29,0,25,Sikkim
+07-Sep-20,0,0,0,State Unassigned
+07-Sep-20,5776,89,5930,Tamil Nadu
+07-Sep-20,1802,9,2711,Telangana
+07-Sep-20,74678,1120,73535,Total
+07-Sep-20,399,5,303,Tripura
+07-Sep-20,5568,56,4993,Uttar Pradesh
+07-Sep-20,807,7,473,Uttarakhand
+07-Sep-20,3077,58,3021,West Bengal
+08-Sep-20,33,0,38,Andaman and Nicobar Islands
+08-Sep-20,10601,73,11691,Andhra Pradesh
+08-Sep-20,221,1,127,Arunachal Pradesh
+08-Sep-20,2578,8,2166,Assam
+08-Sep-20,1667,4,1944,Bihar
+08-Sep-20,377,1,226,Chandigarh
+08-Sep-20,2834,12,615,Chhattisgarh
+08-Sep-20,24,0,31,Dadra and Nagar Haveli and Daman and Diu
+08-Sep-20,0,0,0,Daman and Diu
+08-Sep-20,3609,19,1756,Delhi
+08-Sep-20,457,11,448,Goa
+08-Sep-20,1295,13,1445,Gujarat
+08-Sep-20,2286,25,1704,Haryana
+08-Sep-20,171,4,85,Himachal Pradesh
+08-Sep-20,1355,14,491,Jammu and Kashmir
+08-Sep-20,2676,14,1812,Jharkhand
+08-Sep-20,7866,146,7803,Karnataka
+08-Sep-20,3026,13,1862,Kerala
+08-Sep-20,38,0,77,Ladakh
+08-Sep-20,0,0,0,Lakshadweep
+08-Sep-20,1864,20,1600,Madhya Pradesh
+08-Sep-20,20131,380,13234,Maharashtra
+08-Sep-20,96,1,126,Manipur
+08-Sep-20,42,0,156,Meghalaya
+08-Sep-20,9,0,13,Mizoram
+08-Sep-20,25,0,54,Nagaland
+08-Sep-20,3490,10,2787,Odisha
+08-Sep-20,433,12,446,Puducherry
+08-Sep-20,1964,67,2307,Punjab
+08-Sep-20,1590,13,1445,Rajasthan
+08-Sep-20,19,2,17,Sikkim
+08-Sep-20,0,0,0,State Unassigned
+08-Sep-20,5684,87,6599,Tamil Nadu
+08-Sep-20,2392,11,2346,Telangana
+08-Sep-20,89852,1104,74607,Total
+08-Sep-20,628,3,294,Tripura
+08-Sep-20,6622,71,5439,Uttar Pradesh
+08-Sep-20,658,12,427,Uttarakhand
+08-Sep-20,3091,57,2996,West Bengal
+09-Sep-20,34,1,43,Andaman and Nicobar Islands
+09-Sep-20,10418,74,9842,Andhra Pradesh
+09-Sep-20,144,0,183,Arunachal Pradesh
+09-Sep-20,2243,18,2265,Assam
+09-Sep-20,1498,10,1702,Bihar
+09-Sep-20,332,2,180,Chandigarh
+09-Sep-20,2818,70,1146,Chhattisgarh
+09-Sep-20,19,0,19,Dadra and Nagar Haveli and Daman and Diu
+09-Sep-20,0,0,0,Daman and Diu
+09-Sep-20,4039,20,2623,Delhi
+09-Sep-20,621,6,281,Goa
+09-Sep-20,1329,16,1336,Gujarat
+09-Sep-20,2294,28,1828,Haryana
+09-Sep-20,316,3,142,Himachal Pradesh
+09-Sep-20,1617,17,620,Jammu and Kashmir
+09-Sep-20,1601,16,1297,Jharkhand
+09-Sep-20,9540,128,6860,Karnataka
+09-Sep-20,3402,12,2058,Kerala
+09-Sep-20,40,0,41,Ladakh
+09-Sep-20,0,0,0,Lakshadweep
+09-Sep-20,1869,31,1341,Madhya Pradesh
+09-Sep-20,23577,380,13906,Maharashtra
+09-Sep-20,160,1,64,Manipur
+09-Sep-20,121,2,107,Meghalaya
+09-Sep-20,69,0,5,Mizoram
+09-Sep-20,130,0,48,Nagaland
+09-Sep-20,3748,11,3110,Odisha
+09-Sep-20,335,10,386,Puducherry
+09-Sep-20,2137,71,1231,Punjab
+09-Sep-20,1610,14,1578,Rajasthan
+09-Sep-20,31,0,16,Sikkim
+09-Sep-20,0,0,0,State Unassigned
+09-Sep-20,5584,78,6516,Tamil Nadu
+09-Sep-20,2479,10,2485,Telangana
+09-Sep-20,95529,1168,73057,Total
+09-Sep-20,582,9,311,Tripura
+09-Sep-20,6568,65,5731,Uttar Pradesh
+09-Sep-20,1117,12,789,Uttarakhand
+09-Sep-20,3107,53,2967,West Bengal
+10-Sep-20,39,0,43,Andaman and Nicobar Islands
+10-Sep-20,10175,68,10040,Andhra Pradesh
+10-Sep-20,127,0,99,Arunachal Pradesh
+10-Sep-20,2739,18,2197,Assam
+10-Sep-20,1543,10,1480,Bihar
+10-Sep-20,283,3,191,Chandigarh
+10-Sep-20,2748,16,1917,Chhattisgarh
+10-Sep-20,26,0,24,Dadra and Nagar Haveli and Daman and Diu
+10-Sep-20,0,0,0,Daman and Diu
+10-Sep-20,4308,28,2637,Delhi
+10-Sep-20,639,6,436,Goa
+10-Sep-20,1332,15,1415,Gujarat
+10-Sep-20,2591,25,1562,Haryana
+10-Sep-20,319,3,80,Himachal Pradesh
+10-Sep-20,1592,13,344,Jammu and Kashmir
+10-Sep-20,1182,5,1456,Jharkhand
+10-Sep-20,9217,129,7021,Karnataka
+10-Sep-20,3349,12,1657,Kerala
+10-Sep-20,35,1,37,Ladakh
+10-Sep-20,0,0,0,Lakshadweep
+10-Sep-20,2187,20,1435,Madhya Pradesh
+10-Sep-20,23446,495,14253,Maharashtra
+10-Sep-20,108,4,245,Manipur
+10-Sep-20,99,1,19,Meghalaya
+10-Sep-20,141,0,0,Mizoram
+10-Sep-20,261,0,5,Nagaland
+10-Sep-20,3991,11,2706,Odisha
+10-Sep-20,452,6,422,Puducherry
+10-Sep-20,2459,88,1348,Punjab
+10-Sep-20,1640,14,1032,Rajasthan
+10-Sep-20,20,0,41,Sikkim
+10-Sep-20,0,0,0,State Unassigned
+10-Sep-20,5528,64,6185,Tamil Nadu
+10-Sep-20,2534,11,2071,Telangana
+10-Sep-20,96760,1212,70899,Total
+10-Sep-20,535,6,340,Tripura
+10-Sep-20,6988,94,4605,Uttar Pradesh
+10-Sep-20,1015,5,521,Uttarakhand
+10-Sep-20,3112,41,3035,West Bengal
+11-Sep-20,29,0,36,Andaman and Nicobar Islands
+11-Sep-20,9999,77,11069,Andhra Pradesh
+11-Sep-20,153,1,121,Arunachal Pradesh
+11-Sep-20,2534,16,2628,Assam
+11-Sep-20,1710,12,2187,Bihar
+11-Sep-20,157,3,269,Chandigarh
+11-Sep-20,2963,25,1268,Chhattisgarh
+11-Sep-20,24,0,38,Dadra and Nagar Haveli and Daman and Diu
+11-Sep-20,0,0,0,Daman and Diu
+11-Sep-20,4266,21,2754,Delhi
+11-Sep-20,555,8,473,Goa
+11-Sep-20,1344,16,1240,Gujarat
+11-Sep-20,2388,25,1820,Haryana
+11-Sep-20,318,5,158,Himachal Pradesh
+11-Sep-20,1578,9,474,Jammu and Kashmir
+11-Sep-20,961,15,1213,Jharkhand
+11-Sep-20,9464,130,12545,Karnataka
+11-Sep-20,2988,14,1326,Kerala
+11-Sep-20,51,2,21,Ladakh
+11-Sep-20,0,0,0,Lakshadweep
+11-Sep-20,2240,28,1651,Madhya Pradesh
+11-Sep-20,24886,442,14308,Maharashtra
+11-Sep-20,0,0,0,Manipur
+11-Sep-20,151,4,47,Meghalaya
+11-Sep-20,20,0,40,Mizoram
+11-Sep-20,310,0,10,Nagaland
+11-Sep-20,3996,14,4061,Odisha
+11-Sep-20,490,12,394,Puducherry
+11-Sep-20,2473,63,1402,Punjab
+11-Sep-20,1660,15,1488,Rajasthan
+11-Sep-20,17,4,16,Sikkim
+11-Sep-20,0,0,0,State Unassigned
+11-Sep-20,5519,77,6006,Tamil Nadu
+11-Sep-20,2426,13,2324,Telangana
+11-Sep-20,97397,1200,81246,Total
+11-Sep-20,559,5,262,Tripura
+11-Sep-20,7016,76,5936,Uttar Pradesh
+11-Sep-20,995,11,645,Uttarakhand
+11-Sep-20,3157,57,3016,West Bengal
