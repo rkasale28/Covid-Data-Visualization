@@ -74,6 +74,9 @@ if (resp.status_code == 200):
             date_list = row.index.get_level_values(0).unique().sort_values()
             for d in date_list:
                 date = datetime.strftime(d,'%d-%b-%y')
+                if (item == 'dateymd'):
+                    continue
+
                 new_obj = {
                     'Date' : date,
                     'Confirmed' : row[date]['Confirmed'],

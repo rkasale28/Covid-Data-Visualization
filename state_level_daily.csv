@@ -8501,7 +8501,6 @@ Date,Confirmed,Deceased,Recovered,State_Name
 17-Oct-20,2725,40,3528,Uttar Pradesh
 17-Oct-20,606,95,665,Uttarakhand
 17-Oct-20,3865,61,3183,West Bengal
-17-Oct-20,2020-10-17,2020-10-17,2020-10-17,dateymd
 18-Oct-20,25,0,20,Andaman and Nicobar Islands
 18-Oct-20,3986,23,4591,Andhra Pradesh
 18-Oct-20,57,0,237,Arunachal Pradesh
@@ -8541,7 +8540,6 @@ Date,Confirmed,Deceased,Recovered,State_Name
 18-Oct-20,2486,29,3981,Uttar Pradesh
 18-Oct-20,376,3,162,Uttarakhand
 18-Oct-20,3983,64,3113,West Bengal
-18-Oct-20,2020-10-18,2020-10-18,2020-10-18,dateymd
 19-Oct-20,18,0,24,Andaman and Nicobar Islands
 19-Oct-20,2918,24,4303,Andhra Pradesh
 19-Oct-20,238,0,228,Arunachal Pradesh
@@ -8581,7 +8579,6 @@ Date,Confirmed,Deceased,Recovered,State_Name
 19-Oct-20,1719,27,3093,Uttar Pradesh
 19-Oct-20,336,6,504,Uttarakhand
 19-Oct-20,3992,63,3272,West Bengal
-19-Oct-20,2020-10-18,2020-10-18,2020-10-18,dateymd
 20-Oct-20,15,0,10,Andaman and Nicobar Islands
 20-Oct-20,3503,28,5144,Andhra Pradesh
 20-Oct-20,135,1,255,Arunachal Pradesh
@@ -8621,7 +8618,6 @@ Date,Confirmed,Deceased,Recovered,State_Name
 20-Oct-20,2289,29,3339,Uttar Pradesh
 20-Oct-20,241,13,376,Uttarakhand
 20-Oct-20,4029,61,3382,West Bengal
-20-Oct-20,2020-10-18,2020-10-18,2020-10-18,dateymd
 21-Oct-20,27,0,11,Andaman and Nicobar Islands
 21-Oct-20,3746,27,4739,Andhra Pradesh
 21-Oct-20,134,0,164,Arunachal Pradesh
@@ -8661,7 +8657,6 @@ Date,Confirmed,Deceased,Recovered,State_Name
 21-Oct-20,2321,41,3332,Uttar Pradesh
 21-Oct-20,505,14,770,Uttarakhand
 21-Oct-20,4069,64,3596,West Bengal
-21-Oct-20,2020-10-18,2020-10-18,2020-10-18,dateymd
 22-Oct-20,16,1,24,Andaman and Nicobar Islands
 22-Oct-20,3620,16,3723,Andhra Pradesh
 22-Oct-20,165,1,208,Arunachal Pradesh
@@ -8701,7 +8696,6 @@ Date,Confirmed,Deceased,Recovered,State_Name
 22-Oct-20,2383,35,2581,Uttar Pradesh
 22-Oct-20,402,8,568,Uttarakhand
 22-Oct-20,4157,64,3608,West Bengal
-22-Oct-20,2020-10-18,2020-10-18,2020-10-18,dateymd
 23-Oct-20,23,1,8,Andaman and Nicobar Islands
 23-Oct-20,3765,20,4281,Andhra Pradesh
 23-Oct-20,68,1,206,Arunachal Pradesh
@@ -8741,7 +8735,6 @@ Date,Confirmed,Deceased,Recovered,State_Name
 23-Oct-20,2202,40,3025,Uttar Pradesh
 23-Oct-20,288,11,518,Uttarakhand
 23-Oct-20,4143,60,3676,West Bengal
-23-Oct-20,2020-10-18,2020-10-18,2020-10-18,dateymd
 24-Oct-20,18,0,23,Andaman and Nicobar Islands
 24-Oct-20,3342,22,3572,Andhra Pradesh
 24-Oct-20,66,0,168,Arunachal Pradesh
@@ -8781,7 +8774,6 @@ Date,Confirmed,Deceased,Recovered,State_Name
 24-Oct-20,2178,24,2741,Uttar Pradesh
 24-Oct-20,359,5,451,Uttarakhand
 24-Oct-20,4148,59,3753,West Bengal
-24-Oct-20,2020-10-24,2020-10-24,2020-10-24,dateymd
 25-Oct-20,20,0,15,Andaman and Nicobar Islands
 25-Oct-20,2997,21,3585,Andhra Pradesh
 25-Oct-20,33,0,170,Arunachal Pradesh
@@ -8821,7 +8813,6 @@ Date,Confirmed,Deceased,Recovered,State_Name
 25-Oct-20,2032,28,2368,Uttar Pradesh
 25-Oct-20,221,9,319,Uttarakhand
 25-Oct-20,4127,60,3857,West Bengal
-25-Oct-20,2020-10-25,2020-10-25,2020-10-25,dateymd
 26-Oct-20,8,0,14,Andaman and Nicobar Islands
 26-Oct-20,1901,19,3972,Andhra Pradesh
 26-Oct-20,147,2,231,Arunachal Pradesh
@@ -8861,7 +8852,6 @@ Date,Confirmed,Deceased,Recovered,State_Name
 26-Oct-20,1798,20,2441,Uttar Pradesh
 26-Oct-20,368,8,700,Uttarakhand
 26-Oct-20,4121,59,3889,West Bengal
-26-Oct-20,2020-10-26,2020-10-26,2020-10-26,dateymd
 27-Oct-20,21,0,22,Andaman and Nicobar Islands
 27-Oct-20,2901,19,4352,Andhra Pradesh
 27-Oct-20,81,1,115,Arunachal Pradesh
@@ -8901,7 +8891,6 @@ Date,Confirmed,Deceased,Recovered,State_Name
 27-Oct-20,1986,38,2335,Uttar Pradesh
 27-Oct-20,213,6,422,Uttarakhand
 27-Oct-20,3957,58,3917,West Bengal
-27-Oct-20,2020-10-27,2020-10-27,2020-10-27,dateymd
 28-Oct-20,15,0,20,Andaman and Nicobar Islands
 28-Oct-20,2949,18,3609,Andhra Pradesh
 28-Oct-20,108,0,183,Arunachal Pradesh
@@ -8941,7 +8930,6 @@ Date,Confirmed,Deceased,Recovered,State_Name
 28-Oct-20,1980,18,2742,Uttar Pradesh
 28-Oct-20,304,2,463,Uttarakhand
 28-Oct-20,3924,60,3925,West Bengal
-28-Oct-20,2020-10-28,2020-10-28,2020-10-28,dateymd
 29-Oct-20,16,1,15,Andaman and Nicobar Islands
 29-Oct-20,2905,16,3243,Andhra Pradesh
 29-Oct-20,88,1,143,Arunachal Pradesh
@@ -8981,7 +8969,6 @@ Date,Confirmed,Deceased,Recovered,State_Name
 29-Oct-20,1861,25,2465,Uttar Pradesh
 29-Oct-20,305,0,456,Uttarakhand
 29-Oct-20,3989,61,3945,West Bengal
-29-Oct-20,2020-10-29,2020-10-29,2020-10-29,dateymd
 30-Oct-20,12,0,22,Andaman and Nicobar Islands
 30-Oct-20,2886,17,3623,Andhra Pradesh
 30-Oct-20,84,0,154,Arunachal Pradesh
@@ -9021,7 +9008,6 @@ Date,Confirmed,Deceased,Recovered,State_Name
 30-Oct-20,2187,24,2590,Uttar Pradesh
 30-Oct-20,349,2,242,Uttarakhand
 30-Oct-20,3979,59,4015,West Bengal
-30-Oct-20,2020-10-30,2020-10-30,2020-10-30,dateymd
 31-Oct-20,15,0,24,Andaman and Nicobar Islands
 31-Oct-20,2783,14,3708,Andhra Pradesh
 31-Oct-20,100,0,182,Arunachal Pradesh
@@ -9061,7 +9047,6 @@ Date,Confirmed,Deceased,Recovered,State_Name
 31-Oct-20,1781,18,2426,Uttar Pradesh
 31-Oct-20,413,12,152,Uttarakhand
 31-Oct-20,3993,57,4049,West Bengal
-31-Oct-20,2020-10-31,2020-10-31,2020-10-31,dateymd
 01-Nov-20,8,1,12,Andaman and Nicobar Islands
 01-Nov-20,2618,16,3509,Andhra Pradesh
 01-Nov-20,29,0,114,Arunachal Pradesh
@@ -9101,7 +9086,6 @@ Date,Confirmed,Deceased,Recovered,State_Name
 01-Nov-20,1969,26,2388,Uttar Pradesh
 01-Nov-20,222,4,178,Uttarakhand
 01-Nov-20,3987,59,4053,West Bengal
-01-Nov-20,2020-11-01,2020-11-01,2020-11-01,dateymd
 02-Nov-20,12,0,20,Andaman and Nicobar Islands
 02-Nov-20,1916,13,3033,Andhra Pradesh
 02-Nov-20,117,1,165,Arunachal Pradesh
@@ -9141,7 +9125,6 @@ Date,Confirmed,Deceased,Recovered,State_Name
 02-Nov-20,1777,25,2040,Uttar Pradesh
 02-Nov-20,331,2,441,Uttarakhand
 02-Nov-20,3957,57,4085,West Bengal
-02-Nov-20,2020-11-02,2020-11-02,2020-11-02,dateymd
 03-Nov-20,20,0,21,Andaman and Nicobar Islands
 03-Nov-20,2849,15,3700,Andhra Pradesh
 03-Nov-20,85,4,129,Arunachal Pradesh
@@ -9181,7 +9164,6 @@ Date,Confirmed,Deceased,Recovered,State_Name
 03-Nov-20,1726,13,2210,Uttar Pradesh
 03-Nov-20,316,4,409,Uttarakhand
 03-Nov-20,3981,56,4058,West Bengal
-03-Nov-20,2020-11-03,2020-11-03,2020-11-03,dateymd
 04-Nov-20,17,0,10,Andaman and Nicobar Islands
 04-Nov-20,2477,10,2701,Andhra Pradesh
 04-Nov-20,77,1,105,Arunachal Pradesh
@@ -9221,7 +9203,6 @@ Date,Confirmed,Deceased,Recovered,State_Name
 04-Nov-20,2167,15,2014,Uttar Pradesh
 04-Nov-20,388,5,270,Uttarakhand
 04-Nov-20,3987,55,4129,West Bengal
-04-Nov-20,2020-11-04,2020-11-04,2020-11-04,dateymd
 05-Nov-20,14,0,12,Andaman and Nicobar Islands
 05-Nov-20,2745,13,2292,Andhra Pradesh
 05-Nov-20,84,0,108,Arunachal Pradesh
@@ -9261,7 +9242,6 @@ Date,Confirmed,Deceased,Recovered,State_Name
 05-Nov-20,1852,27,1351,Uttar Pradesh
 05-Nov-20,480,9,602,Uttarakhand
 05-Nov-20,3948,54,4187,West Bengal
-05-Nov-20,2020-11-05,2020-11-05,2020-11-05,dateymd
 06-Nov-20,17,0,19,Andaman and Nicobar Islands
 06-Nov-20,2410,11,2452,Andhra Pradesh
 06-Nov-20,81,0,99,Arunachal Pradesh
@@ -9301,7 +9281,6 @@ Date,Confirmed,Deceased,Recovered,State_Name
 06-Nov-20,2173,24,2167,Uttar Pradesh
 06-Nov-20,473,9,404,Uttarakhand
 06-Nov-20,3942,55,4283,West Bengal
-06-Nov-20,2020-11-06,2020-11-06,2020-11-06,dateymd
 07-Nov-20,21,0,12,Andaman and Nicobar Islands
 07-Nov-20,2367,11,2747,Andhra Pradesh
 07-Nov-20,64,2,106,Arunachal Pradesh
@@ -9341,4 +9320,276 @@ Date,Confirmed,Deceased,Recovered,State_Name
 07-Nov-20,1894,25,2010,Uttar Pradesh
 07-Nov-20,498,7,337,Uttarakhand
 07-Nov-20,3928,58,4339,West Bengal
-07-Nov-20,2020-11-07,2020-11-07,2020-11-07,dateymd
+08-Nov-20,9,0,15,Andaman and Nicobar Islands
+08-Nov-20,2237,12,2256,Andhra Pradesh
+08-Nov-20,47,1,96,Arunachal Pradesh
+08-Nov-20,152,4,395,Assam
+08-Nov-20,801,8,825,Bihar
+08-Nov-20,109,2,46,Chandigarh
+08-Nov-20,1375,13,2257,Chhattisgarh
+08-Nov-20,0,0,7,Dadra and Nagar Haveli and Daman and Diu
+08-Nov-20,0,0,0,Daman and Diu
+08-Nov-20,7745,77,6069,Delhi
+08-Nov-20,149,2,207,Goa
+08-Nov-20,1020,7,819,Gujarat
+08-Nov-20,2380,15,1630,Haryana
+08-Nov-20,674,6,150,Himachal Pradesh
+08-Nov-20,555,5,456,Jammu and Kashmir
+08-Nov-20,203,0,298,Jharkhand
+08-Nov-20,2740,22,2360,Karnataka
+08-Nov-20,5440,24,6853,Kerala
+08-Nov-20,19,4,66,Ladakh
+08-Nov-20,0,0,0,Lakshadweep
+08-Nov-20,891,11,688,Madhya Pradesh
+08-Nov-20,5585,125,8232,Maharashtra
+08-Nov-20,245,3,358,Manipur
+08-Nov-20,155,0,116,Meghalaya
+08-Nov-20,58,0,92,Mizoram
+08-Nov-20,19,1,101,Nagaland
+08-Nov-20,1434,15,1311,Odisha
+08-Nov-20,94,1,135,Puducherry
+08-Nov-20,487,8,396,Punjab
+08-Nov-20,1872,10,1813,Rajasthan
+08-Nov-20,50,2,89,Sikkim
+08-Nov-20,0,0,0,State Unassigned
+08-Nov-20,2334,20,2386,Tamil Nadu
+08-Nov-20,1440,5,1481,Telangana
+08-Nov-20,46707,491,48465,Total
+08-Nov-20,83,1,66,Tripura
+08-Nov-20,2142,26,1858,Uttar Pradesh
+08-Nov-20,243,2,155,Uttarakhand
+08-Nov-20,3920,59,4383,West Bengal
+09-Nov-20,13,0,18,Andaman and Nicobar Islands
+09-Nov-20,1392,11,1549,Andhra Pradesh
+09-Nov-20,48,0,85,Arunachal Pradesh
+09-Nov-20,328,4,508,Assam
+09-Nov-20,865,7,851,Bihar
+09-Nov-20,115,3,86,Chandigarh
+09-Nov-20,1586,17,2709,Chhattisgarh
+09-Nov-20,0,0,3,Dadra and Nagar Haveli and Daman and Diu
+09-Nov-20,0,0,0,Daman and Diu
+09-Nov-20,5023,71,7014,Delhi
+09-Nov-20,144,4,232,Goa
+09-Nov-20,971,5,993,Gujarat
+09-Nov-20,2427,7,2151,Haryana
+09-Nov-20,711,7,228,Himachal Pradesh
+09-Nov-20,460,9,564,Jammu and Kashmir
+09-Nov-20,246,8,458,Jharkhand
+09-Nov-20,1963,19,2686,Karnataka
+09-Nov-20,3593,22,5983,Kerala
+09-Nov-20,125,1,43,Ladakh
+09-Nov-20,0,0,0,Lakshadweep
+09-Nov-20,809,6,681,Madhya Pradesh
+09-Nov-20,3277,85,0,Maharashtra
+09-Nov-20,182,1,187,Manipur
+09-Nov-20,28,1,37,Meghalaya
+09-Nov-20,6,0,19,Mizoram
+09-Nov-20,29,0,73,Nagaland
+09-Nov-20,1219,16,1521,Odisha
+09-Nov-20,62,1,145,Puducherry
+09-Nov-20,554,20,510,Punjab
+09-Nov-20,1859,9,1684,Rajasthan
+09-Nov-20,12,1,16,Sikkim
+09-Nov-20,0,0,0,State Unassigned
+09-Nov-20,2257,18,2308,Tamil Nadu
+09-Nov-20,857,4,1504,Telangana
+09-Nov-20,37119,450,41449,Total
+09-Nov-20,26,2,107,Tripura
+09-Nov-20,1627,25,1895,Uttar Pradesh
+09-Nov-20,398,10,205,Uttarakhand
+09-Nov-20,3907,56,4396,West Bengal
+10-Nov-20,14,0,16,Andaman and Nicobar Islands
+10-Nov-20,1886,12,2151,Andhra Pradesh
+10-Nov-20,97,0,85,Arunachal Pradesh
+10-Nov-20,271,5,629,Assam
+10-Nov-20,798,5,1014,Bihar
+10-Nov-20,90,4,66,Chandigarh
+10-Nov-20,1679,18,2157,Chhattisgarh
+10-Nov-20,1,0,4,Dadra and Nagar Haveli and Daman and Diu
+10-Nov-20,0,0,0,Daman and Diu
+10-Nov-20,7830,83,6157,Delhi
+10-Nov-20,180,4,199,Goa
+10-Nov-20,1049,5,879,Gujarat
+10-Nov-20,2546,16,1826,Haryana
+10-Nov-20,611,12,424,Himachal Pradesh
+10-Nov-20,492,7,635,Jammu and Kashmir
+10-Nov-20,252,5,456,Jharkhand
+10-Nov-20,2362,20,4215,Karnataka
+10-Nov-20,6010,28,6698,Kerala
+10-Nov-20,129,0,55,Ladakh
+10-Nov-20,0,0,0,Lakshadweep
+10-Nov-20,900,8,793,Madhya Pradesh
+10-Nov-20,3791,110,10769,Maharashtra
+10-Nov-20,219,2,275,Manipur
+10-Nov-20,66,0,129,Meghalaya
+10-Nov-20,60,0,47,Mizoram
+10-Nov-20,33,4,82,Nagaland
+10-Nov-20,987,13,1448,Odisha
+10-Nov-20,100,2,113,Puducherry
+10-Nov-20,486,20,362,Punjab
+10-Nov-20,1902,10,1709,Rajasthan
+10-Nov-20,51,1,13,Sikkim
+10-Nov-20,0,0,0,State Unassigned
+10-Nov-20,2146,25,2237,Tamil Nadu
+10-Nov-20,1267,4,1831,Telangana
+10-Nov-20,44724,511,54639,Total
+10-Nov-20,79,0,44,Tripura
+10-Nov-20,2121,30,2201,Uttar Pradesh
+10-Nov-20,328,5,505,Uttarakhand
+10-Nov-20,3891,53,4415,West Bengal
+11-Nov-20,17,0,12,Andaman and Nicobar Islands
+11-Nov-20,1732,14,1761,Andhra Pradesh
+11-Nov-20,76,0,75,Arunachal Pradesh
+11-Nov-20,245,2,837,Assam
+11-Nov-20,702,6,821,Bihar
+11-Nov-20,95,2,57,Chandigarh
+11-Nov-20,1721,25,2195,Chhattisgarh
+11-Nov-20,0,0,2,Dadra and Nagar Haveli and Daman and Diu
+11-Nov-20,0,0,0,Daman and Diu
+11-Nov-20,8593,85,7264,Delhi
+11-Nov-20,109,5,152,Goa
+11-Nov-20,1125,6,1352,Gujarat
+11-Nov-20,2546,23,1829,Haryana
+11-Nov-20,610,9,359,Himachal Pradesh
+11-Nov-20,507,9,433,Jammu and Kashmir
+11-Nov-20,284,3,314,Jharkhand
+11-Nov-20,2584,23,2881,Karnataka
+11-Nov-20,7007,29,7252,Kerala
+11-Nov-20,71,1,60,Ladakh
+11-Nov-20,0,0,0,Lakshadweep
+11-Nov-20,883,13,691,Madhya Pradesh
+11-Nov-20,4907,125,9164,Maharashtra
+11-Nov-20,180,2,164,Manipur
+11-Nov-20,72,0,71,Meghalaya
+11-Nov-20,61,0,4,Mizoram
+11-Nov-20,42,0,90,Nagaland
+11-Nov-20,1220,15,1340,Odisha
+11-Nov-20,114,1,107,Puducherry
+11-Nov-20,699,31,460,Punjab
+11-Nov-20,2080,11,1801,Rajasthan
+11-Nov-20,36,2,48,Sikkim
+11-Nov-20,0,0,0,State Unassigned
+11-Nov-20,2184,28,2210,Tamil Nadu
+11-Nov-20,1196,5,1835,Telangana
+11-Nov-20,48285,550,52704,Total
+11-Nov-20,84,0,49,Tripura
+11-Nov-20,1848,20,2112,Uttar Pradesh
+11-Nov-20,783,6,471,Uttarakhand
+11-Nov-20,3872,49,4431,West Bengal
+12-Nov-20,13,1,15,Andaman and Nicobar Islands
+12-Nov-20,1728,9,1777,Andhra Pradesh
+12-Nov-20,44,1,88,Arunachal Pradesh
+12-Nov-20,202,3,771,Assam
+12-Nov-20,523,5,536,Bihar
+12-Nov-20,109,1,64,Chandigarh
+12-Nov-20,1817,20,1962,Chhattisgarh
+12-Nov-20,3,0,0,Dadra and Nagar Haveli and Daman and Diu
+12-Nov-20,0,0,0,Daman and Diu
+12-Nov-20,7053,104,6462,Delhi
+12-Nov-20,107,0,192,Goa
+12-Nov-20,1120,6,1038,Gujarat
+12-Nov-20,2788,21,2015,Haryana
+12-Nov-20,765,6,199,Himachal Pradesh
+12-Nov-20,617,8,511,Jammu and Kashmir
+12-Nov-20,269,4,606,Jharkhand
+12-Nov-20,2116,21,3368,Karnataka
+12-Nov-20,5537,25,6119,Kerala
+12-Nov-20,77,3,33,Ladakh
+12-Nov-20,0,0,0,Lakshadweep
+12-Nov-20,1046,10,692,Madhya Pradesh
+12-Nov-20,4496,122,7809,Maharashtra
+12-Nov-20,254,5,191,Manipur
+12-Nov-20,144,4,56,Meghalaya
+12-Nov-20,25,0,51,Mizoram
+12-Nov-20,37,0,88,Nagaland
+12-Nov-20,986,14,1264,Odisha
+12-Nov-20,65,2,69,Puducherry
+12-Nov-20,685,23,469,Punjab
+12-Nov-20,2176,13,1804,Rajasthan
+12-Nov-20,25,3,48,Sikkim
+12-Nov-20,0,0,0,State Unassigned
+12-Nov-20,2112,25,2347,Tamil Nadu
+12-Nov-20,1015,3,1716,Telangana
+12-Nov-20,44585,544,49354,Total
+12-Nov-20,59,0,150,Tripura
+12-Nov-20,2265,21,1859,Uttar Pradesh
+12-Nov-20,451,7,532,Uttarakhand
+12-Nov-20,3856,54,4453,West Bengal
+13-Nov-20,11,0,22,Andaman and Nicobar Islands
+13-Nov-20,1593,10,2178,Andhra Pradesh
+13-Nov-20,57,0,105,Arunachal Pradesh
+13-Nov-20,233,1,642,Assam
+13-Nov-20,581,7,870,Bihar
+13-Nov-20,93,2,84,Chandigarh
+13-Nov-20,1548,18,2370,Chhattisgarh
+13-Nov-20,3,0,3,Dadra and Nagar Haveli and Daman and Diu
+13-Nov-20,0,0,0,Daman and Diu
+13-Nov-20,7802,91,6498,Delhi
+13-Nov-20,156,2,167,Goa
+13-Nov-20,1152,6,1078,Gujarat
+13-Nov-20,2688,27,2115,Haryana
+13-Nov-20,825,11,239,Himachal Pradesh
+13-Nov-20,626,8,551,Jammu and Kashmir
+13-Nov-20,288,4,661,Jharkhand
+13-Nov-20,2016,17,3443,Karnataka
+13-Nov-20,5804,25,6201,Kerala
+13-Nov-20,80,0,62,Ladakh
+13-Nov-20,0,0,0,Lakshadweep
+13-Nov-20,1048,11,833,Madhya Pradesh
+13-Nov-20,4132,127,4543,Maharashtra
+13-Nov-20,214,6,255,Manipur
+13-Nov-20,70,0,87,Meghalaya
+13-Nov-20,67,0,53,Mizoram
+13-Nov-20,23,2,81,Nagaland
+13-Nov-20,1018,12,1504,Odisha
+13-Nov-20,73,1,70,Puducherry
+13-Nov-20,736,16,388,Punjab
+13-Nov-20,2144,12,1827,Rajasthan
+13-Nov-20,47,1,17,Sikkim
+13-Nov-20,0,0,0,State Unassigned
+13-Nov-20,1939,14,2572,Tamil Nadu
+13-Nov-20,997,4,1222,Telangana
+13-Nov-20,44620,516,47620,Total
+13-Nov-20,76,1,106,Tripura
+13-Nov-20,2178,25,2005,Uttar Pradesh
+13-Nov-20,467,4,300,Uttarakhand
+13-Nov-20,3835,51,4468,West Bengal
+14-Nov-20,9,0,11,Andaman and Nicobar Islands
+14-Nov-20,1657,7,2155,Andhra Pradesh
+14-Nov-20,34,1,102,Arunachal Pradesh
+14-Nov-20,107,3,529,Assam
+14-Nov-20,588,5,422,Bihar
+14-Nov-20,0,0,0,Chandigarh
+14-Nov-20,716,17,645,Chhattisgarh
+14-Nov-20,4,0,3,Dadra and Nagar Haveli and Daman and Diu
+14-Nov-20,0,0,0,Daman and Diu
+14-Nov-20,7340,96,7117,Delhi
+14-Nov-20,84,1,145,Goa
+14-Nov-20,1124,6,995,Gujarat
+14-Nov-20,2118,5,1988,Haryana
+14-Nov-20,322,8,337,Himachal Pradesh
+14-Nov-20,565,6,476,Jammu and Kashmir
+14-Nov-20,154,1,328,Jharkhand
+14-Nov-20,2154,17,2198,Karnataka
+14-Nov-20,6357,26,6793,Kerala
+14-Nov-20,65,0,76,Ladakh
+14-Nov-20,0,0,0,Lakshadweep
+14-Nov-20,1012,7,876,Madhya Pradesh
+14-Nov-20,4237,105,2707,Maharashtra
+14-Nov-20,211,5,190,Manipur
+14-Nov-20,51,2,63,Meghalaya
+14-Nov-20,59,1,28,Mizoram
+14-Nov-20,112,0,30,Nagaland
+14-Nov-20,902,15,1271,Odisha
+14-Nov-20,47,0,66,Puducherry
+14-Nov-20,0,0,0,Punjab
+14-Nov-20,2162,12,1754,Rajasthan
+14-Nov-20,41,1,37,Sikkim
+14-Nov-20,0,0,0,State Unassigned
+14-Nov-20,1912,12,2494,Tamil Nadu
+14-Nov-20,1050,4,1736,Telangana
+14-Nov-20,41692,450,42317,Total
+14-Nov-20,78,2,100,Tripura
+14-Nov-20,2301,27,2002,Uttar Pradesh
+14-Nov-20,296,5,164,Uttarakhand
+14-Nov-20,3823,53,4479,West Bengal
