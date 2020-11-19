@@ -270,3 +270,37 @@ def getStateTestData(testData, select):
     modified_data = modified_data.rename(columns = {'total_tested':'Tested'})
     modified_data[modified_data['Tested']<0] = 0
     return modified_data
+
+@st.cache(persist=True)
+def get_percentage_data(data,states):
+    df = pd.DataFrame(columns=['Active','Confirmed','Deceased','Recovered'])
+
+    for state in states:
+        df = df.append(get_aggregated_data(data,state))
+
+    df = df[df['Confirmed']!=0]
+    for i in df:
+        df[i]  =df[i].astype(float)
+
+    df['Active Rate'] = (df['Active']/df['Confirmed'])
+    df['Death Rate'] = (df['Deceased']/df['Confirmed'])
+    df['Recovery Rate'] = (df['Recovered']/df['Confirmed'])
+    df = df[['Active Rate','Death Rate','Recovery Rate']]
+    return df
+
+@st.cache(persist=True, allow_output_mutation=True)
+def showGraph(percentage_data,rate,select):
+    percentage_data = percentage_data[[rate]]
+    percentage_data[rate] = percentage_data[rate] * 100
+    percentage_data = percentage_data.round(2)
+    if (select=='Values'):
+        percentage_data = percentage_data.sort_values(rate)
+
+    fig = go.Figure()
+    fig.add_trace(go.Bar(x=percentage_data.index, y=percentage_data[rate]))
+    fig.update_layout(
+        autosize=False,
+        width=800,
+        height=650
+    )
+    return fig

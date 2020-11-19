@@ -3,7 +3,7 @@ import plotly.graph_objects as go
 from datetime import datetime
 import numpy as np
 import pandas as pd
-from controller import load_data, get_states, get_districts, get_state_data, get_aggregated_data, addLine, addBar, addPie, addDistrictPie, get_dates, addTestLine, addTestBar, addTestPie, get_aggregated_test_data, sliceData, getStateTestData
+from controller import load_data, get_states, get_districts, get_state_data, get_aggregated_data, addLine, addBar, addPie, addDistrictPie, get_dates, addTestLine, addTestBar, addTestPie, get_aggregated_test_data, sliceData, getStateTestData, get_percentage_data, showGraph
 
 st.title("Covid Data Visualization")
 st.sidebar.title("Covid Data Visualization")
@@ -115,6 +115,23 @@ if (st.sidebar.checkbox("Show Data",False,key=7)):
 states = get_states(data)
 
 # Part 4
+st.sidebar.subheader("State-wise Breakdown (Percentage)")
+st.subheader("State-wise Breakdown (Percentage)")
+
+modified_data = get_percentage_data(data,states)
+rates = ['Active Rate','Death Rate','Recovery Rate']
+
+select = st.sidebar.selectbox('Sort by', ['State Name', 'Values'], key=48)
+
+for rate in rates:
+    st.markdown("#### "+ rate)
+    st.plotly_chart(showGraph(modified_data,rate,select))
+
+if (st.sidebar.checkbox("Show Percentage Data",False,key=49)):
+    modified_data = modified_data.style.format("{:.2%}")
+    st.dataframe(modified_data, width=600, height=300)
+
+# Part 5
 st.sidebar.subheader("State-wise breakdown")
 
 active = st.sidebar.checkbox('Show Active',True,key=8)
@@ -146,7 +163,7 @@ if (decision):
     modified_data = pd.merge(modified_data,modified_test_data,how="outer",left_index=True,right_index=True)
     st.dataframe(modified_data, width=600, height=300)
 
-# Part 5
+# Part 6
 st.sidebar.subheader("Compare States")
 select = st.sidebar.selectbox('Visualization type', ['Line Graph', 'Bar Plot', 'Pie Chart'], key=14)
 choice = st.sidebar.multiselect('Select States: ',states)
@@ -211,11 +228,11 @@ if (len(choice)>0):
                 s = temporary_data['Tested'].sum()
                 modified_test_data = modified_test_data.append(pd.DataFrame([[select,s]],columns=['State_Name','Tested']))
             modified_test_data = modified_test_data.set_index('State_Name')
-            
+
             modified_data = pd.merge(modified_data,modified_test_data,how="outer",left_index=True,right_index=True)
             st.dataframe(modified_data, width=600, height=300)
 
-# Part 6
+# Part 7
 st.markdown("## State Level: ")
 st.sidebar.subheader("State Level: ")
 select = st.sidebar.selectbox('Select State', states, key=23)
@@ -259,7 +276,7 @@ if (st.sidebar.checkbox("Show Data",False,key=27)):
     modified_data = modified_data.drop(columns='State_Name')
     st.dataframe(modified_data, width=600, height=300)
 
-# Part 7
+# Part 8
 st.subheader("Test Data")
 st.sidebar.subheader("Test Data")
 
@@ -292,7 +309,7 @@ st.plotly_chart(fig)
 if (st.sidebar.checkbox("Show Data",False,key=30)):
     st.dataframe(modified_data, width=600, height=300)
 
-#Part 8
+#Part 9
 st.subheader("Cumulative Updates")
 st.sidebar.subheader("Cumulative Updates")
 dt1, dt2 = get_dates(data)
@@ -331,7 +348,7 @@ st.plotly_chart(fig)
 if (st.sidebar.checkbox("Show Data",False,key=34)):
     st.dataframe(modified_data, width=600, height=300)
 
-# Part 9
+# Part 10
 st.subheader("Breakdown")
 st.sidebar.subheader("Breakdown")
 modified_data = get_aggregated_data(data,select)
@@ -345,7 +362,7 @@ else:
 if (st.sidebar.checkbox("Show Data",False,key=35)):
     st.dataframe(modified_data.to_frame().T, width=600, height=300)
 
-# Part 10
+# Part 11
 st.sidebar.subheader("District-wise breakdown")
 active = st.sidebar.checkbox('Show Active',True,key=36)
 confirmed = st.sidebar.checkbox('Show Confirmed',False,key=37)
@@ -374,7 +391,7 @@ if (decision):
     modified_data = modified_data.set_index('District_Name')
     st.dataframe(modified_data, width=600, height=300)
 
-# Part 11
+# Part 12
 st.sidebar.subheader("Compare Districts")
 choice = st.sidebar.multiselect('Select Districts: ',districts)
 
@@ -405,7 +422,7 @@ if (len(choice)>0):
         modified_data = modified_data.set_index('District_Name')
         st.dataframe(modified_data, width=600, height=300)
 
-# Part 12
+# Part 13
 st.markdown("## District Level: ")
 st.sidebar.subheader("District Level: ")
 districts = get_districts(districtData)
