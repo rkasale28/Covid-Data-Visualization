@@ -203,7 +203,15 @@ Date,Tested,State_Name
 01-Dec-2020,131080,Andaman and Nicobar Islands
 02-Dec-2020,132784,Andaman and Nicobar Islands
 03-Dec-2020,134355,Andaman and Nicobar Islands
-05-Dec-2020,0,Andaman and Nicobar Islands
+04-Dec-2020,135952,Andaman and Nicobar Islands
+05-Dec-2020,137648,Andaman and Nicobar Islands
+06-Dec-2020,139326,Andaman and Nicobar Islands
+07-Dec-2020,140961,Andaman and Nicobar Islands
+08-Dec-2020,142667,Andaman and Nicobar Islands
+09-Dec-2020,144401,Andaman and Nicobar Islands
+10-Dec-2020,146143,Andaman and Nicobar Islands
+11-Dec-2020,147806,Andaman and Nicobar Islands
+13-Dec-2020,0,Andaman and Nicobar Islands
 02-Apr-2020,1800,Andhra Pradesh
 10-Apr-2020,6374,Andhra Pradesh
 11-Apr-2020,6958,Andhra Pradesh
@@ -443,6 +451,14 @@ Date,Tested,State_Name
 02-Dec-2020,10166696,Andhra Pradesh
 03-Dec-2020,10229745,Andhra Pradesh
 04-Dec-2020,10293151,Andhra Pradesh
+05-Dec-2020,10350283,Andhra Pradesh
+06-Dec-2020,10410612,Andhra Pradesh
+07-Dec-2020,10453618,Andhra Pradesh
+08-Dec-2020,10509805,Andhra Pradesh
+09-Dec-2020,10570843,Andhra Pradesh
+10-Dec-2020,10635197,Andhra Pradesh
+11-Dec-2020,10699622,Andhra Pradesh
+12-Dec-2020,10767117,Andhra Pradesh
 09-Apr-2020,206,Arunachal Pradesh
 14-Apr-2020,280,Arunachal Pradesh
 17-Apr-2020,363,Arunachal Pradesh
@@ -671,6 +687,14 @@ Date,Tested,State_Name
 02-Dec-2020,361250,Arunachal Pradesh
 03-Dec-2020,362267,Arunachal Pradesh
 04-Dec-2020,363062,Arunachal Pradesh
+05-Dec-2020,363953,Arunachal Pradesh
+06-Dec-2020,364420,Arunachal Pradesh
+07-Dec-2020,365286,Arunachal Pradesh
+08-Dec-2020,365935,Arunachal Pradesh
+09-Dec-2020,366530,Arunachal Pradesh
+10-Dec-2020,367306,Arunachal Pradesh
+11-Dec-2020,367980,Arunachal Pradesh
+13-Dec-2020,0,Arunachal Pradesh
 02-Apr-2020,962,Assam
 10-Apr-2020,2863,Assam
 11-Apr-2020,3011,Assam
@@ -892,6 +916,14 @@ Date,Tested,State_Name
 02-Dec-2020,5368608,Assam
 03-Dec-2020,5396616,Assam
 04-Dec-2020,5425067,Assam
+05-Dec-2020,5449083,Assam
+06-Dec-2020,5460597,Assam
+07-Dec-2020,5490072,Assam
+08-Dec-2020,5510027,Assam
+09-Dec-2020,5538923,Assam
+10-Dec-2020,5561572,Assam
+11-Dec-2020,5582574,Assam
+13-Dec-2020,0,Assam
 05-Apr-2020,3037,Bihar
 08-Apr-2020,4596,Bihar
 09-Apr-2020,4991,Bihar
@@ -1133,6 +1165,14 @@ Date,Tested,State_Name
 02-Dec-2020,14921021,Bihar
 03-Dec-2020,15047551,Bihar
 04-Dec-2020,15174056,Bihar
+05-Dec-2020,15302698,Bihar
+06-Dec-2020,15428602,Bihar
+07-Dec-2020,15539015,Bihar
+08-Dec-2020,15664718,Bihar
+09-Dec-2020,15782581,Bihar
+10-Dec-2020,15908787,Bihar
+11-Dec-2020,16033415,Bihar
+12-Dec-2020,16154121,Bihar
 02-Apr-2020,124,Chandigarh
 08-Apr-2020,184,Chandigarh
 10-Apr-2020,223,Chandigarh
@@ -1370,6 +1410,14 @@ Date,Tested,State_Name
 02-Dec-2020,145958,Chandigarh
 03-Dec-2020,147467,Chandigarh
 04-Dec-2020,149019,Chandigarh
+05-Dec-2020,150409,Chandigarh
+06-Dec-2020,151473,Chandigarh
+07-Dec-2020,152801,Chandigarh
+08-Dec-2020,154396,Chandigarh
+09-Dec-2020,155643,Chandigarh
+10-Dec-2020,157056,Chandigarh
+11-Dec-2020,158516,Chandigarh
+12-Dec-2020,159784,Chandigarh
 02-Apr-2020,1232,Chhattisgarh
 10-Apr-2020,3473,Chhattisgarh
 11-Apr-2020,3858,Chhattisgarh
@@ -1603,6 +1651,14 @@ Date,Tested,State_Name
 02-Dec-2020,2631183,Chhattisgarh
 03-Dec-2020,2667761,Chhattisgarh
 04-Dec-2020,2702320,Chhattisgarh
+05-Dec-2020,2735766,Chhattisgarh
+06-Dec-2020,2760290,Chhattisgarh
+07-Dec-2020,2793936,Chhattisgarh
+08-Dec-2020,2828098,Chhattisgarh
+09-Dec-2020,2862281,Chhattisgarh
+10-Dec-2020,2897495,Chhattisgarh
+11-Dec-2020,2932206,Chhattisgarh
+12-Dec-2020,2964566,Chhattisgarh
 09-Apr-2020,80,Dadra and Nagar Haveli and Daman and Diu
 10-Apr-2020,130,Dadra and Nagar Haveli and Daman and Diu
 11-Apr-2020,211,Dadra and Nagar Haveli and Daman and Diu
@@ -2014,6 +2070,14 @@ Date,Tested,State_Name
 02-Dec-2020,6425470,Delhi
 03-Dec-2020,6500700,Delhi
 04-Dec-2020,6585703,Delhi
+05-Dec-2020,6667176,Delhi
+06-Dec-2020,6740712,Delhi
+07-Dec-2020,6793919,Delhi
+08-Dec-2020,6869328,Delhi
+09-Dec-2020,6941407,Delhi
+10-Dec-2020,7005476,Delhi
+11-Dec-2020,7077155,Delhi
+12-Dec-2020,7150568,Delhi
 02-Apr-2020,220,Goa
 09-Apr-2020,344,Goa
 10-Apr-2020,354,Goa
@@ -2248,6 +2312,14 @@ Date,Tested,State_Name
 02-Dec-2020,352922,Goa
 03-Dec-2020,354812,Goa
 04-Dec-2020,356109,Goa
+05-Dec-2020,358202,Goa
+06-Dec-2020,359345,Goa
+07-Dec-2020,360920,Goa
+08-Dec-2020,363062,Goa
+09-Dec-2020,364672,Goa
+10-Dec-2020,366174,Goa
+11-Dec-2020,367818,Goa
+12-Dec-2020,369887,Goa
 08-Apr-2020,4224,Gujarat
 10-Apr-2020,7718,Gujarat
 11-Apr-2020,9763,Gujarat
@@ -2488,6 +2560,14 @@ Date,Tested,State_Name
 02-Dec-2020,7963653,Gujarat
 03-Dec-2020,8033388,Gujarat
 04-Dec-2020,8102712,Gujarat
+05-Dec-2020,8172380,Gujarat
+06-Dec-2020,8241960,Gujarat
+07-Dec-2020,8310558,Gujarat
+08-Dec-2020,8371433,Gujarat
+09-Dec-2020,8432094,Gujarat
+10-Dec-2020,8492641,Gujarat
+11-Dec-2020,8553164,Gujarat
+12-Dec-2020,8613587,Gujarat
 03-Apr-2020,1325,Haryana
 07-Apr-2020,2520,Haryana
 08-Apr-2020,2650,Haryana
@@ -2731,6 +2811,14 @@ Date,Tested,State_Name
 02-Dec-2020,3633138,Haryana
 03-Dec-2020,3669876,Haryana
 04-Dec-2020,3707439,Haryana
+05-Dec-2020,3745080,Haryana
+06-Dec-2020,3782619,Haryana
+07-Dec-2020,3806770,Haryana
+08-Dec-2020,3842153,Haryana
+09-Dec-2020,3871079,Haryana
+10-Dec-2020,3902258,Haryana
+11-Dec-2020,3932100,Haryana
+12-Dec-2020,3959888,Haryana
 10-Apr-2020,900,Himachal Pradesh
 11-Apr-2020,900,Himachal Pradesh
 12-Apr-2020,1113,Himachal Pradesh
@@ -2970,6 +3058,14 @@ Date,Tested,State_Name
 02-Dec-2020,543120,Himachal Pradesh
 03-Dec-2020,551239,Himachal Pradesh
 04-Dec-2020,558531,Himachal Pradesh
+05-Dec-2020,566956,Himachal Pradesh
+06-Dec-2020,571177,Himachal Pradesh
+07-Dec-2020,577386,Himachal Pradesh
+08-Dec-2020,584624,Himachal Pradesh
+09-Dec-2020,591912,Himachal Pradesh
+10-Dec-2020,598201,Himachal Pradesh
+11-Dec-2020,605492,Himachal Pradesh
+12-Dec-2020,611569,Himachal Pradesh
 05-Apr-2020,1551,Jammu and Kashmir
 10-Apr-2020,2961,Jammu and Kashmir
 11-Apr-2020,3206,Jammu and Kashmir
@@ -3210,6 +3306,14 @@ Date,Tested,State_Name
 02-Dec-2020,3064139,Jammu and Kashmir
 03-Dec-2020,3094143,Jammu and Kashmir
 04-Dec-2020,3121260,Jammu and Kashmir
+05-Dec-2020,3148894,Jammu and Kashmir
+06-Dec-2020,3174647,Jammu and Kashmir
+07-Dec-2020,3194883,Jammu and Kashmir
+08-Dec-2020,3218875,Jammu and Kashmir
+09-Dec-2020,3243834,Jammu and Kashmir
+10-Dec-2020,3269517,Jammu and Kashmir
+11-Dec-2020,3294008,Jammu and Kashmir
+12-Dec-2020,3319656,Jammu and Kashmir
 10-Apr-2020,1340,Jharkhand
 11-Apr-2020,1546,Jharkhand
 12-Apr-2020,1683,Jharkhand
@@ -3446,6 +3550,14 @@ Date,Tested,State_Name
 02-Dec-2020,4230863,Jharkhand
 03-Dec-2020,4265795,Jharkhand
 04-Dec-2020,4292594,Jharkhand
+05-Dec-2020,4319581,Jharkhand
+06-Dec-2020,4336774,Jharkhand
+07-Dec-2020,4355970,Jharkhand
+08-Dec-2020,4382789,Jharkhand
+09-Dec-2020,4404165,Jharkhand
+10-Dec-2020,4433006,Jharkhand
+11-Dec-2020,4457546,Jharkhand
+12-Dec-2020,4478351,Jharkhand
 03-Apr-2020,4587,Karnataka
 07-Apr-2020,6580,Karnataka
 08-Apr-2020,6967,Karnataka
@@ -3688,6 +3800,14 @@ Date,Tested,State_Name
 02-Dec-2020,11303158,Karnataka
 03-Dec-2020,11411843,Karnataka
 04-Dec-2020,11509892,Karnataka
+05-Dec-2020,11613924,Karnataka
+06-Dec-2020,11713244,Karnataka
+07-Dec-2020,11789715,Karnataka
+08-Dec-2020,11878413,Karnataka
+09-Dec-2020,11979471,Karnataka
+10-Dec-2020,12063741,Karnataka
+11-Dec-2020,12164587,Karnataka
+12-Dec-2020,12266816,Karnataka
 01-Apr-2020,7965,Kerala
 02-Apr-2020,8456,Kerala
 03-Apr-2020,9139,Kerala
@@ -3936,6 +4056,14 @@ Date,Tested,State_Name
 02-Dec-2020,6378278,Kerala
 03-Dec-2020,6438754,Kerala
 04-Dec-2020,6496210,Kerala
+05-Dec-2020,6556713,Kerala
+06-Dec-2020,6608606,Kerala
+07-Dec-2020,6642364,Kerala
+08-Dec-2020,6702885,Kerala
+09-Dec-2020,6755630,Kerala
+10-Dec-2020,6808399,Kerala
+11-Dec-2020,6861907,Kerala
+12-Dec-2020,6921597,Kerala
 13-Apr-2020,618,Ladakh
 14-Apr-2020,760,Ladakh
 15-Apr-2020,820,Ladakh
@@ -4089,7 +4217,11 @@ Date,Tested,State_Name
 01-Dec-2020,94356,Ladakh
 02-Dec-2020,95168,Ladakh
 03-Dec-2020,95672,Ladakh
-05-Dec-2020,0,Ladakh
+05-Dec-2020,96751,Ladakh
+06-Dec-2020,97308,Ladakh
+08-Dec-2020,99110,Ladakh
+11-Dec-2020,99590,Ladakh
+13-Dec-2020,0,Ladakh
 05-Apr-2020,2812,Madhya Pradesh
 07-Apr-2020,3770,Madhya Pradesh
 08-Apr-2020,4056,Madhya Pradesh
@@ -4333,6 +4465,14 @@ Date,Tested,State_Name
 02-Dec-2020,3809683,Madhya Pradesh
 03-Dec-2020,3840006,Madhya Pradesh
 04-Dec-2020,3869782,Madhya Pradesh
+05-Dec-2020,3899734,Madhya Pradesh
+06-Dec-2020,3932230,Madhya Pradesh
+07-Dec-2020,3961552,Madhya Pradesh
+08-Dec-2020,3991537,Madhya Pradesh
+09-Dec-2020,4021034,Madhya Pradesh
+10-Dec-2020,4052754,Madhya Pradesh
+11-Dec-2020,4082106,Madhya Pradesh
+12-Dec-2020,4111413,Madhya Pradesh
 05-Apr-2020,16008,Maharashtra
 06-Apr-2020,17563,Maharashtra
 07-Apr-2020,20877,Maharashtra
@@ -4573,6 +4713,14 @@ Date,Tested,State_Name
 02-Dec-2020,10989496,Maharashtra
 03-Dec-2020,11059305,Maharashtra
 04-Dec-2020,11132231,Maharashtra
+05-Dec-2020,11205118,Maharashtra
+06-Dec-2020,11273705,Maharashtra
+07-Dec-2020,11318721,Maharashtra
+08-Dec-2020,11377074,Maharashtra
+09-Dec-2020,11447723,Maharashtra
+10-Dec-2020,11502427,Maharashtra
+11-Dec-2020,11570137,Maharashtra
+12-Dec-2020,11638336,Maharashtra
 14-Apr-2020,276,Manipur
 17-Apr-2020,311,Manipur
 24-Apr-2020,402,Manipur
@@ -4747,7 +4895,14 @@ Date,Tested,State_Name
 01-Dec-2020,423035,Manipur
 02-Dec-2020,426119,Manipur
 03-Dec-2020,428199,Manipur
-05-Dec-2020,0,Manipur
+04-Dec-2020,430239,Manipur
+05-Dec-2020,432298,Manipur
+06-Dec-2020,434752,Manipur
+07-Dec-2020,437175,Manipur
+08-Dec-2020,439844,Manipur
+10-Dec-2020,445505,Manipur
+11-Dec-2020,447694,Manipur
+12-Dec-2020,449857,Manipur
 16-Apr-2020,552,Meghalaya
 17-Apr-2020,617,Meghalaya
 18-Apr-2020,738,Meghalaya
@@ -4941,6 +5096,13 @@ Date,Tested,State_Name
 02-Dec-2020,245177,Meghalaya
 03-Dec-2020,247928,Meghalaya
 04-Dec-2020,250430,Meghalaya
+05-Dec-2020,252594,Meghalaya
+07-Dec-2020,256221,Meghalaya
+08-Dec-2020,258439,Meghalaya
+09-Dec-2020,260267,Meghalaya
+10-Dec-2020,261625,Meghalaya
+11-Dec-2020,263433,Meghalaya
+12-Dec-2020,265057,Meghalaya
 06-Apr-2020,58,Mizoram
 07-Apr-2020,58,Mizoram
 08-Apr-2020,74,Mizoram
@@ -5176,6 +5338,14 @@ Date,Tested,State_Name
 02-Dec-2020,152137,Mizoram
 03-Dec-2020,153180,Mizoram
 04-Dec-2020,154157,Mizoram
+05-Dec-2020,155507,Mizoram
+06-Dec-2020,156651,Mizoram
+07-Dec-2020,157292,Mizoram
+08-Dec-2020,158844,Mizoram
+09-Dec-2020,159714,Mizoram
+10-Dec-2020,161036,Mizoram
+11-Dec-2020,162246,Mizoram
+12-Dec-2020,163202,Mizoram
 06-Apr-2020,60,Nagaland
 10-Apr-2020,70,Nagaland
 11-Apr-2020,70,Nagaland
@@ -5413,6 +5583,14 @@ Date,Tested,State_Name
 02-Dec-2020,113727,Nagaland
 03-Dec-2020,113952,Nagaland
 04-Dec-2020,114232,Nagaland
+05-Dec-2020,114417,Nagaland
+06-Dec-2020,114555,Nagaland
+07-Dec-2020,114809,Nagaland
+08-Dec-2020,115224,Nagaland
+09-Dec-2020,115583,Nagaland
+10-Dec-2020,116033,Nagaland
+11-Dec-2020,116359,Nagaland
+12-Dec-2020,116685,Nagaland
 03-Apr-2020,1395,Odisha
 07-Apr-2020,2441,Odisha
 08-Apr-2020,2441,Odisha
@@ -5656,6 +5834,14 @@ Date,Tested,State_Name
 02-Dec-2020,5977970,Odisha
 03-Dec-2020,6019855,Odisha
 04-Dec-2020,6060791,Odisha
+05-Dec-2020,6102651,Odisha
+06-Dec-2020,6143761,Odisha
+07-Dec-2020,6181992,Odisha
+08-Dec-2020,6214174,Odisha
+09-Dec-2020,6250593,Odisha
+10-Dec-2020,6281162,Odisha
+11-Dec-2020,6312707,Odisha
+12-Dec-2020,6345705,Odisha
 18-Apr-2020,1207,Puducherry
 19-Apr-2020,1245,Puducherry
 20-Apr-2020,1272,Puducherry
@@ -5886,6 +6072,14 @@ Date,Tested,State_Name
 02-Dec-2020,412072,Puducherry
 03-Dec-2020,414952,Puducherry
 04-Dec-2020,417259,Puducherry
+05-Dec-2020,419060,Puducherry
+06-Dec-2020,421165,Puducherry
+07-Dec-2020,422816,Puducherry
+08-Dec-2020,425700,Puducherry
+09-Dec-2020,428947,Puducherry
+10-Dec-2020,430517,Puducherry
+11-Dec-2020,431982,Puducherry
+13-Dec-2020,0,Puducherry
 02-Apr-2020,1434,Punjab
 08-Apr-2020,2937,Punjab
 09-Apr-2020,3192,Punjab
@@ -6128,6 +6322,14 @@ Date,Tested,State_Name
 02-Dec-2020,3237858,Punjab
 03-Dec-2020,3265505,Punjab
 04-Dec-2020,3295141,Punjab
+05-Dec-2020,3324621,Punjab
+06-Dec-2020,3352671,Punjab
+07-Dec-2020,3365119,Punjab
+08-Dec-2020,3395729,Punjab
+09-Dec-2020,3423632,Punjab
+10-Dec-2020,3442386,Punjab
+11-Dec-2020,3468629,Punjab
+12-Dec-2020,3494393,Punjab
 05-Apr-2020,12279,Rajasthan
 07-Apr-2020,17638,Rajasthan
 08-Apr-2020,17638,Rajasthan
@@ -6371,6 +6573,14 @@ Date,Tested,State_Name
 02-Dec-2020,4472909,Rajasthan
 03-Dec-2020,4512399,Rajasthan
 04-Dec-2020,4549574,Rajasthan
+05-Dec-2020,4586151,Rajasthan
+06-Dec-2020,4617606,Rajasthan
+07-Dec-2020,4630233,Rajasthan
+08-Dec-2020,4664755,Rajasthan
+09-Dec-2020,4694145,Rajasthan
+10-Dec-2020,4724809,Rajasthan
+11-Dec-2020,4752183,Rajasthan
+12-Dec-2020,4778273,Rajasthan
 04-May-2020,170,Sikkim
 05-May-2020,181,Sikkim
 06-May-2020,189,Sikkim
@@ -6577,6 +6787,13 @@ Date,Tested,State_Name
 02-Dec-2020,63147,Sikkim
 03-Dec-2020,63338,Sikkim
 04-Dec-2020,63607,Sikkim
+05-Dec-2020,63780,Sikkim
+06-Dec-2020,63986,Sikkim
+07-Dec-2020,64029,Sikkim
+08-Dec-2020,64280,Sikkim
+09-Dec-2020,64544,Sikkim
+10-Dec-2020,64836,Sikkim
+12-Dec-2020,0,Sikkim
 03-Apr-2020,3684,Tamil Nadu
 08-Apr-2020,5305,Tamil Nadu
 09-Apr-2020,7267,Tamil Nadu
@@ -6819,6 +7036,14 @@ Date,Tested,State_Name
 02-Dec-2020,12193913,Tamil Nadu
 03-Dec-2020,12264069,Tamil Nadu
 04-Dec-2020,12334447,Tamil Nadu
+05-Dec-2020,12405328,Tamil Nadu
+06-Dec-2020,12476093,Tamil Nadu
+07-Dec-2020,12540103,Tamil Nadu
+08-Dec-2020,12605289,Tamil Nadu
+09-Dec-2020,12675551,Tamil Nadu
+10-Dec-2020,12744479,Tamil Nadu
+11-Dec-2020,12814915,Tamil Nadu
+12-Dec-2020,12887037,Tamil Nadu
 19-Apr-2020,14962,Telangana
 28-Apr-2020,19063,Telangana
 29-Apr-2020,19278,Telangana
@@ -6994,6 +7219,13 @@ Date,Tested,State_Name
 03-Dec-2020,5605306,Telangana
 04-Dec-2020,5662711,Telangana
 05-Dec-2020,5722182,Telangana
+06-Dec-2020,5779490,Telangana
+07-Dec-2020,5812588,Telangana
+08-Dec-2020,5868233,Telangana
+09-Dec-2020,5919635,Telangana
+10-Dec-2020,5973031,Telangana
+11-Dec-2020,6029209,Telangana
+12-Dec-2020,6081517,Telangana
 11-Apr-2020,337,Tripura
 15-Apr-2020,738,Tripura
 16-Apr-2020,762,Tripura
@@ -7216,6 +7448,13 @@ Date,Tested,State_Name
 03-Dec-2020,533103,Tripura
 04-Dec-2020,535379,Tripura
 05-Dec-2020,537733,Tripura
+06-Dec-2020,540088,Tripura
+07-Dec-2020,541546,Tripura
+08-Dec-2020,543721,Tripura
+09-Dec-2020,545848,Tripura
+10-Dec-2020,548028,Tripura
+11-Dec-2020,550158,Tripura
+12-Dec-2020,551648,Tripura
 05-Apr-2020,5255,Uttar Pradesh
 05-Apr-2020,5255,Uttar Pradesh
 09-Apr-2020,8402,Uttar Pradesh
@@ -7457,6 +7696,14 @@ Date,Tested,State_Name
 02-Dec-2020,19618283,Uttar Pradesh
 03-Dec-2020,19788497,Uttar Pradesh
 04-Dec-2020,19960393,Uttar Pradesh
+05-Dec-2020,20128312,Uttar Pradesh
+06-Dec-2020,20308636,Uttar Pradesh
+07-Dec-2020,20453616,Uttar Pradesh
+08-Dec-2020,20621452,Uttar Pradesh
+09-Dec-2020,20766011,Uttar Pradesh
+10-Dec-2020,20934735,Uttar Pradesh
+11-Dec-2020,21103633,Uttar Pradesh
+12-Dec-2020,21258877,Uttar Pradesh
 02-Apr-2020,678,Uttarakhand
 07-Apr-2020,1289,Uttarakhand
 09-Apr-2020,1531,Uttarakhand
@@ -7699,6 +7946,14 @@ Date,Tested,State_Name
 02-Dec-2020,1367575,Uttarakhand
 03-Dec-2020,1380312,Uttarakhand
 04-Dec-2020,1396331,Uttarakhand
+05-Dec-2020,1409056,Uttarakhand
+06-Dec-2020,1424389,Uttarakhand
+07-Dec-2020,1437538,Uttarakhand
+08-Dec-2020,1453671,Uttarakhand
+09-Dec-2020,1464857,Uttarakhand
+10-Dec-2020,1475936,Uttarakhand
+11-Dec-2020,1489651,Uttarakhand
+12-Dec-2020,1503731,Uttarakhand
 01-Apr-2020,659,West Bengal
 04-Apr-2020,1042,West Bengal
 06-Apr-2020,1301,West Bengal
@@ -7943,3 +8198,11 @@ Date,Tested,State_Name
 02-Dec-2020,5958798,West Bengal
 03-Dec-2020,6002928,West Bengal
 04-Dec-2020,6047279,West Bengal
+05-Dec-2020,6091668,West Bengal
+06-Dec-2020,6135854,West Bengal
+07-Dec-2020,6167307,West Bengal
+08-Dec-2020,6211537,West Bengal
+09-Dec-2020,6255888,West Bengal
+10-Dec-2020,6298040,West Bengal
+11-Dec-2020,6340171,West Bengal
+12-Dec-2020,6382278,West Bengal
