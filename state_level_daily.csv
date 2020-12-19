@@ -10646,3 +10646,276 @@ Date,Confirmed,Deceased,Recovered,State_Name
 11-Dec-20,1561,14,1875,Uttar Pradesh
 11-Dec-20,725,9,508,Uttarakhand
 11-Dec-20,2753,50,2873,West Bengal
+12-Dec-20,7,0,6,Andaman and Nicobar Islands
+12-Dec-20,510,3,665,Andhra Pradesh
+12-Dec-20,7,0,17,Arunachal Pradesh
+12-Dec-20,152,0,118,Assam
+12-Dec-20,596,5,575,Bihar
+12-Dec-20,70,1,92,Chandigarh
+12-Dec-20,1632,16,1322,Chhattisgarh
+12-Dec-20,0,0,2,Dadra and Nagar Haveli and Daman and Diu
+12-Dec-20,0,0,0,Daman and Diu
+12-Dec-20,1935,47,3191,Delhi
+12-Dec-20,70,2,144,Goa
+12-Dec-20,1204,12,1338,Gujarat
+12-Dec-20,1008,11,1365,Haryana
+12-Dec-20,597,10,737,Himachal Pradesh
+12-Dec-20,419,7,430,Jammu and Kashmir
+12-Dec-20,189,0,273,Jharkhand
+12-Dec-20,1203,11,1531,Karnataka
+12-Dec-20,5949,32,5268,Kerala
+12-Dec-20,26,0,60,Ladakh
+12-Dec-20,0,0,0,Lakshadweep
+12-Dec-20,1282,9,1418,Madhya Pradesh
+12-Dec-20,4259,80,3949,Maharashtra
+12-Dec-20,177,2,116,Manipur
+12-Dec-20,98,1,50,Meghalaya
+12-Dec-20,17,0,16,Mizoram
+12-Dec-20,42,0,64,Nagaland
+12-Dec-20,335,4,405,Odisha
+12-Dec-20,38,0,59,Puducherry
+12-Dec-20,480,21,654,Punjab
+12-Dec-20,1307,14,2193,Rajasthan
+12-Dec-20,26,0,24,Sikkim
+12-Dec-20,0,0,0,State Unassigned
+12-Dec-20,1218,13,1296,Tamil Nadu
+12-Dec-20,635,4,565,Telangana
+12-Dec-20,30354,391,33087,Total
+12-Dec-20,18,1,35,Tripura
+12-Dec-20,1410,31,1761,Uttar Pradesh
+12-Dec-20,728,10,435,Uttarakhand
+12-Dec-20,2710,44,2913,West Bengal
+13-Dec-20,13,0,8,Andaman and Nicobar Islands
+13-Dec-20,506,5,613,Andhra Pradesh
+13-Dec-20,9,0,26,Arunachal Pradesh
+13-Dec-20,73,2,117,Assam
+13-Dec-20,500,4,548,Bihar
+13-Dec-20,66,1,114,Chandigarh
+13-Dec-20,1259,13,816,Chhattisgarh
+13-Dec-20,0,0,0,Dadra and Nagar Haveli and Daman and Diu
+13-Dec-20,0,0,0,Daman and Diu
+13-Dec-20,1984,33,2539,Delhi
+13-Dec-20,57,1,101,Goa
+13-Dec-20,1175,11,1347,Gujarat
+13-Dec-20,990,7,1426,Haryana
+13-Dec-20,424,8,740,Himachal Pradesh
+13-Dec-20,382,6,505,Jammu and Kashmir
+13-Dec-20,144,4,179,Jharkhand
+13-Dec-20,1196,5,2036,Karnataka
+13-Dec-20,4698,29,5258,Kerala
+13-Dec-20,17,0,131,Ladakh
+13-Dec-20,0,0,0,Lakshadweep
+13-Dec-20,1181,13,1278,Madhya Pradesh
+13-Dec-20,3717,70,3083,Maharashtra
+13-Dec-20,119,0,102,Manipur
+13-Dec-20,123,3,31,Meghalaya
+13-Dec-20,11,0,8,Mizoram
+13-Dec-20,33,0,7,Nagaland
+13-Dec-20,393,5,386,Odisha
+13-Dec-20,48,0,57,Puducherry
+13-Dec-20,621,20,616,Punjab
+13-Dec-20,1290,14,1468,Rajasthan
+13-Dec-20,22,0,30,Sikkim
+13-Dec-20,0,0,0,State Unassigned
+13-Dec-20,1195,12,1276,Tamil Nadu
+13-Dec-20,573,4,609,Telangana
+13-Dec-20,27336,338,30640,Total
+13-Dec-20,23,1,25,Tripura
+13-Dec-20,1424,16,1770,Uttar Pradesh
+13-Dec-20,490,4,396,Uttarakhand
+13-Dec-20,2580,47,2994,West Bengal
+14-Dec-20,16,0,8,Andaman and Nicobar Islands
+14-Dec-20,305,2,541,Andhra Pradesh
+14-Dec-20,23,0,37,Arunachal Pradesh
+14-Dec-20,146,1,125,Assam
+14-Dec-20,425,4,635,Bihar
+14-Dec-20,76,1,127,Chandigarh
+14-Dec-20,1615,19,1735,Chhattisgarh
+14-Dec-20,0,0,1,Dadra and Nagar Haveli and Daman and Diu
+14-Dec-20,0,0,0,Daman and Diu
+14-Dec-20,1376,60,2854,Delhi
+14-Dec-20,112,1,147,Goa
+14-Dec-20,1120,11,1389,Gujarat
+14-Dec-20,993,16,1744,Haryana
+14-Dec-20,386,12,676,Himachal Pradesh
+14-Dec-20,246,3,387,Jammu and Kashmir
+14-Dec-20,212,1,201,Jharkhand
+14-Dec-20,830,10,2164,Karnataka
+14-Dec-20,2707,24,4481,Kerala
+14-Dec-20,11,0,46,Ladakh
+14-Dec-20,0,0,0,Lakshadweep
+14-Dec-20,1058,8,1084,Madhya Pradesh
+14-Dec-20,2949,60,4610,Maharashtra
+14-Dec-20,54,2,980,Manipur
+14-Dec-20,75,2,50,Meghalaya
+14-Dec-20,5,0,25,Mizoram
+14-Dec-20,19,1,56,Nagaland
+14-Dec-20,332,4,389,Odisha
+14-Dec-20,21,1,50,Puducherry
+14-Dec-20,459,21,633,Punjab
+14-Dec-20,1250,13,1666,Rajasthan
+14-Dec-20,2,0,55,Sikkim
+14-Dec-20,0,0,0,State Unassigned
+14-Dec-20,1141,14,1203,Tamil Nadu
+14-Dec-20,384,3,631,Telangana
+14-Dec-20,21941,354,34421,Total
+14-Dec-20,10,0,32,Tripura
+14-Dec-20,1172,11,1972,Uttar Pradesh
+14-Dec-20,577,6,707,Uttarakhand
+14-Dec-20,1834,43,2980,West Bengal
+15-Dec-20,8,0,7,Andaman and Nicobar Islands
+15-Dec-20,500,5,563,Andhra Pradesh
+15-Dec-20,17,0,21,Arunachal Pradesh
+15-Dec-20,142,1,102,Assam
+15-Dec-20,572,4,624,Bihar
+15-Dec-20,62,2,139,Chandigarh
+15-Dec-20,1605,19,2880,Chhattisgarh
+15-Dec-20,0,0,0,Dadra and Nagar Haveli and Daman and Diu
+15-Dec-20,0,0,0,Daman and Diu
+15-Dec-20,1617,41,2343,Delhi
+15-Dec-20,92,3,124,Goa
+15-Dec-20,1110,11,1236,Gujarat
+15-Dec-20,822,18,1680,Haryana
+15-Dec-20,435,11,577,Himachal Pradesh
+15-Dec-20,346,10,460,Jammu and Kashmir
+15-Dec-20,209,1,211,Jharkhand
+15-Dec-20,1185,11,1594,Karnataka
+15-Dec-20,5218,33,5066,Kerala
+15-Dec-20,51,0,40,Ladakh
+15-Dec-20,0,0,0,Lakshadweep
+15-Dec-20,1073,13,1347,Madhya Pradesh
+15-Dec-20,3442,70,4395,Maharashtra
+15-Dec-20,83,3,141,Manipur
+15-Dec-20,66,1,128,Meghalaya
+15-Dec-20,9,0,24,Mizoram
+15-Dec-20,33,0,31,Nagaland
+15-Dec-20,300,4,392,Odisha
+15-Dec-20,37,1,47,Puducherry
+15-Dec-20,394,19,754,Punjab
+15-Dec-20,1045,13,1722,Rajasthan
+15-Dec-20,25,1,33,Sikkim
+15-Dec-20,0,0,0,State Unassigned
+15-Dec-20,1132,10,1210,Tamil Nadu
+15-Dec-20,491,3,596,Telangana
+15-Dec-20,26251,384,33853,Total
+15-Dec-20,9,0,25,Tripura
+15-Dec-20,1336,20,1852,Uttar Pradesh
+15-Dec-20,496,11,524,Uttarakhand
+15-Dec-20,2289,45,2965,West Bengal
+16-Dec-20,8,0,10,Andaman and Nicobar Islands
+16-Dec-20,478,3,715,Andhra Pradesh
+16-Dec-20,21,0,14,Arunachal Pradesh
+16-Dec-20,97,3,90,Assam
+16-Dec-20,565,3,466,Bihar
+16-Dec-20,67,0,75,Chandigarh
+16-Dec-20,1661,10,1820,Chhattisgarh
+16-Dec-20,1,0,4,Dadra and Nagar Haveli and Daman and Diu
+16-Dec-20,0,0,0,Daman and Diu
+16-Dec-20,1547,32,2734,Delhi
+16-Dec-20,91,3,104,Goa
+16-Dec-20,1160,10,1384,Gujarat
+16-Dec-20,807,14,1452,Haryana
+16-Dec-20,484,12,1046,Himachal Pradesh
+16-Dec-20,332,5,415,Jammu and Kashmir
+16-Dec-20,190,3,180,Jharkhand
+16-Dec-20,1240,6,1403,Karnataka
+16-Dec-20,6185,27,5728,Kerala
+16-Dec-20,21,0,110,Ladakh
+16-Dec-20,0,0,0,Lakshadweep
+16-Dec-20,1079,8,1257,Madhya Pradesh
+16-Dec-20,-5914,95,3887,Maharashtra
+16-Dec-20,81,2,227,Manipur
+16-Dec-20,65,2,66,Meghalaya
+16-Dec-20,31,0,13,Mizoram
+16-Dec-20,26,1,23,Nagaland
+16-Dec-20,407,5,358,Odisha
+16-Dec-20,32,1,28,Puducherry
+16-Dec-20,330,18,573,Punjab
+16-Dec-20,1247,10,2237,Rajasthan
+16-Dec-20,33,2,19,Sikkim
+16-Dec-20,0,0,0,State Unassigned
+16-Dec-20,1181,12,1240,Tamil Nadu
+16-Dec-20,536,3,622,Telangana
+16-Dec-20,18172,356,33360,Total
+16-Dec-20,24,2,30,Tripura
+16-Dec-20,1199,15,1765,Uttar Pradesh
+16-Dec-20,567,3,498,Uttarakhand
+16-Dec-20,2293,46,2767,West Bengal
+17-Dec-20,10,0,9,Andaman and Nicobar Islands
+17-Dec-20,534,2,498,Andhra Pradesh
+17-Dec-20,29,0,12,Arunachal Pradesh
+17-Dec-20,106,3,124,Assam
+17-Dec-20,588,5,495,Bihar
+17-Dec-20,62,0,105,Chandigarh
+17-Dec-20,1584,11,1634,Chhattisgarh
+17-Dec-20,1,0,2,Dadra and Nagar Haveli and Daman and Diu
+17-Dec-20,0,0,0,Daman and Diu
+17-Dec-20,1363,35,2391,Delhi
+17-Dec-20,88,3,89,Goa
+17-Dec-20,1115,8,1305,Gujarat
+17-Dec-20,714,17,1257,Haryana
+17-Dec-20,463,10,532,Himachal Pradesh
+17-Dec-20,385,9,395,Jammu and Kashmir
+17-Dec-20,211,3,164,Jharkhand
+17-Dec-20,1236,10,1497,Karnataka
+17-Dec-20,4969,27,4970,Kerala
+17-Dec-20,5,0,46,Ladakh
+17-Dec-20,0,0,0,Lakshadweep
+17-Dec-20,1161,9,1326,Madhya Pradesh
+17-Dec-20,3880,65,4358,Maharashtra
+17-Dec-20,81,3,143,Manipur
+17-Dec-20,69,0,70,Meghalaya
+17-Dec-20,5,0,16,Mizoram
+17-Dec-20,33,3,78,Nagaland
+17-Dec-20,351,5,376,Odisha
+17-Dec-20,40,0,32,Puducherry
+17-Dec-20,448,15,629,Punjab
+17-Dec-20,1122,11,1974,Rajasthan
+17-Dec-20,8,1,19,Sikkim
+17-Dec-20,0,0,0,State Unassigned
+17-Dec-20,1174,11,1214,Tamil Nadu
+17-Dec-20,509,3,517,Telangana
+17-Dec-20,26754,342,30891,Total
+17-Dec-20,17,0,32,Tripura
+17-Dec-20,1528,20,1159,Uttar Pradesh
+17-Dec-20,620,9,676,Uttarakhand
+17-Dec-20,2245,44,2747,West Bengal
+18-Dec-20,9,0,5,Andaman and Nicobar Islands
+18-Dec-20,458,1,534,Andhra Pradesh
+18-Dec-20,8,0,32,Arunachal Pradesh
+18-Dec-20,102,1,85,Assam
+18-Dec-20,535,4,581,Bihar
+18-Dec-20,74,1,122,Chandigarh
+18-Dec-20,1413,7,1325,Chhattisgarh
+18-Dec-20,1,0,6,Dadra and Nagar Haveli and Daman and Diu
+18-Dec-20,0,0,0,Daman and Diu
+18-Dec-20,1418,37,2160,Delhi
+18-Dec-20,104,2,116,Goa
+18-Dec-20,1075,9,1155,Gujarat
+18-Dec-20,749,21,1164,Haryana
+18-Dec-20,482,9,639,Himachal Pradesh
+18-Dec-20,388,7,464,Jammu and Kashmir
+18-Dec-20,274,1,195,Jharkhand
+18-Dec-20,1222,8,1039,Karnataka
+18-Dec-20,5456,23,4701,Kerala
+18-Dec-20,9,1,32,Ladakh
+18-Dec-20,0,0,0,Lakshadweep
+18-Dec-20,1181,11,1450,Madhya Pradesh
+18-Dec-20,3994,75,4467,Maharashtra
+18-Dec-20,86,2,121,Manipur
+18-Dec-20,48,0,148,Meghalaya
+18-Dec-20,9,0,18,Mizoram
+18-Dec-20,12,0,5,Nagaland
+18-Dec-20,358,4,363,Odisha
+18-Dec-20,48,1,38,Puducherry
+18-Dec-20,439,20,483,Punjab
+18-Dec-20,1076,10,1655,Rajasthan
+18-Dec-20,33,1,22,Sikkim
+18-Dec-20,0,0,0,State Unassigned
+18-Dec-20,1134,12,1170,Tamil Nadu
+18-Dec-20,551,1,682,Telangana
+18-Dec-20,26991,342,29879,Total
+18-Dec-20,21,0,42,Tripura
+18-Dec-20,1405,16,1584,Uttar Pradesh
+18-Dec-20,580,15,547,Uttarakhand
+18-Dec-20,2239,42,2729,West Bengal
