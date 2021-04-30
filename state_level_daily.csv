@@ -15482,3 +15482,588 @@ Date,Confirmed,Deceased,Recovered,State_Name
 14-Apr-21,20439,67,4517,Uttar Pradesh
 14-Apr-21,1953,13,483,Uttarakhand
 14-Apr-21,5892,24,2297,West Bengal
+15-Apr-21,15,0,4,Andaman and Nicobar Islands
+15-Apr-21,5086,14,1745,Andhra Pradesh
+15-Apr-21,8,0,6,Arunachal Pradesh
+15-Apr-21,499,1,85,Assam
+15-Apr-21,6133,24,755,Bihar
+15-Apr-21,412,3,409,Chandigarh
+15-Apr-21,15256,135,11988,Chhattisgarh
+15-Apr-21,103,2,14,Dadra and Nagar Haveli and Daman and Diu
+15-Apr-21,0,0,0,Daman and Diu
+15-Apr-21,16699,112,13014,Delhi
+15-Apr-21,757,5,182,Goa
+15-Apr-21,8152,81,3023,Gujarat
+15-Apr-21,5858,18,2743,Haryana
+15-Apr-21,1034,11,589,Himachal Pradesh
+15-Apr-21,1141,4,487,Jammu and Kashmir
+15-Apr-21,3480,28,1325,Jharkhand
+15-Apr-21,14738,66,3591,Karnataka
+15-Apr-21,8126,20,2700,Kerala
+15-Apr-21,186,0,72,Ladakh
+15-Apr-21,56,0,8,Lakshadweep
+15-Apr-21,10166,53,3970,Madhya Pradesh
+15-Apr-21,61695,349,53335,Maharashtra
+15-Apr-21,18,0,10,Manipur
+15-Apr-21,97,0,3,Meghalaya
+15-Apr-21,37,0,7,Mizoram
+15-Apr-21,42,0,3,Nagaland
+15-Apr-21,2989,2,837,Odisha
+15-Apr-21,413,1,176,Puducherry
+15-Apr-21,4311,50,2478,Punjab
+15-Apr-21,6658,33,2254,Rajasthan
+15-Apr-21,41,0,5,Sikkim
+15-Apr-21,0,0,0,State Unassigned
+15-Apr-21,7987,29,4176,Tamil Nadu
+15-Apr-21,3307,8,897,Telangana
+15-Apr-21,216828,1184,117897,Total
+15-Apr-21,0,0,0,Tripura
+15-Apr-21,22339,104,4222,Uttar Pradesh
+15-Apr-21,2220,9,397,Uttarakhand
+15-Apr-21,6769,22,2387,West Bengal
+16-Apr-21,27,0,28,Andaman and Nicobar Islands
+16-Apr-21,6096,20,2194,Andhra Pradesh
+16-Apr-21,28,0,2,Arunachal Pradesh
+16-Apr-21,573,4,113,Assam
+16-Apr-21,6253,13,1853,Bihar
+16-Apr-21,481,1,428,Chandigarh
+16-Apr-21,14912,138,12240,Chhattisgarh
+16-Apr-21,138,0,25,Dadra and Nagar Haveli and Daman and Diu
+16-Apr-21,0,0,0,Daman and Diu
+16-Apr-21,19486,141,12649,Delhi
+16-Apr-21,927,6,282,Goa
+16-Apr-21,8920,94,3387,Gujarat
+16-Apr-21,6277,20,2958,Haryana
+16-Apr-21,842,9,484,Himachal Pradesh
+16-Apr-21,1144,2,562,Jammu and Kashmir
+16-Apr-21,3843,56,1393,Jharkhand
+16-Apr-21,14859,78,4027,Karnataka
+16-Apr-21,10031,21,3792,Kerala
+16-Apr-21,245,0,47,Ladakh
+16-Apr-21,44,0,11,Lakshadweep
+16-Apr-21,11045,60,7496,Madhya Pradesh
+16-Apr-21,63729,398,45335,Maharashtra
+16-Apr-21,31,0,7,Manipur
+16-Apr-21,121,1,12,Meghalaya
+16-Apr-21,25,0,5,Mizoram
+16-Apr-21,22,1,2,Nagaland
+16-Apr-21,3108,3,952,Odisha
+16-Apr-21,531,3,220,Puducherry
+16-Apr-21,3891,50,3129,Punjab
+16-Apr-21,7359,31,2791,Rajasthan
+16-Apr-21,22,0,10,Sikkim
+16-Apr-21,0,0,0,State Unassigned
+16-Apr-21,8449,33,4920,Tamil Nadu
+16-Apr-21,3840,9,1198,Telangana
+16-Apr-21,234002,1338,122886,Total
+16-Apr-21,31,0,7,Tripura
+16-Apr-21,27360,103,6429,Uttar Pradesh
+16-Apr-21,2402,17,1080,Uttarakhand
+16-Apr-21,6910,26,2818,West Bengal
+17-Apr-21,42,1,36,Andaman and Nicobar Islands
+17-Apr-21,7224,15,2332,Andhra Pradesh
+17-Apr-21,19,0,6,Arunachal Pradesh
+17-Apr-21,876,2,149,Assam
+17-Apr-21,7870,34,1804,Bihar
+17-Apr-21,431,2,438,Chandigarh
+17-Apr-21,16083,158,9828,Chhattisgarh
+17-Apr-21,108,0,25,Dadra and Nagar Haveli and Daman and Diu
+17-Apr-21,0,0,0,Daman and Diu
+17-Apr-21,24375,167,15414,Delhi
+17-Apr-21,762,4,436,Goa
+17-Apr-21,9541,97,3783,Gujarat
+17-Apr-21,7717,32,2944,Haryana
+17-Apr-21,1392,12,656,Himachal Pradesh
+17-Apr-21,1145,3,852,Jammu and Kashmir
+17-Apr-21,3838,30,1234,Jharkhand
+17-Apr-21,17489,80,5564,Karnataka
+17-Apr-21,13835,27,3654,Kerala
+17-Apr-21,362,1,53,Ladakh
+17-Apr-21,106,0,5,Lakshadweep
+17-Apr-21,11269,66,6497,Madhya Pradesh
+17-Apr-21,67123,419,56783,Maharashtra
+17-Apr-21,39,0,14,Manipur
+17-Apr-21,95,0,11,Meghalaya
+17-Apr-21,62,0,1,Mizoram
+17-Apr-21,32,0,0,Nagaland
+17-Apr-21,3144,4,1303,Odisha
+17-Apr-21,715,3,198,Puducherry
+17-Apr-21,4431,62,2615,Punjab
+17-Apr-21,9046,37,2823,Rajasthan
+17-Apr-21,72,0,4,Sikkim
+17-Apr-21,0,0,0,State Unassigned
+17-Apr-21,9344,39,5263,Tamil Nadu
+17-Apr-21,4446,12,1414,Telangana
+17-Apr-21,260895,1498,138209,Total
+17-Apr-21,58,0,11,Tripura
+17-Apr-21,27334,120,7831,Uttar Pradesh
+17-Apr-21,2757,37,802,Uttarakhand
+17-Apr-21,7713,34,3426,West Bengal
+18-Apr-21,59,0,54,Andaman and Nicobar Islands
+18-Apr-21,6582,22,2343,Andhra Pradesh
+18-Apr-21,20,0,3,Arunachal Pradesh
+18-Apr-21,639,6,159,Assam
+18-Apr-21,8690,27,3460,Bihar
+18-Apr-21,625,3,411,Chandigarh
+18-Apr-21,12345,170,14556,Chhattisgarh
+18-Apr-21,184,0,50,Dadra and Nagar Haveli and Daman and Diu
+18-Apr-21,0,0,0,Daman and Diu
+18-Apr-21,25462,161,20159,Delhi
+18-Apr-21,951,11,531,Goa
+18-Apr-21,10340,110,3981,Gujarat
+18-Apr-21,7177,29,3489,Haryana
+18-Apr-21,788,10,532,Himachal Pradesh
+18-Apr-21,1526,6,963,Jammu and Kashmir
+18-Apr-21,3992,50,1551,Jharkhand
+18-Apr-21,19067,81,4603,Karnataka
+18-Apr-21,18257,25,4565,Kerala
+18-Apr-21,60,0,84,Ladakh
+18-Apr-21,114,0,4,Lakshadweep
+18-Apr-21,12248,66,7495,Madhya Pradesh
+18-Apr-21,68631,503,45654,Maharashtra
+18-Apr-21,72,0,7,Manipur
+18-Apr-21,71,1,41,Meghalaya
+18-Apr-21,50,0,26,Mizoram
+18-Apr-21,19,0,8,Nagaland
+18-Apr-21,3664,2,1309,Odisha
+18-Apr-21,663,3,282,Puducherry
+18-Apr-21,4900,68,3141,Punjab
+18-Apr-21,10262,42,3084,Rajasthan
+18-Apr-21,105,0,5,Sikkim
+18-Apr-21,0,0,0,State Unassigned
+18-Apr-21,10723,42,5925,Tamil Nadu
+18-Apr-21,5093,15,1555,Telangana
+18-Apr-21,275063,1620,143839,Total
+18-Apr-21,69,0,7,Tripura
+18-Apr-21,30566,127,9041,Uttar Pradesh
+18-Apr-21,2630,12,708,Uttarakhand
+18-Apr-21,8419,28,4053,West Bengal
+19-Apr-21,31,0,12,Andaman and Nicobar Islands
+19-Apr-21,5963,27,2569,Andhra Pradesh
+19-Apr-21,65,0,11,Arunachal Pradesh
+19-Apr-21,1367,7,312,Assam
+19-Apr-21,7487,41,2619,Bihar
+19-Apr-21,612,4,429,Chandigarh
+19-Apr-21,13834,175,12678,Chhattisgarh
+19-Apr-21,121,0,78,Dadra and Nagar Haveli and Daman and Diu
+19-Apr-21,0,0,0,Daman and Diu
+19-Apr-21,23686,240,21500,Delhi
+19-Apr-21,940,17,428,Goa
+19-Apr-21,11403,117,4179,Gujarat
+19-Apr-21,6842,33,3663,Haryana
+19-Apr-21,1695,13,593,Himachal Pradesh
+19-Apr-21,1516,6,813,Jammu and Kashmir
+19-Apr-21,4290,46,1777,Jharkhand
+19-Apr-21,15785,146,7098,Karnataka
+19-Apr-21,13644,21,4305,Kerala
+19-Apr-21,175,0,123,Ladakh
+19-Apr-21,117,0,17,Lakshadweep
+19-Apr-21,12897,79,6836,Madhya Pradesh
+19-Apr-21,58924,351,52412,Maharashtra
+19-Apr-21,54,1,12,Manipur
+19-Apr-21,110,1,33,Meghalaya
+19-Apr-21,45,0,9,Mizoram
+19-Apr-21,13,0,0,Nagaland
+19-Apr-21,4445,4,1503,Odisha
+19-Apr-21,565,5,336,Puducherry
+19-Apr-21,4622,83,3418,Punjab
+19-Apr-21,11967,53,2408,Rajasthan
+19-Apr-21,9,0,3,Sikkim
+19-Apr-21,0,0,0,State Unassigned
+19-Apr-21,10941,44,6172,Tamil Nadu
+19-Apr-21,4009,14,1878,Telangana
+19-Apr-21,257003,1757,154357,Total
+19-Apr-21,32,0,15,Tripura
+19-Apr-21,28211,167,10978,Uttar Pradesh
+19-Apr-21,2160,24,532,Uttarakhand
+19-Apr-21,8426,38,4608,West Bengal
+20-Apr-21,45,0,31,Andaman and Nicobar Islands
+20-Apr-21,8987,35,3116,Andhra Pradesh
+20-Apr-21,61,0,15,Arunachal Pradesh
+20-Apr-21,1651,3,279,Assam
+20-Apr-21,10455,51,3577,Bihar
+20-Apr-21,602,4,443,Chandigarh
+20-Apr-21,15625,191,18746,Chhattisgarh
+20-Apr-21,291,0,75,Dadra and Nagar Haveli and Daman and Diu
+20-Apr-21,0,0,0,Daman and Diu
+20-Apr-21,28395,277,19430,Delhi
+20-Apr-21,1160,26,440,Goa
+20-Apr-21,12206,121,4339,Gujarat
+20-Apr-21,7811,35,3367,Haryana
+20-Apr-21,1340,16,1078,Himachal Pradesh
+20-Apr-21,2030,8,716,Jammu and Kashmir
+20-Apr-21,5080,45,2334,Jharkhand
+20-Apr-21,21794,149,4571,Karnataka
+20-Apr-21,19577,28,3880,Kerala
+20-Apr-21,250,1,136,Ladakh
+20-Apr-21,53,0,26,Lakshadweep
+20-Apr-21,12727,77,8937,Madhya Pradesh
+20-Apr-21,62097,519,54224,Maharashtra
+20-Apr-21,94,1,4,Manipur
+20-Apr-21,137,0,34,Meghalaya
+20-Apr-21,91,0,51,Mizoram
+20-Apr-21,82,0,0,Nagaland
+20-Apr-21,4761,5,1740,Odisha
+20-Apr-21,638,4,253,Puducherry
+20-Apr-21,4656,60,3198,Punjab
+20-Apr-21,12201,64,3207,Rajasthan
+20-Apr-21,91,0,4,Sikkim
+20-Apr-21,0,0,0,State Unassigned
+20-Apr-21,10986,48,6250,Tamil Nadu
+20-Apr-21,5926,18,2209,Telangana
+20-Apr-21,294365,2021,166656,Total
+20-Apr-21,60,0,16,Tripura
+20-Apr-21,29574,162,14391,Uttar Pradesh
+20-Apr-21,3012,27,734,Uttarakhand
+20-Apr-21,9819,46,4805,West Bengal
+21-Apr-21,24,0,33,Andaman and Nicobar Islands
+21-Apr-21,9716,38,3359,Andhra Pradesh
+21-Apr-21,73,0,16,Arunachal Pradesh
+21-Apr-21,1665,5,297,Assam
+21-Apr-21,12222,56,4774,Bihar
+21-Apr-21,622,2,454,Chandigarh
+21-Apr-21,14519,193,17263,Chhattisgarh
+21-Apr-21,251,0,101,Dadra and Nagar Haveli and Daman and Diu
+21-Apr-21,0,0,0,Daman and Diu
+21-Apr-21,24638,249,24600,Delhi
+21-Apr-21,1502,17,426,Goa
+21-Apr-21,12553,125,4802,Gujarat
+21-Apr-21,9623,45,3928,Haryana
+21-Apr-21,1692,17,908,Himachal Pradesh
+21-Apr-21,2204,13,733,Jammu and Kashmir
+21-Apr-21,5041,62,2331,Jharkhand
+21-Apr-21,23558,116,6412,Karnataka
+21-Apr-21,22414,22,5431,Kerala
+21-Apr-21,183,0,20,Ladakh
+21-Apr-21,191,0,16,Lakshadweep
+21-Apr-21,13107,75,9035,Madhya Pradesh
+21-Apr-21,67468,568,54985,Maharashtra
+21-Apr-21,92,2,22,Manipur
+21-Apr-21,192,3,25,Meghalaya
+21-Apr-21,90,0,7,Mizoram
+21-Apr-21,97,0,4,Nagaland
+21-Apr-21,4851,5,2009,Odisha
+21-Apr-21,619,5,283,Puducherry
+21-Apr-21,4953,69,2727,Punjab
+21-Apr-21,14622,62,3765,Rajasthan
+21-Apr-21,50,0,2,Sikkim
+21-Apr-21,0,0,0,State Unassigned
+21-Apr-21,11681,53,7071,Tamil Nadu
+21-Apr-21,6542,20,2887,Telangana
+21-Apr-21,315752,2101,179434,Total
+21-Apr-21,0,0,0,Tripura
+21-Apr-21,33106,187,14198,Uttar Pradesh
+21-Apr-21,4807,34,894,Uttarakhand
+21-Apr-21,10784,58,5616,West Bengal
+22-Apr-21,37,1,33,Andaman and Nicobar Islands
+22-Apr-21,10759,31,3992,Andhra Pradesh
+22-Apr-21,110,0,9,Arunachal Pradesh
+22-Apr-21,1931,10,398,Assam
+22-Apr-21,11489,59,5308,Bihar
+22-Apr-21,634,4,482,Chandigarh
+22-Apr-21,16750,207,17739,Chhattisgarh
+22-Apr-21,359,0,94,Dadra and Nagar Haveli and Daman and Diu
+22-Apr-21,0,0,0,Daman and Diu
+22-Apr-21,26169,306,19609,Delhi
+22-Apr-21,1410,21,461,Goa
+22-Apr-21,13105,137,5010,Gujarat
+22-Apr-21,9742,55,6512,Haryana
+22-Apr-21,1774,18,689,Himachal Pradesh
+22-Apr-21,1965,8,791,Jammu and Kashmir
+22-Apr-21,7595,106,2373,Jharkhand
+22-Apr-21,25795,123,5624,Karnataka
+22-Apr-21,26995,28,6370,Kerala
+22-Apr-21,198,1,131,Ladakh
+22-Apr-21,145,0,34,Lakshadweep
+22-Apr-21,12384,75,9620,Madhya Pradesh
+22-Apr-21,67013,568,62298,Maharashtra
+22-Apr-21,86,1,25,Manipur
+22-Apr-21,180,0,68,Meghalaya
+22-Apr-21,73,0,24,Mizoram
+22-Apr-21,53,0,2,Nagaland
+22-Apr-21,6164,7,2165,Odisha
+22-Apr-21,987,4,464,Puducherry
+22-Apr-21,5450,75,3657,Punjab
+22-Apr-21,14468,59,3618,Rajasthan
+22-Apr-21,124,1,18,Sikkim
+22-Apr-21,0,0,0,State Unassigned
+22-Apr-21,12652,59,7526,Tamil Nadu
+22-Apr-21,5567,23,2251,Telangana
+22-Apr-21,332531,2257,192317,Total
+22-Apr-21,168,0,74,Tripura
+22-Apr-21,34254,195,16514,Uttar Pradesh
+22-Apr-21,3998,19,1744,Uttarakhand
+22-Apr-21,11948,56,6590,West Bengal
+23-Apr-21,42,0,49,Andaman and Nicobar Islands
+23-Apr-21,11766,38,4441,Andhra Pradesh
+23-Apr-21,134,0,61,Arunachal Pradesh
+23-Apr-21,2384,12,348,Assam
+23-Apr-21,12672,54,6067,Bihar
+23-Apr-21,828,3,476,Chandigarh
+23-Apr-21,17397,219,15254,Chhattisgarh
+23-Apr-21,236,0,109,Dadra and Nagar Haveli and Daman and Diu
+23-Apr-21,0,0,0,Daman and Diu
+23-Apr-21,24331,348,23572,Delhi
+23-Apr-21,1420,12,596,Goa
+23-Apr-21,13804,142,5618,Gujarat
+23-Apr-21,11854,60,6334,Haryana
+23-Apr-21,1189,26,772,Himachal Pradesh
+23-Apr-21,1937,19,1019,Jammu and Kashmir
+23-Apr-21,5741,63,3205,Jharkhand
+23-Apr-21,26962,190,8697,Karnataka
+23-Apr-21,28447,27,5663,Kerala
+23-Apr-21,152,0,159,Ladakh
+23-Apr-21,134,0,17,Lakshadweep
+23-Apr-21,13590,74,10833,Madhya Pradesh
+23-Apr-21,66836,773,74045,Maharashtra
+23-Apr-21,104,0,27,Manipur
+23-Apr-21,143,0,38,Meghalaya
+23-Apr-21,62,0,5,Mizoram
+23-Apr-21,89,0,1,Nagaland
+23-Apr-21,6215,8,2452,Odisha
+23-Apr-21,792,2,383,Puducherry
+23-Apr-21,6728,75,3294,Punjab
+23-Apr-21,15398,64,5197,Rajasthan
+23-Apr-21,67,0,14,Sikkim
+23-Apr-21,0,0,0,State Unassigned
+23-Apr-21,13776,78,8078,Tamil Nadu
+23-Apr-21,6206,29,3052,Telangana
+23-Apr-21,345296,2620,220545,Total
+23-Apr-21,40,0,46,Tripura
+23-Apr-21,36605,196,22566,Uttar Pradesh
+23-Apr-21,4339,49,1179,Uttarakhand
+23-Apr-21,12876,59,6878,West Bengal
+24-Apr-21,45,1,52,Andaman and Nicobar Islands
+24-Apr-21,11698,37,4421,Andhra Pradesh
+24-Apr-21,116,0,19,Arunachal Pradesh
+24-Apr-21,2236,14,619,Assam
+24-Apr-21,12359,77,6741,Bihar
+24-Apr-21,711,3,428,Chandigarh
+24-Apr-21,16731,218,17029,Chhattisgarh
+24-Apr-21,251,0,118,Dadra and Nagar Haveli and Daman and Diu
+24-Apr-21,0,0,0,Daman and Diu
+24-Apr-21,24103,357,22695,Delhi
+24-Apr-21,1540,17,485,Goa
+24-Apr-21,14097,152,6479,Gujarat
+24-Apr-21,10491,60,5104,Haryana
+24-Apr-21,2073,24,877,Himachal Pradesh
+24-Apr-21,2030,15,944,Jammu and Kashmir
+24-Apr-21,5152,110,2865,Jharkhand
+24-Apr-21,29438,208,9058,Karnataka
+24-Apr-21,26685,25,7067,Kerala
+24-Apr-21,148,1,209,Ladakh
+24-Apr-21,157,0,33,Lakshadweep
+24-Apr-21,12918,104,11091,Madhya Pradesh
+24-Apr-21,67160,676,63818,Maharashtra
+24-Apr-21,130,2,13,Manipur
+24-Apr-21,155,1,148,Meghalaya
+24-Apr-21,63,0,32,Mizoram
+24-Apr-21,114,1,0,Nagaland
+24-Apr-21,6647,8,3464,Odisha
+24-Apr-21,899,9,453,Puducherry
+24-Apr-21,5663,92,2949,Punjab
+24-Apr-21,15355,74,4959,Rajasthan
+24-Apr-21,121,0,14,Sikkim
+24-Apr-21,0,0,0,State Unassigned
+24-Apr-21,14842,80,9142,Tamil Nadu
+24-Apr-21,7432,33,2157,Telangana
+24-Apr-21,348996,2761,215809,Total
+24-Apr-21,127,0,45,Tripura
+24-Apr-21,37944,222,23231,Uttar Pradesh
+24-Apr-21,5084,81,1466,Uttarakhand
+24-Apr-21,14281,59,7584,West Bengal
+25-Apr-21,51,0,57,Andaman and Nicobar Islands
+25-Apr-21,12634,69,4304,Andhra Pradesh
+25-Apr-21,61,2,28,Arunachal Pradesh
+25-Apr-21,1844,14,558,Assam
+25-Apr-21,12795,68,7533,Bihar
+25-Apr-21,749,2,413,Chandigarh
+25-Apr-21,12666,199,11595,Chhattisgarh
+25-Apr-21,208,0,106,Dadra and Nagar Haveli and Daman and Diu
+25-Apr-21,0,0,0,Daman and Diu
+25-Apr-21,22933,350,21071,Delhi
+25-Apr-21,2293,24,658,Goa
+25-Apr-21,14296,157,6727,Gujarat
+25-Apr-21,10985,64,6057,Haryana
+25-Apr-21,1363,32,1161,Himachal Pradesh
+25-Apr-21,2381,21,866,Jammu and Kashmir
+25-Apr-21,5903,103,3287,Jharkhand
+25-Apr-21,34804,143,6982,Karnataka
+25-Apr-21,28469,30,8122,Kerala
+25-Apr-21,120,2,63,Ladakh
+25-Apr-21,164,0,29,Lakshadweep
+25-Apr-21,13601,92,11324,Madhya Pradesh
+25-Apr-21,66191,832,61450,Maharashtra
+25-Apr-21,140,2,38,Manipur
+25-Apr-21,208,2,62,Meghalaya
+25-Apr-21,105,1,34,Mizoram
+25-Apr-21,180,3,15,Nagaland
+25-Apr-21,6116,7,3464,Odisha
+25-Apr-21,1008,11,476,Puducherry
+25-Apr-21,6980,76,5315,Punjab
+25-Apr-21,15809,74,6649,Rajasthan
+25-Apr-21,148,1,4,Sikkim
+25-Apr-21,0,0,0,State Unassigned
+25-Apr-21,15659,82,11065,Tamil Nadu
+25-Apr-21,8126,38,3307,Telangana
+25-Apr-21,354658,2808,218626,Total
+25-Apr-21,100,0,18,Tripura
+25-Apr-21,35311,206,25633,Uttar Pradesh
+25-Apr-21,4368,44,1748,Uttarakhand
+25-Apr-21,15889,57,8407,West Bengal
+26-Apr-21,51,0,53,Andaman and Nicobar Islands
+26-Apr-21,9881,51,4431,Andhra Pradesh
+26-Apr-21,168,0,25,Arunachal Pradesh
+26-Apr-21,3137,15,828,Assam
+26-Apr-21,11801,67,9228,Bihar
+26-Apr-21,821,5,477,Chandigarh
+26-Apr-21,15084,226,17341,Chhattisgarh
+26-Apr-21,137,0,123,Dadra and Nagar Haveli and Daman and Diu
+26-Apr-21,0,0,0,Daman and Diu
+26-Apr-21,20201,380,22055,Delhi
+26-Apr-21,2321,38,712,Goa
+26-Apr-21,14340,158,7727,Gujarat
+26-Apr-21,11504,75,6211,Haryana
+26-Apr-21,1692,27,921,Himachal Pradesh
+26-Apr-21,2135,25,1067,Jammu and Kashmir
+26-Apr-21,5541,124,4018,Jharkhand
+26-Apr-21,29744,201,10663,Karnataka
+26-Apr-21,21890,28,7943,Kerala
+26-Apr-21,145,0,315,Ladakh
+26-Apr-21,121,0,119,Lakshadweep
+26-Apr-21,12686,88,11612,Madhya Pradesh
+26-Apr-21,48700,524,71736,Maharashtra
+26-Apr-21,146,5,36,Manipur
+26-Apr-21,130,1,114,Meghalaya
+26-Apr-21,22,0,60,Mizoram
+26-Apr-21,55,0,3,Nagaland
+26-Apr-21,6599,9,4180,Odisha
+26-Apr-21,747,10,515,Puducherry
+26-Apr-21,6276,98,4438,Punjab
+26-Apr-21,16438,84,6416,Rajasthan
+26-Apr-21,23,2,20,Sikkim
+26-Apr-21,0,0,0,State Unassigned
+26-Apr-21,15684,94,13625,Tamil Nadu
+26-Apr-21,6551,43,3840,Telangana
+26-Apr-21,319470,2762,249009,Total
+26-Apr-21,98,0,62,Tripura
+26-Apr-21,33551,249,26719,Uttar Pradesh
+26-Apr-21,5058,67,1601,Uttarakhand
+26-Apr-21,15992,68,9775,West Bengal
+27-Apr-21,48,0,42,Andaman and Nicobar Islands
+27-Apr-21,11434,64,7055,Andhra Pradesh
+27-Apr-21,123,0,28,Arunachal Pradesh
+27-Apr-21,3132,18,955,Assam
+27-Apr-21,12604,85,7904,Bihar
+27-Apr-21,837,6,426,Chandigarh
+27-Apr-21,14893,246,16931,Chhattisgarh
+27-Apr-21,217,0,190,Dadra and Nagar Haveli and Daman and Diu
+27-Apr-21,0,0,0,Daman and Diu
+27-Apr-21,24149,381,17862,Delhi
+27-Apr-21,2110,31,748,Goa
+27-Apr-21,14352,170,7803,Gujarat
+27-Apr-21,11931,84,7184,Haryana
+27-Apr-21,2157,24,1305,Himachal Pradesh
+27-Apr-21,3164,25,1457,Jammu and Kashmir
+27-Apr-21,6126,131,4247,Jharkhand
+27-Apr-21,31830,180,10793,Karnataka
+27-Apr-21,32819,32,18413,Kerala
+27-Apr-21,140,1,293,Ladakh
+27-Apr-21,154,0,131,Lakshadweep
+27-Apr-21,13417,98,11577,Madhya Pradesh
+27-Apr-21,66358,895,67752,Maharashtra
+27-Apr-21,175,3,50,Manipur
+27-Apr-21,147,4,90,Meghalaya
+27-Apr-21,103,0,12,Mizoram
+27-Apr-21,207,0,16,Nagaland
+27-Apr-21,6073,10,4089,Odisha
+27-Apr-21,1021,13,690,Puducherry
+27-Apr-21,5916,100,3774,Punjab
+27-Apr-21,16089,121,7426,Rajasthan
+27-Apr-21,97,2,40,Sikkim
+27-Apr-21,0,0,0,State Unassigned
+27-Apr-21,15830,77,14043,Tamil Nadu
+27-Apr-21,10122,52,6446,Telangana
+27-Apr-21,362913,3286,262349,Total
+27-Apr-21,111,0,44,Tripura
+27-Apr-21,32921,264,30398,Uttar Pradesh
+27-Apr-21,5703,96,1471,Uttarakhand
+27-Apr-21,16403,73,10664,West Bengal
+28-Apr-21,52,1,44,Andaman and Nicobar Islands
+28-Apr-21,14669,71,6433,Andhra Pradesh
+28-Apr-21,165,0,17,Arunachal Pradesh
+28-Apr-21,3045,22,1098,Assam
+28-Apr-21,13374,84,8818,Bihar
+28-Apr-21,772,11,435,Chandigarh
+28-Apr-21,15563,279,15506,Chhattisgarh
+28-Apr-21,182,0,221,Dadra and Nagar Haveli and Daman and Diu
+28-Apr-21,0,0,0,Daman and Diu
+28-Apr-21,25986,368,24130,Delhi
+28-Apr-21,3101,24,839,Goa
+28-Apr-21,14120,174,8595,Gujarat
+28-Apr-21,12444,95,7618,Haryana
+28-Apr-21,2539,33,1552,Himachal Pradesh
+28-Apr-21,3023,30,963,Jammu and Kashmir
+28-Apr-21,8075,149,4362,Jharkhand
+28-Apr-21,39047,229,11833,Karnataka
+28-Apr-21,35013,41,15505,Kerala
+28-Apr-21,116,0,137,Ladakh
+28-Apr-21,103,0,138,Lakshadweep
+28-Apr-21,12758,105,14156,Madhya Pradesh
+28-Apr-21,63309,1035,61181,Maharashtra
+28-Apr-21,259,2,59,Manipur
+28-Apr-21,159,2,138,Meghalaya
+28-Apr-21,228,0,49,Mizoram
+28-Apr-21,124,2,32,Nagaland
+28-Apr-21,8386,10,4521,Odisha
+28-Apr-21,1258,10,632,Puducherry
+28-Apr-21,6904,142,5272,Punjab
+28-Apr-21,16613,120,8303,Rajasthan
+28-Apr-21,151,1,21,Sikkim
+28-Apr-21,0,0,0,State Unassigned
+28-Apr-21,16665,98,15114,Tamil Nadu
+28-Apr-21,8061,56,5093,Telangana
+28-Apr-21,379400,3646,274171,Total
+28-Apr-21,124,2,35,Tripura
+28-Apr-21,29751,265,35903,Uttar Pradesh
+28-Apr-21,6054,108,3485,Uttarakhand
+28-Apr-21,17207,77,11933,West Bengal
+29-Apr-21,59,0,37,Andaman and Nicobar Islands
+29-Apr-21,14792,57,8188,Andhra Pradesh
+29-Apr-21,194,1,47,Arunachal Pradesh
+29-Apr-21,3079,26,1797,Assam
+29-Apr-21,13089,89,10926,Bihar
+29-Apr-21,801,8,447,Chandigarh
+29-Apr-21,15804,251,16489,Chhattisgarh
+29-Apr-21,216,0,138,Dadra and Nagar Haveli and Daman and Diu
+29-Apr-21,0,0,0,Daman and Diu
+29-Apr-21,24235,395,25615,Delhi
+29-Apr-21,3019,36,914,Goa
+29-Apr-21,14327,180,9544,Gujarat
+29-Apr-21,13947,97,9535,Haryana
+29-Apr-21,3040,40,1241,Himachal Pradesh
+29-Apr-21,3474,26,1617,Jammu and Kashmir
+29-Apr-21,5961,145,4755,Jharkhand
+29-Apr-21,35024,270,14142,Karnataka
+29-Apr-21,38607,48,21116,Kerala
+29-Apr-21,108,1,192,Ladakh
+29-Apr-21,158,3,45,Lakshadweep
+29-Apr-21,12762,95,13363,Madhya Pradesh
+29-Apr-21,66159,771,68537,Maharashtra
+29-Apr-21,314,5,314,Manipur
+29-Apr-21,187,2,129,Meghalaya
+29-Apr-21,138,0,90,Mizoram
+29-Apr-21,181,0,29,Nagaland
+29-Apr-21,6998,12,4679,Odisha
+29-Apr-21,1122,12,565,Puducherry
+29-Apr-21,6724,137,5059,Punjab
+29-Apr-21,17269,158,10964,Rajasthan
+29-Apr-21,170,3,22,Sikkim
+29-Apr-21,0,0,0,State Unassigned
+29-Apr-21,17897,107,15542,Tamil Nadu
+29-Apr-21,7994,58,4009,Telangana
+29-Apr-21,386773,3502,291727,Total
+29-Apr-21,166,0,13,Tripura
+29-Apr-21,35104,295,25613,Uttar Pradesh
+29-Apr-21,6251,85,3129,Uttarakhand
+29-Apr-21,17403,89,12885,West Bengal
