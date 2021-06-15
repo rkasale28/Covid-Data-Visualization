@@ -55,7 +55,7 @@ if (resp.status_code == 200):
     df = df.sort_values(by=['date','status'])
 
     DATA_URL = (
-    "C:/Users/Rohit/Documents/Self Learning/Streamlit/state_level_daily.csv"
+    "C:/Users/acer1/Documents/Self-Learning/Covid-Data-Visualization-master/state_level_daily.csv"
     )
 
     data = pd.read_csv(DATA_URL)
@@ -102,7 +102,7 @@ if (resp.status_code == 200):
     resp = resp.json()
 
     DATA_URL = (
-    "C:/Users/Rohit/Documents/Self Learning/Streamlit/district_level.csv"
+    "C:/Users/acer1/Documents/Self-Learning/Covid-Data-Visualization-master/district_level.csv"
     )
 
     new_json=[]
@@ -128,7 +128,7 @@ else:
 
 # Test Data
 DATA_URL = (
-"C:/Users/Rohit/Documents/Self Learning/Streamlit/state_level_tested_daily.csv"
+"C:/Users/acer1/Documents/Self-Learning/Covid-Data-Visualization-master/state_level_tested_daily.csv"
 )
 
 resp = requests.get("https://api.covid19india.org/state_test_data.json")

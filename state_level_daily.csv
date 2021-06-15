@@ -17432,3 +17432,432 @@ Date,Confirmed,Deceased,Recovered,State_Name
 31-May-21,1472,151,5491,Uttar Pradesh
 31-May-21,1156,51,3039,Uttarakhand
 31-May-21,10137,131,17856,West Bengal
+04-Jun-21,18,2,32,Andaman and Nicobar Islands
+04-Jun-21,10413,83,15469,Andhra Pradesh
+04-Jun-21,404,3,415,Arunachal Pradesh
+04-Jun-21,4548,54,4263,Assam
+04-Jun-21,991,23,2090,Bihar
+04-Jun-21,88,3,215,Chandigarh
+04-Jun-21,1460,23,3838,Chhattisgarh
+04-Jun-21,47,0,47,Dadra and Nagar Haveli and Daman and Diu
+04-Jun-21,0,0,0,Daman and Diu
+04-Jun-21,523,50,1161,Delhi
+04-Jun-21,576,17,1160,Goa
+04-Jun-21,1120,16,3398,Gujarat
+04-Jun-21,895,73,2456,Haryana
+04-Jun-21,787,27,2030,Himachal Pradesh
+04-Jun-21,1723,34,2731,Jammu and Kashmir
+04-Jun-21,478,13,1170,Jharkhand
+04-Jun-21,16068,364,22316,Karnataka
+04-Jun-21,16229,135,25860,Kerala
+04-Jun-21,122,1,272,Ladakh
+04-Jun-21,89,1,234,Lakshadweep
+04-Jun-21,798,50,2045,Madhya Pradesh
+04-Jun-21,14152,1377,20852,Maharashtra
+04-Jun-21,791,14,592,Manipur
+04-Jun-21,584,18,808,Meghalaya
+04-Jun-21,205,2,214,Mizoram
+04-Jun-21,147,12,148,Nagaland
+04-Jun-21,7729,39,11347,Odisha
+04-Jun-21,712,18,1215,Puducherry
+04-Jun-21,2005,87,4314,Punjab
+04-Jun-21,1006,40,4370,Rajasthan
+04-Jun-21,353,3,262,Sikkim
+04-Jun-21,0,0,0,State Unassigned
+04-Jun-21,22651,463,33646,Tamil Nadu
+04-Jun-21,2175,15,3821,Telangana
+04-Jun-21,120454,3372,197763,Total
+04-Jun-21,650,5,763,Tripura
+04-Jun-21,1112,136,3646,Uttar Pradesh
+04-Jun-21,892,58,4006,Uttarakhand
+04-Jun-21,7913,113,16557,West Bengal
+05-Jun-21,17,1,24,Andaman and Nicobar Islands
+05-Jun-21,10373,80,15958,Andhra Pradesh
+05-Jun-21,327,1,402,Arunachal Pradesh
+05-Jun-21,3781,44,3099,Assam
+05-Jun-21,1007,21,1667,Bihar
+05-Jun-21,98,3,175,Chandigarh
+05-Jun-21,1356,30,3408,Chhattisgarh
+05-Jun-21,14,0,41,Dadra and Nagar Haveli and Daman and Diu
+05-Jun-21,0,0,0,Daman and Diu
+05-Jun-21,414,60,1683,Delhi
+05-Jun-21,567,17,1433,Goa
+05-Jun-21,996,15,3004,Gujarat
+05-Jun-21,723,59,1744,Haryana
+05-Jun-21,818,19,1102,Himachal Pradesh
+05-Jun-21,1448,25,2615,Jammu and Kashmir
+05-Jun-21,517,12,1098,Jharkhand
+05-Jun-21,13800,365,25346,Karnataka
+05-Jun-21,17328,209,24003,Kerala
+05-Jun-21,71,1,254,Ladakh
+05-Jun-21,99,2,143,Lakshadweep
+05-Jun-21,718,38,2225,Madhya Pradesh
+05-Jun-21,13659,741,21776,Maharashtra
+05-Jun-21,717,9,740,Manipur
+05-Jun-21,497,9,801,Meghalaya
+05-Jun-21,236,4,335,Mizoram
+05-Jun-21,309,6,177,Nagaland
+05-Jun-21,7395,40,7616,Odisha
+05-Jun-21,613,12,1312,Puducherry
+05-Jun-21,1878,82,3619,Punjab
+05-Jun-21,942,32,3364,Rajasthan
+05-Jun-21,253,2,283,Sikkim
+05-Jun-21,0,0,0,State Unassigned
+05-Jun-21,21410,443,32472,Tamil Nadu
+05-Jun-21,2070,18,3762,Telangana
+05-Jun-21,114488,2682,189374,Total
+05-Jun-21,708,11,670,Tripura
+05-Jun-21,1028,120,4346,Uttar Pradesh
+05-Jun-21,619,33,2531,Uttarakhand
+05-Jun-21,7682,118,16146,West Bengal
+06-Jun-21,14,0,18,Andaman and Nicobar Islands
+06-Jun-21,8976,90,13568,Andhra Pradesh
+06-Jun-21,223,2,381,Arunachal Pradesh
+06-Jun-21,2228,37,4076,Assam
+06-Jun-21,920,41,1799,Bihar
+06-Jun-21,74,4,162,Chandigarh
+06-Jun-21,999,25,2589,Chhattisgarh
+06-Jun-21,6,0,25,Dadra and Nagar Haveli and Daman and Diu
+06-Jun-21,0,0,0,Daman and Diu
+06-Jun-21,381,34,1189,Delhi
+06-Jun-21,403,16,1449,Goa
+06-Jun-21,848,12,2915,Gujarat
+06-Jun-21,654,48,1483,Haryana
+06-Jun-21,357,18,1462,Himachal Pradesh
+06-Jun-21,1440,23,3099,Jammu and Kashmir
+06-Jun-21,293,8,838,Jharkhand
+06-Jun-21,12209,320,25659,Karnataka
+06-Jun-21,14672,227,21429,Kerala
+06-Jun-21,50,0,131,Ladakh
+06-Jun-21,70,0,225,Lakshadweep
+06-Jun-21,735,42,1934,Madhya Pradesh
+06-Jun-21,12557,618,14433,Maharashtra
+06-Jun-21,823,9,646,Manipur
+06-Jun-21,488,12,690,Meghalaya
+06-Jun-21,267,1,194,Mizoram
+06-Jun-21,77,4,160,Nagaland
+06-Jun-21,7002,42,7358,Odisha
+06-Jun-21,640,15,1138,Puducherry
+06-Jun-21,1563,67,3790,Punjab
+06-Jun-21,904,25,3854,Rajasthan
+06-Jun-21,340,5,247,Sikkim
+06-Jun-21,0,0,0,State Unassigned
+06-Jun-21,20421,434,33161,Tamil Nadu
+06-Jun-21,1436,14,3614,Telangana
+06-Jun-21,101209,2444,174156,Total
+06-Jun-21,654,8,532,Tripura
+06-Jun-21,1037,101,2446,Uttar Pradesh
+06-Jun-21,446,35,1580,Uttarakhand
+06-Jun-21,7002,107,15882,West Bengal
+07-Jun-21,12,1,18,Andaman and Nicobar Islands
+07-Jun-21,4872,86,13702,Andhra Pradesh
+07-Jun-21,360,0,513,Arunachal Pradesh
+07-Jun-21,3804,37,4613,Assam
+07-Jun-21,762,43,1196,Bihar
+07-Jun-21,48,2,139,Chandigarh
+07-Jun-21,1285,26,3449,Chhattisgarh
+07-Jun-21,1,0,11,Dadra and Nagar Haveli and Daman and Diu
+07-Jun-21,0,0,0,Daman and Diu
+07-Jun-21,231,36,876,Delhi
+07-Jun-21,418,80,1095,Goa
+07-Jun-21,778,11,2613,Gujarat
+07-Jun-21,640,39,1674,Haryana
+07-Jun-21,656,18,1444,Himachal Pradesh
+07-Jun-21,977,16,4178,Jammu and Kashmir
+07-Jun-21,358,6,726,Jharkhand
+07-Jun-21,11958,340,27299,Karnataka
+07-Jun-21,9313,211,22263,Kerala
+07-Jun-21,61,0,139,Ladakh
+07-Jun-21,38,3,195,Lakshadweep
+07-Jun-21,571,32,1782,Madhya Pradesh
+07-Jun-21,10219,340,21081,Maharashtra
+07-Jun-21,598,15,783,Manipur
+07-Jun-21,438,5,689,Meghalaya
+07-Jun-21,112,2,208,Mizoram
+07-Jun-21,145,3,169,Nagaland
+07-Jun-21,6118,41,8429,Odisha
+07-Jun-21,482,10,1196,Puducherry
+07-Jun-21,1269,84,3350,Punjab
+07-Jun-21,629,31,3429,Rajasthan
+07-Jun-21,59,0,384,Sikkim
+07-Jun-21,0,0,0,State Unassigned
+07-Jun-21,19448,351,31360,Tamil Nadu
+07-Jun-21,1933,16,3527,Telangana
+07-Jun-21,85804,2107,182866,Total
+07-Jun-21,235,6,789,Tripura
+07-Jun-21,694,81,2860,Uttar Pradesh
+07-Jun-21,395,32,2335,Uttarakhand
+07-Jun-21,5887,103,14352,West Bengal
+08-Jun-21,23,2,23,Andaman and Nicobar Islands
+08-Jun-21,7796,77,14641,Andhra Pradesh
+08-Jun-21,304,1,438,Arunachal Pradesh
+08-Jun-21,3948,43,3419,Assam
+08-Jun-21,711,34,1010,Bihar
+08-Jun-21,71,5,121,Chandigarh
+08-Jun-21,1102,14,2707,Chhattisgarh
+08-Jun-21,8,0,34,Dadra and Nagar Haveli and Daman and Diu
+08-Jun-21,0,0,0,Daman and Diu
+08-Jun-21,316,41,521,Delhi
+08-Jun-21,473,19,952,Goa
+08-Jun-21,695,11,2122,Gujarat
+08-Jun-21,635,38,1090,Haryana
+08-Jun-21,596,13,1155,Himachal Pradesh
+08-Jun-21,1184,11,2880,Jammu and Kashmir
+08-Jun-21,603,13,803,Jharkhand
+08-Jun-21,9808,179,23449,Karnataka
+08-Jun-21,15567,124,20019,Kerala
+08-Jun-21,72,0,142,Ladakh
+08-Jun-21,99,1,53,Lakshadweep
+08-Jun-21,535,36,1376,Madhya Pradesh
+08-Jun-21,10891,702,16577,Maharashtra
+08-Jun-21,748,12,579,Manipur
+08-Jun-21,379,9,773,Meghalaya
+08-Jun-21,315,2,216,Mizoram
+08-Jun-21,133,3,153,Nagaland
+08-Jun-21,5896,45,8836,Odisha
+08-Jun-21,545,6,938,Puducherry
+08-Jun-21,1252,59,2642,Punjab
+08-Jun-21,529,32,2617,Rajasthan
+08-Jun-21,255,2,214,Sikkim
+08-Jun-21,0,0,0,State Unassigned
+08-Jun-21,18023,409,31045,Tamil Nadu
+08-Jun-21,1897,15,2982,Telangana
+08-Jun-21,92787,2222,162356,Total
+08-Jun-21,700,8,595,Tripura
+08-Jun-21,705,92,2227,Uttar Pradesh
+08-Jun-21,546,66,2717,Uttarakhand
+08-Jun-21,5427,98,12290,West Bengal
+09-Jun-21,14,0,17,Andaman and Nicobar Islands
+09-Jun-21,8766,67,12292,Andhra Pradesh
+09-Jun-21,247,2,279,Arunachal Pradesh
+09-Jun-21,3751,55,4355,Assam
+09-Jun-21,589,3971,-2837,Bihar
+09-Jun-21,84,2,118,Chandigarh
+09-Jun-21,954,14,2298,Chhattisgarh
+09-Jun-21,11,0,39,Dadra and Nagar Haveli and Daman and Diu
+09-Jun-21,0,0,0,Daman and Diu
+09-Jun-21,337,36,752,Delhi
+09-Jun-21,456,18,547,Goa
+09-Jun-21,644,10,1675,Gujarat
+09-Jun-21,528,40,940,Haryana
+09-Jun-21,554,15,839,Himachal Pradesh
+09-Jun-21,1098,17,3046,Jammu and Kashmir
+09-Jun-21,302,3,615,Jharkhand
+09-Jun-21,10959,192,20246,Karnataka
+09-Jun-21,16204,156,20237,Kerala
+09-Jun-21,55,0,71,Ladakh
+09-Jun-21,128,0,231,Lakshadweep
+09-Jun-21,453,36,1329,Madhya Pradesh
+09-Jun-21,10989,661,16379,Maharashtra
+09-Jun-21,775,7,602,Manipur
+09-Jun-21,448,16,507,Meghalaya
+09-Jun-21,202,1,122,Mizoram
+09-Jun-21,186,3,965,Nagaland
+09-Jun-21,6019,43,8032,Odisha
+09-Jun-21,642,4,932,Puducherry
+09-Jun-21,1393,74,2521,Punjab
+09-Jun-21,520,30,2282,Rajasthan
+09-Jun-21,231,1,371,Sikkim
+09-Jun-21,0,0,0,State Unassigned
+09-Jun-21,17321,405,31253,Tamil Nadu
+09-Jun-21,1813,17,1801,Telangana
+09-Jun-21,93883,6139,149022,Total
+09-Jun-21,625,5,861,Tripura
+09-Jun-21,688,91,1705,Uttar Pradesh
+09-Jun-21,513,52,3088,Uttarakhand
+09-Jun-21,5384,95,10512,West Bengal
+10-Jun-21,29,0,21,Andaman and Nicobar Islands
+10-Jun-21,8110,67,12981,Andhra Pradesh
+10-Jun-21,245,5,302,Arunachal Pradesh
+10-Jun-21,3756,51,5123,Assam
+10-Jun-21,551,23,985,Bihar
+10-Jun-21,66,2,132,Chandigarh
+10-Jun-21,1034,14,1858,Chhattisgarh
+10-Jun-21,10,0,15,Dadra and Nagar Haveli and Daman and Diu
+10-Jun-21,0,0,0,Daman and Diu
+10-Jun-21,305,44,560,Delhi
+10-Jun-21,413,14,584,Goa
+10-Jun-21,544,11,1505,Gujarat
+10-Jun-21,539,32,1221,Haryana
+10-Jun-21,533,17,862,Himachal Pradesh
+10-Jun-21,1117,25,2363,Jammu and Kashmir
+10-Jun-21,293,5,557,Jharkhand
+10-Jun-21,11042,194,15721,Karnataka
+10-Jun-21,14424,194,17994,Kerala
+10-Jun-21,90,2,160,Ladakh
+10-Jun-21,71,0,137,Lakshadweep
+10-Jun-21,420,34,1132,Madhya Pradesh
+10-Jun-21,12207,1915,11449,Maharashtra
+10-Jun-21,730,10,668,Manipur
+10-Jun-21,603,10,427,Meghalaya
+10-Jun-21,337,3,213,Mizoram
+10-Jun-21,113,6,117,Nagaland
+10-Jun-21,6097,44,8299,Odisha
+10-Jun-21,507,9,646,Puducherry
+10-Jun-21,1311,74,2337,Punjab
+10-Jun-21,538,23,2268,Rajasthan
+10-Jun-21,287,3,113,Sikkim
+10-Jun-21,0,0,0,State Unassigned
+10-Jun-21,16813,358,32049,Tamil Nadu
+10-Jun-21,1798,14,2524,Telangana
+10-Jun-21,91849,3414,135329,Total
+10-Jun-21,658,14,363,Tripura
+10-Jun-21,596,81,1231,Uttar Pradesh
+10-Jun-21,388,29,3242,Uttarakhand
+10-Jun-21,5274,87,5170,West Bengal
+11-Jun-21,36,0,11,Andaman and Nicobar Islands
+11-Jun-21,8239,61,11135,Andhra Pradesh
+11-Jun-21,358,5,288,Arunachal Pradesh
+11-Jun-21,3666,29,5241,Assam
+11-Jun-21,566,14,1099,Bihar
+11-Jun-21,70,3,84,Chandigarh
+11-Jun-21,741,15,2069,Chhattisgarh
+11-Jun-21,8,0,20,Dadra and Nagar Haveli and Daman and Diu
+11-Jun-21,0,0,0,Daman and Diu
+11-Jun-21,238,24,504,Delhi
+11-Jun-21,423,8,819,Goa
+11-Jun-21,481,9,1526,Gujarat
+11-Jun-21,463,43,1036,Haryana
+11-Jun-21,505,7,957,Himachal Pradesh
+11-Jun-21,906,17,1885,Jammu and Kashmir
+11-Jun-21,291,1,584,Jharkhand
+11-Jun-21,8249,159,14973,Karnataka
+11-Jun-21,14233,173,15355,Kerala
+11-Jun-21,31,0,88,Ladakh
+11-Jun-21,49,1,104,Lakshadweep
+11-Jun-21,397,35,1240,Madhya Pradesh
+11-Jun-21,11766,2619,8104,Maharashtra
+11-Jun-21,687,19,1105,Manipur
+11-Jun-21,514,10,526,Meghalaya
+11-Jun-21,210,0,254,Mizoram
+11-Jun-21,116,4,209,Nagaland
+11-Jun-21,5235,43,8516,Odisha
+11-Jun-21,429,11,967,Puducherry
+11-Jun-21,1201,68,2071,Punjab
+11-Jun-21,446,27,1475,Rajasthan
+11-Jun-21,147,2,277,Sikkim
+11-Jun-21,0,0,0,State Unassigned
+11-Jun-21,15759,378,29243,Tamil Nadu
+11-Jun-21,1707,16,2493,Telangana
+11-Jun-21,84574,3996,122685,Total
+11-Jun-21,641,5,850,Tripura
+11-Jun-21,596,70,1642,Uttar Pradesh
+11-Jun-21,287,31,1614,Uttarakhand
+11-Jun-21,4883,89,4321,West Bengal
+12-Jun-21,10,1,12,Andaman and Nicobar Islands
+12-Jun-21,6952,58,11577,Andhra Pradesh
+12-Jun-21,298,5,380,Arunachal Pradesh
+12-Jun-21,3463,42,5600,Assam
+12-Jun-21,432,18,1062,Bihar
+12-Jun-21,58,3,79,Chandigarh
+12-Jun-21,813,11,1652,Chhattisgarh
+12-Jun-21,5,0,15,Dadra and Nagar Haveli and Daman and Diu
+12-Jun-21,0,0,0,Daman and Diu
+12-Jun-21,213,28,497,Delhi
+12-Jun-21,472,15,601,Goa
+12-Jun-21,490,6,1278,Gujarat
+12-Jun-21,426,45,944,Haryana
+12-Jun-21,370,17,831,Himachal Pradesh
+12-Jun-21,866,14,2153,Jammu and Kashmir
+12-Jun-21,239,0,493,Jharkhand
+12-Jun-21,9785,144,21614,Karnataka
+12-Jun-21,13832,171,18172,Kerala
+12-Jun-21,38,0,88,Ladakh
+12-Jun-21,53,0,101,Lakshadweep
+12-Jun-21,334,21,985,Madhya Pradesh
+12-Jun-21,10697,1966,14910,Maharashtra
+12-Jun-21,554,15,751,Manipur
+12-Jun-21,501,13,610,Meghalaya
+12-Jun-21,178,1,187,Mizoram
+12-Jun-21,96,3,235,Nagaland
+12-Jun-21,4852,47,7578,Odisha
+12-Jun-21,442,9,844,Puducherry
+12-Jun-21,961,68,2135,Punjab
+12-Jun-21,368,16,975,Rajasthan
+12-Jun-21,167,0,292,Sikkim
+12-Jun-21,0,0,0,State Unassigned
+12-Jun-21,15108,374,27463,Tamil Nadu
+12-Jun-21,1771,13,2384,Telangana
+12-Jun-21,80525,3300,132664,Total
+12-Jun-21,428,8,565,Tripura
+12-Jun-21,504,68,1757,Uttar Pradesh
+12-Jun-21,463,19,695,Uttarakhand
+12-Jun-21,4286,81,3149,West Bengal
+13-Jun-21,18,0,29,Andaman and Nicobar Islands
+13-Jun-21,6770,58,12492,Andhra Pradesh
+13-Jun-21,134,2,434,Arunachal Pradesh
+13-Jun-21,2167,36,5403,Assam
+13-Jun-21,487,8,868,Bihar
+13-Jun-21,54,3,71,Chandigarh
+13-Jun-21,459,6,1858,Chhattisgarh
+13-Jun-21,0,0,17,Dadra and Nagar Haveli and Daman and Diu
+13-Jun-21,0,0,0,Daman and Diu
+13-Jun-21,255,23,376,Delhi
+13-Jun-21,420,14,581,Goa
+13-Jun-21,455,6,1063,Gujarat
+13-Jun-21,339,43,821,Haryana
+13-Jun-21,237,7,855,Himachal Pradesh
+13-Jun-21,774,12,1965,Jammu and Kashmir
+13-Jun-21,154,2,723,Jharkhand
+13-Jun-21,7810,125,18646,Karnataka
+13-Jun-21,11584,206,17856,Kerala
+13-Jun-21,17,0,105,Ladakh
+13-Jun-21,34,1,72,Lakshadweep
+13-Jun-21,277,21,780,Madhya Pradesh
+13-Jun-21,10442,2771,7504,Maharashtra
+13-Jun-21,530,15,726,Manipur
+13-Jun-21,305,6,547,Meghalaya
+13-Jun-21,345,1,203,Mizoram
+13-Jun-21,82,5,204,Nagaland
+13-Jun-21,4469,45,7733,Odisha
+13-Jun-21,402,7,809,Puducherry
+13-Jun-21,956,59,1980,Punjab
+13-Jun-21,308,7,1260,Rajasthan
+13-Jun-21,157,0,387,Sikkim
+13-Jun-21,0,0,0,State Unassigned
+13-Jun-21,14016,267,25895,Tamil Nadu
+13-Jun-21,1280,15,2261,Telangana
+13-Jun-21,71001,3922,119574,Total
+13-Jun-21,565,9,703,Tripura
+13-Jun-21,452,51,1221,Uttar Pradesh
+13-Jun-21,263,7,629,Uttarakhand
+13-Jun-21,3984,84,2497,West Bengal
+14-Jun-21,8,0,9,Andaman and Nicobar Islands
+14-Jun-21,4549,59,10114,Andhra Pradesh
+14-Jun-21,366,6,356,Arunachal Pradesh
+14-Jun-21,3678,43,4299,Assam
+14-Jun-21,324,13,851,Bihar
+14-Jun-21,50,2,61,Chandigarh
+14-Jun-21,600,17,1600,Chhattisgarh
+14-Jun-21,1,0,15,Dadra and Nagar Haveli and Daman and Diu
+14-Jun-21,0,0,0,Daman and Diu
+14-Jun-21,131,16,355,Delhi
+14-Jun-21,253,9,720,Goa
+14-Jun-21,405,6,1106,Gujarat
+14-Jun-21,268,40,812,Haryana
+14-Jun-21,326,7,664,Himachal Pradesh
+14-Jun-21,599,9,2139,Jammu and Kashmir
+14-Jun-21,151,1,483,Jharkhand
+14-Jun-21,6835,120,15409,Karnataka
+14-Jun-21,7719,161,16743,Kerala
+14-Jun-21,50,1,135,Ladakh
+14-Jun-21,27,0,82,Lakshadweep
+14-Jun-21,242,36,516,Madhya Pradesh
+14-Jun-21,8129,1592,14732,Maharashtra
+14-Jun-21,459,16,499,Manipur
+14-Jun-21,403,10,487,Meghalaya
+14-Jun-21,97,7,131,Mizoram
+14-Jun-21,109,3,405,Nagaland
+14-Jun-21,4339,44,8182,Odisha
+14-Jun-21,309,7,686,Puducherry
+14-Jun-21,622,40,1650,Punjab
+14-Jun-21,277,20,1231,Rajasthan
+14-Jun-21,36,0,281,Sikkim
+14-Jun-21,0,0,0,State Unassigned
+14-Jun-21,12772,254,25561,Tamil Nadu
+14-Jun-21,1511,12,2175,Telangana
+14-Jun-21,60008,2733,117376,Total
+14-Jun-21,235,7,610,Tripura
+14-Jun-21,313,72,1116,Uttar Pradesh
+14-Jun-21,296,25,990,Uttarakhand
+14-Jun-21,3519,78,2171,West Bengal
