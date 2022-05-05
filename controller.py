@@ -5,15 +5,15 @@ import numpy as np
 from datetime import datetime
 
 DATA_URL = (
-"C:/Users/acer1/Documents/Self-Learning/Covid-Data-Visualization-master/state_level_daily.csv"
+"D:/Covid-Data-Visualization/state_level_daily.csv"
 )
 
 DISTRICT_DATA_URL = (
-"C:/Users/acer1/Documents/Self-Learning/Covid-Data-Visualization-master/district_level.csv"
+"D:/Covid-Data-Visualization/district_level.csv"
 )
 
 TEST_DATA_URL = (
-"C:/Users/acer1/Documents/Self-Learning/Covid-Data-Visualization-master/state_level_tested_daily.csv"
+"D:/Covid-Data-Visualization/state_level_tested_daily.csv"
 )
 
 @st.cache(persist=True)
